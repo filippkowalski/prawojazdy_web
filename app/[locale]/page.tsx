@@ -1,7 +1,10 @@
+'use client';
+
 import Link from 'next/link';
 import Image from 'next/image';
 import { Locale } from '@/lib/types';
-import { getCategories, getAllQuestions } from '@/lib/database';
+import { BookOpen, Trophy, Target, CheckCircle2 } from 'lucide-react';
+import { use } from 'react';
 
 interface Props {
   params: Promise<{ locale: string }>;
@@ -9,75 +12,119 @@ interface Props {
 
 const locales: Locale[] = ['pl', 'en', 'uk', 'de'];
 
-/**
- * Generate static params for all supported locales
- */
-export async function generateStaticParams() {
-  return locales.map((locale) => ({
-    locale,
-  }));
-}
+// Background images for animated showcase
+const drivingImages = [
+  "/landing/road_signs_bg.png",
+  "/landing/categories_bg.png",
+  "/landing/exam_bg.png",
+  "/landing/before_exam_bg.png",
+  "/landing/road_rules_bg.png",
+  "/landing/saved_bg.png",
+  "/landing/survival_bg.png",
+  "/landing/wrong_bg.png",
+  "/landing/random_bg.png",
+];
 
 const translations = {
   pl: {
-    title: 'Prawo Jazdy - Testy Teoretyczne',
-    subtitle: 'Przygotuj się do egzaminu na prawo jazdy z naszą aplikacją',
-    description: 'Ponad 3,000 aktualnych pytań egzaminacyjnych. Ucz się w dowolnym miejscu i czasie.',
-    features: [
-      { title: 'Pytania według kategorii', description: '14+ kategorii tematycznych' },
-      { title: 'Egzamin teoretyczny', description: 'Symulacja prawdziwego egzaminu' },
-      { title: 'Tryb przetrwania', description: 'Odpowiadaj dopóki nie popełnisz błędu' },
-      { title: 'Statystyki', description: 'Śledź swój postęp' },
-    ],
-    downloadApp: 'Pobierz aplikację mobilną',
-    browseQuestions: 'Przeglądaj pytania',
-    questionsAvailable: 'pytań dostępnych',
-    categoriesAvailable: 'kategorii tematycznych',
+    badge: 'Oficjalne pytania 2025',
+    title: 'Zdaj na prawo jazdy',
+    subtitle: 'za pierwszym razem',
+    description: 'Przygotuj się do egzaminu na prawo jazdy z ponad 3,000 oficjalnych pytań. Ucz się w dowolnym miejscu i czasie.',
+    cta: 'Przeglądaj pytania',
+    downloadApp: 'Pobierz aplikację',
+    or: 'lub',
+    features: {
+      learn: 'Ucz się',
+      learnDesc: '3,392 oficjalnych pytań',
+      practice: 'Ćwicz',
+      practiceDesc: 'Symulacje egzaminu',
+      pass: 'Zdaj',
+      passDesc: 'Śledź postęp',
+    },
+    stats: {
+      questions: '3,392',
+      questionsLabel: 'Oficjalnych pytań 2025',
+      categories: '30+',
+      categoriesLabel: 'Kategorii tematycznych',
+      languages: '4',
+      languagesLabel: 'Języków dostępnych',
+    },
   },
   en: {
-    title: 'Polish Driving License Tests',
-    subtitle: 'Prepare for your driving theory exam with our app',
-    description: 'Over 3,000 current exam questions. Learn anywhere, anytime.',
-    features: [
-      { title: 'Questions by category', description: '14+ thematic categories' },
-      { title: 'Theory exam', description: 'Official exam simulation' },
-      { title: 'Survival mode', description: 'Answer until you make a mistake' },
-      { title: 'Statistics', description: 'Track your progress' },
-    ],
-    downloadApp: 'Download mobile app',
-    browseQuestions: 'Browse questions',
-    questionsAvailable: 'questions available',
-    categoriesAvailable: 'thematic categories',
+    badge: 'Official 2025 Questions',
+    title: 'Pass your driving test',
+    subtitle: 'on the first try',
+    description: 'Prepare for your Polish driving license exam with 3,000+ official questions. Learn anywhere, anytime.',
+    cta: 'Browse questions',
+    downloadApp: 'Download App',
+    or: 'or',
+    features: {
+      learn: 'Learn',
+      learnDesc: '3,392 official questions',
+      practice: 'Practice',
+      practiceDesc: 'Exam simulations',
+      pass: 'Pass',
+      passDesc: 'Track progress',
+    },
+    stats: {
+      questions: '3,392',
+      questionsLabel: 'Official 2025 Questions',
+      categories: '30+',
+      categoriesLabel: 'Topic Categories',
+      languages: '4',
+      languagesLabel: 'Languages Available',
+    },
   },
   uk: {
-    title: 'Польські водійські права - Тести',
-    subtitle: 'Підготуйтеся до теоретичного іспиту з нашим додатком',
-    description: 'Понад 3,000 актуальних екзаменаційних питань. Навчайтеся будь-де та будь-коли.',
-    features: [
-      { title: 'Питання за категоріями', description: '14+ тематичних категорій' },
-      { title: 'Теоретичний іспит', description: 'Симуляція справжнього іспиту' },
-      { title: 'Режим виживання', description: 'Відповідайте, поки не зробите помилку' },
-      { title: 'Статистика', description: 'Відстежуйте свій прогрес' },
-    ],
-    downloadApp: 'Завантажити мобільний додаток',
-    browseQuestions: 'Переглянути питання',
-    questionsAvailable: 'доступних питань',
-    categoriesAvailable: 'тематичних категорій',
+    badge: 'Офіційні питання 2025',
+    title: 'Здай на права',
+    subtitle: 'з першого разу',
+    description: 'Підготуйся до іспиту на водійські права з понад 3,000 офіційних питань. Навчайся будь-де та будь-коли.',
+    cta: 'Переглянути питання',
+    downloadApp: 'Завантажити додаток',
+    or: 'або',
+    features: {
+      learn: 'Вчитися',
+      learnDesc: '3,392 офіційних питань',
+      practice: 'Практикувати',
+      practiceDesc: 'Симуляції іспиту',
+      pass: 'Скласти',
+      passDesc: 'Відстежувати прогрес',
+    },
+    stats: {
+      questions: '3,392',
+      questionsLabel: 'Офіційні питання 2025',
+      categories: '30+',
+      categoriesLabel: 'Тематичних категорій',
+      languages: '4',
+      languagesLabel: 'Доступних мов',
+    },
   },
   de: {
-    title: 'Polnischer Führerschein - Theorietests',
-    subtitle: 'Bereiten Sie sich mit unserer App auf die Theorieprüfung vor',
-    description: 'Über 3.000 aktuelle Prüfungsfragen. Lernen Sie überall und jederzeit.',
-    features: [
-      { title: 'Fragen nach Kategorie', description: '14+ thematische Kategorien' },
-      { title: 'Theorieprüfung', description: 'Offizielle Prüfungssimulation' },
-      { title: 'Überlebensmodus', description: 'Antworten Sie, bis Sie einen Fehler machen' },
-      { title: 'Statistiken', description: 'Verfolgen Sie Ihren Fortschritt' },
-    ],
-    downloadApp: 'Mobile App herunterladen',
-    browseQuestions: 'Fragen durchsuchen',
-    questionsAvailable: 'verfügbare Fragen',
-    categoriesAvailable: 'thematische Kategorien',
+    badge: 'Offizielle Fragen 2025',
+    title: 'Bestehe deine Fahrprüfung',
+    subtitle: 'beim ersten Versuch',
+    description: 'Bereite dich auf die polnische Führerscheinprüfung mit über 3.000 offiziellen Fragen vor. Lerne überall und jederzeit.',
+    cta: 'Fragen durchsuchen',
+    downloadApp: 'App herunterladen',
+    or: 'oder',
+    features: {
+      learn: 'Lernen',
+      learnDesc: '3.392 offizielle Fragen',
+      practice: 'Üben',
+      practiceDesc: 'Prüfungssimulationen',
+      pass: 'Bestehen',
+      passDesc: 'Fortschritt verfolgen',
+    },
+    stats: {
+      questions: '3.392',
+      questionsLabel: 'Offizielle Fragen 2025',
+      categories: '30+',
+      categoriesLabel: 'Themenkategorien',
+      languages: '4',
+      languagesLabel: 'Verfügbare Sprachen',
+    },
   },
 };
 
@@ -88,30 +135,107 @@ const localeNames = {
   de: 'Deutsch',
 };
 
-export default async function LocaleHomePage({ params }: Props) {
-  const { locale } = await params;
+export default function LocaleHomePage({ params }: Props) {
+  const { locale } = use(params);
   const t = translations[locale as Locale] || translations.pl;
 
-  // Get question and category counts
-  const [categories, questions] = await Promise.all([
-    getCategories(locale as Locale),
-    getAllQuestions(locale as Locale),
-  ]);
-
   return (
-    <div className="min-h-screen bg-gradient-to-b from-zinc-50 to-white dark:from-zinc-950 dark:to-black">
-      {/* Language Selector */}
-      <div className="border-b border-zinc-200 dark:border-zinc-800">
-        <div className="container mx-auto px-4 py-3">
-          <div className="flex justify-end gap-2">
-            {(['pl', 'en', 'uk', 'de'] as Locale[]).map((loc) => (
+    <main className="min-h-screen bg-background">
+      {/* Hero Section with Animated Background */}
+      <section className="relative overflow-hidden border-b border-zinc-200 dark:border-zinc-800">
+        {/* Animated grid background */}
+        <div className="absolute inset-0 overflow-hidden opacity-60 dark:opacity-40">
+          {/* Row 1 - Moving right */}
+          <div className="flex gap-4 py-2 animate-scroll-right">
+            {[...drivingImages.slice(0, 3), ...drivingImages.slice(0, 3), ...drivingImages.slice(0, 3)].map((img, i) => (
+              <div
+                key={`row1-${i}`}
+                className="relative h-32 w-48 flex-shrink-0 rounded-xl overflow-hidden"
+                style={{ transform: `rotate(${[2, -3, 1, -2, 3, -1, 2, -3, 1][i % 9]}deg)` }}
+              >
+                <Image
+                  src={img}
+                  alt=""
+                  fill
+                  className="object-cover"
+                  sizes="192px"
+                />
+              </div>
+            ))}
+          </div>
+
+          {/* Row 2 - Moving left */}
+          <div className="flex gap-4 py-2 animate-scroll-left">
+            {[...drivingImages.slice(3, 6), ...drivingImages.slice(3, 6), ...drivingImages.slice(3, 6)].map((img, i) => (
+              <div
+                key={`row2-${i}`}
+                className="relative h-32 w-48 flex-shrink-0 rounded-xl overflow-hidden"
+                style={{ transform: `rotate(${[-2, 3, -1, 2, -3, 1, -2, 3, -1][i % 9]}deg)` }}
+              >
+                <Image
+                  src={img}
+                  alt=""
+                  fill
+                  className="object-cover"
+                  sizes="192px"
+                />
+              </div>
+            ))}
+          </div>
+
+          {/* Row 3 - Moving right slow */}
+          <div className="flex gap-4 py-2 animate-scroll-right-slow">
+            {[...drivingImages.slice(6, 9), ...drivingImages.slice(0, 3), ...drivingImages.slice(6, 9)].map((img, i) => (
+              <div
+                key={`row3-${i}`}
+                className="relative h-32 w-48 flex-shrink-0 rounded-xl overflow-hidden"
+                style={{ transform: `rotate(${[3, -2, 2, -1, 3, -3, 1, -2, 2][i % 9]}deg)` }}
+              >
+                <Image
+                  src={img}
+                  alt=""
+                  fill
+                  className="object-cover"
+                  sizes="192px"
+                />
+              </div>
+            ))}
+          </div>
+
+          {/* Row 4 - Moving left slow */}
+          <div className="flex gap-4 py-2 animate-scroll-left-slow">
+            {[...drivingImages.slice(2, 5), ...drivingImages.slice(2, 5), ...drivingImages.slice(2, 5)].map((img, i) => (
+              <div
+                key={`row4-${i}`}
+                className="relative h-32 w-48 flex-shrink-0 rounded-xl overflow-hidden"
+                style={{ transform: `rotate(${[-1, 2, -3, 3, -2, 1, -3, 2, -1][i % 9]}deg)` }}
+              >
+                <Image
+                  src={img}
+                  alt=""
+                  fill
+                  className="object-cover"
+                  sizes="192px"
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Gradient overlay */}
+        <div className="absolute inset-0 bg-gradient-to-b from-white/60 via-white/70 to-white/90 dark:from-zinc-950/60 dark:via-zinc-950/70 dark:to-zinc-950/90" />
+
+        {/* Language Selector - Above Content */}
+        <div className="absolute top-0 right-0 z-20 p-4">
+          <div className="flex gap-2">
+            {locales.map((loc) => (
               <Link
                 key={loc}
                 href={`/${loc}`}
-                className={`px-3 py-1 rounded text-sm transition-colors ${
+                className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-all ${
                   loc === locale
-                    ? 'bg-zinc-900 text-white dark:bg-zinc-100 dark:text-black'
-                    : 'bg-zinc-100 text-zinc-900 hover:bg-zinc-200 dark:bg-zinc-800 dark:text-zinc-100 dark:hover:bg-zinc-700'
+                    ? 'bg-zinc-900 text-white dark:bg-zinc-100 dark:text-black shadow-lg'
+                    : 'bg-white/80 text-zinc-700 hover:bg-white dark:bg-zinc-900/80 dark:text-zinc-300 dark:hover:bg-zinc-900 backdrop-blur-sm'
                 }`}
               >
                 {localeNames[loc]}
@@ -119,123 +243,170 @@ export default async function LocaleHomePage({ params }: Props) {
             ))}
           </div>
         </div>
-      </div>
 
-      {/* Hero Section */}
-      <div className="container mx-auto px-4 py-16 lg:py-24">
-        <div className="max-w-4xl mx-auto text-center">
-          <h1 className="text-4xl lg:text-6xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-6">
-            {t.title}
-          </h1>
-          <p className="text-xl lg:text-2xl text-zinc-600 dark:text-zinc-400 mb-8">
-            {t.subtitle}
-          </p>
-          <p className="text-lg text-zinc-500 dark:text-zinc-500 mb-12">
-            {t.description}
-          </p>
-
-          {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
-            <Link
-              href={`/${locale}/questions`}
-              className="px-8 py-4 bg-zinc-900 text-white rounded-lg font-semibold hover:bg-zinc-800 transition-colors dark:bg-zinc-100 dark:text-black dark:hover:bg-zinc-200"
-            >
-              {t.browseQuestions}
-            </Link>
-          </div>
-
-          {/* Stats */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 mb-16">
-            <div className="p-6 bg-white dark:bg-zinc-900 rounded-xl border border-zinc-200 dark:border-zinc-800">
-              <div className="text-4xl font-bold text-zinc-900 dark:text-zinc-50 mb-2">
-                {questions.length.toLocaleString()}
-              </div>
-              <div className="text-zinc-600 dark:text-zinc-400">
-                {t.questionsAvailable}
+        {/* Hero Content */}
+        <div className="container relative mx-auto flex min-h-[85vh] flex-col items-center justify-center px-4 py-24 text-center md:px-6 md:py-32">
+          <div className="mx-auto max-w-4xl space-y-6 md:space-y-10 bg-white/95 dark:bg-zinc-900/95 backdrop-blur-lg rounded-3xl px-6 py-12 md:px-12 md:py-16 shadow-2xl border border-zinc-200/50 dark:border-zinc-800/50">
+            {/* Badge */}
+            <div className="animate-fade-in-up opacity-0" style={{ animationDelay: '0s', animationFillMode: 'forwards' }}>
+              <div className="inline-flex items-center gap-2 px-4 py-2 bg-zinc-100 dark:bg-zinc-800 rounded-full text-sm font-medium">
+                <CheckCircle2 className="h-4 w-4 text-green-600 dark:text-green-400" />
+                <span className="text-zinc-900 dark:text-zinc-100">{t.badge}</span>
               </div>
             </div>
-            <div className="p-6 bg-white dark:bg-zinc-900 rounded-xl border border-zinc-200 dark:border-zinc-800">
-              <div className="text-4xl font-bold text-zinc-900 dark:text-zinc-50 mb-2">
-                {categories.length}
+
+            {/* Main Heading */}
+            <div className="space-y-4 md:space-y-6 animate-fade-in-up opacity-0" style={{ animationDelay: '0.1s', animationFillMode: 'forwards' }}>
+              <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-[1.15] tracking-tight text-zinc-900 dark:text-zinc-50">
+                {t.title}{' '}
+                <span className="relative inline-block">
+                  <span className="relative z-10">{t.subtitle}</span>
+                  <span className="absolute -bottom-2 left-0 h-3 w-full -rotate-1 bg-yellow-400/40 dark:bg-yellow-500/30" />
+                </span>
+              </h1>
+              <p className="mx-auto max-w-2xl text-base sm:text-lg md:text-xl leading-relaxed text-zinc-600 dark:text-zinc-400 px-4">
+                {t.description}
+              </p>
+            </div>
+
+            {/* CTA Buttons */}
+            <div className="flex flex-col items-center gap-4 pt-2 md:pt-4 animate-fade-in-up opacity-0" style={{ animationDelay: '0.2s', animationFillMode: 'forwards' }}>
+              <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+                <a
+                  href="https://apps.apple.com/us/app/polish-driving-license-tests/id6469685187"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block transition-transform hover:scale-105"
+                >
+                  <Image
+                    src="/badges/app-store-badge.svg"
+                    alt="Download on the App Store"
+                    width={180}
+                    height={60}
+                    className="h-[54px] w-auto"
+                  />
+                </a>
+                <a
+                  href="https://play.google.com/store/apps/details?id=com.ski.prawojazdy.prawojazdy"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block transition-transform hover:scale-105"
+                >
+                  <Image
+                    src="/badges/google-play-badge.png"
+                    alt="Get it on Google Play"
+                    width={180}
+                    height={60}
+                    className="h-[70px] w-auto"
+                  />
+                </a>
               </div>
-              <div className="text-zinc-600 dark:text-zinc-400">
-                {t.categoriesAvailable}
+
+              {/* Divider */}
+              <div className="relative w-full max-w-xs">
+                <div className="absolute inset-0 flex items-center">
+                  <div className="w-full border-t border-zinc-200 dark:border-zinc-800"></div>
+                </div>
+                <div className="relative flex justify-center text-xs uppercase">
+                  <span className="bg-white/95 dark:bg-zinc-900/95 px-3 text-zinc-500 dark:text-zinc-500">{t.or}</span>
+                </div>
               </div>
+
+              {/* Browse Questions Button */}
+              <Link
+                href={`/${locale}/questions`}
+                className="px-8 py-4 bg-zinc-900 dark:bg-zinc-100 text-white dark:text-black text-lg font-semibold rounded-2xl hover:bg-zinc-800 dark:hover:bg-zinc-200 transition-all hover:scale-105 shadow-lg"
+              >
+                {t.cta}
+              </Link>
             </div>
           </div>
         </div>
-      </div>
+      </section>
 
       {/* Features Section */}
-      <div className="container mx-auto px-4 py-16 lg:py-24">
-        <div className="max-w-6xl mx-auto">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            {t.features.map((feature, index) => (
-              <div
-                key={index}
-                className="p-6 bg-white dark:bg-zinc-900 rounded-xl border border-zinc-200 dark:border-zinc-800"
-              >
-                <h3 className="text-lg font-semibold text-zinc-900 dark:text-zinc-50 mb-2">
-                  {feature.title}
-                </h3>
-                <p className="text-zinc-600 dark:text-zinc-400 text-sm">
-                  {feature.description}
-                </p>
+      <section className="border-b border-zinc-200 dark:border-zinc-800 bg-zinc-50 dark:bg-zinc-900/30">
+        <div className="container mx-auto px-4 py-16 md:py-24">
+          <div className="mx-auto grid max-w-5xl gap-8 md:grid-cols-3 md:gap-12">
+            {/* Learn */}
+            <div className="group space-y-4 text-center">
+              <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-2xl bg-blue-50 dark:bg-blue-900/20 transition-all group-hover:scale-110 group-hover:bg-blue-100 dark:group-hover:bg-blue-900/30">
+                <BookOpen className="h-8 w-8 text-blue-600 dark:text-blue-400" />
               </div>
-            ))}
-          </div>
-        </div>
-      </div>
+              <h3 className="text-xl font-bold text-zinc-900 dark:text-zinc-50">{t.features.learn}</h3>
+              <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                {t.features.learnDesc}
+              </p>
+            </div>
 
-      {/* Download Section */}
-      <div className="container mx-auto px-4 py-16 lg:py-24 border-t border-zinc-200 dark:border-zinc-800">
-        <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl font-bold text-zinc-900 dark:text-zinc-50 mb-8">
-            {t.downloadApp}
-          </h2>
-          <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
-            <a
-              href="https://apps.apple.com/us/app/polish-driving-license-tests/id6469685187"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="block transition-transform hover:scale-105"
-              style={{ height: '80px', display: 'flex', alignItems: 'center' }}
-            >
-              <Image
-                src="/badges/app-store-badge.svg"
-                alt="Download on the App Store"
-                width={240}
-                height={80}
-                className="h-[54px] w-auto"
-              />
-            </a>
-            <a
-              href="https://play.google.com/store/apps/details?id=com.ski.prawojazdy.prawojazdy"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="block transition-transform hover:scale-105"
-              style={{ height: '80px', display: 'flex', alignItems: 'center' }}
-            >
-              <Image
-                src="/badges/google-play-badge.png"
-                alt="Get it on Google Play"
-                width={240}
-                height={80}
-                className="h-[80px] w-auto"
-              />
-            </a>
+            {/* Practice */}
+            <div className="group space-y-4 text-center">
+              <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-2xl bg-purple-50 dark:bg-purple-900/20 transition-all group-hover:scale-110 group-hover:bg-purple-100 dark:group-hover:bg-purple-900/30">
+                <Target className="h-8 w-8 text-purple-600 dark:text-purple-400" />
+              </div>
+              <h3 className="text-xl font-bold text-zinc-900 dark:text-zinc-50">{t.features.practice}</h3>
+              <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                {t.features.practiceDesc}
+              </p>
+            </div>
+
+            {/* Pass */}
+            <div className="group space-y-4 text-center">
+              <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-2xl bg-green-50 dark:bg-green-900/20 transition-all group-hover:scale-110 group-hover:bg-green-100 dark:group-hover:bg-green-900/30">
+                <Trophy className="h-8 w-8 text-green-600 dark:text-green-400" />
+              </div>
+              <h3 className="text-xl font-bold text-zinc-900 dark:text-zinc-50">{t.features.pass}</h3>
+              <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
+                {t.features.passDesc}
+              </p>
+            </div>
           </div>
         </div>
-      </div>
+      </section>
+
+      {/* Stats Section */}
+      <section className="container mx-auto px-4 py-16 md:py-24">
+        <div className="mx-auto grid max-w-5xl gap-6 md:grid-cols-3">
+          {/* Questions */}
+          <div className="p-8 bg-white dark:bg-zinc-900 rounded-2xl border border-zinc-200 dark:border-zinc-800 text-center">
+            <div className="text-5xl font-bold text-zinc-900 dark:text-zinc-50 mb-3">
+              {t.stats.questions}
+            </div>
+            <div className="text-zinc-600 dark:text-zinc-400 font-medium">
+              {t.stats.questionsLabel}
+            </div>
+          </div>
+
+          {/* Categories */}
+          <div className="p-8 bg-white dark:bg-zinc-900 rounded-2xl border border-zinc-200 dark:border-zinc-800 text-center">
+            <div className="text-5xl font-bold text-zinc-900 dark:text-zinc-50 mb-3">
+              {t.stats.categories}
+            </div>
+            <div className="text-zinc-600 dark:text-zinc-400 font-medium">
+              {t.stats.categoriesLabel}
+            </div>
+          </div>
+
+          {/* Languages */}
+          <div className="p-8 bg-white dark:bg-zinc-900 rounded-2xl border border-zinc-200 dark:border-zinc-800 text-center">
+            <div className="text-5xl font-bold text-zinc-900 dark:text-zinc-50 mb-3">
+              {t.stats.languages}
+            </div>
+            <div className="text-zinc-600 dark:text-zinc-400 font-medium">
+              {t.stats.languagesLabel}
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* Footer */}
-      <footer className="border-t border-zinc-200 dark:border-zinc-800 mt-16">
-        <div className="container mx-auto px-4 py-8">
+      <footer className="border-t border-zinc-200 dark:border-zinc-800 py-8">
+        <div className="container mx-auto px-4">
           <p className="text-center text-zinc-600 dark:text-zinc-400 text-sm">
             © {new Date().getFullYear()} Prawo Jazdy. All rights reserved.
           </p>
         </div>
       </footer>
-    </div>
+    </main>
   );
 }

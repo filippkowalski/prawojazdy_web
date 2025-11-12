@@ -1,11 +1,50 @@
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { Locale } from '@/lib/types';
-import { getCategories, getQuestionsByCategory } from '@/lib/database';
 import { generateQuestionSlug, generateCategorySlug } from '@/lib/slugify';
-import { fixHtmlLinks } from '@/lib/html-utils';
+import { getCategories, getQuestionsByCategory } from '@/lib/database';
+import { QuestionsClientView } from '@/components/questions-client-view';
 
 interface Props {
   params: Promise<{ locale: string }>;
+  searchParams?: { [key: string]: string | string[] | undefined };
+}
+
+// Generate metadata for SEO
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale } = await params;
+
+  const metaData = {
+    pl: {
+      title: 'Wszystkie pytania egzaminacyjne na prawo jazdy 2025',
+      description: 'Przeglądaj wszystkie oficjalne pytania egzaminacyjne na prawo jazdy 2025. Filtruj według kategorii (B, A, C, D, T, AM, PT) i ćwicz za darmo.',
+    },
+    en: {
+      title: 'All Driving License Test Questions 2025',
+      description: 'Browse all official driving license test questions for 2025. Filter by category (B, A, C, D, T, AM, PT) and practice for free.',
+    },
+    uk: {
+      title: 'Всі екзаменаційні питання на водійські права 2025',
+      description: 'Перегляньте всі офіційні екзаменаційні питання на водійські права 2025. Фільтруйте за категорією (B, A, C, D, T, AM, PT) та практикуйте безкоштовно.',
+    },
+    de: {
+      title: 'Alle Führerschein-Prüfungsfragen 2025',
+      description: 'Durchsuchen Sie alle offiziellen Führerschein-Prüfungsfragen für 2025. Filtern Sie nach Klasse (B, A, C, D, T, AM, PT) und üben Sie kostenlos.',
+    },
+  };
+
+  const meta = metaData[locale as Locale] || metaData.pl;
+
+  return {
+    title: meta.title,
+    description: meta.description,
+    openGraph: {
+      title: meta.title,
+      description: meta.description,
+      type: 'website',
+      locale: locale,
+    },
+  };
 }
 
 const translations = {
@@ -14,132 +53,63 @@ const translations = {
     backToHome: 'Powrót do strony głównej',
     questions: 'pytań',
     viewAll: 'Zobacz wszystkie',
+    filterByLicense: 'Filtruj według kategorii prawa jazdy',
+    allLicenses: 'Pokazuje pytania dla wszystkich kategorii',
+    clearFilter: 'Wyczyść',
   },
   en: {
     title: 'All questions',
     backToHome: 'Back to home',
     questions: 'questions',
     viewAll: 'View all',
+    filterByLicense: 'Filter by license category',
+    allLicenses: 'Showing questions for all categories',
+    clearFilter: 'Clear',
   },
   uk: {
     title: 'Всі питання',
     backToHome: 'Повернутися на головну',
     questions: 'питань',
     viewAll: 'Переглянути всі',
+    filterByLicense: 'Фільтр за категорією прав',
+    allLicenses: 'Показано питання для всіх категорій',
+    clearFilter: 'Очистити',
   },
   de: {
     title: 'Alle Fragen',
     backToHome: 'Zurück zur Startseite',
     questions: 'Fragen',
     viewAll: 'Alle anzeigen',
+    filterByLicense: 'Nach Führerscheinklasse filtern',
+    allLicenses: 'Zeigt Fragen für alle Klassen',
+    clearFilter: 'Löschen',
   },
 };
 
+// Server component - fetches ALL data and passes to client component for filtering
 export default async function QuestionsIndexPage({ params }: Props) {
   const { locale } = await params;
   const t = translations[locale as Locale] || translations.pl;
 
-  // Get all categories with their questions
+  // Fetch ALL data server-side (no filtering here)
   const categories = await getCategories(locale as Locale);
-
-  // Get question count for each category
   const categoriesWithQuestions = await Promise.all(
     categories.map(async (category) => {
       const questions = await getQuestionsByCategory(locale as Locale, category.id);
+
       return {
         category,
-        questions: questions.slice(0, 5), // Show first 5 questions
+        questions,
         totalCount: questions.length,
       };
     })
   );
 
   return (
-    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950">
-      {/* Header */}
-      <div className="border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black">
-        <div className="container mx-auto px-4 py-6">
-          <Link
-            href={`/${locale}`}
-            className="text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block"
-          >
-            ← {t.backToHome}
-          </Link>
-          <h1 className="text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50">
-            {t.title}
-          </h1>
-        </div>
-      </div>
-
-      {/* Categories and Questions */}
-      <div className="container mx-auto px-4 py-8">
-        <div className="space-y-12">
-          {categoriesWithQuestions.map(({ category, questions, totalCount }) => (
-            <div key={category.id} className="bg-white dark:bg-zinc-900 rounded-xl p-6 border border-zinc-200 dark:border-zinc-800">
-              {/* Category Header */}
-              <div className="flex items-center justify-between mb-6">
-                <div>
-                  <h2 className="text-2xl font-bold text-zinc-900 dark:text-zinc-50">
-                    {category.name}
-                  </h2>
-                  <p className="text-sm text-zinc-600 dark:text-zinc-400 mt-1">
-                    {totalCount} {t.questions}
-                  </p>
-                </div>
-                <Link
-                  href={`/${locale}/categories/${generateCategorySlug(category.id, category.name)}`}
-                  className="px-4 py-2 text-sm font-medium text-zinc-900 dark:text-zinc-50 hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded-lg transition-colors"
-                >
-                  {t.viewAll} →
-                </Link>
-              </div>
-
-              {/* Question List */}
-              <div className="space-y-3">
-                {questions.map((question) => (
-                  <Link
-                    key={question.id}
-                    href={`/${locale}/questions/${generateQuestionSlug(question.id, question.question)}`}
-                    className="block p-4 rounded-lg border border-zinc-200 dark:border-zinc-800 hover:border-zinc-300 dark:hover:border-zinc-700 hover:bg-zinc-50 dark:hover:bg-zinc-800/50 transition-colors"
-                  >
-                    <div className="flex items-start gap-4">
-                      <div className="flex-shrink-0 w-8 h-8 rounded-full bg-zinc-100 dark:bg-zinc-800 flex items-center justify-center text-sm font-semibold text-zinc-900 dark:text-zinc-50">
-                        {question.points}
-                      </div>
-                      <div className="flex-1 min-w-0">
-                        <p className="text-zinc-900 dark:text-zinc-50 font-medium line-clamp-2">
-                          {question.question}
-                        </p>
-                        {question.description && (
-                          <div
-                            className="text-sm text-zinc-600 dark:text-zinc-400 mt-1 line-clamp-1 [&_a]:text-blue-600 [&_a]:underline"
-                            dangerouslySetInnerHTML={{ __html: fixHtmlLinks(question.description, locale as string) }}
-                          />
-                        )}
-                      </div>
-                      {question.media && (
-                        <div className="flex-shrink-0 w-16 h-16 rounded bg-zinc-100 dark:bg-zinc-800 flex items-center justify-center text-xs text-zinc-500">
-                          Media
-                        </div>
-                      )}
-                    </div>
-                  </Link>
-                ))}
-              </div>
-
-              {/* Show More Link */}
-              {totalCount > 5 && (
-                <Link
-                  href={`/${locale}/categories/${generateCategorySlug(category.id, category.name)}`}
-                  className="block text-center mt-4 text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100"
-                >
-                  + {totalCount - 5} more {t.questions}
-                </Link>
-              )}
-            </div>
-          ))}
-        </div>
-      </div>
-    </div>
+    <QuestionsClientView
+      locale={locale as Locale}
+      categoriesData={categoriesWithQuestions}
+      translations={t}
+    />
   );
 }

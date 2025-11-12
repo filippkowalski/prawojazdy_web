@@ -4,6 +4,8 @@ import { Locale } from '@/lib/types';
 import { getCategories, getCategory, getQuestionsByCategory } from '@/lib/database';
 import { generateQuestionSlug, generateCategorySlug, extractIdFromSlug } from '@/lib/slugify';
 import { Metadata } from 'next';
+import { QuestionMediaThumbnail } from '@/components/question-media-thumbnail';
+import { CategoryQuestionsClient } from '@/components/category-questions-client';
 
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
@@ -69,12 +71,49 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const questions = await getQuestionsByCategory(locale as Locale, categoryId);
 
+  const metaTranslations = {
+    pl: {
+      titleSuffix: 'pytań | Egzamin na prawo jazdy',
+      descriptionTemplate: (count: number, name: string) =>
+        `Ćwicz ${count} pytań egzaminacyjnych w kategorii ${name}. Przygotuj się do egzaminu na prawo jazdy 2025.`,
+      ogTitle: 'Pytania egzaminacyjne',
+      ogDescription: (count: number) =>
+        `${count} pytań, które pomogą Ci przygotować się do egzaminu na prawo jazdy`,
+    },
+    en: {
+      titleSuffix: 'Questions | Driving License Test',
+      descriptionTemplate: (count: number, name: string) =>
+        `Practice ${count} driving theory questions in the ${name} category. Prepare for your driving license exam 2025.`,
+      ogTitle: 'Driving Theory Questions',
+      ogDescription: (count: number) =>
+        `${count} questions to help you prepare for your driving exam`,
+    },
+    uk: {
+      titleSuffix: 'питань | Екзамен на водійські права',
+      descriptionTemplate: (count: number, name: string) =>
+        `Практикуйте ${count} екзаменаційних питань у категорії ${name}. Підготуйтеся до іспиту на водійські права 2025.`,
+      ogTitle: 'Екзаменаційні питання',
+      ogDescription: (count: number) =>
+        `${count} питань, які допоможуть вам підготуватися до екзамену на водійські права`,
+    },
+    de: {
+      titleSuffix: 'Fragen | Führerscheinprüfung',
+      descriptionTemplate: (count: number, name: string) =>
+        `Üben Sie ${count} Theoriefragen in der Kategorie ${name}. Bereiten Sie sich auf die Führerscheinprüfung 2025 vor.`,
+      ogTitle: 'Theorie-Prüfungsfragen',
+      ogDescription: (count: number) =>
+        `${count} Fragen, die Ihnen bei der Vorbereitung auf Ihre Fahrprüfung helfen`,
+    },
+  };
+
+  const meta = metaTranslations[locale as Locale] || metaTranslations.pl;
+
   return {
-    title: `${category.name} - ${questions.length} Questions | Polish Driving License Test`,
-    description: `Practice ${questions.length} driving theory questions in the ${category.name} category. Prepare for your Polish driving license exam.`,
+    title: `${category.name} - ${questions.length} ${meta.titleSuffix}`,
+    description: meta.descriptionTemplate(questions.length, category.name),
     openGraph: {
-      title: `${category.name} - Driving Theory Questions`,
-      description: `${questions.length} questions to help you prepare for your driving exam`,
+      title: `${category.name} - ${meta.ogTitle}`,
+      description: meta.ogDescription(questions.length),
       type: 'website',
       locale: locale,
     },
@@ -88,8 +127,8 @@ export default async function CategoryPage({ params }: Props) {
   // Extract category ID from slug
   const categoryId = extractIdFromSlug(slug);
 
-  // Get the category and its questions
-  const [category, questions] = await Promise.all([
+  // Get the category and ALL its questions (no filtering here)
+  const [category, allQuestions] = await Promise.all([
     getCategory(locale as Locale, categoryId),
     getQuestionsByCategory(locale as Locale, categoryId),
   ]);
@@ -99,89 +138,11 @@ export default async function CategoryPage({ params }: Props) {
   }
 
   return (
-    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950">
-      {/* Header */}
-      <div className="border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black">
-        <div className="container mx-auto px-4 py-6">
-          <Link
-            href={`/${locale}/questions`}
-            className="text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block"
-          >
-            ← {t.backToQuestions}
-          </Link>
-          <h1 className="text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50 mb-2">
-            {category.name}
-          </h1>
-          <p className="text-zinc-600 dark:text-zinc-400">
-            {questions.length} {t.questionsInCategory}
-          </p>
-        </div>
-      </div>
-
-      {/* Questions List */}
-      <div className="container mx-auto px-4 py-8 max-w-4xl">
-        <div className="space-y-3">
-          {questions.map((question) => (
-            <Link
-              key={question.id}
-              href={`/${locale}/questions/${generateQuestionSlug(question.id, question.question)}`}
-              className="block p-6 rounded-lg bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 hover:border-zinc-300 dark:hover:border-zinc-700 hover:shadow-md transition-all"
-            >
-              <div className="flex items-start gap-4">
-                {/* Points Badge */}
-                <div className="flex-shrink-0 w-10 h-10 rounded-full bg-zinc-900 dark:bg-zinc-100 text-white dark:text-black flex items-center justify-center font-bold">
-                  {question.points}
-                </div>
-
-                {/* Question Content */}
-                <div className="flex-1 min-w-0">
-                  <p className="text-lg font-semibold text-zinc-900 dark:text-zinc-50 mb-2">
-                    {question.question}
-                  </p>
-
-                  {question.description && (
-                    <div
-                      className="text-sm text-zinc-600 dark:text-zinc-400 mb-3 line-clamp-2 [&_a]:text-blue-600 [&_a]:underline"
-                      dangerouslySetInnerHTML={{ __html: question.description }}
-                    />
-                  )}
-
-                  {/* Metadata */}
-                  <div className="flex flex-wrap gap-2">
-                    {question.license_categories && (
-                      <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900 text-blue-900 dark:text-blue-100 text-xs rounded">
-                        {question.license_categories}
-                      </span>
-                    )}
-                    {question.official_number && (
-                      <span className="px-2 py-1 bg-zinc-100 dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 text-xs rounded">
-                        #{question.official_number}
-                      </span>
-                    )}
-                  </div>
-
-                  {/* Correct Answer Preview */}
-                  <div className="mt-3 p-3 bg-green-50 dark:bg-green-900/20 rounded border-l-2 border-green-500">
-                    <p className="text-sm text-zinc-700 dark:text-zinc-300">
-                      <span className="font-semibold text-green-700 dark:text-green-400">
-                        {['A', 'B', 'C'][question.correct_answer]}:
-                      </span>{' '}
-                      {question.answers[question.correct_answer]?.answer}
-                    </p>
-                  </div>
-                </div>
-
-                {/* Media Indicator */}
-                {question.media && (
-                  <div className="flex-shrink-0 w-20 h-20 rounded bg-zinc-100 dark:bg-zinc-800 flex items-center justify-center text-xs text-zinc-500">
-                    📷
-                  </div>
-                )}
-              </div>
-            </Link>
-          ))}
-        </div>
-      </div>
-    </div>
+    <CategoryQuestionsClient
+      locale={locale as Locale}
+      category={category}
+      questions={allQuestions}
+      translations={t}
+    />
   );
 }

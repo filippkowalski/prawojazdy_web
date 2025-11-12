@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { usePathname } from 'next/navigation';
 import { X, BookOpen, Target, Trophy } from 'lucide-react';
 import {
   detectPlatform,
@@ -9,11 +10,64 @@ import {
   dismissBottomSheet,
   type Platform,
 } from '@/lib/platform-detection';
+import { Locale } from '@/lib/types';
+
+const translations = {
+  pl: {
+    title: 'Pobierz Prawo Jazdy dla',
+    description: 'Ćwicz testy na prawo jazdy z ponad 3000 pytań i przygotuj się do egzaminu',
+    downloadButton: 'Pobierz aplikację',
+    features: {
+      learn: 'Ucz się',
+      practice: 'Ćwicz',
+      pass: 'Zdaj',
+    },
+    footer: 'Ponad 3000 pytań • Wsparcie wielu języków',
+  },
+  en: {
+    title: 'Get Prawo Jazdy for',
+    description: 'Practice driving theory tests with 3,000+ questions and prepare for your exam',
+    downloadButton: 'Download App',
+    features: {
+      learn: 'Learn',
+      practice: 'Practice',
+      pass: 'Pass',
+    },
+    footer: '3,000+ questions • Multi-language support',
+  },
+  uk: {
+    title: 'Завантажити Prawo Jazdy для',
+    description: 'Практикуйте тести теорії водіння з понад 3000 питань і готуйтесь до іспиту',
+    downloadButton: 'Завантажити додаток',
+    features: {
+      learn: 'Вчитися',
+      practice: 'Практикувати',
+      pass: 'Скласти',
+    },
+    footer: 'Понад 3000 питань • Підтримка багатьох мов',
+  },
+  de: {
+    title: 'Prawo Jazdy herunterladen für',
+    description: 'Übe Führerscheintheorie-Tests mit über 3000 Fragen und bereite dich auf deine Prüfung vor',
+    downloadButton: 'App herunterladen',
+    features: {
+      learn: 'Lernen',
+      practice: 'Üben',
+      pass: 'Bestehen',
+    },
+    footer: 'Über 3000 Fragen • Mehrsprachige Unterstützung',
+  },
+};
 
 export function AppDownloadBottomSheet() {
+  const pathname = usePathname();
   const [platform, setPlatform] = useState<Platform>('other');
   const [isVisible, setIsVisible] = useState(false);
   const [isAnimating, setIsAnimating] = useState(false);
+
+  // Extract locale from pathname (e.g., /en/questions -> 'en')
+  const locale = (pathname?.split('/')[1] as Locale) || 'pl';
+  const t = translations[locale] || translations.pl;
 
   useEffect(() => {
     const info = detectPlatform();
@@ -106,19 +160,19 @@ export function AppDownloadBottomSheet() {
           <div className="flex flex-col items-center text-center">
             {/* App Icon */}
             <img
-              src="/apple-touch-icon.png"
+              src="/app-icon-192.png"
               alt="Polish Driving License Tests"
               className="w-20 h-20 rounded-2xl shadow-lg mb-4"
             />
 
             {/* Title */}
             <h3 className="text-2xl font-bold text-zinc-900 dark:text-zinc-50 mb-2">
-              Get Prawo Jazdy for {platformName}
+              {t.title} {platformName}
             </h3>
 
             {/* Description */}
             <p className="text-zinc-600 dark:text-zinc-400 text-base mb-6 max-w-sm">
-              Practice driving theory tests with 3,000+ questions and prepare for your exam
+              {t.description}
             </p>
 
             {/* Features */}
@@ -127,19 +181,19 @@ export function AppDownloadBottomSheet() {
                 <div className="w-10 h-10 rounded-full bg-blue-50 dark:bg-blue-900/20 flex items-center justify-center">
                   <BookOpen className="w-5 h-5 text-blue-600 dark:text-blue-400" />
                 </div>
-                <span className="text-zinc-700 dark:text-zinc-300 font-medium">Learn</span>
+                <span className="text-zinc-700 dark:text-zinc-300 font-medium">{t.features.learn}</span>
               </div>
               <div className="flex flex-col items-center gap-1.5">
                 <div className="w-10 h-10 rounded-full bg-purple-50 dark:bg-purple-900/20 flex items-center justify-center">
                   <Target className="w-5 h-5 text-purple-600 dark:text-purple-400" />
                 </div>
-                <span className="text-zinc-700 dark:text-zinc-300 font-medium">Practice</span>
+                <span className="text-zinc-700 dark:text-zinc-300 font-medium">{t.features.practice}</span>
               </div>
               <div className="flex flex-col items-center gap-1.5">
                 <div className="w-10 h-10 rounded-full bg-green-50 dark:bg-green-900/20 flex items-center justify-center">
                   <Trophy className="w-5 h-5 text-green-600 dark:text-green-400" />
                 </div>
-                <span className="text-zinc-700 dark:text-zinc-300 font-medium">Pass</span>
+                <span className="text-zinc-700 dark:text-zinc-300 font-medium">{t.features.pass}</span>
               </div>
             </div>
 
@@ -148,12 +202,12 @@ export function AppDownloadBottomSheet() {
               onClick={handleGetApp}
               className="w-full max-w-sm px-6 py-4 bg-zinc-900 dark:bg-zinc-100 text-white dark:text-black text-lg font-semibold rounded-2xl hover:bg-zinc-800 dark:hover:bg-zinc-200 transition-colors shadow-lg"
             >
-              Download Free App
+              {t.downloadButton}
             </button>
 
             {/* Footer note */}
             <p className="text-zinc-400 dark:text-zinc-500 text-xs mt-4">
-              3,000+ questions • Multi-language support
+              {t.footer}
             </p>
           </div>
         </div>

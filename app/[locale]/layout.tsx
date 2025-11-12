@@ -1,5 +1,7 @@
 import { Locale } from '@/lib/types';
 import { notFound } from 'next/navigation';
+import { GlobalHeader } from '@/components/global-header';
+import { GlobalFooter } from '@/components/global-footer';
 
 const locales: Locale[] = ['pl', 'en', 'uk', 'de'];
 
@@ -23,5 +25,11 @@ export default async function LocaleLayout({
     notFound();
   }
 
-  return children;
+  return (
+    <div className="min-h-screen flex flex-col">
+      <GlobalHeader locale={locale as Locale} />
+      <main className="flex-1">{children}</main>
+      <GlobalFooter locale={locale as Locale} />
+    </div>
+  );
 }

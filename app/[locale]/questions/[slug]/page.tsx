@@ -108,6 +108,27 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: 'Question not found' };
   }
 
+  const metaTranslations = {
+    pl: {
+      titleSuffix: 'Egzamin na prawo jazdy',
+      correctAnswerPrefix: 'Poprawna odpowiedź:',
+    },
+    en: {
+      titleSuffix: 'Driving License Test',
+      correctAnswerPrefix: 'Correct answer:',
+    },
+    uk: {
+      titleSuffix: 'Екзамен на водійські права',
+      correctAnswerPrefix: 'Правильна відповідь:',
+    },
+    de: {
+      titleSuffix: 'Führerscheinprüfung',
+      correctAnswerPrefix: 'Richtige Antwort:',
+    },
+  };
+
+  const meta = metaTranslations[locale as Locale] || metaTranslations.pl;
+
   // Truncate question for meta description
   const shortQuestion = question.question.length > 160
     ? question.question.substring(0, 157) + '...'
@@ -116,8 +137,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const correctAnswerText = question.answers[question.correct_answer]?.answer || '';
 
   return {
-    title: `${question.question} | Polish Driving License Test`,
-    description: `${shortQuestion} Correct answer: ${correctAnswerText}`,
+    title: `${question.question} | ${meta.titleSuffix}`,
+    description: `${shortQuestion} ${meta.correctAnswerPrefix} ${correctAnswerText}`,
     openGraph: {
       title: question.question,
       description: shortQuestion,
@@ -151,41 +172,41 @@ export default async function QuestionPage({ params }: Props) {
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950">
       {/* Header */}
       <div className="border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black">
-        <div className="container mx-auto px-4 py-4">
-          <div className="flex items-center gap-4 text-sm">
+        <div className="container mx-auto px-4 py-3 md:py-4">
+          <div className="flex items-center gap-2 md:gap-4 text-xs md:text-sm overflow-x-auto">
             <Link
               href={`/${locale}/questions`}
-              className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100"
+              className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 whitespace-nowrap"
             >
               {t.backToQuestions}
             </Link>
             <span className="text-zinc-400">/</span>
             <Link
               href={`/${locale}/categories/${generateCategorySlug(question.category.id, question.category.name)}`}
-              className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100"
+              className="text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 truncate"
             >
               {question.category.name}
             </Link>
             <span className="text-zinc-400">/</span>
-            <span className="text-zinc-900 dark:text-zinc-50">#{question.id}</span>
+            <span className="text-zinc-900 dark:text-zinc-50 whitespace-nowrap">#{question.id}</span>
           </div>
         </div>
       </div>
 
       {/* Question Content */}
-      <div className="container mx-auto px-4 py-8 max-w-4xl">
+      <div className="container mx-auto px-4 py-6 md:py-8 max-w-4xl">
         {/* Metadata Tags */}
-        <div className="flex flex-wrap gap-2 mb-6">
-          <span className="px-3 py-1 bg-zinc-900 dark:bg-zinc-100 text-white dark:text-black text-sm rounded-full font-semibold">
+        <div className="flex flex-wrap gap-1.5 md:gap-2 mb-4 md:mb-6">
+          <span className="px-2.5 md:px-3 py-1 bg-zinc-900 dark:bg-zinc-100 text-white dark:text-black text-xs md:text-sm rounded-full font-semibold">
             {question.points} {t.points}
           </span>
           {question.license_categories && (
-            <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-900 dark:text-blue-100 text-sm rounded-full">
+            <span className="px-2.5 md:px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-900 dark:text-blue-100 text-xs md:text-sm rounded-full">
               {question.license_categories}
             </span>
           )}
           {question.official_number && (
-            <span className="px-3 py-1 bg-zinc-100 dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 text-sm rounded-full">
+            <span className="px-2.5 md:px-3 py-1 bg-zinc-100 dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 text-xs md:text-sm rounded-full">
               {t.officialNumber}: {question.official_number}
             </span>
           )}
