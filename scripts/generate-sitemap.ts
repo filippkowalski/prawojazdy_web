@@ -9,7 +9,7 @@ import { getAllQuestionsWithAnswers, getCategories } from '../lib/database';
 import { generateQuestionSlug, generateCategorySlug } from '../lib/slugify';
 import { Locale } from '../lib/types';
 
-const BASE_URL = 'https://yourdomain.com'; // TODO: Replace with actual domain
+const BASE_URL = 'https://www.prawojazdy.co';
 const locales: Locale[] = ['pl', 'en', 'uk', 'de'];
 
 interface SitemapUrl {

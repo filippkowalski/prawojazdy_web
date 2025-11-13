@@ -4,11 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && npm run generate-sitemap",
     "start": "next start",
     "lint": "eslint",
-    "generate-sitemap": "tsx scripts/generate-sitemap.ts",
-    "build:full": "npm run build && npm run generate-sitemap"
+    "generate-sitemap": "tsx scripts/generate-sitemap.ts"
   },
   "dependencies": {
     "@types/sql.js": "^1.4.9",

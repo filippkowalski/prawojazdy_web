@@ -18,11 +18,8 @@ Static website with **13,568+ pre-generated question pages** optimized for searc
 npm install
 npm run dev
 
-# Build static site (generates all 13,700 pages)
+# Build static site (generates all 13,700 pages + sitemap)
 npm run build
-
-# Build + generate sitemap
-npm run build:full
 ```
 
 ## 📝 Documentation
@@ -42,9 +39,9 @@ When you update questions/explanations in the Flutter app databases:
 
 2. **Rebuild site:**
    ```bash
-   npm run build:full
+   npm run build
    ```
-   This regenerates all 13,568 question pages with updated content.
+   This regenerates all 13,568 question pages + sitemap with updated content.
 
 3. **Deploy:**
    ```bash
@@ -169,7 +166,7 @@ See **[SEO_STRATEGY.md](./SEO_STRATEGY.md)** for complete strategy and thought p
 **Cloudflare Pages (Recommended):**
 ```bash
 # Connect GitHub repo (auto-deploys on push)
-Build command: npm run build:full
+Build command: npm run build
 Output directory: out
 ```
 

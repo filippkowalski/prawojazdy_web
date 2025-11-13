@@ -26,6 +26,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Viewport for responsive design */}
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
         {/* iOS Smart App Banner */}
         <meta name="apple-itunes-app" content="app-id=6469685187" />
 

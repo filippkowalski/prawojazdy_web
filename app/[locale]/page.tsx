@@ -10,8 +10,6 @@ interface Props {
   params: Promise<{ locale: string }>;
 }
 
-const locales: Locale[] = ['pl', 'en', 'uk', 'de'];
-
 // Background images for animated showcase
 const drivingImages = [
   "/landing/road_signs_bg.png",
@@ -128,13 +126,6 @@ const translations = {
   },
 };
 
-const localeNames = {
-  pl: 'Polski',
-  en: 'English',
-  uk: 'Українська',
-  de: 'Deutsch',
-};
-
 export default function LocaleHomePage({ params }: Props) {
   const { locale } = use(params);
   const t = translations[locale as Locale] || translations.pl;
@@ -225,28 +216,9 @@ export default function LocaleHomePage({ params }: Props) {
         {/* Gradient overlay */}
         <div className="absolute inset-0 bg-gradient-to-b from-white/60 via-white/70 to-white/90 dark:from-zinc-950/60 dark:via-zinc-950/70 dark:to-zinc-950/90" />
 
-        {/* Language Selector - Above Content */}
-        <div className="absolute top-0 right-0 z-20 p-4">
-          <div className="flex gap-2">
-            {locales.map((loc) => (
-              <Link
-                key={loc}
-                href={`/${loc}`}
-                className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-all ${
-                  loc === locale
-                    ? 'bg-zinc-900 text-white dark:bg-zinc-100 dark:text-black shadow-lg'
-                    : 'bg-white/80 text-zinc-700 hover:bg-white dark:bg-zinc-900/80 dark:text-zinc-300 dark:hover:bg-zinc-900 backdrop-blur-sm'
-                }`}
-              >
-                {localeNames[loc]}
-              </Link>
-            ))}
-          </div>
-        </div>
-
         {/* Hero Content */}
-        <div className="container relative mx-auto flex min-h-[85vh] flex-col items-center justify-center px-4 py-24 text-center md:px-6 md:py-32">
-          <div className="mx-auto max-w-4xl space-y-6 md:space-y-10 bg-white/95 dark:bg-zinc-900/95 backdrop-blur-lg rounded-3xl px-6 py-12 md:px-12 md:py-16 shadow-2xl border border-zinc-200/50 dark:border-zinc-800/50">
+        <div className="container relative mx-auto flex min-h-[85vh] flex-col items-center justify-center px-4 py-16 sm:py-24 text-center md:px-6 md:py-32">
+          <div className="mx-auto max-w-4xl space-y-4 sm:space-y-6 md:space-y-10 bg-white/95 dark:bg-zinc-900/95 backdrop-blur-lg rounded-2xl sm:rounded-3xl px-4 py-8 sm:px-6 sm:py-12 md:px-12 md:py-16 shadow-2xl border border-zinc-200/50 dark:border-zinc-800/50">
             {/* Badge */}
             <div className="animate-fade-in-up opacity-0" style={{ animationDelay: '0s', animationFillMode: 'forwards' }}>
               <div className="inline-flex items-center gap-2 px-4 py-2 bg-zinc-100 dark:bg-zinc-800 rounded-full text-sm font-medium">
@@ -256,22 +228,22 @@ export default function LocaleHomePage({ params }: Props) {
             </div>
 
             {/* Main Heading */}
-            <div className="space-y-4 md:space-y-6 animate-fade-in-up opacity-0" style={{ animationDelay: '0.1s', animationFillMode: 'forwards' }}>
-              <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-[1.15] tracking-tight text-zinc-900 dark:text-zinc-50">
+            <div className="space-y-3 sm:space-y-4 md:space-y-6 animate-fade-in-up opacity-0" style={{ animationDelay: '0.1s', animationFillMode: 'forwards' }}>
+              <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-[1.15] tracking-tight text-zinc-900 dark:text-zinc-50">
                 {t.title}{' '}
                 <span className="relative inline-block">
                   <span className="relative z-10">{t.subtitle}</span>
-                  <span className="absolute -bottom-2 left-0 h-3 w-full -rotate-1 bg-yellow-400/40 dark:bg-yellow-500/30" />
+                  <span className="absolute -bottom-1 sm:-bottom-2 left-0 h-2 sm:h-3 w-full -rotate-1 bg-yellow-400/40 dark:bg-yellow-500/30" />
                 </span>
               </h1>
-              <p className="mx-auto max-w-2xl text-base sm:text-lg md:text-xl leading-relaxed text-zinc-600 dark:text-zinc-400 px-4">
+              <p className="mx-auto max-w-2xl text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed text-zinc-600 dark:text-zinc-400 px-2 sm:px-4">
                 {t.description}
               </p>
             </div>
 
             {/* CTA Buttons */}
-            <div className="flex flex-col items-center gap-4 pt-2 md:pt-4 animate-fade-in-up opacity-0" style={{ animationDelay: '0.2s', animationFillMode: 'forwards' }}>
-              <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+            <div className="flex flex-col items-center gap-3 sm:gap-4 pt-2 md:pt-4 animate-fade-in-up opacity-0" style={{ animationDelay: '0.2s', animationFillMode: 'forwards' }}>
+              <div className="flex flex-col items-center gap-3 sm:gap-4 sm:flex-row sm:justify-center">
                 <a
                   href="https://apps.apple.com/us/app/polish-driving-license-tests/id6469685187"
                   target="_blank"
@@ -281,9 +253,9 @@ export default function LocaleHomePage({ params }: Props) {
                   <Image
                     src="/badges/app-store-badge.svg"
                     alt="Download on the App Store"
-                    width={180}
-                    height={60}
-                    className="h-[54px] w-auto"
+                    width={150}
+                    height={50}
+                    className="h-[45px] sm:h-[54px] w-auto"
                   />
                 </a>
                 <a
@@ -295,9 +267,9 @@ export default function LocaleHomePage({ params }: Props) {
                   <Image
                     src="/badges/google-play-badge.png"
                     alt="Get it on Google Play"
-                    width={180}
-                    height={60}
-                    className="h-[70px] w-auto"
+                    width={150}
+                    height={50}
+                    className="h-[58px] sm:h-[70px] w-auto"
                   />
                 </a>
               </div>
@@ -315,7 +287,7 @@ export default function LocaleHomePage({ params }: Props) {
               {/* Browse Questions Button */}
               <Link
                 href={`/${locale}/questions`}
-                className="px-8 py-4 bg-zinc-900 dark:bg-zinc-100 text-white dark:text-black text-lg font-semibold rounded-2xl hover:bg-zinc-800 dark:hover:bg-zinc-200 transition-all hover:scale-105 shadow-lg"
+                className="px-6 py-3 sm:px-8 sm:py-4 bg-zinc-900 dark:bg-zinc-100 text-white dark:text-black text-base sm:text-lg font-semibold rounded-xl sm:rounded-2xl hover:bg-zinc-800 dark:hover:bg-zinc-200 transition-all hover:scale-105 shadow-lg"
               >
                 {t.cta}
               </Link>

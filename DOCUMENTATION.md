@@ -599,9 +599,8 @@ export default nextConfig;
 {
   "scripts": {
     "dev": "next dev",                    // Development server
-    "build": "next build",                // Build static site
-    "generate-sitemap": "tsx scripts/generate-sitemap.ts",
-    "build:full": "npm run build && npm run generate-sitemap"
+    "build": "next build && npm run generate-sitemap", // Build static site + sitemap
+    "generate-sitemap": "tsx scripts/generate-sitemap.ts" // Generate sitemap.xml
   }
 }
 ```
@@ -646,7 +645,7 @@ export default nextConfig;
 
 2. **Build Settings:**
    ```
-   Build command: npm run build:full
+   Build command: npm run build
    Build output directory: out
    Environment variables: (none needed)
    ```
@@ -751,8 +750,8 @@ open http://localhost:3000
 ### Testing Production Build
 
 ```bash
-# Build static site
-npm run build:full
+# Build static site + sitemap
+npm run build
 
 # Serve locally (requires http-server or similar)
 npx http-server out -p 3000
@@ -794,7 +793,7 @@ npx serve out
 
 5. **Rebuild:**
    ```bash
-   npm run build:full
+   npm run build
    ```
 
 ### Adding Media Support

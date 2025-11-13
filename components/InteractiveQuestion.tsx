@@ -47,14 +47,14 @@ export default function InteractiveQuestion({ question, translations }: Props) {
   );
 
   return (
-    <div className="bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800 mb-6">
-      <h1 className="text-2xl lg:text-3xl font-bold text-zinc-900 dark:text-zinc-50 mb-6">
+    <div className="bg-white dark:bg-zinc-900 rounded-lg sm:rounded-xl p-4 sm:p-6 md:p-8 border border-zinc-200 dark:border-zinc-800 mb-4 sm:mb-6">
+      <h1 className="text-xl sm:text-2xl lg:text-3xl font-bold text-zinc-900 dark:text-zinc-50 mb-4 sm:mb-6">
         {question.question}
       </h1>
 
       {/* Media */}
       {mediaUrl && (
-        <div className="mb-6 rounded-lg overflow-hidden bg-zinc-100 dark:bg-zinc-800">
+        <div className="mb-4 sm:mb-6 rounded-lg overflow-hidden bg-zinc-100 dark:bg-zinc-800">
           {isImage && (
             <img
               src={mediaUrl}
@@ -78,19 +78,19 @@ export default function InteractiveQuestion({ question, translations }: Props) {
 
       {/* Description */}
       {fixedDescription && (
-        <div className="mb-6 p-4 bg-zinc-50 dark:bg-zinc-800/50 rounded-lg">
-          <p className="text-sm font-semibold text-zinc-700 dark:text-zinc-300 mb-1">
+        <div className="mb-4 sm:mb-6 p-3 sm:p-4 bg-zinc-50 dark:bg-zinc-800/50 rounded-lg">
+          <p className="text-xs sm:text-sm font-semibold text-zinc-700 dark:text-zinc-300 mb-1">
             {translations.description}
           </p>
           <div
-            className="text-zinc-600 dark:text-zinc-400 [&_a]:text-blue-600 [&_a]:underline [&_a:hover]:text-blue-700 dark:[&_a]:text-blue-400"
+            className="text-sm text-zinc-600 dark:text-zinc-400 [&_a]:text-blue-600 [&_a]:underline [&_a:hover]:text-blue-700 dark:[&_a]:text-blue-400"
             dangerouslySetInnerHTML={{ __html: fixedDescription }}
           />
         </div>
       )}
 
       {/* Answers */}
-      <div className="space-y-3 mb-6">
+      <div className="space-y-2 sm:space-y-3 mb-4 sm:mb-6">
         {question.answers.map((answer) => {
           const isCorrect = answer.position === question.correct_answer;
           const isSelected = answer.position === selectedAnswer;
@@ -118,17 +118,17 @@ export default function InteractiveQuestion({ question, translations }: Props) {
               key={answer.id}
               onClick={() => handleAnswerClick(answer.position)}
               disabled={selectedAnswer !== null}
-              className={`w-full p-4 rounded-lg border-2 transition-all ${buttonStyle} ${
+              className={`w-full p-3 sm:p-4 rounded-lg border-2 transition-all ${buttonStyle} ${
                 selectedAnswer === null ? 'hover:border-zinc-300 dark:hover:border-zinc-700 cursor-pointer' : 'cursor-default'
               }`}
             >
-              <div className="flex items-start gap-3">
+              <div className="flex items-start gap-2 sm:gap-3">
                 <div
-                  className={`flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center font-bold ${badgeStyle}`}
+                  className={`flex-shrink-0 w-7 h-7 sm:w-8 sm:h-8 rounded-full flex items-center justify-center font-bold text-sm ${badgeStyle}`}
                 >
                   {labels[answer.position]}
                 </div>
-                <p className={`flex-1 text-left ${textStyle}`}>
+                <p className={`flex-1 text-left text-sm sm:text-base ${textStyle}`}>
                   {answer.answer}
                 </p>
                 {showAsCorrect && (
@@ -154,12 +154,12 @@ export default function InteractiveQuestion({ question, translations }: Props) {
 
       {/* Feedback Message */}
       {selectedAnswer !== null && (
-        <div className={`mb-6 p-4 rounded-lg border-l-4 ${
+        <div className={`mb-4 sm:mb-6 p-3 sm:p-4 rounded-lg border-l-4 ${
           selectedAnswer === question.correct_answer
             ? 'bg-green-50 dark:bg-green-900/20 border-green-500'
             : 'bg-red-50 dark:bg-red-900/20 border-red-500'
         }`}>
-          <p className={`font-semibold ${
+          <p className={`text-sm sm:text-base font-semibold ${
             selectedAnswer === question.correct_answer
               ? 'text-green-900 dark:text-green-100'
               : 'text-red-900 dark:text-red-100'
@@ -174,12 +174,12 @@ export default function InteractiveQuestion({ question, translations }: Props) {
 
       {/* Explanation (shown after answering) */}
       {showExplanation && fixedExplanation && (
-        <div className="p-6 bg-blue-50 dark:bg-blue-900/20 rounded-lg border-l-4 border-blue-500">
-          <p className="text-sm font-semibold text-blue-900 dark:text-blue-100 mb-2">
+        <div className="p-4 sm:p-6 bg-blue-50 dark:bg-blue-900/20 rounded-lg border-l-4 border-blue-500">
+          <p className="text-xs sm:text-sm font-semibold text-blue-900 dark:text-blue-100 mb-2">
             {translations.explanation}
           </p>
           <div
-            className="text-zinc-700 dark:text-zinc-300 [&_a]:text-blue-600 [&_a]:underline [&_a:hover]:text-blue-700 dark:[&_a]:text-blue-400"
+            className="text-sm text-zinc-700 dark:text-zinc-300 [&_a]:text-blue-600 [&_a]:underline [&_a:hover]:text-blue-700 dark:[&_a]:text-blue-400"
             dangerouslySetInnerHTML={{ __html: fixedExplanation }}
           />
         </div>

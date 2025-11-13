@@ -403,7 +403,7 @@ We ARE targeting:
 ### Current Database Updates:
 When questions change:
 1. Copy new `database_*.db` files
-2. Run `npm run build:full`
+2. Run `npm run build` (automatically includes sitemap generation)
 3. Deploy to Cloudflare
 4. Google recrawls within days
 
