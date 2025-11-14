@@ -1,0 +1,181 @@
+{
+    "name": "Zasady ruchu drogowego",
+    "items": [
+        {
+            "name": "Zasady ruchu drogowego",
+            "imageName": "PddIconBook",
+            "items": [
+                {
+                    "name": "1. Dział I",
+                    "fileName": "pdd1.html"
+                },
+                {
+                    "name": "2. Zasady ogólne",
+                    "fileName": "pdd2.html"
+                },
+                {
+                    "name": "3. Ruch pieszych",
+                    "fileName": "pdd3.html"
+                },
+                {
+                    "name": "4. Ruch pojazdów",
+                    "fileName": "pdd4.html"
+                },
+                {
+                    "name": "5. Ruch zwierząt",
+                    "fileName": "pdd5.html"
+                },
+                {
+                    "name": "6. Porządek i bezpieczeństwo ruchu na drogach",
+                    "fileName": "pdd6.html"
+                },
+                {
+                    "name": "7. Warunki techniczne pojazdów",
+                    "fileName": "pdd7.html"
+                },
+                {
+                    "name": "8. Homologacja",
+                    "fileName": "pdd8.html"
+                },
+                {
+                    "name": "9. Dopuszczenie jednostkowe pojazdu",
+                    "fileName": "pdd9.html"
+                },
+                {
+                    "name": "10. Dopuszczenie indywidualne WE pojazdu",
+                    "fileName": "pdd10.html"
+                },
+                {
+                    "name": "11. Warunki dopuszczenia pojazdów do ruchu",
+                    "fileName": "pdd11.html"
+                },
+                {
+                    "name": "12. Centralna ewidencja pojazdów",
+                    "fileName": "pdd12.html"
+                },
+                {
+                    "name": "13. Krajowy Punkt Kontaktowy",
+                    "fileName": "pdd13.html"
+                },
+                {
+                    "name": "14. Profesjonalna rejestracja pojazdów",
+                    "fileName": "pdd14.html"
+                },
+                {
+                    "name": "15. Badania techniczne pojazdów",
+                    "fileName": "pdd15.html"
+                },
+                {
+                    "name": "16. Centralna ewidencja kierowców",
+                    "fileName": "pdd16.html"
+                },
+                {
+                    "name": "17. Centralna ewidencja posiadaczy kart parkingowych",
+                    "fileName": "pdd17.html"
+                },
+                {
+                    "name": "18. Wojewódzki ośrodek ruchu drogowego",
+                    "fileName": "pdd18.html"
+                },
+                {
+                    "name": "19. Uprawnienia Policji i innych organów",
+                    "fileName": "pdd19.html"
+                },
+                {
+                    "name": "20. Zatrzymywanie i zwracanie dowodów rejestracyjnych",
+                    "fileName": "pdd20.html"
+                },
+                {
+                    "name": "21. Zatrzymywanie praw jazdy i pozwoleń oraz cofanie i przywracanie uprawnień do kierowania pojazdami",
+                    "fileName": "pdd21.html"
+                },
+                {
+                    "name": "22. Kary pieniężne za przejazd pojazdów nienormatywnych bez zezwolenia lub niezgodnie z warunkami określonymi w zezwoleniu",
+                    "fileName": "pdd22.html"
+                },
+                {
+                    "name": "23. DZIAŁ Va",
+                    "fileName": "pdd23.html"
+                },
+                {
+                    "name": "24. DZIAŁ Vb",
+                    "fileName": "pdd24.html"
+                },
+                {
+                    "name": "25. DZIAŁ VC",
+                    "fileName": "pdd25.html"
+                },
+                {
+                    "name": "26. DZIAŁ VI",
+                    "fileName": "pdd26.html"
+                }
+            ]
+        },
+        {
+            "name": "Znaki drogowe",
+            "imageName": "PddIconSign",
+            "items": [
+                {
+                    "name": "1. Przepisy ogólne",
+                    "fileName": "signs_general_provisions.html",
+                    "imageName": "PddIconSignCommon"
+                },
+                {
+                    "name": "2. Znaki ostrzegawcze",
+                    "fileName": "signs_warnings.html",
+                    "imageName": "PddIconSignWarning"
+                },
+                {
+                    "name": "3. Znaki informacyjne",
+                    "fileName": "signs_information.html",
+                    "imageName": "PddIconSignInfo"
+                },
+                {
+                    "name": "4. Znaki zakazu",
+                    "fileName": "signs_prohibitions.html",
+                    "imageName": "PddIconSignProhibition"
+                },
+                {
+                    "name": "5. Znaki nakazu",
+                    "fileName": "signs_warrant.html",
+                    "imageName": "PddIconSignOrder"
+                },
+                {
+                    "name": "6. Znaki uzupełniające",
+                    "fileName": "signs_additional.html",
+                    "imageName": "PddIconSignAdditional"
+                },
+                {
+                    "name": "7. Znaki kierunku i miejscowości",
+                    "fileName": "signs_direction_location.html",
+                    "imageName": "PddIconSignDirection"
+                },
+                {
+                    "name": "8. Inne znaki",
+                    "fileName": "signs_other.html",
+                    "imageName": "PddIconSignOther"
+                },
+                {
+                    "name": "9. Dodatkowe znaki przed przejazdami kolejowymi",
+                    "fileName": "signs_railroad.html",
+                    "imageName": "PddIconSignRailway"
+                },
+                {
+                    "name": "10. Sygnały świetlne",
+                    "fileName": "signs_light.html",
+                    "imageName": "PddIconSignLight"
+                }
+            ]
+        },
+        {
+            "name": "Znaki drogowe poziome",
+            "fileName": "signs_on_road.html",
+            "imageName": "PddIconHorizontal"
+        },
+        {
+            "name": "Kierowanie ruchem",
+            "fileName": "traffic-regulator.html",
+            "imageName": "PddIconPoliceman"
+        }
+    ]
+}
