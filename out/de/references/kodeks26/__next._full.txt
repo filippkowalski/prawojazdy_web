@@ -1,0 +1,190 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","de","references","kodeks26",""],"q":"","i":false,"f":[[["",{"children":[["locale","de","d"],{"children":["references",{"children":[["page","kodeks26","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"de"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/de/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Nutzungsbedingungen"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/de/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Datenschutzrichtlinie"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Führerschein. Alle Rechte vorbehalten."}]]}]}]}]]}]
+11:T3048,
+            <div>
+                <a name="141143"></a>
+                <p class="hyphenate"><strong>Art. 141–143.</strong><br/> (pominięte)
+                </p>
+            </div>
+            <div>
+                <a name="144"></a>
+                <p class="hyphenate"><strong>Art. 144.</strong><br/> (uchylony)
+                </p>
+            </div>
+            <div>
+                <a name="145148"></a>
+                <p class="hyphenate"><strong>Art. 145–148.</strong><br/> (pominięte)
+                </p>
+            </div>
+            <div>
+                <a name="148"></a>
+                <p class="hyphenate"><strong>Art. 148a.</strong><br/> 1. Do dnia 1 stycznia 2026 r. dopuszcza się poruszanie się pojazdów
+                    elektrycznych, o których mowa w art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r.
+                    o elektromobilności i paliwach alternatywnych, oraz pojazdów napędzanych
+                    wodorem, o których mowa w art. 2 pkt 15 tej ustawy, po wyznaczonych przez
+                    zarządcę drogi pasach ruchu dla autobusów.
+                    <br/><br/>2. Zarządca drogi może uzależnić poruszanie się pojazdów elektrycznych po
+                    wyznaczonych pasach ruchu dla autobusów od liczby osób poruszających się tymi
+                    pojazdami.
+                </p>
+            </div>
+            <div>
+                <a name="148"></a>
+                <p class="hyphenate"><strong>Art. 148b.</strong><br/> 1. Od dnia 1 lipca 2018 r. do dnia 31 grudnia 2019 r. pojazdy
+                    elektryczne i pojazdy napędzane wodorem oznacza się nalepką wskazującą na rodzaj
+                    paliwa wykorzystywanego do ich napędu umieszczaną na przedniej szybie pojazdu
+                    według wzoru określonego w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1.
+                    <br/><br/>2. Nalepkę, o której mowa w ust. 1, wydaje wójt, burmistrz albo prezydent
+                    miasta właściwy ze względu na miejsce zamieszkania albo siedziby właściciela
+                    pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="149"></a>
+                <p class="hyphenate"><strong>Art. 149.</strong><br/> Minister właściwy do spraw transportu w porozumieniu z Ministrem
+                    Obrony Narodowej, ministrem właściwym do spraw wewnętrznych oraz Ministrem
+                    Sprawiedliwości, kierując się potrzebą zapewnienia stabilnego obrotu pojazdami
+                    samochodowymi, może określić, w drodze rozporządzenia:
+                    <br/>1) obowiązek uzyskania karty pojazdu przez właścicieli pojazdów
+                    zarejestrowanych przed dniem, o którym mowa w art. 152 pkt 3;
+                    <br/>2) warunki, terminy i tryb uzyskiwania karty pojazdu przez osoby, o których mowa
+                    w pkt 1, organy właściwe do ich wydania, dokumenty stosowane w tych
+                    sprawach oraz wysokość opłaty za wydanie karty pojazdu. </p>
+            </div>
+            <div>
+                <a name="150"></a>
+                <p class="hyphenate"><strong>Art. 150.</strong><br/> 1. Prawa jazdy i inne dokumenty uprawniające do kierowania
+                    pojazdami lub potwierdzające dodatkowe kwalifikacje i wymagania w stosunku do
+                    kierujących pojazdami, wydane na podstawie dotychczasowych przepisów, zachowują
+                    ważność do czasu ich wymiany dokonywanej na koszt osoby uprawnionej w zakresie,
+                    na jaki zostały wydane. Osoba uprawniona dokonująca wymiany jest obowiązana do
+                    uiszczenia opłaty ewidencyjnej.
+                    <br/><br/>2. Minister właściwy do spraw transportu, uwzględniając wszystkie wydawane
+                    przed dniem wejścia w życie ustawy dokumenty uprawniające do kierowania
+                    pojazdem oraz koszty związane z ich wymianą, określi, w drodze rozporządzenia,
+                    warunki i terminy wymiany praw jazdy i innych dokumentów uprawniających do
+                    kierowania pojazdami lub potwierdzających dodatkowe kwalifikacje kierujących
+                    pojazdami oraz wysokość opłat za ich wymianę.
+                </p>
+            </div>
+            <div>
+                <a name="151"></a>
+                <p class="hyphenate"><strong>Art. 151.</strong><br/> 1. Traci moc ustawa z dnia 1 lutego 1983 r. – Prawo o ruchu
+                    drogowym (Dz. U. z 1992 r. poz. 41 i 114 oraz z 1995 r. poz. 515), z wyjątkiem
+                    art. 60, 69–70 i 72–82, które tracą moc z dniem 30 czerwca 1999 r.
+                    <br/><br/>2. (pominięty)
+                </p>
+            </div>
+            <div>
+                <a name="152"></a>
+                <p class="hyphenate"><strong>Art. 152.</strong><br/> Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem:
+                    <br/>1) art. 49 ust. 2 pkt 5, art. 80, 99 i 109 ust. 4, które wchodzą w życie z dniem 1 lipca
+                    1998 r.;
+                    <br/>2) art. 39 ust. 3 i art. 85, które wchodzą w życie z dniem 1 stycznia 1999 r.;
+                    <br/>3) art. 74 ust. 2 pkt 2 lit. a, art. 77, 87, 88, 90–98 i 100–108, które wchodzą w życie
+                    z dniem 1 lipca 1999 r.
+                    Załączniki do ustawy z dnia 20 czerwca 1997 r.
+                    Załącznik nr 1
+                    KATEGORIE ZEZWOLEŃ NA PRZEJAZD POJAZDU
+                    NIENORMATYWNEGO Załącznik nr 2
+                    <br/><br/>1. Kategoria M: pojazdy samochodowe przeznaczone do przewozu osób mające
+                    co najmniej cztery koła, w tym:
+                    <br/>1) kategoria M : pojazdy do przewozu osób, mające nie więcej niż osiem miejsc
+                    oprócz siedzenia kierowcy;
+                    <br/>2) kategoria M : pojazdy zaprojektowane i wykonane do przewozu osób, mające
+                    więcej niż osiem miejsc oprócz siedzenia kierowcy i mające maksymalną masę
+                    całkowitą nieprzekraczającą 5 t;
+                    <br/>3) kategoria M : pojazdy zaprojektowane i wykonane do przewozu osób, mające
+                    więcej niż osiem miejsc oprócz siedzenia kierowcy i mające maksymalną masę
+                    całkowitą przekraczającą 5 t.
+                    <br/><br/>2. Kategoria N: pojazdy samochodowe mające co najmniej cztery koła
+                    i zaprojektowane i wykonane do przewozu ładunków, w tym:
+                    <br/>1) kategoria N : pojazdy zaprojektowane i wykonane do przewozu ładunków
+                    i mające maksymalną masę całkowitą nieprzekraczającą 3,5 t;
+                    <br/>2) kategoria N : pojazdy zaprojektowane i wykonane do przewozu ładunków
+                    i mające maksymalną masę całkowitą przekraczającą 3,5 t, ale nieprzekraczającą
+                    12 t;
+                    <br/>3) kategoria N : pojazdy zaprojektowane i wykonane do przewozu ładunków
+                    i mające maksymalną masę całkowitą przekraczającą 12 t.
+                    <br/><br/>3. Kategoria O: przyczepy, w tym:
+                    <br/>1) kategoria O : przyczepy o maksymalnej masie całkowitej nieprzekraczającej
+                    750 kg;
+                    <br/>2) kategoria O : przyczepy o maksymalnej masie całkowitej przekraczającej
+                    750 kg, ale nieprzekraczającej 3,5 t;
+                    <br/>3) kategoria O : przyczepy o maksymalnej masie całkowitej przekraczającej 3,5 t,
+                    ale nieprzekraczającej 10 t;
+                    <br/>4) kategoria O : przyczepy o maksymalnej masie całkowitej przekraczającej 10 t.
+                    <br/><br/>4. Kategoria L: pojazdy dwukołowe lub trójkołowe, niektóre pojazdy
+                    czterokołowe, w tym:
+                    <br/>1) kategoria L1e – motorowery dwukołowe;
+                    <br/>2) kategoria L2e – motorowery trójkołowe; 3) kategoria L3e – motocykle dwukołowe bez bocznego wózka;
+                    <br/>4) kategoria L4e – motocykle dwukołowe z bocznym wózkiem;
+                    <br/>5) kategoria L5e – motocykle trójkołowe;
+                    <br/>6) kategoria L6e – czterokołowce lekkie;
+                    <br/>7) kategoria L7e – czterokołowce.
+                    Do kategorii L nie mogą być zaliczone pojazdy:
+                    a) których maksymalna prędkość konstrukcyjna nie przekracza 6 km/h,
+                    b) przeznaczone do kierowania przez osobę pieszą,
+                    c) ciągniki i maszyny używane do celów rolniczych lub podobnych,
+                    d) rowery i wózki rowerowe.
+                    <br/><br/>5. Kategoria T: ciągniki rolnicze, w tym:
+                    <br/>1) kategoria T : ciągniki kołowe o maksymalnej prędkości konstrukcyjnej
+                    nieprzekraczającej 40 km/h, mające oś położoną najbliżej kierowcy,
+                    o minimalnym rozstawie kół nie mniejszym niż 1150 mm, masę własną, w stanie
+                    gotowości do jazdy, przekraczającą 600 kg i prześwit nie większy niż 1000 mm.
+                    W przypadku ciągników ze zmianą pozycji kierowcy (zmiana położenia
+                    siedzenia i koła kierownicy), osią położoną najbliżej kierowcy musi być oś z
+                    zamontowanymi oponami o największej średnicy;
+                    <br/>2) kategoria T : ciągniki kołowe o maksymalnej prędkości konstrukcyjnej
+                    nieprzekraczającej 40 km/h, mające minimalny rozstaw kół mniejszy niż
+                    1150 mm, masę własną, w stanie gotowości do jazdy, przekraczającą 600 kg
+                    i prześwit nie większy niż 600 mm. W przypadku gdy wysokość środka ciężkości
+                    ciągnika (mierzona względem podłoża) podzielona przez minimalny rozstaw kół
+                    każdej osi przekracza 0,90, maksymalna prędkość konstrukcyjna jest
+                    ograniczona do 30 km/h;
+                    <br/>3) kategoria T : ciągniki kołowe o maksymalnej prędkości konstrukcyjnej
+                    nieprzekraczającej 40 km/h i masie własnej, w stanie gotowości do jazdy,
+                    nieprzekraczającej 600 kg;
+                    <br/>4) kategoria T : ciągniki kołowe specjalnej konstrukcji o maksymalnej prędkości
+                    konstrukcyjnej nieprzekraczającej 40 km/h, w ramach której ze względu na
+                    prześwit i szerokość wyróżnia się kategorie T , T , oraz T ;
+                    <br/>5) kategoria T : ciągniki kołowe o maksymalnej prędkości konstrukcyjnej
+                    przekraczającej 40 km/h. 6. Kategoria C: ciągniki gąsienicowe, w tym ciągniki kategorii C , C , C , C , C
+                    – według kryteriów podziału jak dla kategorii T. W ramach kategorii C wyróżnia
+                    się kategorie C , C , oraz C według podziału jak dla kategorii T , T , oraz
+                    T .
+                    <br/><br/>7. Kategoria R: przyczepy rolnicze, w tym:
+                    <br/>1) kategoria R : przyczepy o maksymalnej masie całkowitej nieprzekraczającej
+                    1,5 t;
+                    <br/>2) kategoria R : przyczepy o maksymalnej masie całkowitej przekraczającej 1,5 t,
+                    ale nieprzekraczającej 3,5 t;
+                    <br/>3) kategoria R : przyczepy o maksymalnej masie całkowitej przekraczającej 3,5 t,
+                    ale nieprzekraczającej 21 t;
+                    <br/>4) kategoria R : przyczepy o maksymalnej masie całkowitej przekraczającej 21 t.
+                    Każda kategoria przyczep oznaczona jest także indeksem „a” lub „b”, zależnie
+                    od jej konstrukcyjnej prędkości:
+                    – „a” dla przyczep o maksymalnej prędkości konstrukcyjnej mniejszej lub równej
+                    40 km/h,
+                    – „b” dla przyczep o maksymalnej prędkości konstrukcyjnej większej niż 40 km/h.</p>
+            </div>
+        </div>
+        <div class="popups">
+        6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/de/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Zurück zu Fragen"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Verkehrsregeln"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 26"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Kodeks drogowy - Część 26 | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Kodeks drogowy - Część 26"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

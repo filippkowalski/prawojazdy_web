@@ -1,0 +1,262 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","uk","references","znaki_ostrzegawcze",""],"q":"","i":false,"f":[[["",{"children":[["locale","uk","d"],{"children":["references",{"children":[["page","znaki_ostrzegawcze","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"uk"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/uk/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Умови використання"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/uk/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Політика конфіденційності"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Водійські права. Всі права захищені."}]]}]}]}]]}]
+11:T53b3,
+            <h2 style="margin:0"><span class="small-caps">Znaki ostrzegawcze</span></h2>
+            <p class="hyphenate"><a name="3"></a><strong>§ 3.</strong></p>
+            <p class="hyphenate"><a name="3.1"></a>1. Znaki ostrzegawcze uprzedzają o miejscach na drodze, w których występuje lub może występować niebezpieczeństwo, oraz zobowiązują uczestników ruchu do zachowania szczególnej ostrożności.</p>
+            <p class="hyphenate"><a name="3.2"></a>2. Odległość znaku ostrzegawczego od miejsca niebezpiecznego wynosi od 150 m do 300 m na drogach, na których dopuszczalna prędkość pojazdów przekracza 60 km/h, a do 100 m na pozostałych drogach.
+            </p>
+            <p class="hyphenate"><a name="3.3"></a>3. Przepisu ust. 2 nie stosuje się do znaku A-7, który umieszcza się w odległości do 50 m od skrzyżowania na drogach, na których dopuszczalna prędkość pojazdów przekracza 60 km/h, oraz do 25 m od
+                skrzyżowania na pozostałych drogach, z zastrzeżeniem § 5 ust. 5.</p>
+            <p class="hyphenate"><a name="3.4"></a>4. Umieszczona pod znakiem ostrzegawczym tabliczka T-1 wskazuje odległość znaku od miejsca niebezpiecznego.</p>
+            <p class="hyphenate"><a name="3.5"></a>5. Umieszczona pod znakiem ostrzegawczym tabliczka T-2 wskazuje długość odcinka drogi, na którym powtarza się lub występuje niebezpieczeństwo, jeżeli długość odcinka przekracza 500 m; umieszczona
+                pod znakiem ostrzegawczym tabliczka T-3 oznacza koniec takiego odcinka.</p>
+            <p class="hyphenate"><a name="4"></a><strong>§ 4.</strong></p>
+            <p class="hyphenate"><a name="4.1"></a>1. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-1.png"/>
+                <p style="margin-bottom:30px">1) A-1 „niebezpieczny zakręt w prawo”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-2.png"/>
+                <p style="margin-bottom:30px">2) A-2 „niebezpieczny zakręt w lewo”</p>
+            </div>
+            <p>Ostrzegają o niebezpiecznym zakręcie w kierunku wskazanym na znaku.</p>
+            <p class="hyphenate"><a name="4.2"></a>2. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-3.png"/>
+                <p style="margin-bottom:30px">1) A-3 „niebezpieczne zakręty - pierwszy w prawo”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-4.png"/>
+                <p style="margin-bottom:30px">2) A-4 „niebezpieczne zakręty - pierwszy w lewo”</p>
+            </div>
+            <p>Ostrzegają o niebezpiecznych zakrętach, z których pierwszy jest w kierunku wskazanym na znaku.</p>
+            <p class="hyphenate"><a name="4.3"></a>3. Umieszczona pod znakiem A-3 lub A-4 tabliczka T-4 wskazuje liczbę zakrętów większą niż dwa, natomiast tabliczka T-5 wskazuje początek drogi krętej.</p>
+            <p class="hyphenate"><a name="5"></a><strong>§ 5.</strong></p>
+            <p class="hyphenate"><a name="5.1"></a>1. Znak A-5 „skrzyżowanie dróg” ostrzega o skrzyżowaniu dróg, na którym pierwszeństwo nie jest określone znakami.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-5.png"/>
+                <div>A-5</div>
+            </div>
+            <p class="hyphenate"><a name="5.2"></a>2. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-6a.png"/>
+                <p style="margin-bottom:30px">1) A-6a „skrzyżowanie z drogą podporządkowaną występującą po obu stronach”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-6b.png"/>
+                <p style="margin-bottom:30px">2) A-6b „skrzyżowanie z drogą podporządkowaną występującą po prawej stronie”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-6c.png"/>
+                <p style="margin-bottom:30px">3) A-6c „skrzyżowanie z drogą podporządkowaną występującą po lewej stronie”</p>
+            </div>
+            <p>ostrzegają o skrzyżowaniu z drogą podporządkowaną, występującą po stronie wskazanej na znaku.</p>
+            <p class="hyphenate"><a name="5.3"></a>3. Umieszczona pod znakami A-6a, A-6b lub A-6c tabliczka T-6b wskazuje układ dróg na skrzyżowaniu.</p>
+            <p class="hyphenate"><a name="5.4"></a>4. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-6d.png"/>
+                <p style="margin-bottom:30px">1) A-6d „wlot drogi jednokierunkowej z prawej strony”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-6e.png"/>
+                <p style="margin-bottom:30px">2) A-6e „wlot drogi jednokierunkowej z lewej strony”</p>
+            </div>
+
+            ostrzegają o skrzyżowaniu z jednokierunkową drogą podporządkowaną, której wlot występuje po stronie wskazanej na znaku.</p>
+            <p class="hyphenate"><a name="5.5"></a>5. Znak A-7 „ustąp pierwszeństwa” ostrzega o skrzyżowaniu z drogą z pierwszeństwem. Znak A-7 znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni, przed którą został
+                umieszczony.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-7.png"/>
+                <div>A-7</div>
+            </div>
+            <p class="hyphenate"><a name="5.6"></a>6. Przepis ust. 5 stosuje się odpowiednio do znaku A-7 umieszczonego przed torowiskiem pojazdów szynowych lub w innych miejscach przecinania się kierunków ruchu.</p>
+            <p class="hyphenate"><a name="5.7"></a>7. Umieszczona pod znakiem A-7 tabliczka T-6c lub T-6d wskazuje rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie.</p>
+            <p class="hyphenate"><a name="5.8"></a>8. Znak A-8 „skrzyżowanie o ruchu okrężnym” ostrzega o skrzyżowaniu, na którym ruch odbywa się dookoła wyspy lub placu w kierunku wskazanym na znaku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-8.png"/>
+                <div>A-8</div>
+            </div>
+            <p class="hyphenate"><a name="6"></a><strong>§ 6.</strong></p>
+            <p class="hyphenate"><a name="6.1"></a>1. Znak A-9 „przejazd kolejowy z zaporami” ostrzega o przejeździe kolejowym wyposażonym w zapory lub półzapory.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-9.png"/>
+                <div>A-9</div>
+            </div>
+            <p class="hyphenate"><a name="6.2"></a>2. Znak A-10 „przejazd kolejowy bez zapór” ostrzega o przejeździe kolejowym niewyposażonym ani w zapory, ani w półzapory.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-10.png"/>
+                <div>A-10</div>
+            </div>
+            <p class="hyphenate"><a name="6.3"></a>3. Umieszczona pod znakiem A-9 lub A-10 tabliczka T-7 wskazuje układ torów i drogi na przejeździe.</p>
+            <p class="hyphenate"><a name="7"></a><strong>§ 7.</strong></p>
+            <p class="hyphenate"><a name="7.1"></a>1. Znak A-11 „nierówna droga” ostrzega o poprzecznej nierówności jezdni.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-11.png"/>
+                <div>A-11</div>
+            </div>
+            <p class="hyphenate"><a name="7.2"></a>2. Znak A-11a „próg zwalniający” ostrzega o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu pojazdów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-11a.png"/>
+                <div>A-11a</div>
+            </div>
+            <p class="hyphenate"><a name="7.3"></a>3. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-12a.png"/>
+                <p style="margin-bottom:30px">1) A-12a „zwężenie jezdni - dwustronne”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-12b.png"/>
+                <p style="margin-bottom:30px">2) A-12b „zwężenie jezdni - prawostronne”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-12c.png"/>
+                <p style="margin-bottom:30px">3) A-12c „zwężenie jezdni - lewostronne”</p>
+            </div>
+            <p>Ostrzegają o zwężeniu jezdni po stronie wskazanej na znaku, które może powodować utrudnienia ruchu.</p>
+            <p class="hyphenate"><a name="7.4"></a>4. Znak A-13 „ruchomy most” ostrzega o wjeździe na most zwodzony lub obrotowy.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-13.png"/>
+                <div>A-13</div>
+            </div>
+            <p class="hyphenate"><a name="7.5"></a>5. Znak A-14 „roboty na drodze” ostrzega o prowadzonych na drodze robotach; umieszczona pod znakiem tabliczka T-19 wskazuje na malowanie znaków poziomych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-14.png"/>
+                <div>A-14</div>
+            </div>
+            <p class="hyphenate"><a name="7.6"></a>6. Znak A-15 „śliska jezdnia” ostrzega o możliwości poślizgu pojazdu spowodowanego w szczególności zmianą nawierzchni jezdni, stałym lub okresowym jej zawilgoceniem.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-15.png"/>
+                <div>A-15</div>
+            </div>
+            <p class="hyphenate"><a name="8"></a><strong>§ 8.</strong></p>
+            <p class="hyphenate"><a name="8.1"></a>1. Znak A-16 „przejście dla pieszych” ostrzega o przejściu dla pieszych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-16.png"/>
+                <div>A-16</div>
+            </div>
+            <p class="hyphenate"><a name="8.2"></a>2. Znak A-17 „dzieci” ostrzega o miejscu na drodze szczególnie uczęszczanym przez dzieci lub o bliskości takiego miejsca.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-17.png"/>
+                <div>A-17</div>
+            </div>
+            <p class="hyphenate"><a name="9"></a><strong>§ 9.</strong></p>
+            <p class="hyphenate"> Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-18a.png"/>
+                <p style="margin-bottom:30px">1) A-18a „zwierzęta gospodarskie”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_a-18b.png"/>
+                <p style="margin-bottom:30px">2) A-18b „zwierzęta dzikie”</p>
+            </div>
+            <p>Ostrzegają o możliwości napotkania na drodze zwierząt.
+
+            </p>
+            <p class="hyphenate"><a name="10"></a><strong>§ 10.</strong></p>
+            <p class="hyphenate"><a name="10.1"></a>1. Znak A-19 „boczny wiatr” ostrzega o miejscu, w którym mogą występować silne boczne podmuchy wiatru.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-19.png"/>
+                <div>A-19</div>
+            </div>
+            <p class="hyphenate"><a name="10.2"></a>2. Znak A-20 „odcinek jezdni o ruchu dwukierunkowym” ostrzega jadących jezdnią jednokierunkową o miejscu, w którym rozpoczyna się ruch dwukierunkowy.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-20.png"/>
+                <div>A-20</div>
+            </div>
+            <p class="hyphenate"><a name="10.3"></a>3. Znak A-21 „tramwaj” ostrzega o przejeździe przez tory tramwajowe; umieszczona pod znakiem tabliczka T-7 wskazuje układ torów i drogi na tym przejeździe.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-21.png"/>
+                <div>A-21</div>
+            </div>
+            <p class="hyphenate"><a name="10.4"></a>4. Znak A-22 „niebezpieczny zjazd” ostrzega o znacznym spadku podłużnym drogi; umieszczona pod znakiem tabliczka T-9 wskazuje rzeczywistą wielkość spadku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-22.png"/>
+                <div>A-22</div>
+            </div>
+            <p class="hyphenate"><a name="10.5"></a>5. Znak A-23 „stromy podjazd” ostrzega o znacznym wzniesieniu drogi; umieszczona pod znakiem tabliczka T-9 wskazuje rzeczywistą wielkość wzniesienia.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-23.png"/>
+                <div>A-23</div>
+            </div>
+            <p class="hyphenate"><a name="10.6"></a>6. Znak A-24 „rowerzyści” ostrzega o miejscu, w którym rowerzyści wjeżdżają z drogi dla rowerów na jezdnię lub przez nią przejeżdżają.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-24.png"/>
+                <div>A-24</div>
+            </div>
+            <p class="hyphenate"><a name="10.7"></a>7. Znak A-25 „spadające odłamki skalne” ostrzega o możliwości spadania na drogę lub zalegania na niej odłamków skalnych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-25.png"/>
+                <div>A-25</div>
+            </div>
+            <p class="hyphenate"><a name="10.8"></a>8. Znak A-26 „lotnisko” ostrzega o możliwości nagłego pojawienia się nisko przelatującego samolotu lub śmigłowca.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-26.png"/>
+                <div>A-26</div>
+            </div>
+            <p class="hyphenate"><a name="10.9"></a>9. Znak A-27 „nabrzeże lub brzeg rzeki” ostrzega o odcinku drogi prowadzącym bezpośrednio do nabrzeża lub wzdłuż brzegu rzeki lub innego zbiornika wodnego.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-27.png"/>
+                <div>A-27</div>
+            </div>
+            <p class="hyphenate"><a name="10.10"></a>10. Znak A-28 „sypki żwir” ostrzega o odcinku drogi pokrytej żwirem (grysem), który może być wyrzucany spod kół jadących pojazdów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-28.png"/>
+                <div>A-28</div>
+            </div>
+            <p class="hyphenate"><a name="10.11"></a>11. Znak A-29 „sygnały świetlne” ostrzega o miejscu, w którym ruch jest kierowany za pomocą sygnalizacji świetlnej.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-29.png"/>
+                <div>A-29</div>
+            </div>
+            <p class="hyphenate"><a name="11"></a><strong>§ 11.</strong></p>
+            <p class="hyphenate"><a name="11.1"></a>1. Znak A-30 „inne niebezpieczeństwo” ostrzega o niebezpieczeństwie innego rodzaju niż określone pozostałymi znakami ostrzegawczymi. Umieszczona pod znakiem A-30 tabliczka wskazuje rodzaj
+                niebezpieczeństwa za pomocą symbolu lub napisu.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-30.png"/>
+                <div>A-30</div>
+            </div>
+            <p class="hyphenate"><a name="11.2"></a>2. Umieszczona pod znakiem A-30 tabliczka wskazuje:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-8.png"/>
+                <p style="margin-bottom:30px">1) T-8 - miejsce, w którym ruch pojazdów został skierowany na tory tramwajowe,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-10.png"/>
+                <p style="margin-bottom:30px">2) T-10 - przecięcie drogi z bocznicą kolejową lub torem o podobnym charakterze; w miejscu tak oznakowanym ruch na drodze jest wstrzymywany przez pracownika kolei podczas przejeżdżania (przetaczania)
+                    pociągu,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-11.png"/>
+                <p style="margin-bottom:30px">3) T-11 - przeprawę promową,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-12.png"/>
+                <p style="margin-bottom:30px">4) T-12 - podłużny uskok nawierzchni,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-13.png"/>
+                <p style="margin-bottom:30px">5) T-13 - odcinek drogi, na którym występują deformacje nawierzchni w postaci kolein,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-14.png"/>
+                <p style="margin-bottom:30px">6) T-14 - miejsce częstych wypadków o charakterze wskazanym na tabliczce,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-15.png"/>
+                <p style="margin-bottom:30px">7) T-15 - miejsce częstych wypadków spowodowanych śliską nawierzchnią jezdni ze względu na opady deszczu,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-16.png"/>
+                <p style="margin-bottom:30px">8) T-16 - miejsce wyjazdu pojazdów uprzywilejowanych wskazanych na tabliczce,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-17.png"/>
+                <p style="margin-bottom:30px">9) T-17 - granicę państwa,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-18.png"/>
+                <p style="margin-bottom:30px">10) T-18 - nieoczekiwaną zmianę kierunku ruchu o przebiegu wskazanym na tabliczce.</p>
+            </div>
+            <p class="hyphenate"><a name="11.3"></a>3. Tabliczka T-16 może być powtórzona bez znaku A-30 bezpośrednio przed miejscem wjazdu na drogę pojazdów uprzywilejowanych.</p>
+            <p class="hyphenate"><a name="12"></a><strong>§ 12.</strong></p>
+            <p class="hyphenate"><a name="12.1"></a>1. Znak A-31 „niebezpieczne pobocze” ostrzega o niebezpiecznym poboczu (miękkim lub obniżonym); znak z odwróconym symbolem ostrzega o niebezpiecznym poboczu występującym po lewej stronie drogi.
+            </p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-31.png"/>
+                <div>A-31</div>
+            </div>
+            <p class="hyphenate"><a name="12.2"></a>2. Znak A-32 „oszronienie jezdni” ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-32.png"/>
+                <div>A-32</div>
+            </div>
+            <p class="hyphenate"><a name="13"></a><strong>§ 13.</strong></p>
+            <p class="hyphenate"><a name="13.1"></a>1. Znak A-33 „zator drogowy” ostrzega o częstym występowaniu zablokowania ruchu pojazdów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-33.png"/>
+                <div>A-33</div>
+            </div>
+            <p class="hyphenate"><a name="13.2"></a>2. Znak A-34 „wypadek drogowy” ostrzega o miejscu, w którym na skutek wypadku drogowego nastąpiło zablokowanie drogi lub znaczne utrudnienie ruchu pojazdów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_a-34.png"/>
+                <div>A-34</div>
+            </div>
+            <p class="hyphenate"><a name="14"></a><strong>§ 14.</strong></p>
+            <p class="hyphenate"> Znaki ostrzegawcze w postaci znaków świetlnych, na których symbole barwy białej znajdują się na czarnym tle, mają takie samo znaczenie, jak znaki w postaci tarcz z czarnymi symbolami. Przepis ten stosuje się
+                odpowiednio do symboli i napisów na tabliczkach pod znakami.</p>
+            </p></p></p></p></p></p>6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/uk/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Повернутися до питань"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Правила дорожнього руху"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Znaki ostrzegawcze"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Znaki ostrzegawcze | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Znaki ostrzegawcze"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

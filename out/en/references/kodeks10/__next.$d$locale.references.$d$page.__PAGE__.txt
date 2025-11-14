@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T1833,
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zt.</strong><br/> 1. Spełnienie odpowiednich warunków lub wymagań technicznych
+                    danego pojazdu określonych w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE, potwierdza się świadectwem dopuszczenia indywidualnego WE
+                    pojazdu.
+                    <br/><br/>2. Dopuszczeniu indywidualnemu WE pojazdu podlega nowy pojazd kategorii
+                    M i N , o którym mowa w dodatku 2 do części I do załącznika IV do dyrektywy
+                    2007/46/WE, przed wprowadzeniem do obrotu na terytorium Rzeczypospolitej
+                    Polskiej, na którego typ producent lub importer nie uzyskał świadectwa homologacji
+                    typu WE pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zu.</strong><br/> 1. Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje,
+                    w drodze decyzji administracyjnej, Dyrektor Transportowego Dozoru Technicznego,
+                    za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
+                    <br/><br/>2. Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje się na
+                    wniosek producenta, importera albo właściciela pojazdu.
+                    <br/><br/>3. Do wniosku, o którym mowa w ust. 2, dołącza się:
+                    <br/>1) dokumenty, o których mowa w pkt 1 dodatku 2 do części I do załącznika IV do
+                    dyrektywy 2007/46/WE;
+                    <br/>2) kopię dowodu uiszczenia opłaty za dopuszczenie indywidualne WE pojazdu;
+                    <br/>3) oświadczenie o następującej treści:
+                    „Oświadczam, że w zakresie pojazdu o numerze VIN …, złożyłem tylko
+                    jeden wniosek i tylko w jednym państwie członkowskim Unii
+                    Europejskiej”.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zv.</strong><br/> 1. Badanie potwierdzające spełnienie odpowiednich warunków lub
+                    wymagań technicznych w celu uzyskania świadectwa dopuszczenia indywidualnego
+                    WE pojazdu przeprowadza jednostka uprawniona, na wniosek producenta, importera
+                    albo właściciela pojazdu.
+                    <br/><br/>2. Do wniosku, o którym mowa w ust. 1, dołącza się:
+                    <br/>1) dokument informacyjny pojazdu sporządzony zgodnie z załącznikiem I do
+                    dyrektywy 2007/46/WE;
+                    <br/>2) kopie świadectw homologacji typu lub inne dokumenty potwierdzające
+                    spełnienie odpowiednich wymagań technicznych określonych w pkt 4 w dodatku
+                    2 do części I do załącznika IV do dyrektywy 2007/46/WE. 3. Z przeprowadzonego badania jednostka sporządza sprawozdanie z badań
+                    potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych
+                    w celu dopuszczenia indywidualnego WE pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zw.</strong><br/> Opłata, o której mowa w art. 70zu ust. 1, stanowi przychód
+                    Transportowego Dozoru Technicznego.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zx.</strong><br/> 1. Minister właściwy do spraw transportu określi, w drodze
+                    rozporządzenia:
+                    <br/>1) wzory dokumentów związanych z wydaniem świadectwa dopuszczenia
+                    indywidualnego WE pojazdu;
+                    <br/>2) wysokość opłat za wydanie świadectwa dopuszczenia indywidualnego WE
+                    pojazdu.
+                    <br/><br/>2. Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
+                    <br/>1) potrzebę zapewnienia zabezpieczenia dokumentów przed podrobieniem lub
+                    przerobieniem;
+                    <br/>2) koszty czynności administracyjnych oraz koszty związane z wydaniem
+                    świadectwa dopuszczenia indywidualnego WE pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zy.</strong><br/> Maksymalne stawki opłat, o których mowa w art. 70h ust. 2, art. 70j
+                    ust. 4, art. 70k ust. 4, art. 70za ust. 1, art. 70ze ust. 2, art. 70zo ust. 1, art. 70zp ust. 2
+                    i art. 70zu ust. 1 ulegają corocznie zmianie na następny rok kalendarzowy w stopniu
+                    odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług
+                    konsumpcyjnych ogółem, ogłaszanemu przez Prezesa Głównego Urzędu
+                    Statystycznego w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej
+                    Polskiej „Monitor Polski”.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zz.</strong><br/> Przepisów rozdziałów 1a–1c nie stosuje się do:
+                    <br/>1) pojazdów zabytkowych lub pojazdu określonego w art. 79 ust. 4 pkt 3;
+                    <br/>2) nowego pojazdu oraz nowego przedmiotu wyposażenia lub części,
+                    nieprzeznaczonych do wprowadzenia do obrotu, a krótkotrwale składowanych
+                    na terytorium Rzeczypospolitej Polskiej między operacjami transportowymi –
+                    pod warunkiem okazania na żądanie właściwego organu kontroli dokumentów
+                    potwierdzających odbiorcę i miejsce docelowego odbioru nowego pojazdu oraz
+                    nowego przedmiotu wyposażenia lub części. </p>
+            </div>
+        </div>
+        <div class="popups">
+        0:{"buildId":"SYaHkCXjnDtPpqb4OqRg1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L2",null,{"href":"/en/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Back to questions"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Traffic Regulations"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 10"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

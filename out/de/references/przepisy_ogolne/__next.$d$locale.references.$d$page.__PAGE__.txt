@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T13bc,
+            <h2 style="margin:0"><span class="small-caps">ROZDZIAŁ 1</span></h2>
+            <p class="hyphenate"><strong>
+                Przepisy ogólne
+
+
+            </strong></p>
+            <p class="hyphenate"><a name="1"></a><strong>§ 1.</strong></p>
+            <p class="hyphenate"><a name="1.1"></a>1. Rozporządzenie określa znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania.</p>
+            <p class="hyphenate"><a name="1.2"></a>2. Ilekroć w rozporządzeniu jest mowa o:
+                <br/>1) drodze z pierwszeństwem - rozumie się przez to drogę oznakowaną jako droga z pierwszeństwem, na której kierujący zbliżający się do skrzyżowania ma pierwszeństwo w stosunku do kierujących zbliżających się do skrzyżowania
+                drogą oznakowaną jako podporządkowana;
+                <br/>2) drodze podporządkowanej - rozumie się przez to drogę oznakowaną jako droga podporządkowana, na której kierujący zbliżający się do skrzyżowania jest obowiązany ustąpić pierwszeństwa kierującym zbliżającym się do skrzyżowania
+                drogą oznakowaną jako droga z pierwszeństwem;
+                <br/>3) ustawie - rozumie się przez to ustawę z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
+            </p>
+            <p class="hyphenate"><a name="1.3"></a>3. Na drogach stosuje się następujące znaki i sygnały drogowe:
+                <br/>1) znaki pionowe w postaci tarcz, tablic z napisami lub symbolami, które występują również w postaci znaków świetlnych,
+                <br/>2) znaki poziome w postaci linii, napisów i symboli umieszczonych na nawierzchni drogi,
+                <br/>3) sygnały świetlne nadawane przez sygnalizatory,
+                <br/>4) sygnały dawane przez osoby do tego uprawnione,
+                <br/>5) sygnały dźwiękowe lub wibracyjne wysyłane przez urządzenia umieszczone na drodze.
+            </p>
+            <p class="hyphenate"><a name="1.4"></a>4. Oprócz znaków, o których mowa w ust. 3 pkt 1, stosuje się znaki związane z oznaczeniem pasa drogowego, obiektów drogowych i oznaczenia w postaci urządzeń bezpieczeństwa ruchu, w szczególności
+                w związku z zamknięciem drogi lub jej części dla ruchu, a w razie potrzeby - znaki z napisami wskazującymi sposób korzystania z drogi, jeżeli nie może on być wyrażony znakami określonymi w załączniku do niniejszego rozporządzenia.
+            </p>
+            <p class="hyphenate"><a name="2"></a><strong>§ 2.</strong></p>
+            <p class="hyphenate"><a name="2.1"></a>1. Znak drogowy pionowy umieszczony po prawej stronie jezdni lub nad jezdnią dotyczy kierujących znajdujących się na wszystkich pasach ruchu; jeżeli jednak znaki są umieszczone nad poszczególnymi
+                pasami ruchu, to znak dotyczy tylko kierujących znajdujących się na pasie, nad którym znak jest umieszczony. Znak drogowy umieszczony po lewej stronie jezdni lub pasów ruchu stanowi powtórzenie znaku umieszczonego po prawej
+                stronie, chyba że przepisy szczególne stanowią inaczej.</p>
+            <p class="hyphenate"><a name="2.2"></a>2. Kierujący jest obowiązany stosować się do znaku drogowego pionowego umieszczonego na wysyłającym żółte sygnały błyskowe pojeździe, który wykonuje na drodze prace porządkowe, remontowe lub
+                modernizacyjne.</p>
+            <p class="hyphenate"><a name="2.3"></a>3. Znaki drogowe wyrażające zakazy lub nakazy odnoszące się do kierunku jazdy oraz znaki zakazu wjazdu pojazdów o określonych wymiarach, masie lub naciskach osi nie dotyczą kierującego pojazdem
+                szynowym, poruszającego się po wyznaczonej dla niego trasie.</p>
+            <p class="hyphenate"><a name="2.4"></a>4. Napis lub symbol umieszczony na tabliczce pod znakiem drogowym stanowi integralną część znaku.</p>
+            <p class="hyphenate"><a name="2.5"></a>5. Jeżeli na znaku lub tabliczce jest podany układ dróg na skrzyżowaniu (schemat skrzyżowania) liniami o różnej szerokości, to linia szersza oznacza drogę z pierwszeństwem.</p>
+            <p class="hyphenate"><a name="2.6"></a>6. Znaki poziome odzwierciedlające znaki pionowe ostrzegawcze lub zakazu stanowią powtórzenie zastosowanych znaków pionowych.</p>
+            <p class="hyphenate"><a name="2.7"></a>7. Przepisy ust. 1 i 4 stosuje się odpowiednio do sygnałów świetlnych do kierowania ruchem.</p>
+            <p class="hyphenate"><a name="2.8"></a>8. Wzory znaków drogowych, sygnałów drogowych, wzory tabliczek oraz ich spis określa, z zastrzeżeniem ust. 9, załącznik do rozporządzenia.</p>
+            <p class="hyphenate"><a name="2.9"></a>9. Znaki i sygnały dotyczące organizacji ruchu oraz znaki określające prędkość, wymiary, masę i naciski osi pojazdu podane są przykładowo. Dotyczy to również tabliczek przedstawiających pojazdy,
+                układ dróg na skrzyżowaniu i sytuacje na drodze.</p>
+        0:{"buildId":"SYaHkCXjnDtPpqb4OqRg1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L2",null,{"href":"/de/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Zurück zu Fragen"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Verkehrsregeln"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Przepisy ogólne"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","pl","references","znaki_drogowe_poziome",""],"q":"","i":false,"f":[[["",{"children":[["locale","pl","d"],{"children":["references",{"children":[["page","znaki_drogowe_poziome","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"pl"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/pl/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Regulamin"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/pl/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Polityka prywatności"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Prawo Jazdy. Wszelkie prawa zastrzeżone."}]]}]}]}]]}]
+11:T338b,
+            <h2 style="margin:0"><span class="small-caps">Znaki drogowe poziome</span></h2>
+            <p class="hyphenate"><a name="85"></a><strong>§ 85.</strong></p>
+            <p class="hyphenate"><a name="85.1"></a>1. Znakami drogowymi poziomymi są umieszczone na nawierzchni linie ciągłe lub przerywane, pojedyncze lub podwójne, strzałki, napisy, symbole i inne linie związane z oznaczaniem określonych
+                miejsc na drodze oraz punktowe elementy odblaskowe.</p>
+            <p class="hyphenate"><a name="85.2"></a>2. Znaki drogowe poziome są barwy białej lub żółtej, z zastrzeżeniem ust. 4.</p>
+            <p class="hyphenate"><a name="85.3"></a>3. Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej.</p>
+            <p class="hyphenate"><a name="85.4"></a>4. Umieszczone na jezdni punktowe elementy odblaskowe barwy czerwonej wyznaczają prawą krawędź jezdni. Lewa krawędź jezdni oraz pasy ruchu mogą być oznaczone punktowymi elementami odblaskowymi
+                barwy białej lub żółtej; przepis ust. 3 stosuje się odpowiednio.</p>
+            <p class="hyphenate"><a name="86"></a><strong>§ 86.</strong></p>
+            <p class="hyphenate"><a name="86.1"></a>1. Znak P-1 „linia pojedyncza przerywana”, w którym kreski są krótsze od przerw lub równe przerwom, wyznacza pasy ruchu.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-1.png"/>
+                <div>P-1</div>
+            </div>
+            <p class="hyphenate"><a name="86.2"></a>2. Znak P-1 o podwójnej szerokości, w którym kreski i przerwy są równe, informuje ponadto, że wyznaczony pas ruchu jest pasem:
+                <br/>1) ruchu powolnego,
+                <br/>2) zanikającym albo
+                <br/>3) przeznaczonym wyłącznie dla pojazdów wyjeżdżających na inną drogę lub jezdnię.
+            </p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-1.png"/>
+                <div>P-1</div>
+            </div>
+            <p class="hyphenate"><a name="86.3"></a>3. Znak P-2 „linia pojedyncza ciągła” oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania przez tę linię i najeżdżania na nią.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-2.png"/>
+                <div>P-2</div>
+            </div>
+            <p class="hyphenate"><a name="86.4"></a>4. Znak P-3 „linia jednostronnie przekraczalna” oznacza zakaz przejeżdżania przez tę linię od strony linii ciągłej i najeżdżania na nią, z wyjątkiem powrotu po wyprzedzaniu na położony przy
+                linii przerywanej pas ruchu zajmowany przed wyprzedzaniem.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-3.png"/>
+                <div>P-3</div>
+            </div>
+            <p class="hyphenate"><a name="86.5"></a>5. Znak P-4 „linia podwójna ciągła” rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz przejeżdżania przez tę linię i najeżdżania na nią.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-4.png"/>
+                <div>P-4</div>
+            </div>
+            <p class="hyphenate"><a name="86.6"></a>6. Znak P-5 „linia podwójna przerywana”, znajdująca się między skrzyżowaniami po obu stronach pasa ruchu, oznacza pas o zmiennym kierunku ruchu otwieranym i zamykanym sygnałami świetlnymi
+                nadawanymi przez sygnalizator S-4.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-5.png"/>
+                <div>P-5</div>
+            </div>
+            <p class="hyphenate"><a name="86.7"></a>7. Znak P-6 „linia ostrzegawcza”, w której kreski są dłuższe od przerw, rozdziela pasy ruchu i uprzedza o zbliżaniu się do linii, przez którą przejeżdżanie jest zabronione, lub do miejsca
+                niebezpiecznego.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-6.png"/>
+                <div>P-6</div>
+            </div>
+            <p class="hyphenate"><a name="86.8"></a>8. Umieszczone przy krawędzi jezdni znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_p-7a.png"/>
+                <p style="margin-bottom:30px">1) P-7a „linia krawędziowa przerywana”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_p-7b.png"/>
+                <p style="margin-bottom:30px">2) P-7b „linia krawędziowa ciągła”</p>
+            </div>
+            <p>Wyznaczają krawędź jezdni; znak P-7b oznacza ponadto zakaz wjazdu na pobocze kierującemu pojazdem samochodowym.</p>
+            <p class="hyphenate"><a name="87"></a><strong>§ 87.</strong></p>
+            <p class="hyphenate"><a name="87.1"></a>1. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_p-8a.png"/>
+                <p style="margin-bottom:30px">1) P-8a „strzałka kierunkowa na wprost”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_p-8b.png"/>
+                <p style="margin-bottom:30px">2) P-8b „strzałka kierunkowa do skręcania”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_p-8c.png"/>
+                <p style="margin-bottom:30px">3) P-8c „strzałka kierunkowa do zawracania”</p>
+            </div>
+            <p>Oznaczają, że jazda z pasa ruchu, na którym są umieszczone, jest dozwolona tylko w kierunku wskazanym strzałką; połączone symbole znaków P-8a, P-8b lub P-8c oznaczają zezwolenie na ruch w kierunkach wskazanych strzałkami
+                kierunkowymi.
+            </p>
+            <p class="hyphenate"><a name="87.2"></a>2. Strzałka kierunkowa zezwalająca na skręcanie w lewo, umieszczona na skrajnym lewym pasie ruchu, oznacza także zezwolenie na zawracanie, chyba że jest to zabronione znakiem pionowym B-23 lub
+                ruch jest kierowany sygnalizatorem S-3.</p>
+            <p class="hyphenate"><a name="87.3"></a>3. Znak P-9 „strzałka naprowadzająca” oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu.
+            </p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-9.png"/>
+                <div>P-9</div>
+            </div>
+            <p class="hyphenate"><a name="88"></a><strong>§ 88.</strong></p>
+            <p class="hyphenate"><a name="88.1"></a>1. Znak P-10 „przejście dla pieszych” oznacza miejsce przejścia dla pieszych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-10.png"/>
+                <div>P-10</div>
+            </div>
+            <p class="hyphenate"><a name="88.2"></a>2. Znak P-11 „przejazd dla rowerzystów” oznacza miejsce przejazdu dla rowerzystów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-11.png"/>
+                <div>P-11</div>
+            </div>
+            <p class="hyphenate"><a name="89"></a><strong>§ 89.</strong></p>
+            <p class="hyphenate"><a name="89.1"></a>1. Znak P-12 „linia bezwzględnego zatrzymania - stop” wskazuje miejsce zatrzymania pojazdu w związku ze znakami pionowymi B-20 lub B-32.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-12.png"/>
+                <div>P-12</div>
+            </div>
+            <p class="hyphenate"><a name="89.2"></a>2. Znak P-13 „linia warunkowego zatrzymania złożona z trójkątów” wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-13.png"/>
+                <div>P-13</div>
+            </div>
+            <p class="hyphenate"><a name="89.3"></a>3. Znak P-14 „linia warunkowego zatrzymania złożona z prostokątów” wskazuje miejsce zatrzymania pojazdu na skrzyżowaniu, przed przejściem dla pieszych lub przed sygnałem świetlnym.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-14.png"/>
+                <div>P-14</div>
+            </div>
+            <p class="hyphenate"><a name="89.4"></a>4. Znaki P-15 „trójkąt podporządkowania” i P-16 „napis stop” potwierdzają oznakowanie wlotu na skrzyżowanie znakami pionowymi odpowiednio A-7 i B-20.</p>
+            <p class="hyphenate"><a name="90"></a><strong>§ 90.</strong></p>
+            <p class="hyphenate"><a name="90.1"></a>1. Znak P-17 „linia przystankowa” wyznacza na jezdni miejsce przystanku pojazdów i oznacza, że zakaz zatrzymywania się innych pojazdów na przystanku obowiązuje na całej
+                długości linii.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-17.png"/>
+                <div>P-17</div>
+            </div>
+            <p class="hyphenate"><a name="90.2"></a>2. Znak P-18 „stanowisko postojowe” wyznacza miejsce przeznaczone do postoju pojazdów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-18.png"/>
+                <div>P-18</div>
+            </div>
+            <p class="hyphenate"><a name="90.3"></a>3. Znak P-19 „linia wyznaczająca pas postojowy” wyznacza pas przeznaczony na postój pojazdów wzdłuż krawędzi jezdni lub oddziela od niej zatokę postojową.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-19.png"/>
+                <div>P-19</div>
+            </div>
+            <p class="hyphenate"><a name="90.4"></a>4. Znak P-20 „koperta” wyznacza stanowisko postojowe zastrzeżone dla określonego rodzaju pojazdów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-20.png"/>
+                <div>P-20</div>
+            </div>
+            <p class="hyphenate"><a name="90.5"></a>5. Znak P-21 „powierzchnia wyłączona” oznacza powierzchnię drogi, na którą wjazd i zatrzymanie są zabronione.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-21.png"/>
+                <div>P-21</div>
+            </div>
+            <p class="hyphenate"><a name="91"></a><strong>§ 91.</strong></p>
+            <p class="hyphenate"><a name="91.1"></a>1. Znak P-22 „BUS” oznacza pas ruchu przeznaczony dla ruchu pojazdów wykonujących odpłatny przewóz osób na regularnych liniach.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-22.png"/>
+                <div>P-22</div>
+            </div>
+            <p class="hyphenate"><a name="91.2"></a>2. Znak P-23 „rower” oznacza drogę lub jej część (pas ruchu) przeznaczoną dla ruchu rowerów jednośladowych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_p-23.png"/>
+                <div>P-23</div>
+            </div>
+            <p class="hyphenate"><a name="91.3"></a>3. Na pasie ruchu mogą być umieszczone inne niż określone w ust. 1 i 2 napisy lub symbole oznaczające jego przeznaczenie.</p>
+            <p class="hyphenate"><a name="92"></a><strong>§ 92.</strong></p>
+            <p class="hyphenate"> Znak P-24 „miejsce dla pojazdu osoby niepełnosprawnej” oznacza, że stanowisko postojowe, na którym znak umieszczono, jest przeznaczone dla pojazdu samochodowego uprawnionej osoby niepełnosprawnej o obniżonej
+                sprawności ruchowej oraz dla kierującego pojazdem przewożącego taką osobę.
+
+            </p>
+            <p class="hyphenate"><a name="93"></a><strong>§ 93.</strong></p>
+            <p class="hyphenate"> Znak P-25 „próg zwalniający” oznacza wypukłość na jezdni zastosowaną w celu spowolnienia ruchu pojazdów.
+
+            </p>
+            <p class="hyphenate"><a name="94"></a><strong>§ 94.</strong></p>
+            <p class="hyphenate"> Przepisy § 85-87, 89 i 90 stosuje się odpowiednio do kolumn pieszych, jeźdźców i poganiaczy.
+
+            </p></p></p>6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/pl/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Powrót do pytań"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Przepisy ruchu drogowego"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Znaki drogowe poziome"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Znaki drogowe poziome | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Znaki drogowe poziome"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

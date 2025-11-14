@@ -1,0 +1,1500 @@
+1:"$Sreact.fragment"
+2:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T1c909,
+            <div>
+                <a name="1"></a>
+                <p class="hyphenate"><strong>Oddział 1
+                    Przepisy porządkowe
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="38"></a>
+                <p class="hyphenate"><strong>Art. 38.</strong><br/> 1. Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na
+                    żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego:
+                    <br/>1) dokument stwierdzający uprawnienie do kierowania pojazdem inny niż wydane
+                    w kraju prawo jazdy albo pozwolenie na kierowanie tramwajem, jeżeli kierujący
+                    nie posiada wydanego w kraju prawa jazdy albo pozwolenia na kierowanie
+                    tramwajem;
+                    <br/>2) (uchylony)
+                    <br/>3) (uchylony)
+                    3a) zaświadczenie o przeprowadzonym badaniu technicznym z wynikiem
+                    pozytywnym w zakresie wyposażenia pojazdu w blokadę alkoholową
+                    w przypadku, o którym mowa w art. 13 ust. 5 pkt 7 ustawy z dnia 5 stycznia
+                    2011 r. o kierujących pojazdami;
+                    3b) protokół z ostatniej drogowej kontroli technicznej, jeżeli taka była
+                    przeprowadzona – w przypadku pojazdu kategorii M , M , N i N , przyczepy
+                    kategorii O i O i ciągnika kołowego kategorii T użytkowanego na drodze
+                    publicznej do wykonywania zarobkowego przewozu rzeczy;
+                    <br/>4) zezwolenie, o którym mowa w art. 106 ust. 1 pkt 5 ustawy z dnia 5 stycznia
+                    2011 r. o kierujących pojazdami;
+                    4a) dokument potwierdzający kalibrację blokady alkoholowej, wystawiony przez
+                    producenta urządzenia lub jego upoważnionego przedstawiciela;
+                    4b) pokwitowanie zatrzymania:
+                    a) prawa jazdy albo pozwolenia na kierowanie tramwajem,
+                    b) dowodu rejestracyjnego albo pozwolenia czasowego,
+                    c) profesjonalnego dowodu rejestracyjnego
+                    – w okresie, w którym upoważnia ono do kierowania pojazdem albo jego
+                    używania;
+                    &lt;4c) kartę kwalifikacji kierowcy, o ile jest wymagana;&gt;
+                    <br/>5) inne dokumenty, jeżeli obowiązek taki wynika z odrębnej ustawy. 2. Kierujący pojazdem zarejestrowanym za granicą uczestniczącym w ruchu na
+                    terytorium Rzeczypospolitej Polskiej jest obowiązany mieć przy sobie i okazywać na
+                    żądanie uprawnionego organu dokumenty, o których mowa w ust. 1 pkt 1 i 3a–5, oraz
+                    dokument stwierdzający dopuszczenie pojazdu do ruchu i dokument potwierdzający
+                    zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej
+                    posiadacza pojazdu lub dowód opłacenia składki za to ubezpieczenie.
+                    2a. W przypadku, o którym mowa w ust. 2, w odniesieniu do pojazdu kategorii
+                    M , M , N i N , przyczepy kategorii O i O i ciągnika kołowego kategorii T
+                    użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy
+                    kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie
+                    uprawnionego organu również dokument potwierdzający przeprowadzenie badania
+                    technicznego, zawierający co najmniej:
+                    <br/>1) numer VIN albo numer nadwozia, podwozia lub ramy pojazdu;
+                    <br/>2) numer rejestracyjny i kraj rejestracji pojazdu;
+                    <br/>3) miejsce i datę przeprowadzonego badania technicznego;
+                    <br/>4) stwierdzone usterki i ich kategorie;
+                    <br/>5) wynik badania technicznego;
+                    <br/>6) aktualny termin ważności badania technicznego;
+                    <br/>7) nazwę organu kontrolnego lub stacji kontroli pojazdów oraz podpis lub numer
+                    ewidencyjny diagnosty, który przeprowadził badanie techniczne.
+                    <br/><br/>2b. Obowiązek, o którym mowa w ust. 2a, nie dotyczy kierującego nowym
+                    pojazdem w okresie od dnia jego pierwszej rejestracji za granicą do dnia terminu
+                    pierwszego okresowego badania technicznego.
+                    <br/><br/>2c. Kierujący pojazdem, o którym mowa w art. 73 ust. 3, jest obowiązany mieć
+                    przy sobie i okazywać na żądanie uprawnionego organu dokumenty, o których mowa
+                    w ust. 1 pkt 1, 4 i 5, oraz dokument stwierdzający dopuszczenie pojazdu do ruchu.
+                    <br/><br/>3. W przypadku wykonywania pojazdem jazdy testowej z wykorzystaniem
+                    profesjonalnego dowodu rejestracyjnego i profesjonalnych tablic (tablicy)
+                    rejestracyjnych, podmiot uprawniony, o którym mowa w art. 80s ust. 2, albo jego
+                    pracownik, z uwzględnieniem art. 80w ust. 3, jest obowiązany mieć przy sobie i
+                    okazywać na żądanie uprawnionego organu dokument stwierdzający dopuszczenie
+                    pojazdu do ruchu. </p>
+            </div>
+            <div>
+                <a name="39"></a>
+                <p class="hyphenate"><strong>Art. 39.</strong><br/> 1. Kierujący pojazdem samochodowym oraz osoba przewożona takim
+                    pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych
+                    pasów podczas jazdy, z zastrzeżeniem ust. 3, 3b i 3c.
+                    <br/><br/>2. Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy:
+                    <br/>1) osoby mającej zaświadczenie lekarskie o przeciwwskazaniu do używania pasów
+                    bezpieczeństwa;
+                    <br/>2) kobiety o widocznej ciąży;
+                    <br/>3) kierującego taksówką podczas przewożenia pasażera;
+                    <br/>4) instruktora lub egzaminatora podczas szkolenia lub egzaminowania;
+                    <br/>5) policjanta, funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, Agencji
+                    Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego,
+                    Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Celno-
+                    -Skarbowej i Służby Więziennej, żołnierza Sił Zbrojnych Rzeczypospolitej
+                    Polskiej – podczas przewożenia osoby (osób) zatrzymanej;
+                    <br/>6) funkcjonariusza Służby Ochrony Państwa podczas wykonywania czynności
+                    służbowych;
+                    6a) żołnierza Żandarmerii Wojskowej podczas wykonywania czynności ochronnych;
+                    <br/>7) zespołu medycznego w czasie udzielania pomocy medycznej;
+                    <br/>8) konwojenta podczas przewożenia wartości pieniężnych;
+                    <br/>9) osoby chorej lub niepełnosprawnej przewożonej na noszach lub w wózku
+                    inwalidzkim;
+                    <br/>10) dziecka w wieku poniżej 3 lat przewożonego pojazdem kategorii M i M ;
+                    <br/>11) dziecka przewożonego na zasadach przewidzianych w art. 2 ust. 2 ustawy z dnia
+                    20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami
+                    publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295).
+                    <br/><br/>2a. Kierujący pojazdem kategorii M i M , o których mowa w załączniku nr 2 do
+                    ustawy, wyposażonym w pasy bezpieczeństwa jest obowiązany do poinformowania
+                    osób przewożonych pojazdem o obowiązku korzystania z tych pasów podczas jazdy,
+                    chyba że zostały one o tym obowiązku poinformowane:
+                    <br/>1) przez znajdującą się w pojeździe osobę kierującą przewożoną grupą lub
+                    <br/>2) za pomocą urządzenia audiowizualnego, lub
+                    <br/>3) za pomocą znaku umieszczonego w widoczny sposób przy każdym miejscu
+                    siedzącym, zgodnego ze wzorem określonym w załączniku do dyrektywy Rady z dnia 16 grudnia 1991 r. odnoszącej się do obowiązkowego stosowania pasów
+                    bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach
+                    (91/671/EWG) (Dz. Urz. WE L 373 z 31.12.1991, str. 26, z późn. zm.; Dz. Urz.
+                    UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 353, z późn. zm.), zwanej dalej
+                    „dyrektywą nr 91/671/EWG”.
+                    <br/><br/>3. W pojeździe kategorii M , N , N i N , o których mowa w załączniku nr 2 do
+                    ustawy, wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla
+                    dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone, z wyjątkiem
+                    przypadku, o którym mowa w ust. 3b, w foteliku bezpieczeństwa dla dziecka lub
+                    innym urządzeniu przytrzymującym dla dzieci, zgodnym z:
+                    <br/>1) masą i wzrostem dziecka oraz
+                    <br/>2) właściwymi warunkami technicznymi określonymi w przepisach Unii
+                    Europejskiej lub w regulaminach EKG ONZ dotyczących urządzeń
+                    przytrzymujących dla dzieci w pojeździe.
+                    <br/><br/>3a. Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla
+                    dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia,
+                    wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane.
+                    <br/><br/>3b. Zezwala się na przewożenie w pojeździe kategorii M , N , N i N , o których
+                    mowa w załączniku nr 2 do ustawy, na tylnym siedzeniu pojazdu, dziecka mającego
+                    co najmniej 135 cm wzrostu przytrzymywanego za pomocą pasów bezpieczeństwa
+                    w przypadkach, kiedy ze względu na masę i wzrost dziecka nie jest możliwe
+                    zapewnienie fotelika bezpieczeństwa dla dziecka lub innego urządzenia
+                    przytrzymującego dla dzieci zgodnego z warunkami, o których mowa w ust. 3.
+                    <br/><br/>3c. Zezwala się na przewożenie w pojeździe kategorii M i N , o których mowa
+                    w załączniku nr 2 do ustawy, na tylnym siedzeniu pojazdu, trzeciego dziecka w wieku
+                    co najmniej 3 lat, przytrzymywanego za pomocą pasów bezpieczeństwa, w przypadku
+                    gdy dwoje dzieci jest przewożonych w fotelikach bezpieczeństwa dla dziecka lub
+                    innych urządzeniach przytrzymujących dla dzieci, zainstalowanych na tylnych
+                    siedzeniach pojazdu i nie ma możliwości zainstalowania trzeciego fotelika
+                    bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci.
+                    <br/><br/>4. Przepis ust. 3 nie dotyczy przewozu dziecka:
+                    <br/>1) taksówką; 2) specjalistycznym środkiem transportu sanitarnego, o którym mowa
+                    w art. 36 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie
+                    Medycznym (Dz. U. z 2020 r. poz. 882, 2112 i 2401 oraz z 2021 r. poz. 159);
+                    <br/>3) pojazdem Policji, Straży Granicznej lub straży gminnej (miejskiej);
+                    <br/>4) mającego zaświadczenie lekarskie o przeciwwskazaniu do przewożenia
+                    w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym
+                    dla dzieci.
+                    <br/><br/>5. Zaświadczenia lekarskie, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4,
+                    zawierają:
+                    <br/>1) imię i nazwisko;
+                    <br/>2) numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji
+                    Ludności (PESEL), a w przypadku osoby nieposiadającej numeru PESEL –
+                    serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę
+                    państwa, które wydało ten dokument;
+                    <br/>3) okres ważności;
+                    <br/>4) znak graficzny zgodny ze wzorem określonym w art. 5 dyrektywy
+                    nr 91/671/EWG.
+                    <br/><br/>6. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym
+                    do spraw transportu określi, w drodze rozporządzenia, wzory zaświadczeń lekarskich,
+                    o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, kierując się przepisami Unii Europejskiej
+                    dotyczącymi obowiązkowego stosowania pasów bezpieczeństwa i urządzeń
+                    przytrzymujących dla dzieci w pojazdach oraz mając na uwadze potrzebę
+                    ujednolicenia stosowanych dokumentów.
+                </p>
+            </div>
+            <div>
+                <a name="40"></a>
+                <p class="hyphenate"><strong>Art. 40.</strong><br/> 1. Kierujący motocyklem, czterokołowcem lub motorowerem oraz
+                    osoba przewożona takimi pojazdami są obowiązani używać w czasie jazdy kasków
+                    ochronnych odpowiadających właściwym warunkom technicznym.
+                    <br/><br/>2. Przepisu ust. 1 nie stosuje się do motocykli fabrycznie wyposażonych w pasy
+                    bezpieczeństwa.
+                    <br/><br/>3. Przepisu ust. 1 nie stosuje się do czterokołowców fabrycznie wyposażonych
+                    w nadwozie zamknięte i pasy bezpieczeństwa. </p>
+            </div>
+            <div>
+                <a name="41"></a>
+                <p class="hyphenate"><strong>Art. 41.</strong><br/> Osoba wykonująca roboty lub inne czynności na drodze jest obowiązana
+                    używać w sposób widoczny dla innych uczestników ruchu elementów odblaskowych
+                    odpowiadających właściwym warunkom technicznym.
+                </p>
+            </div>
+            <div>
+                <a name="42"></a>
+                <p class="hyphenate"><strong>Art. 42.</strong><br/> Niewidomy podczas samodzielnego poruszania się po drodze jest
+                    obowiązany nieść białą laskę w sposób widoczny dla innych uczestników ruchu.
+                </p>
+            </div>
+            <div>
+                <a name="43"></a>
+                <p class="hyphenate"><strong>Art. 43.</strong><br/> 1. Dziecko w wieku do 7 lat może korzystać z drogi tylko pod opieką
+                    osoby, która osiągnęła wiek co najmniej 10 lat. Nie dotyczy to strefy zamieszkania.
+                    <br/><br/>2. (uchylony)
+                    <br/><br/>3. Przepis ust. 1 nie dotyczy drogi przeznaczonej wyłącznie dla pieszych.
+                </p>
+            </div>
+            <div>
+                <a name="44"></a>
+                <p class="hyphenate"><strong>Art. 44.</strong><br/> 1. Kierujący pojazdem w razie uczestniczenia w wypadku drogowym
+                    jest obowiązany:
+                    <br/>1) zatrzymać pojazd, nie powodując przy tym zagrożenia bezpieczeństwa ruchu
+                    drogowego;
+                    <br/>2) przedsięwziąć odpowiednie środki w celu zapewnienia bezpieczeństwa ruchu
+                    w miejscu wypadku;
+                    <br/>3) niezwłocznie usunąć pojazd z miejsca wypadku, aby nie powodował zagrożenia
+                    lub tamowania ruchu, jeżeli nie ma zabitego lub rannego;
+                    <br/>4) podać swoje dane personalne, dane personalne właściciela lub posiadacza
+                    pojazdu oraz dane dotyczące zakładu ubezpieczeń, z którym zawarta jest umowa
+                    obowiązkowego ubezpieczenia odpowiedzialności cywilnej, na żądanie osoby
+                    uczestniczącej w wypadku.
+                    <br/><br/>2. Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany
+                    ponadto:
+                    <br/>1) udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa
+                    medycznego i Policję;
+                    <br/>2) nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu
+                    wypadku;
+                    <br/>3) pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa
+                    medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to
+                    miejsce.
+                    <br/><br/>3. Przepisy ust. 1 i 2 stosuje się odpowiednio do innych osób uczestniczących
+                    w wypadku. </p>
+            </div>
+            <div>
+                <a name="45"></a>
+                <p class="hyphenate"><strong>Art. 45.</strong><br/> 1. Zabrania się:
+                    <br/>1) kierowania pojazdem, prowadzenia kolumny pieszych, jazdy wierzchem lub
+                    pędzenia zwierząt osobie w stanie nietrzeźwości, w stanie po użyciu alkoholu lub
+                    środka działającego podobnie do alkoholu;
+                    <br/>2) holowania pojazdu kierowanego przez osobę, o której mowa w pkt 1;
+                    <br/>3) otwierania drzwi pojazdu, pozostawiania otwartych drzwi lub wysiadania bez
+                    upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu lub jego
+                    utrudnienia;
+                    <br/>4) wykorzystywania drogi lub poszczególnych jej części w sposób niezgodny
+                    z przeznaczeniem, chyba że przepisy szczegółowe stanowią inaczej;
+                    <br/>5) wjeżdżania na pas między jezdniami;
+                    <br/>6) pozostawiania na drodze przedmiotów, które mogłyby zagrozić bezpieczeństwu
+                    ruchu; jeżeli jednak usunięcie ich nie jest możliwe, należy je oznaczyć w sposób
+                    widoczny w dzień i w nocy;
+                    <br/>7) umieszczania na drodze lub w jej pobliżu urządzeń wysyłających lub
+                    odbijających światło w sposób powodujący oślepienie albo wprowadzających
+                    w błąd uczestników ruchu;
+                    <br/>8) samowolnego umieszczania lub włączania albo usuwania lub wyłączania znaków
+                    i sygnałów drogowych oraz urządzeń ostrzegawczo-zabezpieczających lub
+                    kontrolnych na drodze, jak również zmiany ich położenia lub ich zasłaniania;
+                    <br/>9) zaśmiecania lub zanieczyszczania drogi;
+                    <br/>10) samowolnego umieszczania na drodze jakichkolwiek znaków, napisów lub
+                    symboli.
+                    <br/><br/>2. Kierującemu pojazdem zabrania się:
+                    <br/>1) korzystania podczas jazdy z telefonu wymagającego trzymania słuchawki lub
+                    mikrofonu w ręku;
+                    <br/>2) przewożenia osoby, o której mowa w ust. 1 pkt 1, na rowerze lub motorowerze
+                    albo motocyklu, chyba że jest przewożona w bocznym wózku;
+                    <br/>3) przewożenia pasażera w sposób niezgodny z art. 39, 40 lub 63 ust. 1;
+                    <br/>4) przewożenia w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu
+                    przytrzymującym dla dzieci dziecka siedzącego tyłem do kierunku jazdy na
+                    przednim siedzeniu pojazdu samochodowego wyposażonego w poduszkę
+                    powietrzną dla pasażera, która jest aktywna podczas przewożenia dziecka; 5) przewożenia dziecka w wieku poniżej 3 lat w pojeździe kategorii M , N , N i N ,
+                    o których mowa w załączniku nr 2 do ustawy, niewyposażonym w pasy
+                    bezpieczeństwa i fotelik bezpieczeństwa dla dziecka lub w pasy bezpieczeństwa
+                    i inne urządzenie przytrzymujące dla dzieci;
+                    <br/>6) przewożenia na przednim siedzeniu pojazdu samochodowego, poza fotelikiem
+                    bezpieczeństwa dla dziecka lub innym urządzeniem przytrzymującym dla dzieci,
+                    dziecka mającego mniej niż 150 cm wzrostu.
+                </p>
+            </div>
+            <div>
+                <a name="2"></a>
+                <p class="hyphenate"><strong>Oddział 2
+                    Zatrzymanie i postój
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="46"></a>
+                <p class="hyphenate"><strong>Art. 46.</strong><br/> 1. Zatrzymanie i postój pojazdu są dozwolone tylko w miejscu
+                    i w warunkach, w których jest on z dostatecznej odległości widoczny dla innych
+                    kierujących i nie powoduje zagrożenia bezpieczeństwa ruchu drogowego lub jego
+                    utrudnienia.
+                    <br/><br/>2. Kierujący pojazdem, zatrzymując pojazd na jezdni, jest obowiązany ustawić
+                    go jak najbliżej jej krawędzi oraz równolegle do niej.
+                    <br/><br/>3. W czasie postoju na drodze poza obszarem zabudowanym pojazd powinien
+                    znajdować się, jeżeli to tylko możliwe, poza jezdnią.
+                    <br/><br/>4. Kierujący pojazdem jest obowiązany stosować sposób zatrzymania lub postoju
+                    wskazany znakami drogowymi.
+                    <br/><br/>5. Kierujący pojazdem jest obowiązany w czasie postoju zabezpieczyć pojazd
+                    przed możliwością jego uruchomienia przez osobę niepowołaną oraz zachować inne
+                    środki ostrożności niezbędne do uniknięcia wypadku.
+                </p>
+            </div>
+            <div>
+                <a name="47"></a>
+                <p class="hyphenate"><strong>Art. 47.</strong><br/> 1. Dopuszcza się zatrzymanie lub postój na chodniku kołami jednego
+                    boku lub przedniej osi pojazdu samochodowego o dopuszczalnej masie całkowitej
+                    nieprzekraczającej 2,5 t, pod warunkiem że:
+                    <br/>1) na danym odcinku jezdni nie obowiązuje zakaz zatrzymania lub postoju;
+                    <br/>2) szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im
+                    ruchu i jest nie mniejsza niż 1,5 m;
+                    <br/>3) pojazd umieszczony przednią osią na chodniku nie tamuje ruchu pojazdów na
+                    jezdni.
+                    <br/><br/>2. Dopuszcza się, przy zachowaniu warunków określonych w ust. 1 pkt 1 i 2,
+                    zatrzymanie lub postój na chodniku przy krawędzi jezdni całego samochodu osobowego, motocykla, motoroweru lub wózka rowerowego. Inny pojazd
+                    o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t może być w całości
+                    umieszczony na chodniku tylko w miejscu wyznaczonym odpowiednimi znakami
+                    drogowymi.
+                    <br/><br/>3. Dopuszcza się postój roweru, hulajnogi elektrycznej lub urządzenia transportu
+                    osobistego na chodniku w miejscu do tego przeznaczonym, a w razie braku takiego
+                    miejsca – jak najbliżej zewnętrznej krawędzi chodnika najbardziej oddalonej od jezdni
+                    oraz równolegle do tej krawędzi, przy zachowaniu warunków określonych w ust. 1
+                    pkt 2.
+                </p>
+            </div>
+            <div>
+                <a name="47"></a>
+                <p class="hyphenate"><strong>Art. 47a.</strong><br/> Kierujący pojazdem w tunelu, podczas zatrzymania wynikającego
+                    z warunków lub przepisów ruchu drogowego, jest obowiązany zachować odstęp od
+                    poprzedzającego pojazdu nie mniejszy niż 5 m.
+                </p>
+            </div>
+            <div>
+                <a name="48"></a>
+                <p class="hyphenate"><strong>Art. 48.</strong><br/> (uchylony)
+                </p>
+            </div>
+            <div>
+                <a name="49"></a>
+                <p class="hyphenate"><strong>Art. 49.</strong><br/> 1. Zabrania się zatrzymania pojazdu:
+                    <br/>1) na przejeździe kolejowym, na przejeździe tramwajowym, na skrzyżowaniu oraz
+                    w odległości mniejszej niż 10 m od przejazdu lub skrzyżowania;
+                    <br/>2) na przejściu dla pieszych, na przejeździe dla rowerzystów oraz w odległości
+                    mniejszej niż 10 m przed tym przejściem lub przejazdem; na drodze
+                    dwukierunkowej o dwóch pasach ruchu zakaz ten obowiązuje także za tym
+                    przejściem lub przejazdem;
+                    <br/>3) w tunelu, na moście lub na wiadukcie;
+                    <br/>4) na jezdni wzdłuż linii ciągłej oraz w pobliżu jej punktów krańcowych, jeżeli
+                    zmusiłoby to innych kierujących pojazdami wielośladowymi do najeżdżania na
+                    tę linię;
+                    <br/>5) na jezdni obok linii przerywanej wyznaczającej krawędź jezdni oraz na jezdni
+                    i na poboczu obok linii ciągłej wyznaczającej krawędź jezdni;
+                    <br/>6) w odległości mniejszej niż 10 m od przedniej strony znaku lub sygnału
+                    drogowego, jeżeli zostałyby one zasłonięte przez pojazd;
+                    <br/>7) na jezdni przy jej lewej krawędzi, z wyjątkiem zatrzymania lub postoju pojazdu
+                    na obszarze zabudowanym na drodze jednokierunkowej lub na jezdni
+                    dwukierunkowej o małym ruchu;
+                    <br/>8) na pasie między jezdniami; 9) w odległości mniejszej niż 15 m od słupka lub tablicy oznaczającej przystanek,
+                    a na przystanku z zatoką – na całej jej długości;
+                    <br/>10) w odległości mniejszej niż 15 m od punktów krańcowych wysepki, jeżeli jezdnia
+                    z prawej jej strony ma tylko jeden pas ruchu;
+                    <br/>11) na drodze dla rowerów, pasie ruchu dla rowerów oraz w śluzie rowerowej,
+                    z wyjątkiem roweru.
+                    <br/><br/>2. Zabrania się postoju:
+                    <br/>1) w miejscu utrudniającym wjazd lub wyjazd, w szczególności do i z bramy,
+                    garażu, parkingu lub wnęki postojowej;
+                    <br/>2) w miejscu utrudniającym dostęp do innego prawidłowo zaparkowanego pojazdu
+                    lub wyjazd tego pojazdu;
+                    <br/>3) przed i za przejazdem kolejowym, po obu stronach drogi, na odcinku od
+                    przejazdu kolejowego do słupka wskaźnikowego z jedną kreską;
+                    <br/>4) w strefie zamieszkania w innym miejscu niż wyznaczone w tym celu;
+                    <br/>5) na obszarze zabudowanym, pojazdu lub zespołu pojazdów o dopuszczalnej
+                    masie całkowitej przekraczającej 16 t lub o długości przekraczającej 12 m, poza
+                    wyznaczonymi w tym celu parkingami.
+                    <br/><br/>3. Zabrania się zatrzymania lub postoju pojazdu na autostradzie lub drodze
+                    ekspresowej w innym miejscu niż wyznaczone w tym celu. Jeżeli unieruchomienie
+                    pojazdu nastąpiło z przyczyn technicznych, kierujący pojazdem jest obowiązany
+                    usunąć pojazd z jezdni oraz ostrzec innych uczestników ruchu.
+                    <br/><br/>4. Zakaz zatrzymania lub postoju pojazdu nie dotyczy unieruchomienia pojazdu
+                    wynikającego z warunków lub przepisów ruchu drogowego.
+                </p>
+            </div>
+            <div>
+                <a name="50"></a>
+                <p class="hyphenate"><strong>Art. 50.</strong><br/> 1. Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu
+                    silnikowego lub przyczepy z powodu uszkodzenia lub wypadku:
+                    <br/>1) na autostradzie lub drodze ekspresowej – w każdym przypadku;
+                    <br/>2) na pozostałych drogach twardych:
+                    a) poza obszarem zabudowanym – w razie postoju na jezdni w miejscu,
+                    w którym jest to zabronione, a na poboczu, jeżeli pojazd nie jest widoczny
+                    z dostatecznej odległości,
+                    b) na obszarze zabudowanym – w razie postoju na jezdni w miejscu, w którym
+                    zatrzymanie jest zabronione. 2. Postój pojazdu, o którym mowa w ust. 1, należy sygnalizować w sposób
+                    następujący:
+                    <br/>1) na autostradzie lub drodze ekspresowej – przez:
+                    a) włączenie świateł awaryjnych pojazdu, a jeżeli pojazd nie jest w nie
+                    wyposażony, należy włączyć światła pozycyjne,
+                    b) umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m
+                    za pojazdem; trójkąt ten umieszcza się na jezdni lub poboczu, odpowiednio
+                    do miejsca unieruchomienia pojazdu;
+                    <br/>2) na pozostałych drogach:
+                    a) poza obszarem zabudowanym – przez umieszczenie w odległości 30–50 m
+                    za pojazdem ostrzegawczego trójkąta odblaskowego i włączenie świateł
+                    awaryjnych; w razie gdy pojazd nie jest wyposażony w światła awaryjne,
+                    należy włączyć światła pozycyjne,
+                    b) na obszarze zabudowanym – przez włączenie świateł awaryjnych, a jeżeli
+                    pojazd nie jest w nie wyposażony, należy włączyć światła pozycyjne
+                    i umieścić ostrzegawczy trójkąt odblaskowy za pojazdem lub na nim, na
+                    wysokości nie większej niż 1 m.
+                    <br/><br/>3. Sygnalizowanie, o którym mowa w ust. 1 i 2, obowiązuje przez cały czas
+                    postoju pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="50"></a>
+                <p class="hyphenate"><strong>Art. 50a.</strong><br/> 1. Pojazd pozostawiony bez tablic rejestracyjnych lub pojazd, którego
+                    stan wskazuje na to, że nie jest używany, może zostać usunięty z drogi przez straż
+                    gminną lub Policję na koszt właściciela lub posiadacza.
+                    <br/><br/>2. Pojazd usunięty w trybie określonym w ust. 1, nieodebrany na wezwanie
+                    gminy przez uprawnioną osobę w terminie 6 miesięcy od dnia usunięcia, uznaje się za
+                    porzucony z zamiarem wyzbycia się. Pojazd ten przechodzi na własność gminy
+                    z mocy ustawy.
+                    <br/><br/>3. Przepisu ust. 2 nie stosuje się, gdy nieodebranie pojazdu nastąpiło z przyczyn
+                    niezależnych od osoby zobowiązanej.
+                    <br/><br/>4. Przepis ust. 2 stosuje się odpowiednio, gdy w terminie 6 miesięcy od dnia
+                    usunięcia pojazdu nie została ustalona osoba uprawniona do jego odbioru.
+                    <br/><br/>5. Minister właściwy do spraw wewnętrznych, kierując się zasadą poszanowania
+                    prawa własności oraz potrzebą zapewnienia porządku na drogach publicznych, określi,
+                    w drodze rozporządzenia:<br/> 1) szczegółowy tryb oraz jednostki i warunki ich współdziałania w zakresie
+                    usuwania pojazdów bez tablic rejestracyjnych lub których stan wskazuje na to,
+                    że nie są używane;
+                    <br/>2) tryb postępowania w zakresie przejęcia pojazdu na własność gminy.
+                </p>
+            </div>
+            <div>
+                <a name="3"></a>
+                <p class="hyphenate"><strong>Oddział 3
+                    Używanie świateł zewnętrznych
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="51"></a>
+                <p class="hyphenate"><strong>Art. 51.</strong><br/> 1. Kierujący pojazdem jest obowiązany używać świateł mijania podczas
+                    jazdy w warunkach normalnej przejrzystości powietrza.
+                    <br/><br/>2. W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości
+                    powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy
+                    dziennej.
+                    <br/><br/>3. W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł
+                    mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile
+                    nie oślepi innych kierujących albo pieszych poruszających się w kolumnie. Kierujący
+                    pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła
+                    mijania w razie zbliżania się:
+                    <br/>1) pojazdu nadjeżdżającego z przeciwka, przy czym jeżeli jeden z kierujących
+                    wyłączył światła drogowe – drugi jest obowiązany uczynić to samo;
+                    <br/>2) do pojazdu poprzedzającego, jeżeli kierujący może być oślepiony;
+                    <br/>3) pojazdu szynowego lub komunikacji wodnej, jeżeli poruszają się w takiej
+                    odległości, że istnieje możliwość oślepienia kierujących tymi pojazdami.
+                    <br/><br/>4. (uchylony)
+                    <br/><br/>5. Na drodze krętej, oznaczonej odpowiednimi znakami drogowymi, kierujący
+                    pojazdem może używać przednich świateł przeciwmgłowych od zmierzchu do świtu,
+                    również w warunkach normalnej przejrzystości powietrza.
+                    <br/><br/>6. Przepisów ust. 1–3 nie stosuje się do kierującego pojazdem, który nie jest
+                    wyposażony w światła mijania, drogowe lub światła do jazdy dziennej. Kierujący
+                    takim pojazdem w czasie od zmierzchu do świtu lub w tunelu jest obowiązany używać
+                    świateł stanowiących obowiązkowe wyposażenie pojazdu.
+                    <br/><br/>7. Przepisy ust. 1–5 stosuje się odpowiednio podczas zatrzymania pojazdu,
+                    wynikającego z warunków lub przepisów ruchu drogowego. Jeżeli zatrzymanie trwa ponad 1 minutę, dopuszcza się wyłączenie świateł zewnętrznych pojazdu, o ile na tym
+                    samym pasie ruchu, przed tym pojazdem i za nim, stoją inne pojazdy.
+                </p>
+            </div>
+            <div>
+                <a name="52"></a>
+                <p class="hyphenate"><strong>Art. 52.</strong><br/> 1. Kierujący pojazdem silnikowym lub szynowym, w warunkach
+                    niedostatecznej widoczności, podczas zatrzymania niewynikającego z warunków
+                    ruchu lub przepisów ruchu drogowego oraz podczas postoju, jest obowiązany używać
+                    świateł pozycyjnych przednich i tylnych lub świateł postojowych. W pojeździe
+                    niezłączonym z przyczepą oraz w zespole pojazdów o długości nieprzekraczającej
+                    6 m dopuszcza się włączenie świateł postojowych jedynie od strony środka jezdni.
+                    <br/><br/>2. Podczas zatrzymania lub postoju, w miejscu oświetlonym w stopniu
+                    zapewniającym widoczność pojazdu lub znajdującym się poza jezdnią i poboczem,
+                    wszystkie światła pojazdu mogą być wyłączone. Przepis ten nie dotyczy pojazdu
+                    szynowego oraz pojazdu, na którym znajduje się urządzenie lub ładunek, wystające
+                    poza pojazd i wymagające oznaczenia odrębnymi światłami.
+                    <br/><br/>3. Światło oświetlające przedmioty przydrożne (szperacz) może być włączone
+                    tylko podczas zatrzymania lub postoju, pod warunkiem że nie oślepi innych
+                    uczestników ruchu. Ograniczenie to nie dotyczy pojazdu uprzywilejowanego.
+                </p>
+            </div>
+            <div>
+                <a name="4"></a>
+                <p class="hyphenate"><strong>Oddział 4
+                    Warunki używania pojazdów w ruchu drogowym
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="53"></a>
+                <p class="hyphenate"><strong>Art. 53.</strong><br/> 1. Pojazdem uprzywilejowanym w ruchu drogowym może być pojazd
+                    samochodowy:
+                    <br/>1) jednostek ochrony przeciwpożarowej;
+                    <br/>2) zespołu ratownictwa medycznego;
+                    <br/>3) Policji;
+                    <br/>4) jednostki ratownictwa chemicznego;
+                    <br/>5) Straży Granicznej;
+                    5a) Biura Nadzoru Wewnętrznego;
+                    <br/>6) Agencji Bezpieczeństwa Wewnętrznego;
+                    <br/>7) Agencji Wywiadu;
+                    7a) Centralnego Biura Antykorupcyjnego;
+                    7b) Służby Kontrwywiadu Wojskowego;
+                    7c) Służby Wywiadu Wojskowego;
+                    <br/>8) Sił Zbrojnych Rzeczypospolitej Polskiej; 9) Służby Więziennej;
+                    <br/>10) Służby Ochrony Państwa;
+                    10a) (uchylony)
+                    10b) (uchylony)
+                    10c) straży gminnych (miejskich);
+                    10d) podmiotów uprawnionych do wykonywania zadań z zakresu ratownictwa
+                    górskiego;
+                    10e) Służby Parku Narodowego;
+                    10f) podmiotów uprawnionych do wykonywania zadań z zakresu ratownictwa
+                    wodnego;
+                    10g) Krajowej Administracji Skarbowej wykorzystywany przez Służbę
+                    Celno-Skarbową;
+                    <br/>11) Inspekcji Transportu Drogowego;
+                    <br/>12) jednostki niewymienionej w pkt 1–11, jeżeli jest używany w związku
+                    z ratowaniem życia lub zdrowia ludzkiego – na podstawie zezwolenia ministra
+                    właściwego do spraw wewnętrznych.
+                    <br/><br/>1a. Minister właściwy do spraw wewnętrznych stwierdza wygaśnięcie
+                    zezwolenia, o którym mowa w ust. 1 pkt 12, gdy ustaną okoliczności uzasadniające
+                    wykorzystanie pojazdu jako uprzywilejowanego.
+                    <br/><br/>2. Kierujący pojazdem uprzywilejowanym może, pod warunkiem zachowania
+                    szczególnej ostrożności, nie stosować się do przepisów o ruchu pojazdów,
+                    zatrzymaniu i postoju oraz do znaków i sygnałów drogowych tylko w razie, gdy:
+                    <br/>1) uczestniczy:
+                    a) w akcji związanej z ratowaniem życia, zdrowia ludzkiego lub mienia albo
+                    koniecznością zapewnienia bezpieczeństwa lub porządku publicznego albo
+                    b) w przejeździe kolumny pojazdów uprzywilejowanych,
+                    c) w wykonywaniu zadań związanych bezpośrednio z zapewnieniem
+                    bezpieczeństwa osób zajmujących kierownicze stanowiska państwowe,
+                    którym na mocy odrębnych przepisów przysługuje ochrona;
+                    <br/>2) pojazd wysyła jednocześnie sygnały świetlny i dźwiękowy; po zatrzymaniu
+                    pojazdu nie wymaga się używania sygnału dźwiękowego;
+                    <br/>3) w pojeździe włączone są światła drogowe lub mijania. 3. Kierujący pojazdem uprzywilejowanym jest obowiązany stosować się do
+                    poleceń i sygnałów dawanych przez osoby kierujące ruchem lub upoważnione do jego
+                    kontroli.
+                    <br/><br/>4. Minister właściwy do spraw wewnętrznych, uwzględniając w szczególności
+                    konieczność zapewnienia porządku, sprawności i bezpieczeństwa ruchu drogowego,
+                    określi, w drodze rozporządzenia, okoliczności, w jakich używane są pojazdy
+                    uprzywilejowane w kolumnach.
+                </p>
+            </div>
+            <div>
+                <a name="54"></a>
+                <p class="hyphenate"><strong>Art. 54.</strong><br/> 1. Pojazd wykonujący na drodze prace porządkowe, remontowe lub
+                    modernizacyjne powinien wysyłać żółte sygnały błyskowe.
+                    <br/><br/>2. Kierujący pojazdem, o którym mowa w ust. 1, może, pod warunkiem
+                    zachowania szczególnej ostrożności, nie stosować się do przepisów o obowiązku
+                    jazdy na jezdni lub przy jej prawej krawędzi oraz o zatrzymaniu i postoju, z tym że:
+                    <br/>1) na jezdni jednokierunkowej oraz poza obszarem zabudowanym, podczas
+                    oczyszczania drogi ze śniegu, dopuszcza się również jazdę przy lewej krawędzi
+                    jezdni;
+                    <br/>2) jazdę po chodniku dopuszcza się tylko przy zachowaniu bezpieczeństwa
+                    pieszych.
+                    <br/><br/>2a. Kierujący pojazdem, o którym mowa w ust. 1, może korzystać z autostrady
+                    lub drogi ekspresowej nawet wtedy, gdy pojazd ten nie jest pojazdem samochodowym
+                    lub jego konstrukcja uniemożliwia rozwinięcie prędkości co najmniej 40 km/h.
+                    <br/><br/>3. Pojazd, który ze względu na konstrukcję, ładunek lub nietypowe zachowanie
+                    na drodze może zagrażać bezpieczeństwu w ruchu drogowym, powinien wysyłać żółte
+                    sygnały błyskowe.
+                    <br/><br/>4. Zabrania się, z zastrzeżeniem art. 31 ust. 1 pkt 5, używania żółtych sygnałów
+                    błyskowych do innych celów niż określone w ust. 1 i 3.
+                </p>
+            </div>
+            <div>
+                <a name="55"></a>
+                <p class="hyphenate"><strong>Art. 55.</strong><br/> 1. Pojazd do nauki jazdy lub przeprowadzania egzaminu państwowego
+                    oznacza się tablicą kwadratową barwy niebieskiej z białą literą „L”, umieszczoną na
+                    pojeździe. W warunkach niedostatecznej widoczności tablica umieszczona na
+                    pojeździe, z wyłączeniem tablicy na motocyklu, powinna być oświetlona. Tablica,
+                    którą oznaczony jest motocykl, powinna być wykonana z materiału odblaskowego. 2. Podczas kierowania pojazdem do nauki jazdy przez osobę inną niż osoba
+                    ubiegająca się o uprawnienie do kierowania pojazdem tablica, o której mowa w ust. 1,
+                    powinna być zasłonięta lub złożona.
+                    <br/><br/>3. Kierujący pojazdem, przejeżdżając obok pojazdu, o którym mowa w ust. 1,
+                    lub jadąc za nim, jest obowiązany zachować szczególną ostrożność.
+                </p>
+            </div>
+            <div>
+                <a name="56"></a>
+                <p class="hyphenate"><strong>Art. 56.</strong><br/> (uchylony)
+                </p>
+            </div>
+            <div>
+                <a name="57"></a>
+                <p class="hyphenate"><strong>Art. 57.</strong><br/> 1. Pojazd przewożący zorganizowaną grupę dzieci lub młodzieży
+                    w wieku do 18 lat oznacza się z przodu i z tyłu kwadratowymi tablicami barwy żółtej
+                    z symbolem dzieci barwy czarnej. W warunkach niedostatecznej widoczności tablice
+                    powinny być oświetlone, chyba że są wykonane z materiału odblaskowego. Kierujący
+                    tym pojazdem jest obowiązany włączyć światła awaryjne podczas wsiadania lub
+                    wysiadania dzieci lub młodzieży.
+                    <br/><br/>2. Kierujący pojazdem, omijając pojazd, o którym mowa w ust. 1, jest
+                    obowiązany w czasie wsiadania lub wysiadania dzieci lub młodzieży zachować
+                    szczególną ostrożność i w razie potrzeby zatrzymać się.
+                    <br/><br/>3. Zabrania się oznaczania pojazdu tablicami, o których mowa w ust. 1, w czasie,
+                    gdy dzieci lub młodzież nie są przewożone.
+                </p>
+            </div>
+            <div>
+                <a name="57"></a>
+                <p class="hyphenate"><strong>Art. 57a.</strong><br/> 1. Kierujący autobusem szkolnym podczas wsiadania lub wysiadania
+                    dzieci jest obowiązany włączyć światła awaryjne.
+                    <br/><br/>2. Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany
+                    zachować szczególną ostrożność.
+                    <br/><br/>3. Jeżeli autobus szkolny przewozi inne osoby lub nie przewozi żadnych osób,
+                    tablice z napisem „autobus szkolny” powinny być zdjęte, zasłonięte lub złożone.
+                </p>
+            </div>
+            <div>
+                <a name="58"></a>
+                <p class="hyphenate"><strong>Art. 58.</strong><br/> 1. Pojazd przeznaczony konstrukcyjnie do przewozu osób
+                    niepełnosprawnych oznacza się z przodu i z tyłu tablicami barwy niebieskiej
+                    z międzynarodowym symbolem wózka inwalidzkiego barwy białej. Tablice te
+                    powinny być wykonane z materiału odblaskowego. Kierujący tym pojazdem jest
+                    obowiązany włączyć światła awaryjne podczas wsiadania lub wysiadania osoby
+                    niepełnosprawnej.
+                    <br/><br/>2. Kierujący pojazdem, omijając pojazd, o którym mowa w ust. 1, jest
+                    obowiązany w czasie wsiadania lub wysiadania osoby niepełnosprawnej zachować
+                    szczególną ostrożność i w razie potrzeby zatrzymać się. </p>
+            </div>
+            <div>
+                <a name="59"></a>
+                <p class="hyphenate"><strong>Art. 59.</strong><br/> 1. Pojazd zarejestrowany w Rzeczypospolitej Polskiej, który ma być
+                    używany w ruchu międzynarodowym, powinien być oznaczony znakiem z literami
+                    „PL”.
+                    <br/><br/>2. Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium
+                    Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo,
+                    w którym jest zarejestrowany.
+                    <br/><br/>3. Obowiązek, o którym mowa w ust. 1 i 2, uważa się za spełniony, jeżeli na
+                    tablicy rejestracyjnej jest umieszczony znak określający państwo, w którym pojazd
+                    został zarejestrowany.
+                </p>
+            </div>
+            <div>
+                <a name="60"></a>
+                <p class="hyphenate"><strong>Art. 60.</strong><br/> 1. Zabrania się:
+                    <br/>1) używania pojazdu w sposób zagrażający bezpieczeństwu osoby znajdującej się
+                    w pojeździe lub poza nim;
+                    <br/>2) zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub
+                    innych wymaganych tablic albo znaków, które powinny być widoczne;
+                    <br/>3) ozdabiania tablic rejestracyjnych oraz umieszczania z przodu lub z tyłu pojazdu
+                    znaków, napisów lub przedmiotów, które ograniczają czytelność tych tablic;
+                    3a) umieszczania na pojeździe tablic (tablicy) rejestracyjnych w innym miejscu niż
+                    konstrukcyjnie do tego przeznaczone;
+                    3b) umieszczania na pojeździe jednorzędowych zmniejszonych tablic
+                    rejestracyjnych, jeżeli pojazd nie posiada zmniejszonych wymiarów miejsca
+                    konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej;
+                    <br/>4) umieszczania na pojeździe znaku określającego inne państwo niż to, w którym
+                    pojazd został zarejestrowany.
+                    <br/><br/>1a. Utrzymywanie tablic (tablicy) rejestracyjnych i innych wymaganych
+                    oznaczeń pojazdu w należytym stanie oraz zapewnienie ich czytelności jest
+                    obowiązkiem kierującego pojazdem.
+                    <br/><br/>2. Zabrania się kierującemu:
+                    <br/>1) oddalania się od pojazdu, gdy silnik jest w ruchu;
+                    <br/>2) używania pojazdu w sposób powodujący uciążliwości związane z nadmierną
+                    emisją spalin do środowiska lub nadmiernym hałasem;
+                    <br/>3) pozostawiania pracującego silnika podczas postoju na obszarze zabudowanym;
+                    nie dotyczy to pojazdu wykonującego czynności na drodze; 4) ciągnięcia za pojazdem kierującego hulajnogą elektryczną lub urządzeniem
+                    transportu osobistego, osoby poruszającej się przy użyciu urządzenia
+                    wspomagającego ruch, osoby na sankach lub innym podobnym urządzeniu,
+                    zwierzęcia lub ładunku;
+                    <br/>5) używania opon z umieszczonymi w nich na trwałe elementami
+                    przeciwślizgowymi.
+                    <br/><br/>3. Używanie łańcuchów przeciwślizgowych na oponach jest dozwolone tylko na
+                    drodze pokrytej śniegiem.
+                    <br/><br/>4. Zakazu, o którym mowa w ust. 2 pkt 5, nie stosuje się do:
+                    <br/>1) pojazdów samochodowych biorących udział w rajdach zimowych i wyścigach
+                    zimowych za zgodą zarządcy drogi, wyrażoną w trybie określonym w art. 65a
+                    ust. 3 pkt 7a;
+                    <br/>2) rowerów.
+                </p>
+            </div>
+            <div>
+                <a name="61"></a>
+                <p class="hyphenate"><strong>Art. 61.</strong><br/> 1. Ładunek nie może powodować przekroczenia dopuszczalnej masy
+                    całkowitej lub dopuszczalnej ładowności pojazdu.
+                    <br/><br/>2. Ładunek na pojeździe umieszcza się w taki sposób, aby:
+                    <br/>1) nie powodował przekroczenia dopuszczalnych nacisków osi pojazdu na drogę;
+                    <br/>2) nie naruszał stateczności pojazdu;
+                    <br/>3) nie utrudniał kierowania pojazdem;
+                    <br/>4) nie ograniczał widoczności drogi lub nie zasłaniał świateł, urządzeń
+                    sygnalizacyjnych, tablic rejestracyjnych lub innych tablic albo znaków, w które
+                    pojazd jest wyposażony.
+                    <br/><br/>3. Ładunek umieszczony na pojeździe powinien być zabezpieczony przed
+                    zmianą położenia lub wywoływaniem nadmiernego hałasu. Nie może on mieć
+                    odrażającego wyglądu lub wydzielać odrażającej woni.
+                    <br/><br/>4. Urządzenia służące do mocowania ładunku powinny być zabezpieczone przed
+                    rozluźnieniem się, swobodnym zwisaniem lub spadnięciem podczas jazdy.
+                    <br/><br/>5. Ładunek sypki może być umieszczony tylko w szczelnej skrzyni ładunkowej,
+                    zabezpieczonej dodatkowo odpowiednimi zasłonami uniemożliwiającymi
+                    wysypywanie się ładunku na drogę.
+                    <br/><br/>6. Ładunek wystający poza płaszczyzny obrysu pojazdu może być na nim
+                    umieszczony tylko przy zachowaniu następujących warunków:<br/> 1) ładunek wystający poza boczne płaszczyzny obrysu pojazdu może być
+                    umieszczony tylko w taki sposób, aby całkowita szerokość pojazdu z ładunkiem
+                    nie przekraczała 2,55 m, a przy szerokości pojazdu 2,55 m nie przekraczała 3 m,
+                    jednak pod warunkiem umieszczenia ładunku tak, aby z jednej strony nie
+                    wystawał na odległość większą niż 23 cm;
+                    <br/>2) ładunek nie może wystawać z tyłu pojazdu na odległość większą niż 2 m od
+                    tylnej płaszczyzny obrysu pojazdu lub zespołu pojazdów; w przypadku
+                    przyczepy kłonicowej odległość tę liczy się od osi przyczepy;
+                    <br/>3) ładunek nie może wystawać z przodu pojazdu na odległość większą niż 0,5 m od
+                    przedniej płaszczyzny obrysu i większą niż 1,5 m od siedzenia dla kierującego.
+                    <br/><br/>7. Przy przewozie drewna długiego dopuszcza się wystawanie ładunku z tyłu za
+                    przyczepę kłonicową na odległość nie większą niż 5 m.
+                    <br/><br/>8. Ładunek wystający poza przednią lub boczne płaszczyzny obrysu pojazdu
+                    powinien być oznaczony. Dotyczy to również ładunku wystającego poza tylną
+                    płaszczyznę obrysu pojazdu na odległość większą niż 0,5 m.
+                    <br/><br/>9. Ustala się następujące oznakowanie ładunku:
+                    <br/>1) ładunek wystający z przodu pojazdu oznacza się chorągiewką barwy
+                    pomarańczowej lub dwoma białymi i dwoma czerwonymi pasami, tak aby były
+                    widoczne z boków i z przodu pojazdu, a w okresie niedostatecznej widoczności
+                    ponadto światłem białym umieszczonym na najbardziej wystającej do przodu
+                    części ładunku;
+                    <br/>2) ładunek wystający z boku pojazdu oznacza się chorągiewką barwy
+                    pomarańczowej o wymiarach co najmniej 50 x 50 cm, umieszczoną przy
+                    najbardziej wystającej krawędzi ładunku, a ponadto w okresie niedostatecznej
+                    widoczności białym światłem odblaskowym skierowanym do przodu oraz
+                    czerwonym światłem i czerwonym światłem odblaskowym skierowanym do
+                    tyłu; światła te nie powinny znajdować się w odległości większej niż 40 cm od
+                    najbardziej wystającej krawędzi ładunku; jeżeli długość wystającego z boku
+                    ładunku, mierzona wzdłuż pojazdu, przekracza 3 m, to chorągiewkę i światła
+                    umieszcza się odpowiednio przy przedniej i tylnej części ładunku;
+                    <br/>3) ładunek wystający z tyłu pojazdu oznacza się pasami białymi i czerwonymi
+                    umieszczonymi bezpośrednio na ładunku lub na tarczy na jego tylnej
+                    płaszczyźnie albo na zawieszonej na końcu ładunku bryle geometrycznej (np. stożku, ostrosłupie); widoczna od tyłu łączna powierzchnia pasów powinna
+                    wynosić co najmniej 1000 cm , przy czym nie może być mniej niż po dwa pasy
+                    każdej barwy; ponadto w okresie niedostatecznej widoczności na najbardziej
+                    wystającej do tyłu krawędzi ładunku umieszcza się czerwone światło i czerwone
+                    światło odblaskowe; przy przewozie drewna długiego zamiast oznakowania
+                    pasami białymi i czerwonymi dopuszcza się oznakowanie końca ładunku
+                    chorągiewką lub tarczą barwy pomarańczowej;
+                    <br/>4) ładunek wystający z tyłu samochodu osobowego lub przyczepy ciągniętej przez
+                    samochód osobowy może być oznaczony chorągiewką barwy czerwonej
+                    o wymiarach co najmniej 50 x 50 cm, umieszczoną przy najbardziej wystającej
+                    krawędzi ładunku.
+                    <br/><br/>10. Wysokość pojazdu z ładunkiem nie może przekraczać 4 m.
+                    <br/><br/>11. (uchylony)
+                    <br/><br/>12. (uchylony)
+                    <br/><br/>13. (uchylony)
+                    <br/><br/>14. (uchylony)
+                    <br/><br/>15. Przy przewozie drewna jego rzeczywistą masę ustala się jako iloczyn
+                    objętości ładunku i normatywnej gęstości ustalonej dla danego gatunku drewna.
+                    <br/><br/>16. Minister właściwy do spraw środowiska i minister właściwy do spraw
+                    gospodarki w porozumieniu z ministrem właściwym do spraw transportu określą,
+                    w drodze rozporządzenia, gęstość drewna, uwzględniając w szczególności gatunki
+                    drewna mające zastosowanie w przemyśle i budownictwie, jego rodzaj i postać,
+                    w jakiej jest ono przewożone, mając na uwadze potrzebę ustalenia masy
+                    przewożonego drewna w celu uniknięcia przekroczenia nacisków osi pojazdów
+                    i ograniczenia negatywnego wpływu na stan techniczny dróg.
+                    <br/><br/>17. Minister właściwy do spraw transportu może określić, w drodze
+                    rozporządzenia, sposób przewozu ładunku, mając na względzie sposób jego
+                    rozmieszczenia i wpływ mocowania ładunku na pojeździe oraz zapewnienie
+                    bezpieczeństwa ruchu drogowego i ochronę środowiska.
+                </p>
+            </div>
+            <div>
+                <a name="62"></a>
+                <p class="hyphenate"><strong>Art. 62.</strong><br/> 1. Rzeczywista masa całkowita przyczepy ciągniętej przez:
+                    <br/>1) samochód osobowy, samochód ciężarowy o dopuszczalnej masie całkowitej
+                    nieprzekraczającej 3,5 t lub autobus – nie może przekraczać rzeczywistej masy
+                    całkowitej pojazdu ciągnącego; 2) samochód ciężarowy o dopuszczalnej masie całkowitej przekraczającej 3,5 t –
+                    nie może przekraczać rzeczywistej masy całkowitej tego samochodu
+                    powiększonej o 40%;
+                    <br/>3) motocykl lub motorower – nie może przekraczać masy własnej motocykla lub
+                    motoroweru, jednak nie może przekraczać 100 kg.
+                    <br/><br/>2. Przepis ust. 1 nie dotyczy naczep.
+                    <br/><br/>3. Przepisy ust. 1 i 2 nie dotyczą pojazdów Sił Zbrojnych Rzeczypospolitej
+                    Polskiej, Policji, Straży Granicznej oraz jednostek ochrony przeciwpożarowej.
+                    <br/><br/>4. Zespół pojazdów może składać się najwyżej z 3 pojazdów, a zespół ciągnięty
+                    przez pojazd silnikowy inny niż ciągnik rolniczy lub pojazd wolnobieżny –
+                    z 2 pojazdów.
+                    <br/><br/>4a. Długość zespołu 2 pojazdów nie może przekraczać 18,75 m, a 3 pojazdów –
+                    22 m, z wyjątkiem zespołu pojazdów złożonego z:
+                    <br/>1) pojazdu samochodowego i naczepy, których długość nie może przekraczać
+                    16,5 m;
+                    <br/>2) motocykla i przyczepy, motoroweru i przyczepy, roweru i przyczepy, wózka
+                    rowerowego i przyczepy, którego długość nie może przekraczać 4 m.
+                    <br/><br/>4b. Przejazd zespołu pojazdów:
+                    <br/>1) złożonego z liczby pojazdów większej niż określona w ust. 4 wymaga
+                    zezwolenia, o którym mowa w art. 64d;
+                    <br/>2) o długości większej niż określona w ust. 4a wymaga zezwolenia, o którym mowa
+                    odpowiednio w art. 64c albo art. 64d.
+                    <br/><br/>5. Długości zespołów pojazdów określone w ust. 4a nie dotyczą tramwajów.
+                </p>
+            </div>
+            <div>
+                <a name="63"></a>
+                <p class="hyphenate"><strong>Art. 63.</strong><br/> 1. Przewóz osób może odbywać się tylko pojazdem do tego
+                    przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może
+                    przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem
+                    ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika
+                    z konstrukcyjnego przeznaczenia pojazdu.
+                    <br/><br/>2. Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy,
+                    pod warunkiem że:
+                    <br/>1) pojazd odpowiada wymaganym warunkom technicznym do przewozu osób;
+                    <br/>2) osoby nie znajdują się między ładunkiem a kabiną kierowcy;
+                    <br/>3) osoby przewożone są na miejscach siedzących; 4) pojazd nie przekracza prędkości 50 km/h.
+                    <br/><br/>3. Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz:
+                    <br/>1) dzieci do szkół lub przedszkoli i z powrotem w przyczepie dostosowanej do
+                    przewozu osób, ciągniętej przez ciągnik rolniczy;
+                    <br/>2) konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe
+                    w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że:
+                    a) liczba przewożonych osób nie przekracza 5,
+                    b) osoby stojące trzymają się uchwytów,
+                    c) osoby nie znajdują się pomiędzy ładunkiem a przednią ścianą przyczepy,
+                    d) prędkość zespołu pojazdów nie przekracza 20 km/h;
+                    <br/>3) osób w przyczepie (przyczepach) kolejki turystycznej pod warunkiem, że osoby
+                    te przewożone są wyłącznie na miejscach siedzących;
+                    <br/>4) dzieci w przyczepie przystosowanej konstrukcyjnie do przewozu osób, ciągniętej
+                    przez rower lub wózek rowerowy.
+                    <br/><br/>4. Przepisów ust. 1–3 nie stosuje się do przewozu pojazdami Sił Zbrojnych
+                    Rzeczypospolitej Polskiej, Policji, Straży Granicznej, Służby Więziennej oraz
+                    jednostek ochrony przeciwpożarowej.
+                    <br/><br/>5. Kierującemu pojazdem silnikowym, który przewozi osobę, zabrania się
+                    palenia tytoniu lub spożywania pokarmów w czasie jazdy. Nie dotyczy to kierującego
+                    samochodem ciężarowym, który przewozi osobę w kabinie kierowcy, i kierującego
+                    samochodem osobowym, z wyjątkiem taksówki.
+                    <br/><br/>6. Minister Obrony Narodowej określi, w drodze rozporządzenia, warunki
+                    przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej, mając na uwadze
+                    bezpieczeństwo przewożonych osób.
+                    <br/><br/>7. Minister właściwy do spraw wewnętrznych i Minister Sprawiedliwości
+                    określą, w drodze rozporządzenia, warunki przewozu osób pojazdami Policji, Straży
+                    Granicznej, Służby Więziennej oraz jednostek ochrony przeciwpożarowej, mając na
+                    uwadze bezpieczeństwo przewożonych osób.
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64.</strong><br/> 1. Ruch pojazdu nienormatywnego jest dozwolony pod warunkiem:
+                    <br/>1) uzyskania zezwolenia na przejazd pojazdu nienormatywnego odpowiedniej
+                    kategorii, wydawanego, w drodze decyzji administracyjnej, przez właściwy
+                    organ, a w przypadku pojazdu nienormatywnego należącego do Sił Zbrojnych Rzeczypospolitej Polskiej pod warunkiem uzyskania zezwolenia wojskowego na
+                    przejazd drogowy, wydawanego przez właściwy organ wojskowy;
+                    <br/>2) przestrzegania warunków przejazdu określonych w zezwoleniu, o którym mowa
+                    w pkt 1;
+                    <br/>3) pilotowania przejazdu pojazdu nienormatywnego na warunkach i w sposób
+                    określonych w przepisach wydanych na podstawie art. 64i ust. 2, w tym przez
+                    wymaganą liczbę pojazdów wyposażonych i oznakowanych zgodnie z tymi
+                    przepisami;
+                    <br/>4) zachowania szczególnej ostrożności przez kierującego pojazdem
+                    nienormatywnym.
+                    <br/><br/>2. Zabrania się przewozu pojazdem nienormatywnym ładunków innych niż
+                    ładunek niepodzielny, z wyłączeniem pojazdów nienormatywnych uprawnionych do
+                    poruszania się na podstawie zezwolenia kategorii I.
+                    <br/><br/>3. Wymiary, masa, naciski osi pojazdów nienormatywnych uprawnionych do
+                    poruszania się na podstawie zezwoleń kategorii I–V oraz drogi, po których pojazdy te
+                    mogą się poruszać, są określone w tabeli stanowiącej załącznik nr 1 do ustawy.
+                    <br/><br/>4. Kierujący pojazdem nienormatywnym jest obowiązany mieć przy sobie i
+                    okazywać uprawnionym osobom zezwolenie, o którym mowa w ust. 1 pkt 1.
+                    <br/><br/>5. Organ wydający zezwolenie na przejazd pojazdu nienormatywnego prowadzi
+                    rejestr wydanych zezwoleń. W rejestrze umieszcza się następujące dane:
+                    <br/>1) numer zezwolenia;
+                    <br/>2) datę wydania zezwolenia;
+                    <br/>3) kategorię zezwolenia;
+                    <br/>4) podmiotu, na który zezwolenie zostało wydane;
+                    <br/>5) pojazdu lub zespołu pojazdów, jeżeli zostały określone w zezwoleniu.
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64a.</strong><br/> (uchylony)
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64b.</strong><br/> 1. Zezwolenie kategorii I jest wydawane na przejazd nienormatywnego
+                    pojazdu wolnobieżnego, ciągnika rolniczego albo zespołu pojazdów składającego się
+                    z pojazdu wolnobieżnego lub ciągnika rolniczego i przyczepy specjalnej.
+                    <br/><br/>2. Zezwolenie wydaje się na wniosek podmiotu wykonującego przejazd. Do
+                    wniosku dołącza się dowód wniesienia opłaty za wydanie zezwolenia. 3. Zezwolenie wydaje starosta właściwy ze względu na siedzibę wnioskodawcy
+                    albo miejsce rozpoczęcia przejazdu. Zezwolenie wydaje się po uiszczeniu opłaty,
+                    w terminie 3 dni roboczych od dnia złożenia wniosku o jego wydanie.
+                    <br/><br/>4. Zezwolenie wydaje się na okres 12 miesięcy, wskazując w nim:
+                    <br/>1) podmiot wykonujący przejazd;
+                    <br/>2) pojazd, którym będzie wykonywany przejazd.
+                    <br/><br/>5. Do ruchu pojazdu nienormatywnego, o którym mowa w ust. 1, nie stosuje się
+                    przepisu art. 64 ust. 1 pkt 3.
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64c.</strong><br/> 1. Zezwolenia kategorii II–IV na przejazd pojazdu nienormatywnego
+                    są wydawane na wskazany we wniosku okres: miesiąca, 6 miesięcy, 12 miesięcy lub
+                    24 miesięcy.
+                    <br/><br/>2. Zezwolenie wydaje się na wniosek zainteresowanego podmiotu. Do wniosku
+                    dołącza się dowód wniesienia opłaty za wydanie zezwolenia.
+                    <br/><br/>3. Zezwolenie wydaje:
+                    <br/>1) właściwy ze względu na siedzibę wnioskodawcy albo miejsce rozpoczęcia
+                    przejazdu starosta – w zakresie zezwoleń kategorii II;
+                    <br/>2) Generalny Dyrektor Dróg Krajowych i Autostrad – w zakresie zezwoleń
+                    kategorii III i IV.
+                    <br/><br/>4. Zezwolenia kategorii II i III przy wjeździe na terytorium Rzeczypospolitej
+                    Polskiej wydaje także naczelnik urzędu celno-skarbowego.
+                    <br/><br/>5. Zezwolenie kategorii III uprawnia do poruszania się pojazdami i drogami,
+                    określonymi dla zezwolenia kategorii II.
+                    <br/><br/>6. (uchylony)
+                    <br/><br/>7. Zezwolenie wydaje się po uiszczeniu opłaty, w terminie 3 dni roboczych od
+                    dnia złożenia wniosku o jego wydanie. W przypadku niewydania zezwolenia zwraca
+                    się wniesioną opłatę.
+                    <br/><br/>8. Zezwolenie wydaje się dla podmiotu wykonującego przejazd, bez wskazania
+                    pojazdu, którym przejazd będzie wykonywany.
+                    <br/><br/>9. Podmiot posiadający zezwolenie kategorii IV, planujący wykonanie przejazdu
+                    przez most lub wiadukt po drogach innych niż krajowe pojazdem, którego rzeczywista
+                    masa całkowita jest większa od dopuszczalnej, jest obowiązany zawiadomić pisemnie
+                    właściwego dla tego mostu lub wiaduktu zarządcę drogi o terminie i trasie
+                    planowanego przejazdu, w terminie 7 dni roboczych przed datą planowanego przejazdu, przy czym 7. dzień terminu jest ostatecznym dniem wpływu zawiadomienia
+                    do organu.
+                    <br/><br/>10. Zarządca drogi w przypadku, o którym mowa w ust. 9, najpóźniej 3 dni przed
+                    datą planowanego przejazdu potwierdza przyjęcie zawiadomienia i może określić
+                    warunki przejazdu przez most lub wiadukt albo zgłosić uzasadniony sprzeciw.
+                    <br/><br/>11. Warunki przejazdu pojazdu nienormatywnego przez most lub wiadukt
+                    określa zarządca drogi, ustalając, zależnie od potrzeb, ograniczenia w zakresie ruchu,
+                    sposób przejazdu oraz przystosowanie obiektu do przejazdu.
+                    <br/><br/>12. Zarządca drogi może zgłosić sprzeciw, o którym mowa w ust. 10, jeżeli stan
+                    technicznej sprawności mostu lub wiaduktu, po którym planowany jest przejazd
+                    pojazdu nienormatywnego, określony na podstawie przepisów Prawa budowlanego,
+                    uniemożliwia wykonanie tego przejazdu.
+                    <br/><br/>13. Zabrania się wykonywania przejazdu przez most lub wiadukt w przypadku
+                    zgłoszenia sprzeciwu albo niezgodnie z warunkami przejazdu przez ten obiekt.
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64d.</strong><br/> 1. Zezwolenie kategorii V na przejazd pojazdu nienormatywnego jest
+                    wydawane na jednokrotny lub wielokrotny przejazd po drogach publicznych
+                    w wyznaczonym czasie, na trasie wyznaczonej w zezwoleniu. Zezwolenie wydaje się
+                    dla pojazdu, którego ruch, ze względu na jego wymiary, masę lub naciski osi, nie jest
+                    możliwy na podstawie zezwoleń kategorii I–IV.
+                    <br/><br/>2. Zezwolenie może być wydane, pod warunkiem że:
+                    <br/>1) ładunek jest niepodzielny;
+                    <br/>2) uzyskano na przejazd zgodę zarządcy drogi, właściwego dla trasy przejazdu;
+                    <br/>3) istnieją możliwości wyznaczenia trasy przejazdu zapewniającej bezpieczeństwo
+                    oraz efektywność ruchu drogowego, a w szczególności:
+                    a) natężenie ruchu umożliwia bezpieczny przejazd pojazdu nienormatywnego,
+                    b) stan technicznej sprawności budowli usytuowanych w ciągu rozpatrywanej
+                    trasy przejazdu, określony na podstawie przepisów Prawa budowlanego,
+                    umożliwia przejazd,
+                    c) przejazd nie stwarza zagrożenia stanu technicznego obiektów budowlanych
+                    położonych w pobliżu trasy przejazdu.
+                    <br/><br/>3. Zezwolenie wydaje się na wniosek zainteresowanego podmiotu. Do wniosku
+                    dołącza się dowód wniesienia opłaty za wydanie zezwolenia. W przypadku
+                    niewydania zezwolenia zwraca się wniesioną opłatę. 4. Zezwolenie wydaje, po uzgodnieniu z innymi zarządcami dróg i po uiszczeniu
+                    opłaty, Generalny Dyrektor Dróg Krajowych i Autostrad, w terminie 14 dni roboczych
+                    od dnia złożenia wniosku, z zastrzeżeniem ust. 5. Jeżeli trasa przejazdu pojazdu
+                    nienormatywnego przebiega w granicach administracyjnych miasta na prawach
+                    powiatu i nie przebiega autostradą lub drogą ekspresową, zezwolenie wydaje
+                    prezydent miasta.
+                    <br/><br/>5. Zarządca drogi właściwy ze względu na kategorię drogi, po której jest
+                    planowany przejazd, uzgadnia trasę przejazdu w terminie 7 dni roboczych od dnia
+                    otrzymania pisemnego zapytania organu wydającego zezwolenie, uwzględniając
+                    warunki przejazdu i stan techniczny drogi. W przypadku braku odpowiedzi na
+                    zapytanie uznaje się trasę za uzgodnioną.
+                    <br/><br/>6. Jeżeli przejazd pojazdu nienormatywnego wymaga określenia zakresu
+                    przystosowania infrastruktury drogowej położonej na trasie przejazdu, termin wydania
+                    zezwolenia może ulec przedłużeniu do 30 dni, z tym że organ wydający zezwolenie
+                    jest obowiązany powiadomić o tym podmiot składający wniosek w terminie 7 dni od
+                    dnia złożenia wniosku.
+                    <br/><br/>7. Koszty związane z przystosowaniem odcinków dróg do przejazdu pojazdu
+                    nienormatywnego ponosi podmiot wykonujący ten przejazd.
+                    <br/><br/>8. Do kosztów, o których mowa w ust. 7, zalicza się koszty dostosowania
+                    infrastruktury drogowej na trasie przejazdu pojazdu nienormatywnego, dostaw, usług
+                    lub robót, wskazanych w zezwoleniu na przejazd pojazdu nienormatywnego, w tym
+                    koszty:
+                    <br/>1) wykonania niezbędnych ekspertyz i badań odcinków dróg i drogowych obiektów
+                    inżynierskich;
+                    <br/>2) przygotowania niezbędnej dokumentacji projektowej i kosztorysowej;
+                    <br/>3) czasowego usunięcia ograniczeń skrajni drogowej;
+                    <br/>4) wykonania wzmocnienia odcinków dróg i drogowych obiektów inżynierskich;
+                    <br/>5) wykonania robót zabezpieczających na trasie przejazdu pojazdu;
+                    <br/>6) dokonania geometrycznych korekt trasy przejazdu lub występujących w jej ciągu
+                    skrzyżowań;
+                    <br/>7) budowy lub dostosowania lokalnych objazdów występujących na trasie
+                    przejazdu pojazdu; 8) wykonania prac związanych z przywróceniem odcinków dróg do stanu
+                    poprzedniego lub stanu uzgodnionego z właściwym zarządcą drogi;
+                    <br/>9) dokonania zmian w organizacji ruchu lub przywrócenia jej stanu poprzedniego
+                    lub stanu uzgodnionego z właściwym zarządcą drogi.
+                    <br/><br/>9. Zezwolenie wydaje się dla podmiotu wykonującego przejazd pojazdem
+                    nienormatywnym, wskazując w nim:
+                    <br/>1) okres ważności zezwolenia;
+                    <br/>2) trasę przejazdu;
+                    <br/>3) liczbę przejazdów;
+                    <br/>4) pojazd, którym będzie wykonywany przejazd;
+                    <br/>5) warunki przejazdu, w tym zakres dostosowania infrastruktury drogowej na trasie
+                    przejazdu;
+                    <br/>6) sposób pilotowania, o ile jest ono wymagane.
+                    <br/><br/>10. Zezwolenie jest ważne przez okres:
+                    <br/>1) 14 dni – w przypadku zezwolenia na jednokrotny przejazd,
+                    <br/>2) 30 dni – w przypadku zezwolenia na wielokrotny przejazd
+                    – liczonych od dnia wskazanego we wniosku o wydanie zezwolenia.
+                    <br/><br/>11. Opłatę za wydanie zezwolenia ustala się zgodnie z wzorem:
+                    O = p + (n – 1) × 0,7 × p ,
+                    w którym poszczególne symbole oznaczają:
+                    – O – wysokość opłaty za wydanie zezwolenia,
+                    – n – liczbę przejazdów pojazdu nienormatywnego,
+                    – p – stawkę opłaty za wydanie zezwolenia na jednokrotny przejazd pojazdu
+                    nienormatywnego.
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64e.</strong><br/> 1. Przepisy art. 64 ust. 1 pkt 1 i 2 oraz ust. 2 i 3 i art. 64b–64d nie
+                    dotyczą:
+                    <br/>1) autobusu – w zakresie nacisków osi;
+                    <br/>2) pojazdu, którego szerokość i długość bez ładunku nie są większe od
+                    dopuszczalnych, przewożącego ładunek na zasadach określonych
+                    w art. 61 ust. 6, 8 i 9;
+                    <br/>3) pojazdu biorącego udział w akcjach ratowniczych oraz przy bezpośredniej
+                    likwidacji skutków klęsk żywiołowych; 3a) pojazdu dostarczającego do szpitali wyposażenie i zaopatrzenie niezbędne do
+                    zwalczania zakażeń i chorób zakaźnych w okresie obowiązywania stanu
+                    zagrożenia epidemicznego lub stanu epidemii ogłoszonego na podstawie ustawy
+                    z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób
+                    zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, 2112 i 2401 oraz z 2021 r. poz.
+                    159, 180 i 255);
+                    <br/>4) pojazdu zarządu drogi;
+                    <br/>5) pojazdu Policji, Inspekcji Transportu Drogowego, Służby Ochrony Państwa,
+                    Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura
+                    Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej
+                    Administracji Skarbowej wykorzystywanego przez Służbę Celno-Skarbową oraz
+                    jednostek ochrony przeciwpożarowej, wykonującego zadania tych służb.
+                    <br/><br/>1a. W przypadku przejazdu pojazdu, o którym mowa w ust. 1 pkt 3a, podmiot
+                    wykonujący przejazd informuje o nim zarządców dróg właściwych dla trasy
+                    przejazdu.
+                    <br/><br/>2. Minister właściwy do spraw transportu może zwolnić, w drodze decyzji
+                    administracyjnej, z obowiązku uzyskania zezwolenia na przejazd pojazdu
+                    nienormatywnego pojazd wykonujący przejazd w ramach pomocy humanitarnej lub
+                    medycznej, pod warunkiem uzyskania na przejazd zgody zarządców dróg właściwych
+                    dla trasy przejazdu.
+                    <br/><br/>3. Zwolnienie, o którym mowa w ust. 2, wydaje się na wniosek
+                    zainteresowanego podmiotu wykonującego przejazd i właściwego organu
+                    państwowego, samorządowego lub organizacji humanitarnej.
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64ea.</strong><br/> W przypadku wykonywania przejazdu pojazdem nienormatywnym na
+                    podstawie zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, kategorii innej niż
+                    wymagana albo na podstawie zezwolenia kategorii V z przekroczonymi parametrami
+                    technicznymi pojazdu lub zespołu pojazdów wskazanymi w tym zezwoleniu, przejazd
+                    pojazdu nienormatywnego uznaje się za wykonywany bez zezwolenia.
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64f.</strong><br/> 1. Ustala się maksymalną wysokość stawek opłat za wydanie
+                    zezwolenia na przejazd pojazdu nienormatywnego w:
+                    <br/>1) kategorii I – 120 zł;
+                    <br/>2) kategorii II – 2400 zł; 3) kategorii III – 3600 zł;
+                    <br/>4) kategorii IV – 5800 zł;
+                    <br/>5) kategorii V na jednokrotny przejazd:
+                    a) pojazdu, którego wymiary przekraczają wielkości ustalone dla kategorii II i
+                    III i którego naciski osi i masa nie są większe od dopuszczalnych – 600 zł,
+                    b) w pozostałych przypadkach – 2000 zł.
+                    <br/><br/>2. Maksymalne stawki opłat za wydanie zezwolenia ulegają corocznie zmianie
+                    na następny rok kalendarzowy w stopniu odpowiadającym średniorocznemu
+                    wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, ogłaszanego przez
+                    Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym
+                    Rzeczypospolitej Polskiej „Monitor Polski”.
+                    <br/><br/>3. Minister właściwy do spraw transportu określi, w drodze rozporządzenia,
+                    wysokość opłat za wydanie zezwolenia na przejazd pojazdu nienormatywnego
+                    w poszczególnych kategoriach zezwoleń, z uwzględnieniem okresu, na jaki będą
+                    wydawane, kosztów wydania zezwolenia i stopnia oddziaływania przejazdu pojazdu
+                    nienormatywnego na infrastrukturę drogową.
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64g.</strong><br/> 1. Opłaty za wydanie zezwolenia na przejazd pojazdu
+                    nienormatywnego są przekazywane przez:
+                    <br/>1) starostę – do budżetów właściwych jednostek samorządu terytorialnego, za
+                    zezwolenia kategorii I i II;
+                    <br/>2) naczelnika urzędu celno-skarbowego – do budżetu powiatu właściwego ze
+                    względu na siedzibę naczelnika urzędu celno-skarbowego, za zezwolenia
+                    kategorii II;
+                    <br/>3) naczelnika urzędu celno-skarbowego i Generalnego Dyrektora Dróg Krajowych
+                    i Autostrad – na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg
+                    Krajowych i Autostrad, za zezwolenia kategorii III–V;
+                    <br/>4) prezydenta miasta na prawach powiatu – do budżetu miasta, za zezwolenia
+                    kategorii V.
+                    <br/><br/>2. Środki z opłat gromadzone na wyodrębnionym rachunku bankowym
+                    Generalnej Dyrekcji Dróg Krajowych i Autostrad są przekazywane w terminie
+                    pierwszych 2 dni roboczych następujących po tygodniu, w którym wydano
+                    zezwolenie, na rachunek Krajowego Funduszu Drogowego, z przeznaczeniem na budowę lub przebudowę dróg krajowych, drogowych obiektów inżynierskich
+                    i przepraw promowych oraz na zakup urządzeń do ważenia pojazdów.
+                    <br/><br/>3. Urzędy celno-skarbowe otrzymują prowizję od pobranych opłat za wydanie
+                    zezwolenia w wysokości 12% pobranej opłaty.
+                    <br/><br/>4. Prowizja, o której mowa w ust. 3, stanowi dochód budżetu państwa.
+                    <br/><br/>5. Od opłat za wydanie zezwolenia urzędy celno-skarbowe odliczają prowizję,
+                    a pozostałą część opłaty, w terminie 4 dni po upływie każdych kolejnych 10 dni
+                    miesiąca, przekazują odpowiednio do podmiotów wymienionych w ust. 1 pkt 2 i 3.
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64h.</strong><br/> Minister właściwy do spraw transportu dokona wyboru producenta
+                    blankietów zezwoleń na przejazd pojazdu nienormatywnego.
+                </p>
+            </div>
+            <div>
+                <a name="64"></a>
+                <p class="hyphenate"><strong>Art. 64i.</strong><br/> 1. Minister właściwy do spraw transportu określi, w drodze
+                    rozporządzenia:
+                    <br/>1) warunki dystrybucji blankietów zezwoleń na przejazd pojazdu
+                    nienormatywnego,
+                    <br/>2) sposób i tryb wydawania zezwoleń na przejazd pojazdu nienormatywnego,
+                    <br/>3) warunki wyznaczania trasy przejazdu oraz kryteria ustalania warunków
+                    przejazdu pojazdu nienormatywnego, w tym przejazdu przez most lub wiadukt,
+                    <br/>4) wzory zezwoleń na przejazd pojazdu nienormatywnego oraz wzory dokumentów
+                    związanych z wydawaniem tych zezwoleń
+                    – mając na uwadze potrzebę ujednolicenia zezwoleń i ułatwienie ich identyfikacji oraz
+                    sprawność dystrybucji blankietów zezwoleń, a także konieczność zapewnienia
+                    sprawności i przejrzystości procedury administracyjnej wydawania zezwoleń oraz
+                    bezpieczeństwa infrastruktury drogowej i bezpieczeństwa przejazdu pojazdu
+                    nienormatywnego.
+                    <br/><br/>2. Minister właściwy do spraw transportu w porozumieniu z ministrem
+                    właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe
+                    warunki i sposób pilotowania pojazdów nienormatywnych oraz wyposażenie i ozna-
+                    kowanie pojazdów wykonujących pilotowanie, mając na uwadze potrzebę
+                    zapewnienia rozpoznawalności przejazdu pojazdu nienormatywnego oraz
+                    bezpieczeństwa ruchu drogowego podczas takiego przejazdu.
+                    <br/><br/>3. Minister właściwy do spraw wewnętrznych i Minister Sprawiedliwości
+                    w porozumieniu z ministrem właściwym do spraw transportu określą, w drodze rozporządzenia, warunki poruszania się po drogach pojazdów nienormatywnych,
+                    o których mowa w art. 64e ust. 1 pkt 5, mając na uwadze konieczność zapewnienia
+                    porządku, sprawności i bezpieczeństwa ruchu drogowego.
+                    <br/><br/>4. Minister Obrony Narodowej określi, w drodze rozporządzenia:
+                    <br/>1) organy wojskowe właściwe do wydawania zezwoleń wojskowych na przejazdy
+                    drogowe,
+                    <br/>2) sposób i tryb wydawania zezwoleń wojskowych na przejazdy drogowe,
+                    <br/>3) wzory zezwoleń wojskowych na przejazdy drogowe oraz wzory dokumentów
+                    związanych z ich wydaniem,
+                    <br/>4) sposób organizacji i oznakowania kolumn pojazdów,
+                    <br/>5) warunki i sposób pilotowania pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej
+                    oraz oznakowanie i wyposażenie pojazdu pilotującego
+                    – mając na uwadze potrzebę ujednolicenia procedury wydawania zezwoleń
+                    wojskowych na przejazdy drogowe, sprawności wydawania zezwoleń wojskowych na
+                    przejazd drogowy oraz zapewnienia bezpieczeństwa ruchu drogowego podczas
+                    przejazdu pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
+                </p>
+            </div>
+            <div>
+                <a name="5"></a>
+                <p class="hyphenate"><strong>Oddział 5
+                    Wykorzystanie dróg w sposób szczególny
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65.</strong><br/> Zawody sportowe, rajdy, wyścigi, przewóz osób kolejką turystyczną
+                    i inne imprezy, które powodują utrudnienia w ruchu lub wymagają korzystania z drogi
+                    w sposób szczególny, mogą się odbywać pod warunkiem zapewnienia bezpieczeństwa
+                    porządku podczas trwania imprezy oraz uzyskania zezwolenia na jej przeprowadzenie.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65a.</strong><br/> 1. Organizator imprezy jest obowiązany zapewnić bezpieczeństwo
+                    osobom obecnym na imprezie oraz porządek podczas trwania imprezy.
+                    <br/><br/>2. Organizator imprezy jest obowiązany zapewnić:
+                    <br/>1) spełnienie wymagań określonych w szczególności w przepisach prawa
+                    budowlanego, przepisach sanitarnych, przepisach dotyczących ochrony
+                    przeciwpożarowej oraz ochrony środowiska;
+                    <br/>2) wyróżniającą się elementami ubioru służbę porządkową i informacyjną;
+                    <br/>3) pomoc medyczną i przedmedyczną, dostosowaną do liczby uczestników
+                    imprezy, a także odpowiednie zaplecze higieniczno-sanitarne; 4) drogi ewakuacyjne oraz drogi umożliwiające dojazd służb ratowniczych i Policji,
+                    Straży Granicznej oraz Żandarmerii Wojskowej;
+                    <br/>5) warunki zorganizowania łączności między podmiotami biorącymi udział
+                    w zabezpieczeniu imprezy;
+                    <br/>6) sprzęt ratowniczy i gaśniczy oraz środki gaśnicze niezbędne do zabezpieczenia
+                    działań ratowniczo-gaśniczych;
+                    <br/>7) w razie potrzeby pomieszczenie dla służb kierujących zabezpieczeniem imprezy;
+                    <br/>8) środki techniczne niezbędne do zabezpieczenia imprezy, a w szczególności:
+                    a) znaki lub tablice ostrzegawcze i informacyjne,
+                    b) liny, taśmy lub wstęgi służące do oznaczenia trasy lub miejsca imprezy,
+                    c) bariery, płotki lub przegrody służące do odgradzania miejsca imprezy.
+                    <br/><br/>3. Organizator imprezy jest obowiązany:
+                    <br/>1) uzgodnić z organami zarządzającymi ruchem na drogach przebieg trasy, na której
+                    ma się odbyć impreza;
+                    <br/>2) współdziałać z Policją oraz, jeżeli impreza odbywa się w strefie nadgranicznej
+                    albo na drogach przebiegających przez tereny lub przyległych do terenów
+                    będących w zarządzie jednostek organizacyjnych podporządkowanych lub
+                    nadzorowanych przez Ministra Obrony Narodowej lub na drogach przyległych
+                    do tych terenów, odpowiednio ze Strażą Graniczną lub Żandarmerią Wojskową:
+                    a) uzgadniając przebieg trasy lub miejsce imprezy,
+                    b) stosując polecenia dotyczące prawidłowego zabezpieczenia imprezy,
+                    c) dokonując wspólnego objazdu trasy lub miejsca imprezy;
+                    <br/>3) sporządzić plan określający sposoby zapewnienia bezpieczeństwa i porządku
+                    publicznego podczas imprezy na terenie poszczególnych województw,
+                    obejmujący:
+                    a) listę osób wchodzących w skład służby porządkowej, ich rozmieszczenie
+                    oraz elementy ubioru wyróżniające te osoby,
+                    b) pisemną instrukcję określającą zadania służb porządkowych, opracowaną
+                    w uzgodnieniu z Policją,
+                    c) rodzaj i ilość środków technicznych, o których mowa w ust. 2 pkt 8, oraz
+                    miejsce ich rozlokowania,
+                    d) rodzaje, zakres i sposób zabezpieczenia ratowniczego imprezy,
+                    w uzgodnieniu z właściwym komendantem powiatowym Państwowej Straży Pożarnej oraz innymi służbami ratowniczymi, w tym z właściwym
+                    dysponentem jednostki w rozumieniu przepisów ustawy z dnia 8 września
+                    2006 r. o Państwowym Ratownictwie Medycznym,
+                    e) sposób oznaczenia miejsc niebezpiecznych dla uczestników imprezy,
+                    f) oznakowanie pojazdów uczestniczących w imprezie i towarzyszących tej
+                    imprezie,
+                    g) rodzaje zezwoleń umożliwiających poruszanie się osób lub pojazdów
+                    w miejscach wyłączonych z ruchu publicznego,
+                    h) organizację łączności bezprzewodowej między organizatorem imprezy
+                    a Policją w trakcie trwania imprezy,
+                    i) sposób informowania o ograniczeniach w ruchu drogowym wynikających
+                    z przebiegu imprezy – przed imprezą i w trakcie jej trwania;
+                    <br/>4) opracować regulamin oraz program imprezy;
+                    <br/>5) ustalić z Policją oraz, jeżeli impreza odbywa się w strefie nadgranicznej albo na
+                    drogach przebiegających przez tereny lub przyległych do terenów będących
+                    w zarządzie jednostek organizacyjnych podporządkowanych lub nadzorowanych
+                    przez Ministra Obrony Narodowej, odpowiednio ze Strażą Graniczną lub
+                    Żandarmerią Wojskową terminy wspólnych spotkań organizowanych w celu
+                    uzgodnienia spraw związanych z zabezpieczeniem imprezy;
+                    <br/>6) zapewnić realizację planu, o którym mowa w pkt 3;
+                    <br/>7) uzgodnić z zarządcą drogi obszar wykorzystania pasa drogowego oraz sposób
+                    i termin przywrócenia go do stanu poprzedniego;
+                    7a) uzyskać zgodę zarządcy drogi na udział w imprezie pojazdów samochodowych
+                    wyposażonych w opony z umieszczonymi w nich na trwałe elementami
+                    przeciwślizgowymi;
+                    <br/>8) powiadomić przedsiębiorstwa komunikacji publicznej o przewidywanym czasie
+                    występowania utrudnień w ruchu drogowym;
+                    <br/>9) na polecenie organu zarządzającego ruchem na drodze opracować projekt
+                    organizacji ruchu w uzgodnieniu z Policją;
+                    <br/>10) udzielić dokładnych informacji dotyczących imprezy, na żądanie Policji lub
+                    innych podmiotów wymienionych w pkt 1, 2, 7 i 8, a także wojewody
+                    właściwego ze względu na miejsce odbywania się imprezy, jeżeli są one niezbędne do realizacji ich zadań w celu zapewnienia bezpieczeństwa i porządku
+                    publicznego;
+                    <br/>11) przekazywać do wiadomości publicznej informacje o utrudnieniach w ruchu
+                    wynikających z planowanej imprezy.
+                    <br/><br/>4. Bezpieczeństwo i porządek podczas imprez zapewnia Policja, z tym że jeżeli
+                    impreza odbywa się w strefie nadgranicznej albo jest przeprowadzana na drogach
+                    przebiegających lub przyległych do terenów będących w zarządzie jednostek
+                    organizacyjnych podporządkowanych lub nadzorowanych przez Ministra Obrony
+                    Narodowej, odpowiednio we współdziałaniu ze Strażą Graniczną, Żandarmerią
+                    Wojskową lub z wojskowymi organami porządkowymi:
+                    <br/>1) w czasie przygotowywania imprezy – opracowując własny plan zabezpieczenia
+                    imprezy;
+                    <br/>2) w czasie trwania imprezy:
+                    a) wystawiając posterunki kierowania ruchem i blokady ruchu,
+                    b) pilotując, w razie potrzeby, przejazd lub przejście uczestników imprezy,
+                    c) organizując objazdy wynikające z przeprowadzonej imprezy na drodze;
+                    <br/>3) po zakończeniu imprezy – przywracając płynność ruchu na drodze.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65b.</strong><br/> 1. Zezwolenie, o którym mowa w art. 65, wydaje w drodze decyzji
+                    administracyjnej, na pisemny wniosek organizatora imprezy, zwany dalej
+                    „wnioskiem”, złożony co najmniej na 30 dni przed planowym terminem jej
+                    rozpoczęcia, organ zarządzający ruchem na drodze, na której odbywa się impreza,
+                    z tym że jeżeli impreza odbywa się na drogach podległych kilku organom – organem
+                    właściwym jest:
+                    <br/>1) w przypadku dróg różnych kategorii – organ zarządzający ruchem na drodze
+                    wyższej kategorii;
+                    <br/>2) w przypadku dróg tej samej kategorii – organ właściwy ze względu na miejsce
+                    rozpoczęcia imprezy.
+                    <br/><br/>2. Organizator imprezy przesyła w terminie określonym w ust. 1 kopię wniosku
+                    wraz z wymaganymi dokumentami do:
+                    <br/>1) właściwego ze względu na miejsce rozpoczęcia imprezy komendanta
+                    wojewódzkiego Policji, a także
+                    <br/>2) komendanta oddziału Straży Granicznej – jeżeli impreza odbywa się w strefie
+                    nadgranicznej, lub 3) komendanta jednostki Żandarmerii Wojskowej – jeżeli impreza jest
+                    przeprowadzana na drogach przebiegających lub przyległych do terenów
+                    będących w zarządzie jednostek organizacyjnych podporządkowanych lub
+                    nadzorowanych przez Ministra Obrony Narodowej.
+                    <br/><br/>3. Wniosek powinien zawierać w szczególności:
+                    <br/>1) imię, nazwisko lub nazwę oraz adres zamieszkania lub siedzibę organizatora
+                    imprezy;
+                    <br/>2) rodzaj i nazwę imprezy;
+                    <br/>3) informację o miejscu i dacie rozpoczęcia, przebiegu oraz zakończenia imprezy;
+                    <br/>4) informację o przewidywanej liczbie uczestników imprezy;
+                    <br/>5) wykaz osób reprezentujących organizatora w sprawach zabezpieczenia trasy lub
+                    miejsca imprezy na terenie poszczególnych województw;
+                    <br/>6) podpis organizatora lub jego przedstawiciela.
+                    <br/><br/>4. Do wniosku należy dołączyć:
+                    <br/>1) szczegółowy regulamin imprezy, określający w szczególności zasady
+                    zachowania uczestników imprezy istotne dla bezpieczeństwa ruchu drogowego;
+                    <br/>2) wykaz osób odpowiedzialnych za prawidłowy przebieg i zabezpieczenie imprezy
+                    na terenie poszczególnych województw oraz w miejscach rozpoczęcia
+                    i zakończenia każdego odcinka, a także w miejscach wymagających
+                    szczególnego zabezpieczenia;
+                    <br/>3) program imprezy ze szczegółowym opisem trasy i podaniem odległości między
+                    poszczególnymi jej odcinkami oraz określony w minutach i kilometrach program
+                    przejazdu lub przejścia uczestników przez poszczególne miejscowości i granice
+                    województw;
+                    <br/>4) plan zabezpieczenia trasy lub miejsca określony w art. 65a ust. 3 pkt 3;
+                    <br/>5) zobowiązanie organizatora do przywrócenia do poprzedniego stanu pasa
+                    drogowego na trasie przejazdu, przejścia lub miejsca pobytu uczestników
+                    imprezy, a w przypadku uszkodzenia pasa drogowego lub urządzeń drogowych
+                    będącego następstwem imprezy – do ich bezzwłocznego naprawienia lub
+                    pokrycia kosztów tych napraw;
+                    <br/>6) pisemną zgodę właściciela lasu na przeprowadzenie imprezy w razie
+                    przeprowadzania jej na terenach leśnych.
+                    <br/><br/>5. Organ, o którym mowa w ust. 1, wydaje zezwolenie po:<br/> 1) zasięgnięciu opinii właściwego ze względu na miejsce imprezy komendanta
+                    wojewódzkiego Policji, a w przypadku imprezy odbywającej się na drogach
+                    w strefie nadgranicznej albo na drogach przebiegających lub przyległych do
+                    terenów będących w zarządzie jednostek organizacyjnych podporządkowanych
+                    lub nadzorowanych przez Ministra Obrony Narodowej – odpowiednio
+                    właściwego komendanta oddziału Straży Granicznej lub komendanta jednostki
+                    Żandarmerii Wojskowej; opinię doręcza się organowi, który o nią wystąpił,
+                    w terminie 14 dni od dnia wystąpienia;
+                    <br/>2) uzgodnieniu zakresu ograniczenia ruchu i wynikających stąd warunków
+                    przeprowadzenia imprezy z organami zarządzającymi ruchem na drogach, na
+                    których ma się odbyć impreza.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65c.</strong><br/> Organ wydający zezwolenie odmawia jego wydania:
+                    <br/>1) jeżeli organizator nie spełnia warunków określonych w art. 65a ust. 2 i 3;
+                    <br/>2) jeżeli pomimo spełnienia warunków określonych w art. 65a ust. 2 i 3:
+                    a) istnieje niebezpieczeństwo zagrożenia życia lub zdrowia ludzkiego albo
+                    mienia wielkiej wartości,
+                    b) impreza zagraża bezpieczeństwu ruchu drogowego, a nie ma możliwości
+                    zorganizowania objazdów niepowodujących istotnego zwiększenia kosztów
+                    ponoszonych przez uczestników ruchu drogowego.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65d.</strong><br/> 1. Organ wydający zezwolenie cofa wydane zezwolenie, gdy istnieje
+                    niebezpieczeństwo zagrożenia życia lub zdrowia albo mienia wielkiej wartości.
+                    <br/><br/>2. Organ, o którym mowa w ust. 1, może cofnąć zezwolenie, gdy impreza
+                    zagraża bezpieczeństwu ruchu drogowego.
+                    <br/><br/>3. Decyzji, o której mowa w ust. 1 i 2, nadaje się rygor natychmiastowej
+                    wykonalności.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65e.</strong><br/> Decyzję o wydaniu lub odmowie wydania zezwolenia na odbycie
+                    imprezy wydaje się co najmniej na 7 dni przed planowanym terminem rozpoczęcia
+                    imprezy.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65f.</strong><br/> Organ kontroli ruchu drogowego przerywa imprezę, jeżeli odbywa się
+                    ona bez zezwolenia.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65g.</strong><br/> Organ kontroli ruchu drogowego może przerwać imprezę, jeżeli:<br/> 1) miejsce, trasa lub czas jej trwania nie są zgodne z warunkami określonymi
+                    w zezwoleniu;
+                    <br/>2) istnieje niebezpieczeństwo zagrożenia życia lub zdrowia ludzkiego albo mienia
+                    wielkiej wartości;
+                    <br/>3) jej przebieg powoduje zagrożenie bezpieczeństwa ruchu drogowego.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65h.</strong><br/> 1. Przepisy art. 65–65g nie dotyczą procesji, pielgrzymek i innych
+                    imprez o charakterze religijnym, które odbywają się na drogach na zasadach
+                    określonych w:
+                    <br/>1) ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego
+                    w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347);
+                    <br/>2) ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego
+                    Autokefalicznego Kościoła Prawosławnego (Dz. U. z 2014 r. poz. 1726);
+                    <br/>3) ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów
+                    Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1889);
+                    <br/>4) ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan
+                    Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 169);
+                    <br/>5) ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-
+                    -Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1712);
+                    <br/>6) ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła
+                    Polskokatolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1599);
+                    <br/>7) ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła
+                    Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r.
+                    poz. 14);
+                    <br/>8) ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Katolickiego
+                    Mariawitów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 44);
+                    <br/>9) ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła
+                    Zielonoświątkowego w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 13).
+                    <br/><br/>2. Przepisy art. 65–65g nie dotyczą także konduktów pogrzebowych, które
+                    poruszają się po drogach stosownie do miejscowego zwyczaju.
+                    <br/><br/>3. Do imprez, o których mowa w art. 65, nie stosuje się przepisów
+                    o bezpieczeństwie imprez masowych, z wyłączeniem przepisów regulujących
+                    organizację oraz uprawnienia służb porządkowych. </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65i.</strong><br/> W sprawach nieuregulowanych w art. 65–65h stosuje się przepisy
+                    Kodeksu postępowania administracyjnego.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65j.</strong><br/> Do przewozu osób kolejką turystyczną stosuje się przepisy </p>
+            </div>
+            <div>
+                <a name="56522578336114654465"></a>
+                <p class="hyphenate"><strong>Oddziału 5
+                    z wyłączeniem przepisów art. 65a ust. 2 pkt 2–5, 7–8, ust. 3 pkt 3, 6–11, ust. 4,
+                    art. 65b ust. 4 pkt 4 oraz art. 65h.
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="6"></a>
+                <p class="hyphenate"><strong>Oddział 6
+                    Wykorzystanie dróg na potrzeby prac badawczych nad pojazdami
+                    autonomicznymi
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65k.</strong><br/> Ilekroć w niniejszym oddziale jest mowa o pojeździe autonomicznym,
+                    należy przez to rozumieć pojazd samochodowy, wyposażony w systemy sprawujące
+                    kontrolę nad ruchem tego pojazdu i umożliwiające jego ruch bez ingerencji
+                    kierującego, który w każdej chwili może przejąć kontrolę nad tym pojazdem.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65l.</strong><br/> 1. Prowadzenie prac badawczych związanych z testowaniem pojazdów
+                    autonomicznych w ruchu drogowym na drogach publicznych, w szczególności na
+                    potrzeby zastosowania pojazdów autonomicznych w transporcie zbiorowym
+                    i realizacji innych zadań publicznych, jest możliwe pod warunkiem spełnienia
+                    wymagań bezpieczeństwa i uzyskania zezwolenia na przeprowadzenie tych prac.
+                    <br/><br/>2. Zezwolenie, o którym mowa w ust. 1, wydaje, w drodze decyzji, organ
+                    zarządzający ruchem na drodze, na której planuje się przeprowadzenie prac
+                    badawczych, na pisemny wniosek organizatora prac badawczych.
+                    <br/><br/>3. Wniosek, o którym mowa w ust. 2, zawiera w szczególności:
+                    <br/>1) imię, nazwisko lub firmę (nazwę) oraz adres zamieszkania lub siedziby
+                    organizatora prac badawczych;
+                    <br/>2) informację o miejscu i dacie rozpoczęcia oraz zakończenia prac badawczych;
+                    <br/>3) planowany przebieg trasy, po której będzie poruszał się pojazd autonomiczny;
+                    <br/>4) wykaz osób odpowiedzialnych za zabezpieczenie trasy pojazdu autonomicznego;
+                    <br/>5) podpis organizatora prac badawczych lub jego przedstawiciela.
+                    <br/><br/>4. Do wniosku, o którym mowa w ust. 2, dołącza się:
+                    <br/>1) dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia
+                    odpowiedzialności cywilnej organizatora prac badawczych za szkody powstałe
+                    w związku z prowadzeniem prac badawczych związanych z prowadzeniem pojazdów autonomicznych, która wchodzi w życie w przypadku uzyskania
+                    pozwolenia na prowadzenie prac badawczych;
+                    <br/>2) dowód opłacenia składki za to ubezpieczenie;
+                    <br/>3) kopię decyzji o profesjonalnej rejestracji pojazdów wydanej na podstawie
+                    art. 80t ust. 2.
+                    <br/><br/>5. Organ, o którym mowa w ust. 2, konsultuje z mieszkańcami gminy, na terenie
+                    której prowadzone będą prace badawcze, wniosek o przeprowadzenie prac
+                    badawczych, zamieszczając ten wniosek na swojej stronie internetowej i wyznaczając
+                    termin na zgłaszanie uwag. Termin ten nie może być krótszy niż 7 dni. W toku
+                    konsultacji właściciel nieruchomości położonej wzdłuż planowanej trasy, po której
+                    będzie poruszał się pojazd autonomiczny, może zgłosić sprzeciw.
+                    <br/><br/>6. Organ, o którym mowa w ust. 2, wydaje zezwolenie, o którym mowa w ust. 1,
+                    po:
+                    <br/>1) uzyskaniu zgody właściwego zarządcy drogi, na której planuje się
+                    przeprowadzenie prac badawczych, oraz
+                    <br/>2) zasięgnięciu opinii właściwego ze względu na miejsce prowadzenia prac
+                    badawczych komendanta wojewódzkiego Policji dotyczącej wpływu badań na
+                    płynność ruchu po planowanej trasie, po której będzie poruszał się pojazd
+                    autonomiczny.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65m.</strong><br/> 1. Organ wydający zezwolenie, o którym mowa w art. 65l ust. 1,
+                    odmawia jego wydania, jeżeli:
+                    <br/>1) organizator prac badawczych:
+                    a) nie podał we wniosku, o którym mowa w art. 65l ust. 2, informacji
+                    określonych w art. 65l ust. 3,
+                    b) nie dołączył do wniosku, o którym mowa w art. 65l ust. 2, dokumentów
+                    wskazanych w art. 65l ust. 4,
+                    c) nie uzyskał zgody i opinii, o których mowa w art. 65l ust. 6;
+                    <br/>2) pomimo spełnienia wymogów określonych w art. 65l ust. 3 i 4 istnieje
+                    niebezpieczeństwo, że prowadzenie prac badawczych będzie stanowić
+                    zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości;
+                    <br/>3) właściciel nieruchomości położonej wzdłuż planowanej trasy, po której będzie
+                    poruszał się pojazd autonomiczny, zgłosił sprzeciw.
+                    <br/><br/>2. Organ wydający zezwolenie może:<br/> 1) cofnąć zezwolenie, jeżeli:
+                    a) organizator prac badawczych podał we wniosku, o którym mowa w art. 65l
+                    ust. 2, nieprawdziwe informacje,
+                    b) prace badawcze prowadzone są niezgodnie z informacjami podanymi we
+                    wniosku, o którym mowa w art. 65l ust. 2,
+                    c) dalsze prowadzenie prac badawczych stanowi zagrożenie dla życia lub
+                    zdrowia ludzkiego albo mienia wielkiej wartości;
+                    <br/>2) zawiesić zezwolenie, jeżeli dalsze prowadzenie prac badawczych może stanowić
+                    zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości – do
+                    czasu ustania tego zagrożenia.
+                </p>
+            </div>
+            <div>
+                <a name="65"></a>
+                <p class="hyphenate"><strong>Art. 65n.</strong><br/> 1. Organizator prac badawczych jest obowiązany:
+                    <br/>1) umożliwić Policji wykonywanie czynności niezbędnych do zapewnienia
+                    bezpieczeństwa ruchu drogowego oraz ochrony życia i zdrowia ludzi oraz mienia
+                    w trakcie prowadzenia prac badawczych;
+                    <br/>2) zapewnić, aby w trakcie prowadzenia prac badawczych w pojeździe
+                    autonomicznym, w miejscu przeznaczonym dla kierującego, znajdowała się
+                    osoba posiadająca uprawnienia do kierowania pojazdem, która w każdej chwili
+                    może przejąć kontrolę nad tym pojazdem, w szczególności w razie wystąpienia
+                    zagrożenia dla bezpieczeństwa w ruchu drogowym;
+                    <br/>3) przekazywać do wiadomości publicznej informacje o planowanych pracach
+                    badawczych i przebiegu trasy, po której będzie poruszał się pojazd
+                    autonomiczny;
+                    <br/>4) przekazać Dyrektorowi Transportowego Dozoru Technicznego sprawozdanie
+                    z przeprowadzonych prac badawczych związanych z testowaniem pojazdów
+                    autonomicznych oraz ich wyposażenia, zgodnie z wzorem określonym w
+                    przepisach wydanych na podstawie ust. 2, w terminie 3 miesięcy od dnia
+                    zakończenia testów.
+                    <br/><br/>2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór
+                    sprawozdania składanego przez organizatorów prac badawczych związanych
+                    z testowaniem pojazdów autonomicznych oraz ich wyposażenia, kierując się potrzebą
+                    zapewnienia dostępu do jednolitych informacji o niezawodności funkcjonowania tych
+                    pojazdów, sposobie poruszania się po drogach, sposobie sterowania tymi pojazdami
+                    i bezpieczeństwie ruchu drogowego. </p>
+            </div>
+        </div>
+        <div class="popups">
+        0:{"buildId":"SYaHkCXjnDtPpqb4OqRg1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L2",null,{"href":"/pl/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Powrót do pytań"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Przepisy ruchu drogowego"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 6"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

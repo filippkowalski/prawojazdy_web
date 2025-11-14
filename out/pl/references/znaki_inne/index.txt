@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","pl","references","znaki_inne",""],"q":"","i":false,"f":[[["",{"children":[["locale","pl","d"],{"children":["references",{"children":[["page","znaki_inne","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"pl"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/pl/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Regulamin"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/pl/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Polityka prywatności"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Prawo Jazdy. Wszelkie prawa zastrzeżone."}]]}]}]}]]}]
+11:T2c7e,
+            <h2 style="margin:0"><span class="small-caps">Inne znaki</span></h2>
+            <h3 style="margin:0"><span class="small-caps">Dodatkowe znaki szlaków rowerowych</span></h3>
+            <p class="hyphenate"><a name="83"></a><strong>§ 83.</strong></p>
+            <p class="hyphenate"><a name="83.1"></a>1. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_r-1.png"/>
+                <p style="margin-bottom:30px">1) R-1 „szlak rowerowy krajowy”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_r-1a.png"/>
+                <p style="margin-bottom:30px">2) R-1a „początek (koniec) szlaku rowerowego krajowego”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_r-1.png"/>
+                <p style="margin-bottom:30px">3) R-1 b „zmiana kierunku szlaku rowerowego krajowego”</p>
+            </div>
+            <p>Oznaczają odpowiednio przebieg szlaku rowerowego krajowego.</p>
+            <p class="hyphenate"><a name="83.2"></a>2. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_r-2.png"/>
+                <p style="margin-bottom:30px">1) R-2 „szlak rowerowy międzynarodowy”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_r-2a.png"/>
+                <p style="margin-bottom:30px">2) R-2a „zmiana kierunku szlaku rowerowego międzynarodowego”</p>
+            </div>
+            <p>Oznaczają odpowiednio przebieg szlaku rowerowego międzynarodowego o numerze wskazanym na znaku.</p>
+            <p class="hyphenate"><a name="83.3"></a>3. Znak R-3 „tablica szlaku rowerowego” wskazuje odległość do głównych miejscowości położonych przy szlaku rowerowym.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_r-3.png"/>
+                <div>R-3</div>
+            </div>
+            <h3 style="margin:0"><span class="small-caps">Dodatkowe znaki dla kierujących pojazdami wojskowymi</span></h3>
+            <p class="hyphenate"><a name="84"></a><strong>§ 84.</strong></p>
+            <p class="hyphenate"><a name="84.1"></a>1. Znakami dla kierujących pojazdami wojskowymi są:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_w-1.png"/>
+                <p style="margin-bottom:30px">1) W-1 „klasa obciążenia mostu o ruchu jednokierunkowym”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_w-2.png"/>
+                <p style="margin-bottom:30px">2) W-2 „klasa obciążenia mostu o ruchu dwukierunkowym”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_w-3.png"/>
+                <p style="margin-bottom:30px">3) W-3 „klasa obciążenia mostu o ruchu jednokierunkowym dla pojazdów kołowych i gąsienicowych”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_w-4.png"/>
+                <p style="margin-bottom:30px">4) W-4 „klasa obciążenia mostu o ruchu dwukierunkowym dla pojazdów kołowych”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_w-5.png"/>
+                <p style="margin-bottom:30px">5) W-5 „klasa obciążenia mostu o ruchu dwukierunkowym dla pojazdów gąsienicowych”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_w-6.png"/>
+                <p style="margin-bottom:30px">6) W-6 „szerokość mostu lub środka przeprawowego”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_w-7.png"/>
+                <p style="margin-bottom:30px">7) W-7 „wysokość skrajni pionowej na moście lub w tunelu”</p>
+            </div>
+            <p>2. Znaczenie znaków, o których mowa w ust. 1, określają odrębne przepisy.</p>
+            <h3 style="margin-top: 60px"><span class="small-caps">Sygnały dawane przez uprawnione osoby</span></h3>
+            <p class="hyphenate"><a name="108"></a><strong>§ 108.</strong></p>
+            <p class="hyphenate"><a name="108.1"></a>1. Kierujący ruchem daje sygnały za pomocą postawy i ruchu rąk.</p>
+            <p class="hyphenate"><a name="108.2"></a>2. Postawa, w której kierujący ruchem jest zwrócony bokiem do nadjeżdżających pojazdów, oznacza zezwolenie na wjazd na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem, a dla pieszych -
+                zezwolenie na wejście na jezdnię.</p>
+            <p class="hyphenate"><a name="108.3"></a>3. Postawa, w której kierujący ruchem jest zwrócony przodem lub tyłem do nadjeżdżających pojazdów, oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem, a dla
+                pieszych - zakaz wejścia na jezdnię.</p>
+            <p class="hyphenate"><a name="108.4"></a>4. Podniesienie ręki do góry przez osobę kierującą ruchem oznacza mającą nastąpić zmianę dotychczas dawanego sygnału. Dla uczestników ruchu, dla których ruch byt zamknięty, oznacza, że za
+                chwilę będzie dawany sygnał oznaczający zezwolenie na wjazd lub wejście, a dla uczestników ruchu, dla których ruch byt otwarty, oznacza, że za chwilę będzie dawany sygnał zakazujący wjazdu lub wejścia.</p>
+            <p class="hyphenate"><a name="108.5"></a>5. Ręka osoby kierującej ruchem wyciągnięta poziomo, poprzecznie do kierunku jazdy zbliżających się pojazdów, oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem.
+            </p>
+            <p class="hyphenate"><a name="109"></a><strong>§ 109.</strong></p>
+            <p class="hyphenate"><a name="109.1"></a>1. Sygnał oznaczający nakaz zatrzymania pojazdu jest dawany:
+                <br/>1) w warunkach dostatecznej widoczności - tarczą do zatrzymywania pojazdów,
+                <br/>2) w warunkach niedostatecznej widoczności - tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym albo latarką ze światłem czerwonym.
+            </p>
+            <p class="hyphenate"><a name="109.2"></a>2. Tarcza do zatrzymywania pojazdów, o której mowa w ust. 1, ma kształt czerwonego koła z białym obrzeżem.</p>
+            <p class="hyphenate"><a name="109.3"></a>3. Umundurowany policjant, inspektor Inspekcji Transportu Drogowego, żołnierz Żandarmerii Wojskowej i żołnierz wojskowych organów porządkowych mogą w warunkach dostatecznej widoczności dawać
+                sygnał do zatrzymania pojazdu samą ręką.</p>
+            <p class="hyphenate"><a name="109.4"></a>4. Osoby nadzorujące bezpieczne przejście dzieci przez jezdnię dają sygnał do zatrzymania pojazdu przez uniesienie w górę kwadratowej tarczy barwy żółtej ze znakiem B-20 z żółtym napisem i
+                obrzeżem.</p>
+            <p class="hyphenate"><a name="110"></a><strong>§ 110.</strong></p>
+            <p class="hyphenate"> Tablica barwy żółtej ze znakiem B-20 z żółtym napisem i obrzeżem, widoczna na autobusie szkolnym, oznacza nakaz zatrzymania pojazdów poruszających się po jezdni, na której albo przy której zatrzymał się autobus.
+
+            </p>
+            <p class="hyphenate"><a name="111"></a><strong>§ 111.</strong></p>
+            <p class="hyphenate"><a name="111.1"></a>1. Sygnał dźwiękowy dawany przez osobę kierującą ruchem lub uprawnioną do jego kontroli jest sygnałem ostrzegającym uczestników ruchu lub zwracającym uwagę na inne sygnały albo polecenia.</p>
+            <p class="hyphenate"><a name="111.2"></a>2. Jadący pojazdem samochodowym policjant, inspektor Inspekcji Transportu Drogowego lub żołnierz Żandarmerii Wojskowej może, w zakresie swoich ustawowych uprawnień, dawać kierującemu pojazdem
+                polecenia do:
+                <br/>1) określonego zachowania - za pomocą urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych,
+                <br/>2) zatrzymania - w przypadku jazdy za kierującym, do którego jest skierowane polecenie - przez krótkotrwałe włączenie niebieskiego światła błyskowego i sygnału dźwiękowego o zmiennym tonie.
+            </p>
+            <p class="hyphenate"><a name="111.3"></a>3. Przepis ust. 2 pkt 1 stosuje się odpowiednio do policjanta lub żołnierza Żandarmerii Wojskowej poruszającego się statkiem powietrznym.</p>
+            <p class="hyphenate"><a name="112"></a><strong>§ 112.</strong></p>
+            <p class="hyphenate"> Przepisy § 108-111 stosuje się odpowiednio do kolumn pieszych, jeźdźców i poganiaczy.
+
+            </p>
+            <h3 style="margin-top: 60px"><span class="small-caps">Sygnały dźwiękowe lub wibracyjne wysyłane przez urządzenia umieszczone na drodze</span></h3>
+            <p class="hyphenate"><a name="113"></a><strong>§ 113.</strong></p>
+            <p class="hyphenate"><a name="113.1"></a>1. Sygnał dźwiękowy nadawany w postaci dzwonu na przejeździe kolejowym ostrzega o zbliżaniu się pociągu lub innego pojazdu szynowego albo o opuszczaniu zapór (półzapór).</p>
+            <p class="hyphenate"><a name="113.2"></a>2. Sygnały dźwiękowe nadawane w postaci brzęczyków lub buczków albo komunikatów słownych na przejściach dla pieszych o ruchu kierowanym sygnałami świetlnymi informują osoby o upośledzonym
+                wzroku, że dla pieszych jest nadawany sygnał zielony.</p>
+            <p class="hyphenate"><a name="113.3"></a>3. Działanie urządzenia wibracyjnego znajdującego się na sygnalizatorze informuje osoby o upośledzonym wzroku i słuchu, że dla pieszych jest nadawany sygnał zielony.</p>
+            <h3 style="margin-top: 60px"><span class="small-caps">Przepisy przejściowe i końcowe</span></h3>
+            <p class="hyphenate"><a name="114"></a><strong>§ 114.</strong></p>
+            <p class="hyphenate"><a name="114.1"></a>1. Do dnia 31 grudnia 2005 r.:
+
+                <br/>1) tablica z białym tłem oraz czarnym obrzeżem i napisem określającym nazwę miejscowości ma takie samo znaczenie, jak znak D-42; przepis § 15 ust. 3 stosuje się odpowiednio,
+
+                <br/>2) tablica, o której mowa w pkt 1, przekreślona ukośnie czerwoną linią, ma takie samo znaczenie, jak znak D-43,
+
+                <br/>3) znak A-30 z tabliczką zawierającą symbol umieszczony na znaku A-31 ma takie samo znaczenie, jak znak A-31,
+
+                <br/>4) znak A-30 z tabliczką zawierającą symbol umieszczony na znaku A-32 ma takie samo znaczenie, jak znak A-32,
+
+                <br/>5) umieszczona przed przejazdem kolejowym tablica z białym tłem, na której umieszczono symbol czaszki i napis „Baczność! Nie dotykać przewodów”, ma takie samo znaczenie, jak znak G-2.
+            </p>
+            <p class="hyphenate"><a name="114.2"></a>2. Do dnia 31 grudnia 2012 r. znaki z niebieską obwódką zawierające czarne symbole umieszczone na znakach E-7, E-8, E-9, E-10, E-11, E-12 i E-12a mają takie samo znaczenie, jak odpowiednio
+                znaki E-7, E-8, E-9, E-10, E-11, E-12, E-12a.</p>
+            </p></p></p>6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/pl/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Powrót do pytań"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Przepisy ruchu drogowego"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Znaki inne"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Znaki inne | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Znaki inne"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

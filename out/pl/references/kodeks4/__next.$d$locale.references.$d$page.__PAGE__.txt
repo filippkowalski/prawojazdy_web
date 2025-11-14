@@ -1,0 +1,662 @@
+1:"$Sreact.fragment"
+2:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:Tc2b4,
+            <div>
+                <a name="1"></a>
+                <p class="hyphenate"><strong>Oddział 1
+                    Zasady ogólne
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="16"></a>
+                <p class="hyphenate"><strong>Art. 16.</strong><br/> 1. Kierującego pojazdem obowiązuje ruch prawostronny.
+                    <br/><br/>2. Kierujący pojazdem, korzystając z drogi dwujezdniowej, jest obowiązany
+                    jechać po prawej jezdni; do jezdni tych nie wlicza się jezdni przeznaczonej do dojazdu
+                    do nieruchomości położonej przy drodze.
+                    <br/><br/>3. Kierujący pojazdem, korzystając z jezdni dwukierunkowej co najmniej
+                    o czterech pasach ruchu, jest obowiązany zajmować pas ruchu znajdujący się na
+                    prawej połowie jezdni.
+                    <br/><br/>4. Kierujący pojazdem jest obowiązany jechać możliwie blisko prawej krawędzi
+                    jezdni. Jeżeli pasy ruchu na jezdni są wyznaczone, nie może zajmować więcej niż
+                    jednego pasa.
+                    <br/><br/>5. Kierujący pojazdem zaprzęgowym, rowerem, wózkiem rowerowym,
+                    motorowerem, wózkiem ręcznym oraz osoba prowadząca pojazd napędzany silnikiem
+                    są obowiązani poruszać się po poboczu, chyba że nie nadaje się ono do jazdy lub ruch
+                    pojazdu utrudniałby ruch pieszych.
+                    <br/><br/>6. Kierujący pojazdem znajdującym się na części jezdni, po której jeżdżą pojazdy
+                    szynowe, jest obowiązany ustąpić miejsca nadjeżdżającemu pojazdowi szynowemu.
+                    <br/><br/>7. Na skrzyżowaniu i bezpośrednio przed nim kierujący rowerem, motorowerem
+                    lub motocyklem może poruszać się środkiem pasa ruchu, jeśli pas ten umożliwia
+                    opuszczenie skrzyżowania w więcej niż jednym kierunku, z zastrzeżeniem
+                    art. 33 ust. 1.
+                </p>
+            </div>
+            <div>
+                <a name="2"></a>
+                <p class="hyphenate"><strong>Oddział 2
+                    Włączanie się do ruchu
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="17"></a>
+                <p class="hyphenate"><strong>Art. 17.</strong><br/> 1. Włączanie się do ruchu następuje przy rozpoczynaniu jazdy po
+                    postoju lub zatrzymaniu się niewynikającym z warunków lub przepisów ruchu
+                    drogowego oraz przy wjeżdżaniu:
+                    <br/>1) na drogę z nieruchomości, z obiektu przydrożnego lub dojazdu do takiego
+                    obiektu, z drogi niebędącej drogą publiczną oraz ze strefy zamieszkania; 2) na drogę z pola lub na drogę twardą z drogi gruntowej;
+                    <br/>3) na jezdnię z pobocza, z chodnika lub z pasa ruchu dla pojazdów powolnych;
+                    3a) na jezdnię lub pobocze z drogi dla rowerów, z wyjątkiem wjazdu na przejazd dla
+                    rowerzystów lub pas ruchu dla rowerów;
+                    <br/>4) pojazdem szynowym – na drogę z zajezdni lub na jezdnię z pętli.
+                    <br/><br/>2. Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować
+                    szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub
+                    uczestnikowi ruchu.
+                </p>
+            </div>
+            <div>
+                <a name="18"></a>
+                <p class="hyphenate"><strong>Art. 18.</strong><br/> 1. Kierujący pojazdem, zbliżając się do oznaczonego przystanku
+                    autobusowego (trolejbusowego) na obszarze zabudowanym, jest obowiązany
+                    zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić kierującemu
+                    autobusem (trolejbusem) włączenie się do ruchu, jeżeli kierujący takim pojazdem
+                    sygnalizuje kierunkowskazem zamiar zmiany pasa ruchu lub wjechania z zatoki na
+                    jezdnię.
+                    <br/><br/>2. Kierujący autobusem (trolejbusem), o którym mowa w ust. 1, może wjechać
+                    na sąsiedni pas ruchu lub na jezdnię dopiero po upewnieniu się, że nie spowoduje to
+                    zagrożenia bezpieczeństwa ruchu drogowego.
+                </p>
+            </div>
+            <div>
+                <a name="18"></a>
+                <p class="hyphenate"><strong>Art. 18a.</strong><br/> 1. Kierujący pojazdem, zbliżając się do miejsca postoju autobusu
+                    szkolnego, jest obowiązany:
+                    <br/>1) zatrzymać się, o ile kierujący tym autobusem podał sygnał zatrzymania;
+                    <br/>2) zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić
+                    kierującemu tym autobusem wjazd na jezdnię lub sąsiedni pas ruchu, o ile
+                    sygnalizuje on zamiar wykonania takiego manewru.
+                    <br/><br/>2. Kierujący autobusem szkolnym w sytuacji, o której mowa w ust. 1, może
+                    wjechać na sąsiedni pas ruchu lub jezdnię dopiero po upewnieniu się, że nie spowoduje
+                    to zagrożenia bezpieczeństwa ruchu drogowego.
+                </p>
+            </div>
+            <div>
+                <a name="3"></a>
+                <p class="hyphenate"><strong>Oddział 3
+                    Prędkość i hamowanie
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="19"></a>
+                <p class="hyphenate"><strong>Art. 19.</strong><br/> 1. Kierujący pojazdem jest obowiązany jechać z prędkością
+                    zapewniającą panowanie nad pojazdem, z uwzględnieniem warunków, w jakich ruch
+                    się odbywa, a w szczególności: rzeźby terenu, stanu i widoczności drogi, stanu i
+                    ładunku pojazdu, warunków atmosferycznych i natężenia ruchu. 2. Kierujący pojazdem jest obowiązany:
+                    <br/>1) jechać z prędkością nieutrudniającą jazdy innym kierującym;
+                    <br/>2) hamować w sposób niepowodujący zagrożenia bezpieczeństwa ruchu lub jego
+                    utrudnienia;
+                    <br/>3) utrzymywać odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub
+                    zatrzymania się poprzedzającego pojazdu.
+                    <br/><br/>3. Poza obszarem zabudowanym, na jezdniach dwukierunkowych o dwóch
+                    pasach ruchu, kierujący pojazdem objętym indywidualnym ograniczeniem prędkości
+                    albo pojazdem lub zespołem pojazdów o długości przekraczającej 7 m jest
+                    obowiązany utrzymywać taki odstęp od pojazdu silnikowego znajdującego się przed
+                    nim, aby inne wyprzedzające pojazdy mogły bezpiecznie wjechać w lukę
+                    utrzymywaną między tymi pojazdami. Przepisu tego nie stosuje się, jeżeli kierujący
+                    pojazdem przystępuje do wyprzedzania lub gdy wyprzedzanie jest zabronione.
+                    3a. Kierujący pojazdem podczas przejazdu autostradą i drogą ekspresową jest
+                    obowiązany zachować minimalny odstęp między pojazdem, którym kieruje,
+                    a pojazdem jadącym przed nim na tym samym pasie ruchu. Odstęp ten wyrażony
+                    w metrach określa się jako nie mniejszy niż połowa liczby określającej prędkość
+                    pojazdu, którym porusza się kierujący, wyrażonej w kilometrach na godzinę. Przepisu
+                    tego nie stosuje się podczas manewru wyprzedzania.
+                    <br/><br/>4. Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m,
+                    kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu
+                    nie mniejszy niż:
+                    <br/>1) 50 m – jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej
+                    nieprzekraczającej 3,5 t lub autobusem;
+                    <br/>2) 80 m – jeżeli kieruje zespołem pojazdów lub pojazdem niewymienionym
+                    w pkt 1.
+                    <br/><br/>5. Organ zarządzający ruchem na drogach może zmniejszyć lub zwiększyć za
+                    pomocą znaków drogowych dopuszczalny odstęp, o którym mowa w ust. 4,
+                    w zależności od obowiązującej w tunelu dopuszczalnej prędkości.
+                </p>
+            </div>
+            <div>
+                <a name="20"></a>
+                <p class="hyphenate"><strong>Art. 20.</strong><br/> 1. Prędkość dopuszczalna pojazdu lub zespołu pojazdów na obszarze
+                    zabudowanym wynosi 50 km/h, z zastrzeżeniem ust. 2.
+                    <br/><br/>1a. (uchylony) 2. Prędkość dopuszczalna pojazdu lub zespołu pojazdów w strefie zamieszkania
+                    wynosi 20 km/h.
+                    <br/><br/>3. Prędkość dopuszczalna poza obszarem zabudowanym, z zastrzeżeniem ust. 4,
+                    wynosi w przypadku:
+                    <br/>1) samochodu osobowego, motocykla lub samochodu ciężarowego o dopuszczalnej
+                    masie całkowitej nieprzekraczającej 3,5 t:
+                    a) na autostradzie – 140 km/h,
+                    b) na drodze ekspresowej dwujezdniowej – 120 km/h,
+                    c) na drodze ekspresowej jednojezdniowej oraz na drodze dwujezdniowej co
+                    najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu –
+                    100 km/h,
+                    d) na pozostałych drogach – 90 km/h;
+                    <br/>2) zespołu pojazdów lub pojazdu niewymienionego w pkt 1:
+                    a) na autostradzie, drodze ekspresowej lub drodze dwujezdniowej co najmniej
+                    o dwóch pasach przeznaczonych dla każdego kierunku ruchu – 80 km/h,
+                    b) na pozostałych drogach – 70 km/h.
+                    <br/><br/>4. Dopuszczalna prędkość autobusu spełniającego dodatkowe warunki
+                    techniczne określone w przepisach, o których mowa w art. 66 ust. 5, na autostradzie
+                    i drodze ekspresowej wynosi 100 km/h.
+                    <br/><br/>5. (uchylony)
+                    <br/><br/>5a. Rada Ministrów na wniosek ministra właściwego do spraw energii może,
+                    w drodze rozporządzenia, w przypadkach, o których mowa w art. 32 ust. 1 ustawy
+                    z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu
+                    ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa
+                    paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2020 r. poz. 411 oraz z
+                    2021 r. poz. 255), wprowadzić ograniczenia w dopuszczalnej prędkości pojazdów
+                    samochodowych.
+                    <br/><br/>6. Prędkość dopuszczalna niektórych pojazdów, z zastrzeżeniem ust. 2, wynosi:
+                    <br/>1) ciągnika rolniczego (również z przyczepą) – 30 km/h;
+                    <br/>2) pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia dla
+                    kierującego – 30 km/h na obszarze zabudowanym i 60 km/h poza obszarem
+                    zabudowanym; 3) motocykla (również z przyczepą), czterokołowca i motoroweru, którymi
+                    przewozi się dziecko w wieku do 7 lat – 40 km/h;
+                    <br/>4) hulajnogi elektrycznej i urządzenia transportu osobistego – 20 km/h.
+                </p>
+            </div>
+            <div>
+                <a name="21"></a>
+                <p class="hyphenate"><strong>Art. 21.</strong><br/> 1. Organ zarządzający ruchem na drogach może zmniejszyć lub
+                    zwiększyć, za pomocą znaków drogowych, prędkość dopuszczalną pojazdów
+                    obowiązującą na obszarze zabudowanym.
+                    <br/><br/>2. Prędkość dopuszczalna, o której mowa w ust. 1, może być:
+                    <br/>1) zmniejszona – jeżeli warunki bezpieczeństwa ruchu na drodze lub jej odcinku za
+                    tym przemawiają;
+                    <br/>2) zwiększona – jeżeli warunki ruchu na drodze lub jej odcinku zapewniają
+                    zachowanie bezpieczeństwa ruchu.
+                    <br/><br/>3. Organ zarządzający ruchem na drogach może zmniejszyć, za pomocą znaków
+                    drogowych, prędkość dopuszczalną pojazdów obowiązującą poza obszarem
+                    zabudowanym, jeżeli warunki bezpieczeństwa ruchu na drodze lub jej odcinku za tym
+                    przemawiają.
+                    <br/><br/>4. Organ rejestrujący pojazd może ustalić dla indywidualnego pojazdu
+                    dopuszczalną prędkość niższą niż określona w art. 20, jeżeli jest to uzasadnione
+                    konstrukcją lub stanem technicznym pojazdu. Ograniczenie prędkości należy
+                    uwidocznić na znaku umieszczonym z tyłu pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="4"></a>
+                <p class="hyphenate"><strong>Oddział 4
+                    Zmiana kierunku jazdy lub pasa ruchu
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="22"></a>
+                <p class="hyphenate"><strong>Art. 22.</strong><br/> 1. Kierujący pojazdem może zmienić kierunek jazdy lub zajmowany pas
+                    ruchu tylko z zachowaniem szczególnej ostrożności.
+                    <br/><br/>2. Kierujący pojazdem jest obowiązany zbliżyć się:
+                    <br/>1) do prawej krawędzi jezdni – jeżeli zamierza skręcić w prawo;
+                    <br/>2) do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi
+                    – jeżeli zamierza skręcić w lewo.
+                    <br/><br/>3. Przepisu ust. 2 nie stosuje się, jeżeli wymiary pojazdu uniemożliwiają
+                    skręcenie zgodnie z zasadą określoną w tym przepisie lub dopuszczalna jest jazda
+                    wyłącznie w jednym kierunku.
+                    <br/><br/>4. Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany
+                    ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać, z wyjątkiem ust. 4a i 4b, oraz pojazdowi wjeżdżającemu na ten pas ruchu z
+                    prawej strony.
+                    <br/><br/>4a. W warunkach znacznego zmniejszenia prędkości na jezdni z więcej niż
+                    jednym pasem ruchu w tym samym kierunku jazdy, w przypadku gdy nie istnieje
+                    możliwość kontynuacji jazdy pasem ruchu z powodu wystąpienia przeszkody na tym
+                    pasie ruchu lub jego zanikania, kierujący pojazdem poruszający się sąsiednim pasem
+                    ruchu jest obowiązany bezpośrednio przed miejscem wystąpienia przeszkody lub
+                    miejscem zanikania pasa ruchu umożliwić jednemu pojazdowi lub jednemu zespołowi
+                    pojazdów, znajdującym się na takim pasie ruchu, zmianę tego pasa ruchu na sąsiedni,
+                    którym istnieje możliwość kontynuacji jazdy.
+                    <br/><br/>4b. W warunkach znacznego zmniejszenia prędkości na jezdni z więcej niż
+                    dwoma pasami ruchu w tym samym kierunku jazdy, w przypadku gdy nie istnieje
+                    możliwość kontynuacji jazdy dwoma pasami ruchu z powodu przeszkód na tych
+                    pasach ruchu lub ich zanikania, jeżeli pomiędzy tymi pasami ruchu znajduje się jeden
+                    pas ruchu, którym istnieje możliwość kontynuacji jazdy, kierujący pojazdem
+                    poruszający się tym pasem ruchu jest obowiązany bezpośrednio przed miejscem
+                    wystąpienia przeszkody lub miejscem zanikania pasów ruchu umożliwić zmianę pasa
+                    ruchu jednemu pojazdowi lub jednemu zespołowi pojazdów z prawej strony, a
+                    następnie jednemu pojazdowi lub jednemu zespołowi pojazdów z lewej strony.
+                    <br/><br/>5. Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować
+                    kierunkowskazem zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestać
+                    sygnalizowania niezwłocznie po wykonaniu manewru.
+                    <br/><br/>5a. W przypadku gdy pojazd nie jest wyposażony w kierunkowskazy, kierujący
+                    pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować zamiar zmiany
+                    kierunku jazdy lub pasa ruchu przez wyciągnięcie ręki w stronę zamierzonej zmiany
+                    kierunku jazdy lub pasa ruchu.
+                    <br/><br/>6. Zabrania się zawracania:
+                    <br/>1) w tunelu, na moście, wiadukcie lub drodze jednokierunkowej;
+                    <br/>2) na autostradzie;
+                    <br/>3) na drodze ekspresowej, z wyjątkiem skrzyżowania lub miejsca do tego
+                    przeznaczonego;
+                    <br/>4) w warunkach, w których mogłoby to zagrozić bezpieczeństwu ruchu na drodze
+                    lub ruch ten utrudnić. </p>
+            </div>
+            <div>
+                <a name="5"></a>
+                <p class="hyphenate"><strong>Oddział 5
+                    Wymijanie, omijanie i cofanie
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="23"></a>
+                <p class="hyphenate"><strong>Art. 23.</strong><br/> 1. Kierujący pojazdem jest obowiązany:
+                    <br/>1) przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu lub
+                    uczestnika ruchu, a w razie potrzeby zjechać na prawo i zmniejszyć prędkość lub
+                    zatrzymać się;
+                    <br/>2) przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu, uczestnika
+                    ruchu lub przeszkody, a w razie potrzeby zmniejszyć prędkość; omijanie pojazdu
+                    sygnalizującego zamiar skręcenia w lewo może odbywać się tylko z jego prawej
+                    strony;
+                    <br/>3) przy cofaniu ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu
+                    i zachować szczególną ostrożność, a w szczególności:
+                    a) sprawdzić, czy wykonywany manewr nie spowoduje zagrożenia
+                    bezpieczeństwa ruchu lub jego utrudnienia,
+                    b) upewnić się, czy za pojazdem nie znajduje się przeszkoda; w razie trudności
+                    w osobistym upewnieniu się kierujący jest obowiązany zapewnić sobie
+                    pomoc innej osoby.
+                    <br/><br/>2. Zabrania się cofania pojazdem w tunelu, na moście, wiadukcie, autostradzie
+                    lub drodze ekspresowej.
+                </p>
+            </div>
+            <div>
+                <a name="6"></a>
+                <p class="hyphenate"><strong>Oddział 6
+                    Wyprzedzanie
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="24"></a>
+                <p class="hyphenate"><strong>Art. 24.</strong><br/> 1. Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić
+                    się w szczególności, czy:
+                    <br/>1) ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez
+                    utrudnienia komukolwiek ruchu;
+                    <br/>2) kierujący, jadący za nim, nie rozpoczął wyprzedzania;
+                    <br/>3) kierujący, jadący przed nim na tym samym pasie ruchu, nie zasygnalizował
+                    zamiaru wyprzedzania innego pojazdu, zmiany kierunku jazdy lub zmiany pasa
+                    ruchu.
+                    <br/><br/>2. Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną
+                    ostrożność, a zwłaszcza bezpieczny odstęp od wyprzedzanego pojazdu lub uczestnika
+                    ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla, hulajnogi elektrycznej, urządzenia transportu osobistego, osoby poruszającej się przy
+                    użyciu urządzenia wspomagającego ruch lub kolumny pieszych odstęp ten nie może
+                    być mniejszy niż 1 m.
+                    <br/><br/>3. Kierujący pojazdem jest obowiązany przy wyprzedzaniu przejeżdżać z lewej
+                    strony wyprzedzanego pojazdu, z zastrzeżeniem ust. 4, 5, 10 i 12.
+                    <br/><br/>4. Pojazd szynowy może być wyprzedzany tylko z prawej strony, chyba że
+                    położenie torów uniemożliwia takie wyprzedzanie lub wyprzedzanie odbywa się na
+                    jezdni jednokierunkowej.
+                    <br/><br/>5. Wyprzedzanie pojazdu lub uczestnika ruchu, który sygnalizuje zamiar
+                    skręcenia w lewo, może odbywać się tylko z jego prawej strony.
+                    <br/><br/>6. Kierującemu pojazdem wyprzedzanym zabrania się w czasie wyprzedzania
+                    i bezpośrednio po nim zwiększania prędkości. Kierujący pojazdem wolnobieżnym,
+                    ciągnikiem rolniczym lub pojazdem bez silnika jest obowiązany zjechać jak
+                    najbardziej na prawo w celu ułatwienia wyprzedzania. Przepisu nie stosuje się
+                    w przypadku, o którym mowa w ust. 12.
+                    <br/><br/>7. Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni:
+                    <br/>1) przy dojeżdżaniu do wierzchołka wzniesienia;
+                    <br/>2) na zakręcie oznaczonym znakami ostrzegawczymi;
+                    <br/>3) na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym
+                    ruch jest kierowany.
+                    <br/><br/>8. Dopuszcza się wyprzedzanie w miejscach, o których mowa w ust. 7 pkt 1 i 2,
+                    na jezdni:
+                    <br/>1) jednokierunkowej;
+                    <br/>2) dwukierunkowej na odcinku z wyznaczonymi pasami ruchu, pod warunkiem że
+                    kierujący nie wjeżdża na część jezdni przeznaczoną do ruchu w kierunku
+                    przeciwnym – w miejscu, gdzie jest to zabronione znakami na jezdni.
+                    <br/><br/>9. Dopuszcza się wyprzedzanie w miejscu, o którym mowa w ust. 7 pkt 3,
+                    pojazdu sygnalizującego zamiar skręcenia, pod warunkiem że kierujący nie wjeżdża
+                    na część jezdni przeznaczoną do ruchu w kierunku przeciwnym.
+                    <br/><br/>10. Dopuszcza się wyprzedzanie z prawej strony na odcinku drogi
+                    z wyznaczonymi pasami ruchu, przy zachowaniu warunków określonych w ust. 1 i 7:
+                    <br/>1) na jezdni jednokierunkowej; 2) na jezdni dwukierunkowej, jeżeli co najmniej dwa pasy ruchu na obszarze
+                    zabudowanym lub trzy pasy ruchu poza obszarem zabudowanym przeznaczone
+                    są do jazdy w tym samym kierunku.
+                    <br/><br/>11. Zabrania się wyprzedzania pojazdu uprzywilejowanego na obszarze
+                    zabudowanym.
+                    <br/><br/>12. Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy
+                    z ich prawej strony.
+                </p>
+            </div>
+            <div>
+                <a name="7"></a>
+                <p class="hyphenate"><strong>Oddział 7
+                    Przecinanie się kierunków ruchu
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="25"></a>
+                <p class="hyphenate"><strong>Art. 25.</strong><br/> 1. Kierujący pojazdem, zbliżając się do skrzyżowania, jest obowiązany
+                    zachować szczególną ostrożność i ustąpić pierwszeństwa pojazdowi nadjeżdżającemu
+                    z prawej strony, a jeżeli skręca w lewo – także jadącemu z kierunku przeciwnego na
+                    wprost lub skręcającemu w prawo.
+                    <br/><br/>2. Przepisu ust. 1 nie stosuje się do pojazdu szynowego, który ma pierwszeństwo
+                    w stosunku do innych pojazdów, bez względu na to, z której strony nadjeżdża.
+                    <br/><br/>3. Przepisy ust. 1 i 2 stosuje się również w razie przecinania się kierunków ruchu
+                    poza skrzyżowaniem.
+                    <br/><br/>4. Kierującemu pojazdem zabrania się:
+                    <br/>1) wjeżdżania na skrzyżowanie, jeżeli na skrzyżowaniu lub za nim nie ma miejsca
+                    do kontynuowania jazdy;
+                    <br/>2) rozdzielania kolumny pieszych.
+                </p>
+            </div>
+            <div>
+                <a name="26"></a>
+                <p class="hyphenate"><strong>Art. 26.</strong><br/> 1. Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest
+                    obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie
+                    narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu albo na nie
+                    wchodzącego i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu
+                    albo wchodzącemu na to przejście, z zastrzeżeniem ust. 1a.
+                    <br/><br/>1a. Kierujący tramwajem, zbliżając się do przejścia dla pieszych, jest
+                    obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie
+                    narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu i ustąpić
+                    pierwszeństwa pieszemu znajdującemu się na tym przejściu. 2. Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany
+                    ustąpić pierwszeństwa pieszemu przechodzącemu na skrzyżowaniu przez jezdnię
+                    drogi, na którą wjeżdża.
+                    <br/><br/>3. Kierującemu pojazdem zabrania się:
+                    <br/>1) wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim,
+                    z wyjątkiem przejścia, na którym ruch jest kierowany;
+                    <br/>2) omijania pojazdu, który jechał w tym samym kierunku, lecz zatrzymał się w celu
+                    ustąpienia pierwszeństwa pieszemu;
+                    <br/>3) jazdy wzdłuż po chodniku lub przejściu dla pieszych, z zastrzeżeniem
+                    art. 33 ust. 6, art. 33a ust. 2 oraz art. 33b ust. 2.
+                    <br/><br/>4. Kierujący pojazdem, przejeżdżając przez chodnik lub drogę dla pieszych, jest
+                    obowiązany jechać powoli i ustąpić pierwszeństwa pieszemu.
+                    <br/><br/>5. Przepis ust. 4 stosuje się odpowiednio podczas jazdy po placu, na którym ze
+                    względu na brak wyodrębnienia jezdni i chodników ruch pieszych i pojazdów odbywa
+                    się po tej samej powierzchni.
+                    <br/><br/>6. Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy
+                    przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy
+                    chodniku. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na
+                    przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać
+                    pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do
+                    tramwaju lub na chodnik. Przepisy te stosuje się odpowiednio przy ruchu innych
+                    pojazdów komunikacji publicznej.
+                    <br/><br/>7. W razie przechodzenia przez jezdnię osoby niepełnosprawnej, używającej
+                    specjalnego znaku, lub osoby o widocznej ograniczonej sprawności ruchowej,
+                    kierujący jest obowiązany zatrzymać pojazd w celu umożliwienia jej przejścia.
+                </p>
+            </div>
+            <div>
+                <a name="27"></a>
+                <p class="hyphenate"><strong>Art. 27.</strong><br/> 1. Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest
+                    obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu
+                    rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie
+                    poruszającej się przy użyciu urządzenia wspomagającego ruch, znajdującym się na
+                    przejeździe.
+                    <br/><br/>1a. Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany
+                    zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu rowerem,
+                    hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, jadącym na wprost po jezdni, pasie
+                    ruchu dla rowerów, drodze dla rowerów lub innej części drogi, którą zamierza opuścić.
+                    <br/><br/>2. (uchylony)
+                    <br/><br/>3. Kierujący pojazdem, przejeżdżając przez drogę dla rowerów poza jezdnią, jest
+                    obowiązany ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub
+                    urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu
+                    urządzenia wspomagającego ruch.
+                    <br/><br/>4. Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejeździe dla
+                    rowerzystów i bezpośrednio przed nim, z wyjątkiem przejazdu, na którym ruch jest
+                    kierowany.
+                </p>
+            </div>
+            <div>
+                <a name="28"></a>
+                <p class="hyphenate"><strong>Art. 28.</strong><br/> 1. Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz
+                    przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed
+                    wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd
+                    szynowy, oraz przedsięwziąć odpowiednie środki ostrożności, zwłaszcza jeżeli
+                    wskutek mgły lub z innych powodów przejrzystość powietrza jest zmniejszona.
+                    <br/><br/>2. Kierujący jest obowiązany prowadzić pojazd z taką prędkością, aby mógł go
+                    zatrzymać w bezpiecznym miejscu, gdy nadjeżdża pojazd szynowy lub gdy urządzenie
+                    zabezpieczające albo dawany sygnał zabrania wjazdu na przejazd.
+                    <br/><br/>3. Kierującemu pojazdem zabrania się:
+                    <br/>1) objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli
+                    opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone;
+                    <br/>2) wjeżdżania na przejazd, jeżeli po drugiej stronie przejazdu nie ma miejsca do
+                    kontynuowania jazdy;
+                    <br/>3) wyprzedzania pojazdu na przejeździe kolejowym i bezpośrednio przed nim;
+                    <br/>4) omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli
+                    wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego
+                    kierunku ruchu.
+                    <br/><br/>4. W razie unieruchomienia pojazdu na przejeździe kolejowym, kierujący jest
+                    obowiązany niezwłocznie usunąć go z przejazdu, a jeżeli nie jest to możliwe, ostrzec
+                    kierującego pojazdem szynowym o niebezpieczeństwie.
+                    <br/><br/>5. Kierujący pojazdem lub zespołem pojazdów o długości przekraczającej 10 m,
+                    który nie może rozwinąć prędkości większej niż 6 km/h, przed wjazdem na przejazd
+                    kolejowy jest obowiązany upewnić się, czy w czasie potrzebnym na przejechanie przez ten przejazd nie nadjedzie pojazd szynowy, lub uzgodnić czas tego przejazdu
+                    z dróżnikiem kolejowym.
+                    <br/><br/>6. Przepisy ust. 1–4 stosuje się odpowiednio przy przejeżdżaniu przez tory
+                    tramwajowe; przepis ust. 3 pkt 3 nie dotyczy skrzyżowania lub przejazdu
+                    tramwajowego, na którym ruch jest kierowany.
+                </p>
+            </div>
+            <div>
+                <a name="8"></a>
+                <p class="hyphenate"><strong>Oddział 8
+                    Ostrzeganie oraz jazda w warunkach zmniejszonej przejrzystości powietrza
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="29"></a>
+                <p class="hyphenate"><strong>Art. 29.</strong><br/> 1. Kierujący pojazdem może używać sygnału dźwiękowego lub
+                    świetlnego, w razie gdy zachodzi konieczność ostrzeżenia o niebezpieczeństwie.
+                    <br/><br/>2. Zabrania się:
+                    <br/>1) nadużywania sygnału dźwiękowego lub świetlnego;
+                    <br/>2) używania sygnału dźwiękowego na obszarze zabudowanym, chyba że jest to
+                    konieczne w związku z bezpośrednim niebezpieczeństwem;
+                    <br/>3) ostrzegania światłami drogowymi w warunkach, w których może to
+                    spowodować oślepienie innych kierujących.
+                </p>
+            </div>
+            <div>
+                <a name="30"></a>
+                <p class="hyphenate"><strong>Art. 30.</strong><br/> 1. Kierujący pojazdem jest obowiązany zachować szczególną
+                    ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza,
+                    spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami, a ponadto:
+                    <br/>1) kierujący pojazdem silnikowym jest obowiązany:
+                    a) włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła
+                    jednocześnie,
+                    b) poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały
+                    dźwiękowe w czasie wyprzedzania lub omijania;
+                    <br/>2) kierujący innym pojazdem niż pojazd, o którym mowa w pkt 1, jest obowiązany:
+                    a) włączyć światła, w które pojazd jest wyposażony,
+                    b) korzystać z pobocza drogi, a jeżeli nie jest to możliwe, jechać jak najbliżej
+                    krawędzi jezdni i nie wyprzedzać innego pojazdu.
+                    <br/><br/>2. Obowiązek używania świateł, o którym mowa w ust. 1, dotyczy kierującego
+                    pojazdem także podczas zatrzymania wynikającego z warunków lub przepisów ruchu
+                    drogowego.
+                    <br/><br/>3. Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli
+                    zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m. W razie poprawy widoczności kierujący pojazdem jest obowiązany
+                    niezwłocznie wyłączyć te światła.
+                </p>
+            </div>
+            <div>
+                <a name="9"></a>
+                <p class="hyphenate"><strong>Oddział 9
+                    Holowanie
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="31"></a>
+                <p class="hyphenate"><strong>Art. 31.</strong><br/> 1. Kierujący może holować pojazd silnikowy tylko pod warunkiem, że:
+                    <br/>1) prędkość pojazdu holującego nie przekracza 30 km/h na obszarze zabudowanym
+                    i 60 km/h poza tym obszarem;
+                    <br/>2) pojazd holujący ma włączone światła mijania również w okresie dostatecznej
+                    widoczności;
+                    <br/>3) w pojeździe holowanym znajduje się kierujący mający uprawnienie do
+                    kierowania tym pojazdem, chyba że pojazd jest holowany w sposób
+                    wykluczający potrzebę kierowania nim;
+                    <br/>4) pojazd holowany jest połączony z pojazdem holującym w sposób wykluczający
+                    odczepienie się w czasie jazdy; nie dotyczy to holowania motocykla, który
+                    powinien być połączony z pojazdem holującym połączeniem giętkim w sposób
+                    umożliwiający łatwe odczepienie;
+                    <br/>5) pojazd holowany, z wyjątkiem motocykla, jest oznaczony z tyłu po lewej stronie
+                    ostrzegawczym trójkątem odblaskowym, a w okresie niedostatecznej
+                    widoczności ma ponadto włączone światła pozycyjne; zamiast oznaczenia
+                    trójkątem odblaskowym pojazd holowany może wysyłać żółte sygnały błyskowe
+                    w sposób widoczny dla innych uczestników ruchu;
+                    <br/>6) w pojeździe holowanym na połączeniu sztywnym jest sprawny co najmniej jeden
+                    układ hamulców, a w pojeździe holowanym na połączeniu giętkim – dwa układy;
+                    <br/>7) odległość między pojazdami wynosi nie więcej niż 3 m przy połączeniu
+                    sztywnym, a od 4 m do 6 m przy połączeniu giętkim, przy czym połączenie jest
+                    oznakowane na przemian pasami białymi i czerwonymi albo zaopatrzone
+                    w chorągiewkę barwy żółtej lub czerwonej; przepisu tego nie stosuje się w razie
+                    holowania pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
+                    <br/><br/>2. Zabrania się holowania:
+                    <br/>1) pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach,
+                    chyba że sposób holowania wyklucza potrzebę ich użycia; 2) pojazdu za pomocą połączenia giętkiego, jeżeli w pojeździe tym działanie układu
+                    hamulcowego uzależnione jest od pracy silnika, a silnik jest unieruchomiony;
+                    <br/>3) więcej niż jednego pojazdu, z wyjątkiem pojazdu członowego;
+                    <br/>4) pojazdem z przyczepą (naczepą);
+                    <br/>5) na autostradzie, z wyjątkiem holowania przez pojazdy przeznaczone do
+                    holowania do najbliższego wyjazdu lub miejsca obsługi podróżnych.
+                    <br/><br/>3. W razie holowania pojazdu w sposób wykluczający potrzebę kierowania nim
+                    lub użycia hamulców, rzeczywista masa całkowita pojazdu holowanego nie może
+                    przekraczać rzeczywistej masy całkowitej pojazdu holującego.
+                </p>
+            </div>
+            <div>
+                <a name="10"></a>
+                <p class="hyphenate"><strong>Oddział 10
+                    Ruch pojazdów w kolumnie
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="32"></a>
+                <p class="hyphenate"><strong>Art. 32.</strong><br/> 1. Liczba pojazdów jadących w zorganizowanej kolumnie nie może
+                    przekraczać:
+                    <br/>1) samochodów osobowych, motorowerów lub motocykli – 10;
+                    <br/>2) rowerów, wózków rowerowych lub hulajnóg elektrycznych – 15;
+                    <br/>3) pozostałych pojazdów – 5.
+                    <br/><br/>2. Odległość między jadącymi kolumnami nie może być mniejsza niż 500 m dla
+                    kolumn pojazdów samochodowych oraz 200 m dla kolumn pozostałych pojazdów.
+                    <br/><br/>3. (uchylony)
+                    <br/><br/>4. Jazda w kolumnie nie zwalnia kierującego pojazdem od przestrzegania
+                    obowiązujących przepisów ruchu drogowego.
+                    <br/><br/>5. Przepisów ust. 1 i 2 nie stosuje się do pojazdów uprzywilejowanych oraz
+                    pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
+                    <br/><br/>6. Zabrania się wjeżdżania między jadące w kolumnie rowery, wózki rowerowe
+                    lub hulajnogi elektryczne oraz pojazdy, o których mowa w ust. 5.
+                    <br/><br/>6a. Przejazd kolumny pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej,
+                    w skład której wchodzi więcej niż 5 pojazdów, jest dozwolony pod warunkiem
+                    uzyskania zezwolenia wojskowego na przejazd drogowy, wydawanego przez właś-
+                    ciwy organ wojskowy.
+                    <br/><br/>7. (uchylony) </p>
+            </div>
+            <div>
+                <a name="11"></a>
+                <p class="hyphenate"><strong>Oddział 11
+                    Przepisy dodatkowe o ruchu rowerów, hulajnóg elektrycznych, urządzeń
+                    transportu osobistego, motorowerów oraz pojazdów zaprzęgowych
+                </strong><br/></p>
+            </div>
+            <div>
+                <a name="33"></a>
+                <p class="hyphenate"><strong>Art. 33.</strong><br/> 1. Kierujący rowerem lub hulajnogą elektryczną jest obowiązany
+                    korzystać z drogi dla rowerów lub pasa ruchu dla rowerów, jeżeli są one wyznaczone
+                    dla kierunku, w którym się porusza lub zamierza skręcić. Kierujący rowerem lub
+                    hulajnogą elektryczną, korzystając z drogi dla rowerów i pieszych, jest obowiązany
+                    zachować szczególną ostrożność i ustępować pierwszeństwa pieszemu.
+                    <br/><br/>1a. Kierujący rowerem lub hulajnogą elektryczną może zatrzymać się w śluzie
+                    rowerowej obok innych kierujących tymi pojazdami. Jest obowiązany opuścić ją,
+                    kiedy zaistnieje możliwość kontynuowania jazdy w zamierzonym kierunku i zająć
+                    miejsce na jezdni zgodnie z odpowiednio art. 33 ust. 1 lub art. 16 ust. 4 i 5.
+                    <br/><br/>2. Dziecko w wieku do 7 lat może być przewożone na rowerze, pod warunkiem
+                    że jest ono umieszczone na dodatkowym siodełku zapewniającym bezpieczną jazdę.
+                    <br/><br/>3. Kierującemu rowerem, hulajnogą elektryczną lub motorowerem zabrania się:
+                    <br/>1) jazdy po jezdni obok innego uczestnika ruchu, z zastrzeżeniem ust. 3a;
+                    <br/>2) jazdy bez trzymania co najmniej jednej ręki na kierownicy oraz nóg na pedałach
+                    lub podnóżkach;
+                    <br/>3) czepiania się pojazdów.
+                    <br/><br/>3a. Dopuszcza się wyjątkowo jazdę po jezdni kierującego rowerem obok innego
+                    roweru lub motoroweru, jeżeli nie utrudnia to poruszania się innym uczestnikom ruchu
+                    albo w inny sposób nie zagraża bezpieczeństwu ruchu drogowego.
+                    <br/><br/>4. (uchylony)
+                    <br/><br/>5. Korzystanie z chodnika lub drogi dla pieszych przez kierującego rowerem jest
+                    dozwolone wyjątkowo, gdy:
+                    <br/>1) opiekuje się on osobą w wieku do lat 10 kierującą rowerem;
+                    <br/>2) szerokość chodnika wzdłuż drogi, po której ruch pojazdów jest dozwolony
+                    z prędkością większą niż 50 km/h, wynosi co najmniej 2 m i brakuje wydzielonej
+                    drogi dla rowerów oraz pasa ruchu dla rowerów;
+                    <br/>3) warunki pogodowe zagrażają bezpieczeństwu rowerzysty na jezdni (śnieg, silny
+                    wiatr, ulewa, gołoledź, gęsta mgła), z zastrzeżeniem ust. 6. 6. Kierujący rowerem, korzystając z chodnika albo drogi dla pieszych, jest
+                    obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować
+                    szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego
+                    ruchu.
+                    <br/><br/>7. Kierujący rowerem może jechać lewą stroną jezdni na zasadach określonych
+                    dla ruchu pieszych w przepisach art. 11 ust. 1–3, jeżeli opiekuje się on osobą kierującą
+                    rowerem w wieku do lat 10.
+                </p>
+            </div>
+            <div>
+                <a name="33"></a>
+                <p class="hyphenate"><strong>Art. 33a.</strong><br/> 1. Kierujący hulajnogą elektryczną jest obowiązany korzystać z jezdni,
+                    po której ruch pojazdów jest dozwolony z prędkością nie większą niż 30 km/h,
+                    w przypadku gdy brakuje wydzielonej drogi dla rowerów oraz pasa ruchu dla
+                    rowerów.
+                    <br/><br/>2. Korzystanie z chodnika lub drogi dla pieszych przez kierującego hulajnogą
+                    elektryczną jest dozwolone wyjątkowo, gdy chodnik jest usytuowany wzdłuż jezdni,
+                    po której ruch pojazdów jest dozwolony z prędkością większą niż 30 km/h, i brakuje
+                    wydzielonej drogi dla rowerów oraz pasa ruchu dla rowerów.
+                    <br/><br/>3. Kierującemu hulajnogą elektryczną zabrania się:
+                    <br/>1) ciągnięcia lub holowania innego pojazdu;
+                    <br/>2) przewożenia innej osoby, zwierzęcia lub ładunku.
+                </p>
+            </div>
+            <div>
+                <a name="33"></a>
+                <p class="hyphenate"><strong>Art. 33b.</strong><br/> 1. Kierujący urządzeniem transportu osobistego jest obowiązany
+                    korzystać z drogi dla rowerów, jeżeli jest ona wyznaczona dla kierunku, w którym się
+                    porusza lub zamierza skręcić. Kierujący urządzeniem transportu osobistego,
+                    korzystając z drogi dla rowerów i pieszych, jest obowiązany zachować szczególną
+                    ostrożność i ustępować pierwszeństwa pieszemu.
+                    <br/><br/>2. Korzystanie z chodnika lub drogi dla pieszych przez kierującego urządzeniem
+                    transportu osobistego jest dozwolone wyjątkowo, gdy brakuje wydzielonej drogi dla
+                    rowerów.
+                    <br/><br/>3. Kierującemu urządzeniem transportu osobistego zabrania się:
+                    <br/>1) ciągnięcia lub holowania innego pojazdu;
+                    <br/>2) przewożenia innej osoby, zwierzęcia lub ładunku;
+                    <br/>3) czepiania się pojazdów.
+                </p>
+            </div>
+            <div>
+                <a name="33"></a>
+                <p class="hyphenate"><strong>Art. 33c.</strong><br/> Kierujący hulajnogą elektryczną lub urządzeniem transportu
+                    osobistego, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność,
+                    ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu.
+                </p>
+            </div>
+            <div>
+                <a name="33"></a>
+                <p class="hyphenate"><strong>Art. 33d.</strong><br/> 1. Zabrania się dopuszczania dziecka w wieku do 10 lat do kierowania
+                    hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze.
+                    <br/><br/>2. W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub
+                    urządzeniem transportu osobistego przez dziecko w wieku do 10 lat wyłącznie pod
+                    opieką osoby dorosłej.
+                </p>
+            </div>
+            <div>
+                <a name="34"></a>
+                <p class="hyphenate"><strong>Art. 34.</strong><br/> 1. Do zaprzęgu może być używane tylko zwierzę niepłochliwe,
+                    odpowiednio sprawne fizycznie i dające sobą kierować.
+                    <br/><br/>2. Kierujący pojazdem zaprzęgowym jest obowiązany utrzymywać pojazd
+                    i zaprzęg w takim stanie, aby mógł nad nimi panować.
+                    <br/><br/>3. Bezpośrednio jeden za drugim może jechać nie więcej niż 5 pojazdów
+                    zaprzęgowych. Odległość między piątym pojazdem a następnym nie może być
+                    mniejsza niż 200 m.
+                    <br/><br/>4. Kierujący pojazdem zaprzęgowym przy wjeżdżaniu na drogę twardą
+                    w miejscu, gdzie nie ma dostatecznej widoczności drogi, jest obowiązany prowadzić
+                    zwierzę za uzdę.
+                    <br/><br/>5. Kierującemu pojazdem zaprzęgowym zabrania się:
+                    <br/>1) przeciążania zwierzęcia;
+                    <br/>2) jazdy obok innego uczestnika ruchu na jezdni;
+                    <br/>3) pozostawiania pojazdu niezabezpieczonego przed ruszeniem;
+                    <br/>4) jazdy pojazdem na płozach bez dzwonków lub grzechotek.
+                </p>
+            </div>
+        </div>
+        <div class="popups">
+        0:{"buildId":"SYaHkCXjnDtPpqb4OqRg1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L2",null,{"href":"/pl/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Powrót do pytań"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Przepisy ruchu drogowego"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 4"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

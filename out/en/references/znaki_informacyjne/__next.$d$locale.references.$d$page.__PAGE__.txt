@@ -1,0 +1,287 @@
+1:"$Sreact.fragment"
+2:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T6253,
+            <h2 style="margin:0"><span class="small-caps">Znaki informacyjne</span></h2>
+            <p class="hyphenate"><a name="43"></a><strong>§ 43.</strong></p>
+            <p class="hyphenate"><a name="43.1"></a>1. Znak D-1 „droga z pierwszeństwem” oznacza początek lub kontynuację drogi z pierwszeństwem.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-1.png"/>
+                <div>D-1</div>
+            </div>
+            <p class="hyphenate"><a name="43.2"></a>2. Umieszczona pod znakiem D-1 tabliczka T-6a albo T-6b wskazuje odpowiednio rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie lub układ dróg podporządkowanych.</p>
+            <p class="hyphenate"><a name="43.3"></a>3. Znak D-2 „koniec drogi z pierwszeństwem” oznacza koniec drogi z pierwszeństwem.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-2.png"/>
+                <div>D-2</div>
+            </div>
+            <p class="hyphenate"><a name="44"></a><strong>§ 44.</strong></p>
+            <p class="hyphenate"><a name="44.1"></a>1. Znak D-3 „droga jednokierunkowa” oznacza początek lub kontynuację drogi lub jezdni, na której ruch odbywa się w jednym kierunku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-3.png"/>
+                <div>D-3</div>
+            </div>
+            <p class="hyphenate"><a name="44.2"></a>2. Umieszczona pod znakiem D-3 tabliczka T-22 wskazuje, że ruch rowerów jednośladowych na wyznaczonym na jezdni pasie ruchu przeznaczonym dla tych pojazdów odbywa się w kierunku przeciwnym do
+                wskazanego na znaku.</p>
+            <p class="hyphenate"><a name="45"></a><strong>§ 45.</strong></p>
+            <p class="hyphenate"><a name="45.1"></a>1. Znak D-4a „droga bez przejazdu” oznacza początek drogi bez przejazdu.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-4a.png"/>
+                <div>D-4a</div>
+            </div>
+            <p class="hyphenate"><a name="45.2"></a>2. Znak D-4b „wjazd na drogę bez przejazdu” oznacza, że droga za skrzyżowaniem po stronie wskazanej na znaku jest drogą bez przejazdu.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-4b.png"/>
+                <div>D-4b</div>
+            </div>
+            <p class="hyphenate"><a name="46"></a><strong>§ 46.</strong></p>
+            <p class="hyphenate"> Znak D-5 „pierwszeństwo na zwężonym odcinku jezdni” oznacza, że kierujący przejeżdżają lub przechodzą przed kierującymi zbliżającymi się z kierunku przeciwnego.
+
+            </p>
+            <p class="hyphenate"><a name="47"></a><strong>§ 47.</strong></p>
+            <p class="hyphenate"><a name="47.1"></a>1. Znak D-6 „przejście dla pieszych” oznacza miejsce przeznaczone do przechodzenia pieszych w poprzek drogi.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-6.png"/>
+                <div>D-6</div>
+            </div>
+            <p class="hyphenate"><a name="47.2"></a>2. Znak D-6a „przejazd dla rowerzystów” oznacza miejsce przeznaczone do przejeżdżania rowerzystów w poprzek drogi.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-6a.png"/>
+                <div>D-6a</div>
+            </div>
+            <p class="hyphenate"><a name="47.3"></a>3. Znak D-6b „przejście dla pieszych i przejazd dla rowerzystów” oznacza występujące obok siebie miejsca, o których mowa w ust. 1 i 2.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-6b.png"/>
+                <div>D-6b</div>
+            </div>
+            <p class="hyphenate"><a name="47.4"></a>4. Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem D-6, D-6a albo D-6b jest obowiązany zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszych lub rowerzystów
+                znajdujących się w tych miejscach lub na nie wchodzących lub wjeżdżających.</p>
+            <p class="hyphenate"><a name="47.5"></a>5. Umieszczona pod znakiem D-6 lub D-6b tabliczka T-27 wskazuje, że przejście dla pieszych jest szczególnie uczęszczane przez dzieci.</p>
+            <p class="hyphenate"><a name="48"></a><strong>§ 48.</strong></p>
+            <p class="hyphenate"><a name="48.1"></a>1. Znak D-7 „droga ekspresowa” oznacza początek lub kontynuację drogi ekspresowej; koniec drogi ekspresowej oznaczony jest znakiem D-8 „koniec drogi ekspresowej”.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-7.png"/>
+                <div>D-7</div>
+            </div>
+            <p class="hyphenate"><a name="48.2"></a>2. Znak D-9 „autostrada” oznacza początek lub kontynuację autostrady; koniec autostrady oznaczony jest znakiem D-10 „koniec autostrady”.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-9.png"/>
+                <div>D-9</div>
+            </div>
+            <p class="hyphenate"><a name="48.3"></a>3. Umieszczona pod znakiem D-7 lub D-9 tabliczka T-28 wskazuje, że za przejazd drogą ekspresową lub autostradą jest pobierana opłata.</p>
+            <p class="hyphenate"><a name="49"></a><strong>§ 49.</strong></p>
+            <p class="hyphenate"><a name="49.1"></a>1. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-11.png"/>
+                <p style="margin-bottom:30px">1) D-11 „początek pasa ruchu dla autobusów”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-12.png"/>
+                <p style="margin-bottom:30px">2) D-12 „pas ruchu dla autobusów”</p>
+            </div>
+
+            oznaczają odpowiednio początek lub kontynuację pasa ruchu przeznaczonego tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach.</p>
+            <p class="hyphenate"><a name="49.2"></a>2. Umieszczony na znakach D-11 lub D-12 napis „TAXI” oznacza, że na pasie oznaczonym tym znakiem jest dopuszczony ruch taksówek.</p>
+            <p class="hyphenate"><a name="49.3"></a>3. Znak D-13 „początek pasa ruchu powolnego” oznacza początek pasa ruchu, z którego są obowiązani korzystać kierujący pojazdami nieosiągającymi na wzniesieniu minimalnej prędkości określonej na
+                znaku liczbą kilometrów na godzinę.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-13.png"/>
+                <div>D-13</div>
+            </div>
+            <p class="hyphenate"><a name="49.4"></a>4. Znak D-13a „początek pasa ruchu” oznacza początek pasa ruchu po stronie wskazanej na znaku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-13a.png"/>
+                <div>D-13a</div>
+            </div>
+            <p class="hyphenate"><a name="49.5"></a>5. Znak D-14 „koniec pasa ruchu” oznacza koniec skrajnego pasa ruchu, znajdującego się po stronie wskazanej na znaku; znak D-14 umieszczony przy pasie ruchu powolnego oznacza koniec tego pasa
+                ruchu.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-14.png"/>
+                <div>D-14</div>
+            </div>
+            <p class="hyphenate"><a name="50"></a><strong>§ 50.</strong></p>
+            <p class="hyphenate"> Umieszczona pod znakiem D-7, D-8, D-9, D-10, D-13, D-13a lub D-14 tabliczka T-1a wskazuje odległość do początku lub końca drogi lub pasa ruchu.
+
+            </p>
+            <p class="hyphenate"><a name="51"></a><strong>§ 51.</strong></p>
+            <p class="hyphenate"><a name="51.1"></a>1. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-15.png"/>
+                <p style="margin-bottom:30px">1) D-15 „przystanek autobusowy”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-16.png"/>
+                <p style="margin-bottom:30px">2) D-16 „przystanek trolejbusowy”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-17.png"/>
+                <p style="margin-bottom:30px">3) D-17 „przystanek tramwajowy”</p>
+            </div>
+
+            oznaczają miejsce zatrzymywania się wskazanych na znaku pojazdów wykonujących odpłatny przewóz osób na regularnych liniach.</p>
+            <p class="hyphenate"><a name="51.2"></a>2. Znak D-15 oznacza ponadto miejsce do zatrzymywania się innych niż autobus pojazdów samochodowych wykonujących odpłatny przewóz osób na regularnych liniach i pojazdów przeznaczonych do
+                przewozu dzieci do szkół i przedszkoli.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-15.png"/>
+                <div>D-15</div>
+            </div>
+            <p class="hyphenate"><a name="52"></a><strong>§ 52.</strong></p>
+            <p class="hyphenate"><a name="52.1"></a>1. Znak D-18 „parking” oznacza miejsce przeznaczone na postój pojazdów (zespołów pojazdów), z wyjątkiem przyczep kempingowych; umieszczona pod znakiem tabliczka T-23e oznacza, że na parkingu
+                jest dopuszczony także postój przyczep kempingowych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-18.png"/>
+                <div>D-18</div>
+            </div>
+            <p class="hyphenate"><a name="52.2"></a>2. Umieszczona pod znakiem D-18 tabliczka T-30 wskazuje sposób ustawienia pojazdu względem krawędzi jezdni oznaczonej na tabliczce barwą szarą oraz że miejsce jest przeznaczone dla pojazdów
+                samochodowych o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t.</p>
+            <p class="hyphenate"><a name="52.3"></a>3. Umieszczona pod znakiem D-18 tabliczka T-3a wskazuje koniec miejsca przeznaczonego na postój.</p>
+            <p class="hyphenate"><a name="52.4"></a>4. Znak D-18a „parking - miejsce zastrzeżone” oznacza miejsce przeznaczone na postój pojazdu uprawnionej osoby.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-18a.png"/>
+                <div>D-18a</div>
+            </div>
+            <p class="hyphenate"><a name="52.5"></a>5. Znak D-18b „parking zadaszony” oznacza miejsce przeznaczone na postój pojazdów znajdujące się w budynku lub pod wiatą.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-18b.png"/>
+                <div>D-18b</div>
+            </div>
+            <p class="hyphenate"><a name="52.6"></a>6. Umieszczona pod znakiem D-18 lub D-18b tabliczka T-29 informuje o miejscu przeznaczonym dla pojazdu samochodowego uprawnionej osoby niepełnosprawnej o obniżonej sprawności ruchowej oraz dla
+                kierującego pojazdem przewożącego taką osobę.</p>
+            <p class="hyphenate"><a name="53"></a><strong>§ 53.</strong></p>
+            <p class="hyphenate"><a name="53.1"></a>1. Znak D-19 „postój taksówek” oznacza miejsce przeznaczone na postój taksówek osobowych, z wyjątkiem taksówek zajętych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-19.png"/>
+                <div>D-19</div>
+            </div>
+            <p class="hyphenate"><a name="53.2"></a>2. Znak D-20 „koniec postoju taksówek” oznacza miejsce, w którym kończy się postój taksówek; jeżeli na postoju taksówek nie umieszczono znaku D-20, to kończy się on w odległości nie większej niż
+                20 m przed znakiem D-19.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-20.png"/>
+                <div>D-20</div>
+            </div>
+            <p class="hyphenate"><a name="53.3"></a>3. Umieszczony dodatkowo na znakach D-19 i D-20 napis „Bagażowe” wskazuje, że znaki te dotyczą taksówek bagażowych. Przepisy ust. 1 i 2 stosuje się odpowiednio.</p>
+            <p class="hyphenate"><a name="54"></a><strong>§ 54.</strong></p>
+            <p class="hyphenate"><a name="54.1"></a>1. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-21.png"/>
+                <p style="margin-bottom:30px">1) D-21 „szpital”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-21a.png"/>
+                <p style="margin-bottom:30px">2) D-21a „Policja”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-22.png"/>
+                <p style="margin-bottom:30px">3) D-22 „punkt opatrunkowy”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-23.png"/>
+                <p style="margin-bottom:30px">4) D-23 „stacja paliwowa”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-23a.png"/>
+                <p style="margin-bottom:30px">5) D-23a „stacja paliwowa tylko z gazem do napędu pojazdów”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-24.png"/>
+                <p style="margin-bottom:30px">6) D-24 „telefon”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-25.png"/>
+                <p style="margin-bottom:30px">7) D-25 „poczta”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-26.png"/>
+                <p style="margin-bottom:30px">8) D-26 „stacja obsługi technicznej”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-26a.png"/>
+                <p style="margin-bottom:30px">9) D-26a „wulkanizacja”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-26b.png"/>
+                <p style="margin-bottom:30px">10) D-26b „myjnia”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-26c.png"/>
+                <p style="margin-bottom:30px">11) D-26c „toaleta publiczna”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-26d.png"/>
+                <p style="margin-bottom:30px">12) D-26d „natrysk”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-27.png"/>
+                <p style="margin-bottom:30px">13) D-27 „bufet lub kawiarnia”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-28.png"/>
+                <p style="margin-bottom:30px">14) D-28 „restauracja”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-29.png"/>
+                <p style="margin-bottom:30px">15) D-29 „hotel (motel)”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-30.png"/>
+                <p style="margin-bottom:30px">16) D-30 „obozowisko (kemping)”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-31.png"/>
+                <p style="margin-bottom:30px">17) D-31 „obozowisko (kemping) wyposażone w podłączenia elektryczne do przyczep”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-32.png"/>
+                <p style="margin-bottom:30px">18) D-32 „pole biwakowe”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-33.png"/>
+                <p style="margin-bottom:30px">19) D-33 „schronisko młodzieżowe”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-34.png"/>
+                <p style="margin-bottom:30px">20) D-34 „punkt informacji turystycznej”</p>
+            </div>
+            <p>Informują o wskazanych na znaku obiektach znajdujących się przy drodze.</p>
+            <p class="hyphenate"><a name="54.2"></a>2. Umieszczony w dolnej części znaku D-23 napis „LPG GAZ” informuje, że stacja prowadzi także sprzedaż gazu do napędu pojazdów.</p>
+            <p class="hyphenate"><a name="54.3"></a>3. Umieszczony na znaku D-25 symbol słuchawki telefonicznej informuje, że na poczcie znajduje się ogólnodostępny telefon.</p>
+            <p class="hyphenate"><a name="54.4"></a>4. Umieszczony w dolnej części znaku D-26c napis „BUS” informuje o możliwości opróżniania toalet zainstalowanych w pojazdach.</p>
+            <p class="hyphenate"><a name="54.5"></a>5. Znak D-34a „informacja radiowa o ruchu drogowym” informuje o stacjach radiowych podających informacje o warunkach ruchu drogowego.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-34a.png"/>
+                <div>D-34a</div>
+            </div>
+            <p class="hyphenate"><a name="55"></a><strong>§ 55.</strong></p>
+            <p class="hyphenate"> Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-35.png"/>
+                <p style="margin-bottom:30px">1) D-35 „przejście podziemne dla pieszych”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-35a.png"/>
+                <p style="margin-bottom:30px">2) D-35a „schody ruchome w dół”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-36.png"/>
+                <p style="margin-bottom:30px">3) D-36 „przejście nadziemne dla pieszych”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_d-36a.png"/>
+                <p style="margin-bottom:30px">4) D-36a „schody ruchome w górę”</p>
+            </div>
+            <p>Informują o możliwości przechodzenia pieszych pod jezdnią lub nad jezdnią w sposób wskazany na znaku.</p>
+            <p class="hyphenate"><a name="56"></a><strong>§ 56.</strong></p>
+            <p class="hyphenate"><a name="56.1"></a>1. Znak D-37 ,,tunel" oznacza wjazd do tunelu. Wyjazd z tunelu jest oznaczony znakiem D-38 ,,koniec tunelu".</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-37.png"/>
+                <div>D-37</div>
+            </div>
+            <p class="hyphenate"><a name="56.2"></a>2. Umieszczona pod znakiem D-37 tabliczka T-1b wskazuje rzeczywistą długość tunelu -- w przypadku gdy długość tunelu przekracza 500 m. Rzeczywista długość tunelu może być także wskazana przez
+                umieszczenie w dolnej części znaku napisu i symboli odpowiadających treści tabliczki T-1b.</p>
+            <p class="hyphenate"><a name="56.3"></a>3. W przypadku tuneli o długości przekraczającej 3 000 m pozostała długość tunelu do przebycia jest wskazywana co 1 000 m tabliczką T-1b.</p>
+            <p class="hyphenate"><a name="56.4"></a>4. Umieszczona pod znakiem D-37 tabliczka T-32 wskazuje minimalny odstęp od poprzedzającego pojazdu.</p>
+            <p class="hyphenate"><a name="57"></a><strong>§ 57.</strong></p>
+            <p class="hyphenate"><a name="57.1"></a>1. Znak D-39 „dopuszczalne prędkości” informuje o dopuszczalnych prędkościach obowiązujących na terytorium Rzeczypospolitej Polskiej.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-39.png"/>
+                <div>D-39</div>
+            </div>
+            <p class="hyphenate"><a name="57.2"></a>2. Na przejściu granicznym mogą być umieszczone tablice z napisami lub symbolami, podające informacje o obowiązujących na terytorium Rzeczypospolitej Polskiej przepisach ruchu drogowego.</p>
+            <p class="hyphenate"><a name="58"></a><strong>§ 58.</strong></p>
+            <p class="hyphenate"><a name="58.1"></a>1. Znak D-40 „strefa zamieszkania” oznacza wjazd do strefy zamieszkania. Znak D-41 „koniec strefy zamieszkania” oznacza wyjazd ze strefy zamieszkania.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-40.png"/>
+                <div>D-40</div>
+            </div>
+            <p class="hyphenate"><a name="58.2"></a>2. Znak D-40 informuje ponadto, że umieszczone w strefie zamieszkania urządzenia i rozwiązania wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-40.png"/>
+                <div>D-40</div>
+            </div>
+            <p class="hyphenate"><a name="58.3"></a>3. Znak D-42 „obszar zabudowany” oznacza wjazd na obszar zabudowany. Znak D-43 „koniec obszaru zabudowanego” oznacza wyjazd z obszaru zabudowanego.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-42.png"/>
+                <div>D-42</div>
+            </div>
+            <p class="hyphenate"><a name="58.4"></a>4. Znak D-44 „strefa parkowania” oznacza wjazd do strefy, w której za postój pojazdu jest pobierana opłata. W strefie tej zabroniony jest postój pojazdu bez wniesienia opłaty, z wyjątkiem
+                postoju pojazdów osób lub jednostek, dla których ustalona została zerowa stawka opłaty, oraz postoju pojazdów komunikacji publicznej na wyznaczonych dla nich miejscach. Znak D-45 „koniec strefy parkowania” oznacza wyjazd z takiej
+                strefy.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-44.png"/>
+                <div>D-44</div>
+            </div>
+            <p class="hyphenate"><a name="58.5"></a>5. Znak D-46 „droga wewnętrzna” oznacza początek ogólnodostępnej drogi niepublicznej; napis umieszczony na znaku wskazuje zarządcę tej drogi. Znak D-47 „koniec drogi wewnętrznej” oznacza wyjazd
+                z takiej drogi na drogę publiczną.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_d-46.png"/>
+                <div>D-46</div>
+            </div>
+            <p class="hyphenate"><a name="59"></a><strong>§ 59.</strong></p>
+            <p class="hyphenate"> Znak D-48 „zmiana pierwszeństwa” uprzedza o mającej nastąpić lub niedawno wprowadzonej zmianie obowiązujących dotychczas zasad pierwszeństwa na najbliższym skrzyżowaniu; umieszczony pod znakiem napis określa datę
+                wprowadzenia nowej zasady pierwszeństwa pokazanej znakiem A-5 lub A-7.
+
+            </p>
+            <p class="hyphenate"><a name="60"></a><strong>§ 60.</strong></p>
+            <p class="hyphenate"> Znak D-49 „pobór opłat” uprzedza o miejscu, w którym są pobierane opłaty za przejazd.
+
+            <p class="hyphenate"><a name="60"></a><strong>§ 60a.</strong></p> 1. Znak D-50 ,,zatoka" informuje o zatoce występującej w tunelu.
+
+            2. Umieszczona pod znakiem D-50 tabliczka T-33 lub umieszczony na znaku napis ,,SOS" informuje, że w zatoce znajduje się telefon alarmowy i gaśnica.
+
+            <p class="hyphenate"><a name="60"></a><strong>§ 60b.</strong></p> Znak D-51 ,,automatyczna kontrola prędkości"
+            <p>Uprzedza o miejscu lub odcinku drogi, na którym prędkość jazdy jest kontrolowana i rejestrowana przez urządzenia działające
+                samoczynnie.</p>
+            <p class="hyphenate"><a name="61"></a><strong>§ 61.</strong></p>
+            <p class="hyphenate"> Znaki określone w § 52-54, § 58 ust. 1 i 5 oraz § 60b mogą być umieszczone w innym miejscu niż po prawej stronie jezdni.
+            </p></p></p></p>0:{"buildId":"SYaHkCXjnDtPpqb4OqRg1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L2",null,{"href":"/en/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Back to questions"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Traffic Regulations"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Znaki informacyjne"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

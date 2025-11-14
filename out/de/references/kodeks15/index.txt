@@ -1,0 +1,570 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","de","references","kodeks15",""],"q":"","i":false,"f":[[["",{"children":[["locale","de","d"],{"children":["references",{"children":[["page","kodeks15","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"de"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/de/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Nutzungsbedingungen"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/de/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Datenschutzrichtlinie"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Führerschein. Alle Rechte vorbehalten."}]]}]}]}]]}]
+11:Tb037,
+            <div>
+                <a name="81"></a>
+                <p class="hyphenate"><strong>Art. 81.</strong><br/> 1. Właściciel pojazdu samochodowego, ciągnika rolniczego, pojazdu
+                    wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru lub przyczepy
+                    jest obowiązany przedstawiać go do badania technicznego.
+                    <br/><br/>2. Badania techniczne dzieli się na badania okresowe, badania dodatkowe oraz
+                    badania co do zgodności z warunkami technicznymi.
+                    <br/><br/>3. Okresowe badanie techniczne po raz pierwszy jest przeprowadzane przed
+                    pierwszą rejestracją pojazdu na terytorium Rzeczypospolitej Polskiej.
+                    <br/><br/>4. Badaniu, o którym mowa w ust. 3, nie podlega:
+                    <br/>1) nowy pojazd, dla którego wydano świadectwo zgodności WE, świadectwo
+                    zgodności, dopuszczenie jednostkowe pojazdu, decyzję o uznaniu dopuszczenia
+                    jednostkowego pojazdu albo świadectwo dopuszczenia indywidualnego WE
+                    pojazdu;
+                    <br/>2) zarejestrowany pojazd:
+                    a) na którego typ wydano świadectwo homologacji typu WE pojazdu –
+                    w okresie od dnia pierwszej rejestracji za granicą do dnia terminu
+                    okresowego badania technicznego, ustalonego na podstawie ust. 5, lub b) w którego dowodzie rejestracyjnym lub innym dokumencie wydanym przez
+                    właściwy organ państwa członkowskiego przedstawionym do rejestracji,
+                    zawarta jest informacja o wykonanym badaniu technicznym i jego terminie
+                    ważności
+                    – z wyjątkiem taksówki, pojazdu uprzywilejowanego lub pojazdu odpowiednio
+                    przystosowanego lub wyposażonego zgodnie z przepisami o przewozie towarów
+                    niebezpiecznych, pojazdu z zamontowanym urządzeniem technicznym
+                    podlegającym dozorowi technicznemu oraz pojazdu przystosowanego
+                    konstrukcyjnie do ruchu lewostronnego.
+                    <br/><br/>5. Okresowe badanie techniczne pojazdu przeprowadza się corocznie,
+                    z zastrzeżeniem ust. 6–10.
+                    <br/><br/>6. Okresowe badanie techniczne samochodu osobowego, samochodu
+                    ciężarowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, motocykla lub
+                    przyczepy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t przeprowadza
+                    się przed upływem 3 lat od dnia pierwszej rejestracji, następnie przed upływem 5 lat
+                    od dnia pierwszej rejestracji i nie później niż 2 lata od dnia przeprowadzenia
+                    poprzedniego badania technicznego, a następnie przed upływem kolejnego roku od
+                    dnia przeprowadzenia badania. Nie dotyczy to pojazdu przewożącego towary
+                    niebezpieczne, taksówki, pojazdu samochodowego konstrukcyjnie przeznaczonego do
+                    przewozu osób w liczbie od 5 do 9, wykorzystywanego do zarobkowego transportu
+                    drogowego osób, pojazdu marki „SAM”, pojazdu zasilanego gazem, pojazdu
+                    uprzywilejowanego oraz pojazdu używanego do nauki jazdy lub egzaminu
+                    państwowego, które podlegają corocznym badaniom technicznym.
+                    <br/><br/>7. Okresowe badanie techniczne ciągnika rolniczego, przyczepy rolniczej oraz
+                    motoroweru przeprowadza się przed upływem 3 lat od dnia pierwszej rejestracji,
+                    a następnie przed upływem każdych kolejnych 2 lat od dnia przeprowadzenia badania.
+                    <br/><br/>8. Przepisy ust. 6 i 7 dotyczą również pojazdów, o których mowa w ust. 6 i 7,
+                    zarejestrowanych po raz pierwszy za granicą. W tym przypadku za dzień pierwszej
+                    rejestracji, o której mowa w ust. 6 i 7, przyjmuje się dzień pierwszej rejestracji za
+                    granicą.
+                    <br/><br/>9. Okresowe badanie techniczne autobusu przeprowadza się przed upływem roku
+                    od dnia pierwszej rejestracji i następnie co 6 miesięcy. 10. Przyczepa lekka i pojazd zabytkowy nie podlegają okresowym badaniom
+                    technicznym. W przypadku pojazdu zabytkowego, wykorzystywanego do
+                    zarobkowego transportu drogowego podlega on corocznym badaniom technicznym.
+                    <br/><br/>11. Niezależnie od badań, o których mowa w ust. 3–5, dodatkowemu badaniu
+                    technicznemu podlega pojazd:
+                    <br/>1) skierowany przez organ kontroli ruchu drogowego:
+                    a) w razie uzasadnionego przypuszczenia, że zagraża bezpieczeństwu ruchu
+                    lub narusza wymagania ochrony środowiska,
+                    b) który uczestniczył w wypadku drogowym, w którym zostały uszkodzone
+                    zasadnicze elementy nośne konstrukcji nadwozia, podwozia lub ramy,
+                    z zastrzeżeniem pkt 5, lub noszący ślady uszkodzeń albo którego stan
+                    techniczny wskazuje na naruszenie elementów nośnych konstrukcji
+                    pojazdu, mogące stwarzać zagrożenie dla bezpieczeństwa ruchu
+                    drogowego;
+                    <br/>2) skierowany przez starostę albo na wniosek posiadacza pojazdu:
+                    a) w celu identyfikacji lub ustalenia danych niezbędnych do jego rejestracji,
+                    b) jeżeli z dokumentów wymaganych do jego rejestracji wynika, że
+                    uczestniczył on w wypadku drogowym, lub narusza wymagania ochrony
+                    środowiska;
+                    2a) skierowany przez starostę po otrzymaniu:
+                    a) informacji, o której mowa w art. 54f ustawy z dnia 6 września 2001 r. o
+                    transporcie drogowym,
+                    b) wniosku organu kontroli ruchu drogowego o konieczności przeprowadzenia
+                    dodatkowego badania technicznego pojazdu kategorii M , M , N i N ,
+                    przyczepy kategorii O i O i ciągnika kołowego kategorii T użytkowanego
+                    na drodze publicznej do wykonywania zarobkowego przewozu rzeczy;
+                    <br/>3) w którym dokonano zmian konstrukcyjnych lub wymiany elementów
+                    powodujących zmianę danych w dowodzie rejestracyjnym, z zastrzeżeniem
+                    art. 66 ust. 4 pkt 5 i 6, z wyłączeniem montażu instalacji do zasilania gazem;
+                    <br/>4) który ma być używany jako taksówka, pojazd uprzywilejowany, pojazd do nauki
+                    jazdy, pojazd do przeprowadzania egzaminu państwowego lub pojazd
+                    odpowiednio przystosowany lub wyposażony zgodnie z przepisami o przewozie
+                    drogowym towarów niebezpiecznych; 5) w którym została dokonana naprawa wynikająca ze szkody istotnej;
+                    <br/>6) w którym w czasie badania technicznego stwierdzono ślady uszkodzeń lub
+                    naruszenie elementów nośnych konstrukcji pojazdu, mogących stwarzać
+                    zagrożenie dla bezpieczeństwa ruchu drogowego;
+                    <br/>7) dla którego określono wymagania techniczne w przepisach o podatku od
+                    towarów i usług, w przepisach o podatku dochodowym od osób fizycznych lub
+                    w przepisach o podatku dochodowym od osób prawnych;
+                    <br/>8) autobus, którego dopuszczalna prędkość na autostradzie i drodze ekspresowej
+                    wynosi 100 km/h, co do zgodności z dodatkowymi warunkami technicznymi;
+                    <br/>9) dla którego określono dodatkowe wymagania techniczne w międzynarodowych
+                    porozumieniach dotyczących międzynarodowego transportu drogowego;
+                    <br/>10) wyposażony w blokadę alkoholową.
+                    <br/><br/>11a. Badaniu co do zgodności z warunkami technicznymi podlega pojazd
+                    zabytkowy przed pierwszą rejestracją na terytorium Rzeczypospolitej Polskiej.
+                    <br/><br/>12. Badanie techniczne pojazdu z zamontowanym urządzeniem technicznym
+                    podlegającym dozorowi technicznemu może być przeprowadzone po przedstawieniu
+                    dokumentu wydanego przez właściwy organ dozoru technicznego, stwierdzającego
+                    sprawność urządzenia technicznego.
+                    <br/><br/>12a. Badanie techniczne pojazdu wyposażonego w blokadę alkoholową
+                    przeprowadza się po przedstawieniu dokumentu potwierdzającego kalibrację blokady
+                    alkoholowej, wystawionego przez producenta urządzenia lub jego upoważnionego
+                    przedstawiciela, ważnego przez okres 12 miesięcy od dnia wystawienia.
+                    <br/><br/>13. W razie powstania trudności w ustaleniu parametrów pojazdu, badanie
+                    techniczne może być przeprowadzone po przedstawieniu opinii rzeczoznawcy
+                    samochodowego, o którym mowa w art. 79a.
+                    <br/><br/>14. Termin ważności badania technicznego pojazdu, o którym mowa w ust. 4 pkt
+                    2 lit. b, uznaje się, o ile nie jest dłuższy niż termin ważności badania technicznego
+                    ustalany na podstawie ust. 5–10.
+                    <br/><br/>15. Minister właściwy do spraw transportu określi, w drodze rozporządzenia,
+                    zakres i sposób przeprowadzenia badań technicznych oraz wzory dokumentów
+                    stosowanych przy tych badaniach, uwzględniając w szczególności zakres warunków
+                    technicznych pojazdów podlegających badaniu. 16. Minister właściwy do spraw transportu, uwzględniając konieczność
+                    zapewnienia bezpiecznego korzystania z pojazdów zabytkowych oraz zakres
+                    warunków technicznych tych pojazdów podlegających badaniu, określi, w drodze
+                    rozporządzenia, zakres i sposób przeprowadzania badań zgodności tych pojazdów
+                    z warunkami technicznymi, wzory dokumentów związanych z tymi badaniami.
+                </p>
+            </div>
+            <div>
+                <a name="81"></a>
+                <p class="hyphenate"><strong>Art. 81a.</strong><br/> Wymiana drogomierza jest dopuszczalna, gdy drogomierz nie
+                    odmierza przebiegu pojazdu w sytuacji, w której ze względu na przeznaczenie
+                    drogomierza powinien ten przebieg odmierzać lub gdy jest konieczna wymiana
+                    elementu pojazdu, z którym drogomierz jest nierozerwalnie związany. Wymiana
+                    drogomierza może nastąpić tylko na drogomierz sprawny i właściwy dla danego typu
+                    pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="81"></a>
+                <p class="hyphenate"><strong>Art. 81b.</strong><br/> 1. Właściciel lub posiadacz pojazdu samochodowego, ciągnika
+                    rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej lub
+                    motoroweru, także niezarejestrowanego, który dokonał wymiany drogomierza, jest
+                    obowiązany w terminie 14 dni od dnia wymiany tego drogomierza przedstawić pojazd
+                    w stacji kontroli pojazdów w celu dokonania odczytu wskazania drogomierza,
+                    o którym mowa w art. 81a zdanie drugie, wraz z jednostką miary. Przepis
+                    art. 81 ust. 13 stosuje się odpowiednio.
+                    <br/><br/>2. Niedotrzymanie terminu, o którym mowa w ust. 1, nie stanowi podstawy
+                    odmowy przez stację kontroli pojazdów dokonania odczytu wskazania drogomierza
+                    wraz z jednostką miary.
+                    <br/><br/>2a. Przepisu ust. 1 nie stosuje się do pojazdów, o których mowa w art. 73 ust. 2b
+                    i 3.
+                    <br/><br/>3. Warunkiem dokonania odczytu, o którym mowa w ust. 1, jest uiszczenie przez
+                    właściciela lub posiadacza pojazdu opłaty za dokonanie odczytu wskazania
+                    drogomierza wraz z jednostką miary oraz opłaty ewidencyjnej.
+                    <br/><br/>4. Maksymalna wysokość opłaty za dokonanie odczytu wskazania drogomierza
+                    wraz z jednostką miary nie może przekroczyć 100 zł. Opłata stanowi przychód
+                    przedsiębiorcy prowadzącego stację kontroli pojazdów.
+                    <br/><br/>5. Czynność, o której mowa w ust. 1, przeprowadza się po złożeniu diagnoście
+                    przez właściciela lub posiadacza pojazdu pisemnego oświadczenia o wymianie
+                    drogomierza, sporządzonego na urzędowym formularzu. Oświadczenie zawiera:
+                    <br/>1) imię i nazwisko składającego oświadczenie; 2) numer PESEL składającego oświadczenie, a w przypadku osoby nieposiadającej
+                    numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość
+                    oraz nazwę państwa, które wydało ten dokument;
+                    <br/>3) adres zamieszkania składającego oświadczenie;
+                    <br/>4) dane identyfikujące pojazd;
+                    <br/>5) datę i przyczynę wymiany drogomierza;
+                    <br/>6) oznaczenie miejsca i datę złożenia oświadczenia;
+                    <br/>7) klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie
+                    fałszywego oświadczenia.”;
+                    <br/>8) czytelny podpis składającego oświadczenie.
+                    <br/><br/>6. Oświadczenie, o którym mowa w ust. 5, składa się pod rygorem
+                    odpowiedzialności karnej za złożenie fałszywego oświadczenia. Klauzula, o której
+                    mowa w ust. 5 pkt 7, zastępuje pouczenie o odpowiedzialności karnej za złożenie
+                    fałszywego oświadczenia.
+                    <br/><br/>7. Datę i przyczynę wymiany drogomierza stwierdza, na podstawie
+                    oświadczenia, o którym mowa w ust. 5, uprawniony diagnosta zatrudniony w stacji
+                    kontroli pojazdów.
+                    <br/><br/>8. Minister Sprawiedliwości określi, w drodze rozporządzenia:
+                    <br/>1) wzór urzędowego formularza oświadczenia właściciela lub posiadacza pojazdu
+                    o wymianie drogomierza, mając na uwadze rzetelne dokumentowanie czynności
+                    związanych z wymianą drogomierza;
+                    <br/>2) organ zobowiązany do przechowywania oświadczenia, o którym mowa w ust. 5,
+                    oraz sposób przekazywania tego oświadczenia, mając na uwadze znaczenie tego
+                    dokumentu dla gromadzonych informacji o pojeździe.
+                    <br/><br/>9. Minister właściwy do spraw transportu określi, w drodze rozporządzenia
+                    szczegółowe czynności uprawnionych diagnostów związane z dokonaniem odczytu
+                    wskazania drogomierza wraz z jednostką miary oraz wysokość opłaty za dokonanie
+                    odczytu wskazania drogomierza wraz z jednostką miary, mając na uwadze
+                    konieczność zapewnienia jednolitej procedury w zakresie dokonywania odczytu
+                    wskazania drogomierza wraz z jednostką miary, rzetelnego dokumentowania
+                    czynności związanych z wymianą drogomierza oraz koszty tych czynności, w tym
+                    niezbędny nakład pracy, a także zasady proporcjonalności opłat. </p>
+            </div>
+            <div>
+                <a name="82"></a>
+                <p class="hyphenate"><strong>Art. 82.</strong><br/> 1. Organ dokonujący rejestracji pojazdu wpisuje do dowodu
+                    rejestracyjnego termin badania technicznego pojazdu.
+                    <br/><br/>2. Uprawniony diagnosta po wykonaniu badania technicznego pojazdu:
+                    <br/>1) wydaje zaświadczenie o przeprowadzonym badaniu technicznym pojazdu;
+                    <br/>2) wpisuje kolejny termin badania technicznego do dowodu rejestracyjnego, jeżeli
+                    jest wolne miejsce w odpowiedniej rubryce tego dowodu – po stwierdzeniu
+                    pozytywnego wyniku badania technicznego pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="83"></a>
+                <p class="hyphenate"><strong>Art. 83.</strong><br/> 1. Badanie techniczne przeprowadza się po uiszczeniu przez właściciela
+                    lub posiadacza pojazdu opłaty za przeprowadzenie badania technicznego i opłaty
+                    ewidencyjnej, w:
+                    <br/>1) podstawowej stacji kontroli pojazdów – w zakresie:
+                    a) okresowego badania technicznego pojazdów o dopuszczalnej masie
+                    całkowitej nieprzekraczającej 3,5 t, z zastrzeżeniem lit. c,
+                    b) dodatkowych badań technicznych w odniesieniu do pojazdów, o których
+                    mowa w lit. a, z zastrzeżeniem ust. 1a,
+                    c) badań technicznych przyczep przeznaczonych do łączenia z pojazdami
+                    określonymi w lit. a, o ile stacja spełnia wymagania, o których mowa
+                    w przepisach wydanych na podstawie art. 84a ust. 1 pkt 1 ustawy
+                    w zakresie długości stanowiska kontrolnego;
+                    <br/>2) okręgowej stacji kontroli pojazdów – w zakresie:
+                    a) okresowego badania technicznego wszystkich pojazdów,
+                    b) dodatkowych badań technicznych w odniesieniu do pojazdów, o których
+                    mowa w lit. a,
+                    c) badań co do zgodności z warunkami technicznymi pojazdów zabytkowych.
+                    <br/><br/>1a. Badanie techniczne w zakresie badań co do zgodności z warunkami
+                    technicznymi autobusu, którego dopuszczalna prędkość na autostradzie i drodze
+                    ekspresowej wynosi 100 km/h, pojazdu przeznaczonego do przewozu towarów
+                    niebezpiecznych, pojazdu zabytkowego, pojazdu marki „SAM”, pojazdu, w którym
+                    dokonano zmian konstrukcyjnych lub wymiany elementów powodujących zmianę
+                    danych w dowodzie rejestracyjnym oraz pojazdu, dla którego określono wymagania
+                    techniczne w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów
+                    i usług, ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub
+                    ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, a także dla którego określono dodatkowe wymagania w międzynarodowych porozumieniach
+                    dotyczących międzynarodowego transportu drogowego jest przeprowadzane
+                    wyłącznie w okręgowej stacji kontroli pojazdów.
+                    <br/><br/>1b. W przypadku dokonywania opłat, o których mowa w ust. 1, w obrocie
+                    bezgotówkowym za ich uiszczenie uważa się złożenie przez właściciela lub
+                    posiadacza pojazdu dyspozycji obciążenia rachunku bankowego, rachunku w
+                    spółdzielczej kasie oszczędnościowo-kredytowej, rachunku płatniczego w instytucji
+                    płatniczej lub instytucji pieniądza elektronicznego na podstawie polecenia przelewu
+                    albo zapłaty za pomocą innego niż polecenie przelewu instrumentu płatniczego.
+                    <br/><br/>1c. Opłaty, o których mowa w ust. 1, mogą być uiszczone po przeprowadzeniu
+                    badania technicznego, jeżeli przewiduje to umowa zawarta między przedsiębiorcą
+                    prowadzącym stację kontroli pojazdów a właścicielem lub posiadaczem pojazdu.
+                    <br/><br/>1d. Obowiązek uiszczenia opłaty ewidencyjnej, o której mowa w ust. 1, nie
+                    dotyczy pojazdów niepodlegających rejestracji i pojazdów, o których mowa w art. 73
+                    ust. 3.
+                    <br/><br/>2. Działalność gospodarcza w zakresie prowadzenia stacji kontroli pojazdów jest
+                    działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. –
+                    Prawo przedsiębiorców i wymaga uzyskania wpisu do rejestru przedsiębiorców
+                    prowadzących stację kontroli pojazdów.
+                    <br/><br/>2a. Stację kontroli pojazdów mogą prowadzić następujące podmioty niebędące
+                    przedsiębiorcami:
+                    <br/>1) szkoła lub centrum kształcenia, kształcące w zawodach związanych z naprawą
+                    i eksploatacją pojazdów;
+                    <br/>2) jednostka:
+                    a) organizacyjna służb podległych lub nadzorowanych przez ministra
+                    właściwego do spraw wewnętrznych,
+                    b) organizacyjna podległa lub nadzorowana przez Ministra Obrony
+                    Narodowej, ministra właściwego do spraw zdrowia, ministra właściwego do
+                    spraw szkolnictwa wyższego i nauki lub ministra właściwego do spraw
+                    transportu,
+                    c) ochrony przeciwpożarowej,
+                    d) systemu Państwowego Ratownictwa Medycznego. 2b. W stosunku do podmiotów, o których mowa w ust. 2a, stosuje się
+                    odpowiednio przepisy odnoszące się do przedsiębiorców określone w niniejszym
+                    rozdziale.
+                    <br/><br/>2c. Środki publiczne przekazywane na działalność podstawową podmiotów,
+                    o których mowa w ust. 2a, nie mogą być wykorzystane w związku z prowadzeniem
+                    działalności gospodarczej, o której mowa w ust. 2.
+                    <br/><br/>3. Stację kontroli pojazdów może prowadzić przedsiębiorca, który:
+                    <br/>1) posiada siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej
+                    Polskiej;
+                    <br/>2) nie jest przedsiębiorcą, w stosunku do którego otwarto likwidację lub ogłoszono
+                    upadłość;
+                    <br/>3) nie był prawomocnie skazany za przestępstwo popełnione w celu osiągnięcia
+                    korzyści majątkowej lub przestępstwo przeciwko dokumentom – dotyczy osoby
+                    fizycznej lub członków organów osoby prawnej;
+                    <br/>4) posiada wyposażenie kontrolno-pomiarowe oraz warunki lokalowe gwarantujące
+                    wykonywanie odpowiedniego zakresu badań technicznych pojazdów zgodnie ze
+                    szczegółowymi warunkami przeprowadzania tych badań;
+                    <br/>5) posiada poświadczenie zgodności wyposażenia i warunków lokalowych
+                    z wymaganiami odpowiednio do zakresu przeprowadzanych badań wpisanego
+                    do rejestru przedsiębiorców prowadzących stację kontroli pojazdów;
+                    <br/>6) zatrudnia uprawnionych diagnostów.
+                    <br/><br/>4. Poświadczenie, o którym mowa w ust. 3 pkt 5, wydaje za opłatą, w drodze
+                    decyzji, Dyrektor Transportowego Dozoru Technicznego, po dokonaniu sprawdzenia
+                    stacji kontroli pojazdów. Poświadczenie zachowuje ważność do czasu zmiany stanu
+                    faktycznego, dla którego zostało wydane, nie dłużej niż przez 5 lat od daty jego
+                    wydania.
+                </p>
+            </div>
+            <div>
+                <a name="83"></a>
+                <p class="hyphenate"><strong>Art. 83a.</strong><br/> 1. Organem właściwym do prowadzenia rejestru przedsiębiorców
+                    prowadzących stację kontroli pojazdów jest starosta właściwy ze względu na miejsce
+                    wykonywania działalności objętej wpisem.
+                    <br/><br/>2. W przypadku gdy przedsiębiorca wykonuje działalność gospodarczą, o której
+                    mowa w art. 83 ust. 2, w jednostkach organizacyjnych położonych na obszarze
+                    różnych powiatów, jest on obowiązany uzyskać wpis w odrębnych właściwych
+                    rejestrach na każdą z tych jednostek. 3. Wpis do rejestru przedsiębiorców prowadzących stację kontroli pojazdów jest
+                    dokonywany na wniosek przedsiębiorcy zawierający następujące dane:
+                    <br/>1) firmę przedsiębiorcy oraz jego adres i siedzibę albo miejsce zamieszkania;
+                    <br/>2) numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile
+                    przedsiębiorca taki numer posiada, oraz numer identyfikacyjny REGON, o ile
+                    przedsiębiorca taki numer posiada;
+                    <br/>3) numer identyfikacji podatkowej (NIP) – jeżeli podmiot jest obowiązany
+                    posługiwać się tym numerem na podstawie przepisów o zasadach ewidencji
+                    i identyfikacji podatników i płatników;
+                    <br/>4) adres stacji kontroli pojazdów przedsiębiorcy;
+                    <br/>5) zakres badań, jakie przedsiębiorca zamierza przeprowadzać;
+                    <br/>6) imiona i nazwiska zatrudnionych diagnostów wraz numerami ich uprawnień.
+                    <br/><br/>4. Wraz z wnioskiem przedsiębiorca składa oświadczenie następującej treści:
+                    „Oświadczam, że:
+                    <br/>1) dane zawarte we wniosku o wpis do rejestru przedsiębiorców
+                    prowadzących stację kontroli pojazdów są kompletne i zgodne z prawdą;
+                    <br/>2) znane mi są i spełniam warunki wykonywania działalności gospodarczej
+                    w zakresie prowadzenia stacji kontroli pojazdów, określone w ustawie
+                    z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.”.
+                    <br/><br/>5. Oświadczenie powinno również zawierać:
+                    <br/>1) firmę przedsiębiorcy oraz jego miejsce zamieszkania albo siedzibę i adres;
+                    <br/>2) oznaczenie miejsca i datę złożenia oświadczenia;
+                    <br/>3) podpis osoby uprawnionej do reprezentowania przedsiębiorcy, ze wskazaniem
+                    imienia i nazwiska oraz pełnionej funkcji.
+                    <br/><br/>5a. Minister właściwy do spraw transportu określi wzór wniosku o zmianę
+                    danych zawartych w rejestrze przedsiębiorców prowadzących stację kontroli
+                    pojazdów oraz wzór wniosku o wykreślenie z rejestru przedsiębiorców prowadzących
+                    stację kontroli pojazdów, w formie dokumentów elektronicznych w rozumieniu
+                    ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów
+                    realizujących zadania publiczne.
+                    <br/><br/>6. W rejestrze przedsiębiorców prowadzących stację kontroli pojazdów
+                    umieszcza się dane przedsiębiorcy, o których mowa w ust. 3, z wyjątkiem adresu
+                    zamieszkania, jeżeli jest on inny niż adres siedziby. 7. Starosta może wyrazić zgodę na umieszczanie nadanych cech
+                    identyfikacyjnych pojazdu przez stację kontroli pojazdów.
+                </p>
+            </div>
+            <div>
+                <a name="83"></a>
+                <p class="hyphenate"><strong>Art. 83aa.</strong><br/> Właściwy starosta wydaje z urzędu zaświadczenie o dokonaniu wpisu
+                    do rejestru przedsiębiorców prowadzących stację kontroli pojazdów.
+                </p>
+            </div>
+            <div>
+                <a name="83"></a>
+                <p class="hyphenate"><strong>Art. 83ab.</strong><br/> 1. Właściwy starosta prostuje z urzędu wpis do rejestru zawierający
+                    oczywiste błędy lub niezgodności ze stanem faktycznym.
+                    <br/><br/>2. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest
+                    obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia,
+                    w którym nastąpiła zmiana tych danych.
+                </p>
+            </div>
+            <div>
+                <a name="83"></a>
+                <p class="hyphenate"><strong>Art. 83ac.</strong><br/> 1. Właściwy starosta jest obowiązany dokonać wpisu przedsiębiorcy
+                    do rejestru przedsiębiorców prowadzących stację kontroli pojazdów w terminie 7 dni
+                    od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem, o którym mowa
+                    w art. 83a ust. 4.
+                    <br/><br/>2. Jeżeli właściwy starosta nie dokona wpisu w terminie, o którym mowa
+                    w ust. 1, a od dnia wpływu wniosku do niego upłynęło 14 dni, przedsiębiorca może
+                    rozpocząć działalność. Nie dotyczy to przypadku, gdy starosta wezwał przedsiębiorcę
+                    do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego
+                    otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie
+                    odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
+                </p>
+            </div>
+            <div>
+                <a name="83"></a>
+                <p class="hyphenate"><strong>Art. 83b.</strong><br/> 1. Nadzór nad stacjami kontroli pojazdów sprawuje starosta.
+                    <br/><br/>2. W ramach wykonywanego nadzoru starosta:
+                    <br/>1) co najmniej raz w roku przeprowadza kontrolę stacji kontroli pojazdów
+                    w zakresie:
+                    a) zgodności stacji z wymaganiami, o których mowa w art. 83 ust. 3,
+                    b) prawidłowości wykonywania badań technicznych pojazdów,
+                    c) prawidłowości prowadzenia wymaganej dokumentacji;
+                    <br/>2) wydaje zalecenia pokontrolne i wyznacza termin usunięcia naruszeń warunków
+                    wykonywania działalności gospodarczej w zakresie prowadzenia stacji kontroli
+                    pojazdów;
+                    <br/>3) wydaje decyzję o zakazie prowadzenia przez przedsiębiorcę stacji kontroli
+                    pojazdów, skreślając przedsiębiorcę z rejestru działalności regulowanej, jeżeli
+                    przedsiębiorca: a) złożył oświadczenie, o którym mowa w art. 83a ust. 4, niezgodne ze stanem
+                    faktycznym,
+                    b) nie usunął naruszeń warunków wykonywania działalności gospodarczej
+                    w zakresie prowadzenia stacji kontroli pojazdów w wyznaczonym przez
+                    starostę terminie,
+                    c) rażąco naruszył warunki wykonywania działalności gospodarczej
+                    w zakresie prowadzenia stacji kontroli pojazdów.
+                    <br/><br/>2a. Decyzja, o której mowa w ust. 2 pkt 3, podlega natychmiastowemu
+                    wykonaniu.
+                    <br/><br/>2b. W przypadku wydania decyzji, o której mowa w ust. 2 pkt 3, jeżeli
+                    przedsiębiorca wykonuje działalność gospodarczą objętą wpisem także na podstawie
+                    wpisów do innych rejestrów działalności regulowanej w tym samym zakresie
+                    działalności gospodarczej, z urzędu wykreśla się przedsiębiorcę także z tych rejestrów
+                    działalności regulowanej.
+                    <br/><br/>3. Starosta może powierzyć, w drodze porozumienia, czynności kontrolne
+                    Dyrektorowi Transportowego Dozoru Technicznego.
+                    <br/><br/>4. (uchylony)
+                </p>
+            </div>
+            <div>
+                <a name="83"></a>
+                <p class="hyphenate"><strong>Art. 83ba.</strong><br/> 1. Przedsiębiorca, którego wykreślono z rejestru przedsiębiorców
+                    prowadzących stację kontroli pojazdów, może uzyskać ponowny wpis do rejestru
+                    w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat
+                    od dnia wydania decyzji, o której mowa w art. 83b ust. 2 pkt 3.
+                    <br/><br/>2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał
+                    działalność gospodarczą bez wpisu do rejestru. Nie dotyczy to sytuacji określonej
+                    w art. 83ac ust. 2.
+                </p>
+            </div>
+            <div>
+                <a name="83"></a>
+                <p class="hyphenate"><strong>Art. 83bb.</strong><br/> Właściwy starosta wykreśla przedsiębiorcę z rejestru
+                    przedsiębiorców prowadzących stację kontroli pojazdów na jego wniosek, a także po
+                    uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej
+                    lub Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+                </p>
+            </div>
+            <div>
+                <a name="83"></a>
+                <p class="hyphenate"><strong>Art. 83c.</strong><br/> Do kontroli działalności gospodarczej przedsiębiorcy stosuje się
+                    przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+                </p>
+            </div>
+            <div>
+                <a name="84"></a>
+                <p class="hyphenate"><strong>Art. 84.</strong><br/> 1. Badanie techniczne pojazdów wykonuje zatrudniony w stacji kontroli
+                    pojazdów uprawniony diagnosta. 2. Starosta wydaje uprawnienie do wykonywania badań technicznych, jeżeli
+                    osoba ubiegająca się o jego wydanie posiada wymagane wykształcenie techniczne
+                    i praktykę, odbyła wymagane szkolenie oraz zdała egzamin kwalifikacyjny.
+                    <br/><br/>2a. Egzamin, o którym mowa w ust. 2, przeprowadza za opłatą komisja
+                    powołana przez Dyrektora Transportowego Dozoru Technicznego.
+                    <br/><br/>2b. Przez wymagane wykształcenie techniczne i praktykę, o których mowa
+                    w ust. 2, rozumie się:
+                    <br/>1) wyższe wykształcenie w obszarze nauk technicznych o specjalności
+                    samochodowej i udokumentowane 6 miesięcy praktyki w stacji kontroli
+                    pojazdów lub w zakładzie (warsztacie) naprawy pojazdów na stanowisku
+                    kontroli lub naprawy pojazdów albo
+                    <br/>2) średnie wykształcenie techniczne lub wykształcenie średnie branżowe, o
+                    specjalności samochodowej i udokumentowany rok praktyki w stacji kontroli
+                    pojazdów lub w zakładzie (warsztacie) naprawy pojazdów na stanowisku
+                    kontroli lub naprawy pojazdów, albo
+                    <br/>3) wyższe wykształcenie w obszarze nauk technicznych o specjalności innej niż
+                    samochodowa i udokumentowany rok praktyki w stacji kontroli pojazdów lub
+                    w zakładzie (warsztacie) naprawy pojazdów na stanowisku kontroli lub naprawy
+                    pojazdów, albo
+                    <br/>4) średnie wykształcenie techniczne lub wykształcenie średnie branżowe,
+                    o specjalności innej niż samochodowa i udokumentowane 2 lata praktyki w stacji
+                    kontroli pojazdów lub w zakładzie (warsztacie) naprawy pojazdów na stanowis-
+                    ku kontroli lub naprawy pojazdów.
+                    <br/><br/>2c. Z obowiązku odbycia szkolenia, o którym mowa w ust. 2, jest zwolniona
+                    osoba ubiegająca się o wydanie uprawnienia do wykonywania badań technicznych,
+                    która ukończyła studia wyższe na kierunku studiów w obszarze nauk technicznych
+                    obejmującym wiedzę i umiejętności w zakresie diagnostyki samochodowej.
+                    <br/><br/>2d. Zwolnienie, o którym mowa w ust. 2c, następuje na podstawie dołączonych
+                    do wniosku dokumentów poświadczających ukończenie studiów wyższych.
+                    <br/><br/>2e. Do okresu praktyki, o którym mowa w ust. 2b pkt 1 i 3, wlicza się praktykę
+                    objętą programem studiów, pod warunkiem że praktyka jest odbywana na podstawie
+                    umowy zawartej między uczelnią a stacją kontroli pojazdów lub podmiotem, o którym
+                    mowa w art. 86 ust. 1. 3. Starosta cofa diagnoście uprawnienie do wykonywania badań technicznych,
+                    jeżeli w wyniku przeprowadzonej kontroli, o której mowa w art. 83b ust. 2 pkt 1,
+                    stwierdzono:
+                    <br/>1) przeprowadzenie przez diagnostę badania technicznego niezgodnie
+                    z określonym zakresem i sposobem wykonania;
+                    <br/>2) wydanie przez diagnostę zaświadczenia albo dokonanie wpisu do dowodu
+                    rejestracyjnego pojazdu niezgodnie ze stanem faktycznym lub przepisami.
+                    <br/><br/>4. W przypadku cofnięcia diagnoście uprawnienia do wykonywania badań
+                    technicznych, ponowne uprawnienie nie może być wydane wcześniej niż po upływie
+                    5 lat od dnia, w którym decyzja o cofnięciu stała się ostateczna.
+                </p>
+            </div>
+            <div>
+                <a name="84"></a>
+                <p class="hyphenate"><strong>Art. 84a.</strong><br/> 1. Minister właściwy do spraw transportu określi, w drodze
+                    rozporządzenia:
+                    <br/>1) szczegółowe wymagania w stosunku do stacji kontroli pojazdów
+                    przeprowadzających badania techniczne w określonym zakresie;
+                    1a) wzór wniosku o wpis do rejestru przedsiębiorców prowadzących stację kontroli
+                    pojazdów oraz wzór zaświadczenia potwierdzającego wpis przedsiębiorcy do
+                    tego rejestru;
+                    <br/>2) program szkolenia diagnostów, sposób przeprowadzania egzaminu
+                    kwalifikacyjnego, o którym mowa w art. 84 ust. 2, i wysokość opłaty za egzamin
+                    oraz wzory dokumentów związanych z uzyskaniem uprawnień do wykonywania
+                    badań technicznych;
+                    <br/>3) wysokość opłat za:
+                    a) wydanie poświadczenia, o którym mowa w art. 83 ust. 3 pkt 5,
+                    b) przeprowadzenie badań technicznych.
+                    <br/><br/>2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do
+                    spraw transportu uwzględni w szczególności warunki techniczne pojazdów
+                    podlegających badaniu, konieczność zapewnienia odpowiednich kwalifikacji diagnos-
+                    tów wykonujących badanie oraz koszty wykonywania badań.
+                </p>
+            </div>
+            <div>
+                <a name="85"></a>
+                <p class="hyphenate"><strong>Art. 85.</strong><br/> 1. Tramwaj i trolejbus podlegają odrębnym badaniom technicznym.
+                    <br/><br/>2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia,
+                    zakres, warunki, terminy i sposób przeprowadzania badań technicznych tramwajów
+                    i trolejbusów oraz jednostki wykonujące te badania, uwzględniając w szczególności:<br/> 1) warunki techniczne pojazdów podlegających badaniu;
+                    <br/>2) proces zużywania podstawowych części i elementów wyposażenia tych
+                    pojazdów mających bezpośredni wpływ na bezpieczeństwo ruchu;
+                    <br/>3) odpowiednie wyposażenie jednostek wykonujących te badania.
+                </p>
+            </div>
+            <div>
+                <a name="86"></a>
+                <p class="hyphenate"><strong>Art. 86.</strong><br/> 1. Do pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Policji,
+                    Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu
+                    Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego,
+                    Służby Ochrony Państwa, Straży Granicznej i Krajowej Administracji Skarbowej
+                    wykorzystywanych przez Służbę Celno-Skarbową, których dotyczą warunki i tryb
+                    rejestracji określone w art. 73 ust. 3 oraz w art. 76 ust. 4 pkt 1, oraz pojazdów
+                    należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej
+                    Polskiej na podstawie umów międzynarodowych, o których mowa w art. 73 ust. 2b,
+                    a także do pojazdów Państwowej Straży Pożarnej mają zastosowanie przepisy
+                    art. 83 ust. 1, z wyłączeniem wymogu posiadania zezwolenia starosty, o którym mowa
+                    w art. 83 ust. 1 pkt 1 lit. b.
+                    <br/><br/>2. Badania techniczne pojazdów służb, o których mowa w ust. 1, są
+                    przeprowadzane:
+                    <br/>1) przez upoważnione komórki organizacyjne lub stacje kontroli pojazdów
+                    prowadzone przez służby, o których mowa w ust. 1, z wyłączeniem obcych sił
+                    zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej;
+                    <br/>2) w stacjach kontroli pojazdów prowadzących działalność, o której mowa
+                    w art. 83 ust. 2.
+                    <br/><br/>3. Upoważnione do przeprowadzania badań technicznych komórki
+                    organizacyjne lub stacje kontroli, o których mowa w ust. 2 pkt 1, posiadają
+                    uprawnienia stacji kontroli pojazdów wyłącznie w odniesieniu do pojazdów służb,
+                    o których mowa w ust. 1.
+                    <br/><br/>4. Minister właściwy do spraw wewnętrznych, minister właściwy do spraw
+                    finansów publicznych oraz Minister Obrony Narodowej w porozumieniu z ministrem
+                    właściwym do spraw transportu oraz po zasięgnięciu opinii Szefa Agencji
+                    Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Komendanta Służby
+                    Ochrony Państwa i Szefa Centralnego Biura Antykorupcyjnego, a także Szefa Służby
+                    Kontrwywiadu Wojskowego i Szefa Służby Wywiadu Wojskowego, uwzględniając specyfikę wynikającą z przeznaczenia pojazdów służb, o których mowa w ust. 1,
+                    określą, w drodze rozporządzenia:
+                    <br/>1) jednostki organizacyjne sprawujące nadzór nad komórkami organizacyjnymi
+                    i stacjami kontroli pojazdów przeprowadzającymi badania techniczne pojazdów
+                    oraz wydające upoważnienia do przeprowadzania badań technicznych, wzory
+                    dokumentów związanych z uzyskaniem upoważnień do wykonywania badań
+                    oraz wzór upoważnienia do ich przeprowadzania;
+                    <br/>2) wymagania w stosunku do komórek organizacyjnych i stacji kontroli pojazdów
+                    upoważnionych do przeprowadzania badań technicznych pojazdów;
+                    <br/>3) wzory dokumentów stosowanych przy badaniach technicznych pojazdów;
+                    <br/>4) warunki i terminy przeprowadzania badań technicznych pojazdów;
+                    <br/>5) okoliczności dopuszczające przeprowadzanie badań technicznych pojazdów,
+                    w stacjach kontroli pojazdów prowadzących działalność, o której mowa
+                    w art. 83 ust. 2, nieposiadających upoważnienia do badań technicznych
+                    pojazdów służb;
+                    <br/>6) zasady i warunki współpracy przy wykonywaniu badań technicznych pojazdów
+                    innej służby niż właściwa dla komórki organizacyjnej przeprowadzającej
+                    badanie.
+                </p>
+            </div>
+            <div>
+                <a name="86"></a>
+                <p class="hyphenate"><strong>Art. 86a.</strong><br/> (uchylony)
+                </p>
+            </div>
+        </div>
+        <div class="popups">
+        6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/de/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Zurück zu Fragen"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Verkehrsregeln"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 15"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Kodeks drogowy - Część 15 | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Kodeks drogowy - Część 15"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

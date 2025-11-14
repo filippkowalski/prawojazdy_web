@@ -1,0 +1,133 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","pl","references","znaki_uzupelniajace",""],"q":"","i":false,"f":[[["",{"children":[["locale","pl","d"],{"children":["references",{"children":[["page","znaki_uzupelniajace","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"pl"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/pl/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Regulamin"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/pl/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Polityka prywatności"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Prawo Jazdy. Wszelkie prawa zastrzeżone."}]]}]}]}]]}]
+11:T26e7,
+            <h2 style="margin:0"><span class="small-caps">Znaki uzupełniające</span></h2>
+            <p class="hyphenate"><a name="69"></a><strong>§ 69.</strong></p>
+            <p class="hyphenate"><a name="69.1"></a>1. Znak F-1 „przejście graniczne” informuje o czynnym przejściu granicznym.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-1.png"/>
+                <div>F-1</div>
+            </div>
+            <p class="hyphenate"><a name="69.2"></a>2. Znak F-2 „przekraczanie granicy zabronione” informuje, że ruch przez granicę jest zamknięty.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-2.png"/>
+                <div>F-2</div>
+            </div>
+
+            2a. Znak F-2a ,,granica państwa" informuje o miejscu przekroczenia granicy Rzeczypospolitej Polskiej.
+
+            <p class="hyphenate"><a name="69.3"></a>3. Znak F-3 „granica obszaru administracyjnego” z napisami „województwo”, „powiat” lub „gmina” i umieszczonymi nazwami informuje o wjeździe odpowiednio na obszar województwa, powiatu i gminy,
+                powiatu i gminy albo gminy.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-3.png"/>
+                <div>F-3</div>
+            </div>
+            <p class="hyphenate"><a name="69.4"></a>4. Znak F-4 „nazwa rzeki” podaje nazwę rzeki lub innego cieku wodnego, nad którym przebiega droga.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-4.png"/>
+                <div>F-4</div>
+            </div>
+            <p class="hyphenate"><a name="70"></a><strong>§ 70.</strong></p>
+            <p class="hyphenate"><a name="70.1"></a>1. Znak F-5 „uprzedzenie o zakazie” uprzedza o znaku zakazu umieszczonym na drodze w odległości wskazanej na znaku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-5.png"/>
+                <div>F-5</div>
+            </div>
+            <p class="hyphenate"><a name="70.2"></a>2. Znak F-6 „znak uprzedzający umieszczany przed skrzyżowaniem” uprzedza o wskazanym na nim odpowiednim znakiem niebezpieczeństwie lub zakazie występującym za skrzyżowaniem na wskazanej drodze.
+            </p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-6.png"/>
+                <div>F-6</div>
+            </div>
+            <p class="hyphenate"><a name="71"></a><strong>§ 71.</strong></p>
+            <p class="hyphenate"><a name="71.1"></a>1. Znak F-7 „sposób jazdy w związku z zakazem skręcania w lewo” wskazuje dojazd do drogi, w którą skręcanie w lewo jest zabronione.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-7.png"/>
+                <div>F-7</div>
+            </div>
+            <p class="hyphenate"><a name="71.2"></a>2. Znak F-8 „objazd w związku z zamknięciem drogi” wskazuje wyznaczony objazd; jeżeli na znaku F-8 umieszczono znak zakazujący wjazdu określonych pojazdów, oznacza to, że objazd dotyczy pojazdów
+                wskazanych na znaku zakazu.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-8.png"/>
+                <div>F-8</div>
+            </div>
+            <p class="hyphenate"><a name="71.3"></a>3. Znak F-9 „znak prowadzący na drodze objazdowej” wskazuje kierunek ruchu pojazdów na wyznaczonym objeździe.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-9.png"/>
+                <div>F-9</div>
+            </div>
+            <p class="hyphenate"><a name="72"></a><strong>§ 72.</strong></p>
+            <p class="hyphenate"><a name="72.1"></a>1. Umieszczony obok jezdni znakF-10 „kierunki na pasach ruchu” wskazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu.</p>
+            <p class="hyphenate"><a name="72.2"></a>2. Umieszczony nad pasem ruchu znak F-11 „kierunki na pasie ruchu” wskazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z pasa ruchu, nad którym znak został
+                umieszczony.</p>
+            <p class="hyphenate"><a name="72.3"></a>3. Umieszczona na znaku F-10 lub F-11 strzałka zezwalająca na skręcanie w lewo ze skrajnego lewego pasa ruchu oznacza także zezwolenie na zawracanie, chyba że jest to zabronione znakiem B-23 lub
+                ruch jest kierowany sygnalizatorem S-3.</p>
+            <p class="hyphenate"><a name="73"></a><strong>§ 73.</strong></p>
+            <p class="hyphenate"> Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_f-12.png"/>
+                <p style="margin-bottom:30px">1) F-12 „znak wskazujący przejazd tranzytowy umieszczany przed skrzyżowaniem”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_f-13.png"/>
+                <p style="margin-bottom:30px">2) F-13 „przejazd tranzytowy”</p>
+            </div>
+            <p>Wskazują zgodnie ze strzałką kierunek przejazdu tranzytowego pojazdów wskazanych umieszczonym na znaku symbolem pojazdu</p>
+            <p class="hyphenate"><a name="74"></a><strong>§ 74.</strong></p>
+            <p class="hyphenate"> Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_f-14a.png"/>
+                <p style="margin-bottom:30px">1) F-14a „tablica wskaźnikowa na autostradzie umieszczana w odległości 300 m przed pasem wyłączania”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_f-14b.png"/>
+                <p style="margin-bottom:30px">2) F-14b „tablica wskaźnikowa na autostradzie umieszczana w odległości 200 m przed pasem wyłączania”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_f-14c.png"/>
+                <p style="margin-bottom:30px">3) F-14c „tablica wskaźnikowa na autostradzie umieszczana w odległości 100 m przed pasem wyłączania”</p>
+            </div>
+            <p>Informują o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady (pasa wyłączania).</p>
+            <p class="hyphenate"><a name="75"></a><strong>§ 75.</strong></p>
+            <p class="hyphenate"><a name="75.1"></a>1. Znak F-15 „niesymetryczny podział jezdni dla przeciwnych kierunków ruchu” wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-15.png"/>
+                <div>F-15</div>
+            </div>
+            <p class="hyphenate"><a name="75.2"></a>2. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_f-16.png"/>
+                <p style="margin-bottom:30px">1) F-16 „koniec pasa ruchu na jezdni dwukierunkowej”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_f-17.png"/>
+                <p style="margin-bottom:30px">2) F-17 „koniec pasa ruchu na jezdni jednokierunkowej”</p>
+            </div>
+            <p>Uprzedzają o końcu wewnętrznego pasa ruchu na jezdni wskazanej na znaku.</p>
+            <p class="hyphenate"><a name="75.3"></a>3. Znak F-18 „przeciwny kierunek dla określonych pojazdów” wskazuje lewy pas ruchu przeznaczony tylko dla pojazdów określonych na znaku, poruszających się w kierunku przeciwnym.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-18.png"/>
+                <div>F-18</div>
+            </div>
+            <p class="hyphenate"><a name="75.4"></a>4. Znak F-19 „pas ruchu dla określonych pojazdów” wskazuje wyznaczony na jezdni pas ruchu przeznaczony dla pojazdów wskazanych na znaku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-19.png"/>
+                <div>F-19</div>
+            </div>
+            <p class="hyphenate"><a name="76"></a><strong>§ 76.</strong></p>
+            <p class="hyphenate"> Znak F-20 „część drogi (pas ruchu) dla określonych pojazdów” wskazuje drogę lub jej część przeznaczoną dla pojazdów, których symbol został umieszczony na znaku. Zamiast symbolu pojazdu o dopuszczalnej masie
+                całkowitej do 3,5 t na znaku może być umieszczony symbol pojazdu stosowany na tabliczkach, odpowiednio do sposobu przeznaczenia drogi lub jej części.
+
+            </p>
+            <p class="hyphenate"><a name="77"></a><strong>§ 77.</strong></p>
+            <p class="hyphenate"><a name="77.1"></a>1. Znak F-21 „ruch skierowany na sąsiednią jezdnię” wskazuje zjazd na sąsiednią jezdnię w związku z tymczasową organizacją ruchu.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-21.png"/>
+                <div>F-21</div>
+            </div>
+            <p class="hyphenate"><a name="77.2"></a>2. Znak F-22 „ograniczenia na pasie ruchu” wskazuje pas ruchu, na którym jest zabroniony ruch pojazdów określonych symbolem znaku zakazu.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_f-22.png"/>
+                <div>F-22</div>
+            </div>
+            </p></p></p>6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/pl/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Powrót do pytań"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Przepisy ruchu drogowego"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Znaki uzupełniające"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Znaki uzupełniające | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Znaki uzupełniające"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

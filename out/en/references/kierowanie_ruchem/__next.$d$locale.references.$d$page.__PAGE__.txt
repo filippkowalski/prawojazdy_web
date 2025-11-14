@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T19c4,
+<div class="page">
+    <div class="shadow"></div>
+    <div class="page__body">
+        <h2><span class="small-caps">Kierowanie ruchem przez policjanta – proste omówienie ze zdjęciami i filmem</span></h2>
+        <div class="text">
+            <div id="m_1">
+                <a name="1"></a>
+                <p class="hyphenate">W dobie niezawodnej sygnalizacji świetlnej widok policjanta kierującego ruchem
+                    należy do rzadkości - kojarzy nam się przede wszystkim z listopadowymi wyjazdami na cmentarze.
+                    Praktyka pokazuje, że mnóstwo kierowców nie ma najmniejszego pojęcia jak zachować się w momencie
+                    przejęcia kontroli nad ruchem przez policjanta! </p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>Pamiętaj!!!</strong> <br/>Polecenia i sygnały dawane przez osoby
+                    kierujące ruchem są zawsze ważniejsze niż sygnały świetlne i znaki drogowe! Mają one bezwzględny
+                    priorytet.</p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>Konsekwencje</strong> <br/>Znajomość sygnałów dawanych przez kierującego
+                    ruchem ma znaczenie nie tylko dla naszego bezpieczeństwa na drodze. Za zignorowanie lub
+                    nieprawidłowe zinterpretowanie znaków dawanych przez policjanta grozi wysoki mandat!</p>
+            </div>
+            <h3><span class="small-caps">ZASADY</span></h3>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>1. Nie wjeżdżać (czerwone światło)</strong> <br/>Odpowiednik czerwonego
+                    sygnału. Kierowcy oraz piesi, wobec których funkcjonariusz zwrócony jest tyłem lub przodem, mają
+                    zakaz wjazdu lub wejścia na skrzyżowanie.</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator1.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>2. Zmiana kierunku ruchu (żółte światło)</strong> <br/>Odpowiednik
+                    żółtego sygnału. Policjant z jedną podniesioną ręką to dla kierowców znak, że powinni zachować
+                    szczególną ostrożność – za chwilę nastąpi zmiana kierunku ruchu. Obowiązuje zakaz wjazdu na
+                    skrzyżowanie.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator2.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>3. Ruch otwarty</strong> <br/>Policjant stojący do kierującego prawym
+                    lub lewym bokiem to odpowiednik sygnału zielonego. Ruch odbywa się z prawej i lewej strony.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator3.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>4. Polecenie opuszczenia skrzyżowania</strong> <br/>Ruch otwarty dla
+                    skręcających w lewo i jadących na wprost od lewej strony funkcjonariusza. Jadący z drugiej
+                    strony policjanta mają obowiązek zatrzymać się.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator4.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>5. Polecenie opuszczenia skrzyżowania</strong> <br/>Policjant na
+                    skrzyżowaniu umożliwia kierowcom wykonanie bezpiecznego manewru skrętu – dotyczy to jednak
+                    kierowców jadących z jego prawej strony, którzy chcą skręcić w lewo.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator5.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>6. Przywołanie</strong> <br/>To rzadziej spotykany sygnał. Policjant
+                    wskazuje kierowcy miejsce na skrzyżowaniu do zatrzymania się.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator6.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>7. Zatrzymanie ruchu</strong> <br/>Ta pozycja policjanta - z wewnętrzną
+                    stroną dłoni zwróconą w stronę kierowcy - wzywa kierowcę do zatrzymania się.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator7.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>8. Otwarcie ruchu</strong> <br/>Znaki wykonywane przez policjanta, jak
+                    na zamieszczonej niżej fotografii, oznaczają otwarcie ruchu. Kierowcy oraz piesi, do których
+                    policjant jest ustawiony przodem lub tyłem, nie mogą się przemieszczać.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator8.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <p class="hyphenate"><a href="rctpdd://open?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCkhwGpc6yNw%26ab_channel%3DPolicja%25C5%259Bwi%25C4%2599tokrzyska">Wiesz
+                jak się zachować, gdy policjant kieruje ruchem? – zobacz film przygotowany przez policję </a>
+            </p>
+            <p class="hyphenate">
+                <button class="share_btn" onclick="location.href='rctpdd://share'" type="button">Podziel się ze znajomymi</button>
+            </p>
+        </div>
+    </div>
+    <div class="popups">
+    </div>
+</div>
+
+0:{"buildId":"SYaHkCXjnDtPpqb4OqRg1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L2",null,{"href":"/en/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Back to questions"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Traffic Regulations"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kierowanie ruchem"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

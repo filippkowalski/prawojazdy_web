@@ -1,0 +1,112 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","de","references","kodeks10",""],"q":"","i":false,"f":[[["",{"children":[["locale","de","d"],{"children":["references",{"children":[["page","kodeks10","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"de"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/de/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Nutzungsbedingungen"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/de/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Datenschutzrichtlinie"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Führerschein. Alle Rechte vorbehalten."}]]}]}]}]]}]
+11:T1833,
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zt.</strong><br/> 1. Spełnienie odpowiednich warunków lub wymagań technicznych
+                    danego pojazdu określonych w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE, potwierdza się świadectwem dopuszczenia indywidualnego WE
+                    pojazdu.
+                    <br/><br/>2. Dopuszczeniu indywidualnemu WE pojazdu podlega nowy pojazd kategorii
+                    M i N , o którym mowa w dodatku 2 do części I do załącznika IV do dyrektywy
+                    2007/46/WE, przed wprowadzeniem do obrotu na terytorium Rzeczypospolitej
+                    Polskiej, na którego typ producent lub importer nie uzyskał świadectwa homologacji
+                    typu WE pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zu.</strong><br/> 1. Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje,
+                    w drodze decyzji administracyjnej, Dyrektor Transportowego Dozoru Technicznego,
+                    za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
+                    <br/><br/>2. Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje się na
+                    wniosek producenta, importera albo właściciela pojazdu.
+                    <br/><br/>3. Do wniosku, o którym mowa w ust. 2, dołącza się:
+                    <br/>1) dokumenty, o których mowa w pkt 1 dodatku 2 do części I do załącznika IV do
+                    dyrektywy 2007/46/WE;
+                    <br/>2) kopię dowodu uiszczenia opłaty za dopuszczenie indywidualne WE pojazdu;
+                    <br/>3) oświadczenie o następującej treści:
+                    „Oświadczam, że w zakresie pojazdu o numerze VIN …, złożyłem tylko
+                    jeden wniosek i tylko w jednym państwie członkowskim Unii
+                    Europejskiej”.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zv.</strong><br/> 1. Badanie potwierdzające spełnienie odpowiednich warunków lub
+                    wymagań technicznych w celu uzyskania świadectwa dopuszczenia indywidualnego
+                    WE pojazdu przeprowadza jednostka uprawniona, na wniosek producenta, importera
+                    albo właściciela pojazdu.
+                    <br/><br/>2. Do wniosku, o którym mowa w ust. 1, dołącza się:
+                    <br/>1) dokument informacyjny pojazdu sporządzony zgodnie z załącznikiem I do
+                    dyrektywy 2007/46/WE;
+                    <br/>2) kopie świadectw homologacji typu lub inne dokumenty potwierdzające
+                    spełnienie odpowiednich wymagań technicznych określonych w pkt 4 w dodatku
+                    2 do części I do załącznika IV do dyrektywy 2007/46/WE. 3. Z przeprowadzonego badania jednostka sporządza sprawozdanie z badań
+                    potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych
+                    w celu dopuszczenia indywidualnego WE pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zw.</strong><br/> Opłata, o której mowa w art. 70zu ust. 1, stanowi przychód
+                    Transportowego Dozoru Technicznego.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zx.</strong><br/> 1. Minister właściwy do spraw transportu określi, w drodze
+                    rozporządzenia:
+                    <br/>1) wzory dokumentów związanych z wydaniem świadectwa dopuszczenia
+                    indywidualnego WE pojazdu;
+                    <br/>2) wysokość opłat za wydanie świadectwa dopuszczenia indywidualnego WE
+                    pojazdu.
+                    <br/><br/>2. Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
+                    <br/>1) potrzebę zapewnienia zabezpieczenia dokumentów przed podrobieniem lub
+                    przerobieniem;
+                    <br/>2) koszty czynności administracyjnych oraz koszty związane z wydaniem
+                    świadectwa dopuszczenia indywidualnego WE pojazdu.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zy.</strong><br/> Maksymalne stawki opłat, o których mowa w art. 70h ust. 2, art. 70j
+                    ust. 4, art. 70k ust. 4, art. 70za ust. 1, art. 70ze ust. 2, art. 70zo ust. 1, art. 70zp ust. 2
+                    i art. 70zu ust. 1 ulegają corocznie zmianie na następny rok kalendarzowy w stopniu
+                    odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług
+                    konsumpcyjnych ogółem, ogłaszanemu przez Prezesa Głównego Urzędu
+                    Statystycznego w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej
+                    Polskiej „Monitor Polski”.
+                </p>
+            </div>
+            <div>
+                <a name="70"></a>
+                <p class="hyphenate"><strong>Art. 70zz.</strong><br/> Przepisów rozdziałów 1a–1c nie stosuje się do:
+                    <br/>1) pojazdów zabytkowych lub pojazdu określonego w art. 79 ust. 4 pkt 3;
+                    <br/>2) nowego pojazdu oraz nowego przedmiotu wyposażenia lub części,
+                    nieprzeznaczonych do wprowadzenia do obrotu, a krótkotrwale składowanych
+                    na terytorium Rzeczypospolitej Polskiej między operacjami transportowymi –
+                    pod warunkiem okazania na żądanie właściwego organu kontroli dokumentów
+                    potwierdzających odbiorcę i miejsce docelowego odbioru nowego pojazdu oraz
+                    nowego przedmiotu wyposażenia lub części. </p>
+            </div>
+        </div>
+        <div class="popups">
+        6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/de/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Zurück zu Fragen"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Verkehrsregeln"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 10"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Kodeks drogowy - Część 10 | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Kodeks drogowy - Część 10"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

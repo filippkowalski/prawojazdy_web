@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:Tc2d,
+            <div>
+                <a name="35"></a>
+                <p class="hyphenate"><strong>Art. 35.</strong><br/> 1. Jazda wierzchem i pędzenie zwierząt powinny się odbywać po drodze
+                    przeznaczonej do pędzenia zwierząt. W razie braku takiej drogi jazda wierzchem
+                    i pędzenie zwierząt mogą odbywać się po poboczu, a jeżeli brak jest pobocza – po
+                    jezdni.
+                    <br/><br/>2. Do jazdy wierzchem i pędzenia zwierząt stosuje się odpowiednio przepisy
+                    art. 34 ust. 1 i 2 oraz przepisy o ruchu pojazdów.
+                </p>
+            </div>
+            <div>
+                <a name="36"></a>
+                <p class="hyphenate"><strong>Art. 36.</strong><br/> 1. Zabrania się jazdy wierzchem:<br/> 1) bez uzdy;
+                    <br/>2) obok innego uczestnika ruchu na jezdni;
+                    <br/>3) po drodze oznaczonej znakami z numerem drogi międzynarodowej oraz po
+                    drodze, na której obowiązuje zakaz ruchu pojazdów zaprzęgowych;
+                    <br/>4) po drodze twardej w okresie niedostatecznej widoczności;
+                    <br/>5) po drodze twardej osobie w wieku poniżej 17 lat.
+                    <br/><br/>2. Jeździec może prowadzić luzem tylko jedno zwierzę po swojej prawej stronie.
+                </p>
+            </div>
+            <div>
+                <a name="37"></a>
+                <p class="hyphenate"><strong>Art. 37.</strong><br/> 1. Zwierzęta w stadzie mogą być pędzone po drodze tylko pod
+                    odpowiednim nadzorem. Zwierzę pojedyncze może być prowadzone tylko na uwięzi.
+                    <br/><br/>2. Poganiacz zwierząt jest obowiązany:
+                    <br/>1) iść po lewej stronie pędzonych zwierząt;
+                    <br/>2) w okresie niedostatecznej widoczności nieść latarkę z widocznym z odległości
+                    co najmniej 150 m światłem białym.
+                    <br/><br/>3. Zwierzęta mogą być prowadzone luzem przy pojeździe zaprzęgowym z jego
+                    prawej strony, w liczbie nie większej niż 2 sztuki.
+                    <br/><br/>4. Zabrania się:
+                    <br/>1) pędzenia zwierząt po drodze oznaczonej znakami z numerem drogi
+                    międzynarodowej, a po innej drodze twardej – w okresie od zmierzchu do świtu;
+                    <br/>2) pędzenia zwierząt po drodze twardej osobie w wieku poniżej 13 lat;
+                    <br/>3) pędzenia zwierząt w poprzek drogi w miejscu niewidocznym na dostateczną
+                    odległość;
+                    <br/>4) zatrzymywania zwierząt na jezdni;
+                    <br/>5) zajmowania przez zwierzęta więcej niż prawej połowy jezdni albo drogi dla
+                    pieszych lub rowerów.
+                    <br/><br/>5. Rada powiatu może wprowadzić zakaz pędzenia zwierząt na określonych
+                    drogach lub obszarach oraz w określonym czasie. </p>
+            </div>
+        </div>
+        <div class="popups">
+        0:{"buildId":"SYaHkCXjnDtPpqb4OqRg1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L2",null,{"href":"/pl/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Powrót do pytań"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Przepisy ruchu drogowego"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 5"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

@@ -1,0 +1,165 @@
+1:"$Sreact.fragment"
+2:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T3b45,
+            <h2 style="margin:0"><span class="small-caps">ROZDZIAŁ 5</span></h2>
+            <p class="hyphenate"><strong>
+                Sygnały świetlne nadawane przez urządzenia umieszczone na drodze
+                Sygnały świetlne dla kierujących i pieszych
+            </strong></p>
+            <p class="hyphenate"><a name="95"></a><strong>§ 95.</strong></p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_s-1.png"/>
+                <p style="margin-bottom:30px">Sygnalizator S-1</p>
+            </div>
+            <p class="hyphenate"><a name="95.1"></a>1. Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają:
+                <br/>1) sygnał zielony - zezwolenie na wjazd za sygnalizator,
+                <br/>2) sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania; sygnał ten oznacza
+                jednocześnie, że za chwilę zapali się sygnał czerwony,
+                <br/>3) sygnał czerwony - zakaz wjazdu za sygnalizator,
+                <br/>4) sygnały czerwony i żółty, nadawane jednocześnie - zakaz wjazdu za sygnalizator; sygnały te oznaczają także, że za chwilę zapali się sygnał zielony.
+            </p>
+            <p class="hyphenate"><a name="95.2"></a>2. Sygnał zielony nie zezwala na wjazd za sygnalizator, jeżeli:
+                <br/>1) ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom,
+                <br/>2) ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem nadawania sygnału zielonego.
+            </p>
+            <p class="hyphenate"><a name="95.3"></a>3. Sygnalizator używany poza skrzyżowaniem do kierowania ruchem na zwężonym odcinku drogi może nadawać sygnały o dwóch barwach - zielonej i czerwonej.</p>
+            <p class="hyphenate"><a name="95.4"></a>4. Kierujący pojazdem szynowym skręcający na skrzyżowaniu o ruchu kierowanym sygnałami świetlnymi może je opuścić, z zastrzeżeniem ust. 1 pkt 2-4, pod warunkiem ustąpienia pierwszeństwa
+                uczestnikom ruchu poruszającym się na wprost. Przepisu nie stosuje się na skrzyżowaniu o ruchu okrężnym oznaczonym znakami C-12.</p>
+            <p class="hyphenate"><a name="96"></a><strong>§ 96.</strong></p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_s-2.png"/>
+                <p style="margin-bottom:30px">Sygnalizator S-2</p>
+            </div>
+            <p class="hyphenate"><a name="96.1"></a>1. Nadawany przez sygnalizator S-2 sygnał czerwony wraz z sygnałem w kształcie zielonej strzałki oznacza, że dozwolone jest skręcanie w kierunku wskazanym strzałką w najbliższą jezdnię na
+                skrzyżowaniu, z zastrzeżeniem ust. 3.</p>
+            <p class="hyphenate"><a name="96.2"></a>2. Sygnał w kształcie zielonej strzałki, nadawany przez sygnalizator S-2, zezwalający na skręcanie w lewo, zezwala również na zawracanie z lewego skrajnego pasa ruchu, chyba że jest to
+                zabronione znakiem B-23.</p>
+            <p class="hyphenate"><a name="96.3"></a>3. Skręcanie lub zawracanie, o których mowa w ust. 1 i 2, jest dozwolone pod warunkiem, że kierujący zatrzyma się przed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego uczestnikom.
+            </p>
+            <p class="hyphenate"><a name="97"></a><strong>§ 97.</strong></p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_s-3.png"/>
+                <p style="margin-bottom:30px">Sygnalizator S-3</p>
+            </div>
+            <p class="hyphenate"><a name="97.1"></a>1. Sygnały świetlne nadawane przez sygnalizator kierunkowy S-3 dotyczą kierujących jadących w kierunkach wskazanych strzałką (strzałkami).</p>
+            <p class="hyphenate"><a name="97.2"></a>2. Przepisy § 95 ust. 1 i 2 stosuje się odpowiednio do sygnałów nadawanych przez sygnalizator kierunkowy S-3.</p>
+            <p class="hyphenate"><a name="97.3"></a>3. Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu.</p>
+            <p class="hyphenate"><a name="97.4"></a>4. Sygnalizatory kierunkowe S-3 nadające sygnały przeznaczone tylko dla pojazdów skręcających w lewo mogą nie być umieszczone po prawej stronie drogi.</p>
+            <p class="hyphenate"><a name="98"></a><strong>§ 98.</strong></p>
+            <p class="hyphenate"><a name="98.1"></a>1. Sygnały świetlne nadawane przez sygnalizator S-4 oznaczają:</p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_s-4.png"/>
+                <p style="margin-bottom:0px">Sygnalizator S-4</p>
+            </div>
+            <p class="hyphenate">
+                <br/>1) sygnał zielony - zezwolenie na wjazd na pas ruchu, nad którym sygnalizator jest umieszczony,
+                <br/>2) sygnał czerwony - zakaz wjazdu na pas ruchu, nad którym sygnalizator jest umieszczony.
+            </p>
+            <p class="hyphenate"><a name="98.2"></a>2. Sygnały świetlne dla pieszych nadawane przez sygnalizator S-5 oznaczają:</p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_s-5.png"/>
+                <p style="margin-bottom:0px">Sygnalizator S-5</p>
+            </div>
+            <p class="hyphenate">
+                <br/>1) sygnał zielony - zezwolenie na wejście na przejście dla pieszych, przy czym sygnał zielony migający oznacza, że za chwilę zapali się sygnał czerwony i pieszy jest obowiązany jak najszybciej opuścić przejście,
+                <br/>2) sygnał czerwony - zakaz wejścia na przejście.
+            </p>
+            <p class="hyphenate"><a name="98.3"></a>3. Sygnały świetlne dla rowerzystów nadawane przez sygnalizator S-6 oznaczają:</p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_s-6.png"/>
+                <p style="margin-bottom:0px">Sygnalizator S-6</p>
+            </div>
+            <p class="hyphenate">
+                <br/>1) sygnał zielony - zezwolenie na wjazd na przejazd dla rowerzystów, przy czym sygnał zielony migający oznacza, że za chwilę zapali się sygnał czerwony i rowerzysta jest obowiązany jak najszybciej opuścić przejazd,
+                <br/>2) sygnał czerwony - zakaz wjazdu na przejazd.
+            </p>
+            <p class="hyphenate"><a name="98.4"></a>4. Sygnał świetlny stały lub migający, nadawany przez sygnalizator S-7, oznacza nakaz opuszczenia pasa ruchu, nad którym sygnalizator jest umieszczony, i wjazdu na część jezdni znajdującą się po
+                stronie wskazanej strzałką.</p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_s-7.png"/>
+                <p style="margin-bottom:0px">Sygnalizator S-7</p>
+            </div>
+            <p class="hyphenate"><a name="98.5"></a>5. Sygnał czerwony migający lub dwa na przemian migające sygnały czerwone oznaczają zakaz wjazdu za sygnalizator lub inne urządzenie nadające te sygnały.</p>
+            <p class="hyphenate"><a name="98.6"></a>6. Migający lub stały sygnał żółty umieszczony na przeszkodzie albo migający sygnał żółty nadawany przez sygnalizator ostrzegają o występującym niebezpieczeństwie lub utrudnieniu ruchu oraz
+                nakazują zachowanie szczególnej ostrożności.</p>
+            <p class="hyphenate"><a name="99"></a><strong>§ 99.</strong></p>
+            <p class="hyphenate"><a name="99.1"></a>1. Zatrzymanie pojazdu wynikające z nadawanego sygnału powinno nastąpić przed linią zatrzymania, a w razie jej braku - przed sygnalizatorem.</p>
+            <p class="hyphenate"><a name="99.2"></a>2. Jeżeli sygnalizator jest umieszczony nad jezdnią, to zatrzymanie pojazdu wynikające z nadawanego sygnału powinno nastąpić przed linią zatrzymania, a w razie jej braku - przed jezdnią, nad
+                którą sygnalizator został umieszczony.</p>
+            <p class="hyphenate"><a name="100"></a><strong>§ 100.</strong></p>
+            <p class="hyphenate"> Sygnały świetlne, o których mowa w § 95-97 i § 98 ust. 1, 4 i 5, dotyczą także kolumn pieszych, jeźdźców i poganiaczy.
+
+            </p>
+            <p class="hyphenate"><a name="101"></a><strong>§ 101.</strong></p>
+            <p class="hyphenate"> Sygnał świetlny w postaci białych cyfr na tablicy lub sygnalizatorze oznacza wjazd na odcinek jezdni, na którym zaleca się jazdę z prędkością wyrażoną w kilometrach na godzinę.
+
+                Sygnały świetlne dla kierujących pojazdami wykonującymi odpłatny przewóz osób na regularnych liniach
+
+            </p>
+            <p class="hyphenate"><a name="102"></a><strong>§ 102.</strong></p>
+            <p class="hyphenate"><a name="102.1"></a>1. Sygnały świetlne dla kierujących autobusami oraz innymi pojazdami wykonującymi odpłatny przewóz osób na regularnych liniach, poruszającymi się po wydzielonych dla nich pasach ruchu, są barwy
+                białej.</p>
+            <p class="hyphenate"><a name="102.2"></a>2. Sygnały świetlne, o których mowa w ust. 1, nadawane przez sygnalizator SB oznaczają:</p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_sb.png"/>
+                <p style="margin-bottom:0px">Znak SB</p>
+            </div>
+            <p class="hyphenate">
+                <br/>1) sygnał w kształcie kreski pionowej - zezwolenie na wjazd za sygnalizator,
+
+                <br/>2) sygnał w kształcie dwóch kropek - zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących pojazdami, które w chwili zapalenia się tego sygnału znajdują się tak blisko sygnalizatora, że nie mogą być zatrzymane przed nim
+                bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej,
+
+                <br/>3) sygnał w kształcie kreski poziomej - zakaz wjazdu za sygnalizator; takie samo znaczenie mają wyświetlane jednocześnie sygnały w kształcie kreski poziomej i dwóch kropek oznaczające także, że za chwilę zapali się sygnał w
+                kształcie kreski pionowej.
+            </p>
+            <p class="hyphenate"><a name="102.3"></a>3. Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli:
+
+                <br/>1) ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom,
+
+                <br/>2) ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem nadawania sygnału zezwalającego na wjazd za sygnalizator.
+            </p>
+            <p class="hyphenate"><a name="102.4"></a>4. Przepis § 99 stosuje się odpowiednio.</p>
+            <p class="hyphenate"><a name="103"></a><strong>§ 103.</strong></p>
+            <p class="hyphenate"> Sygnały świetlne dla kierujących tramwajami są barwy białej.
+
+            </p>
+            <p class="hyphenate"><a name="104"></a><strong>§ 104.</strong></p>
+            <p class="hyphenate"><a name="104.1"></a>1. Sygnały świetlne dla kierujących tramwajami nadawane przez sygnalizator ST oznaczają:</p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_st.png"/>
+                <p style="margin-bottom:0px">Znak ST</p>
+            </div>
+            <p class="hyphenate">
+                <br/>1) sygnał w kształcie kreski pionowej - zezwolenie na wjazd za sygnalizator,
+                <br/>2) sygnał w kształcie kreski pionowej migający - zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących tramwajami, które w chwili zapalenia się tego sygnału znajdują się tak blisko sygnalizatora, że nie mogą być
+                zatrzymane przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej,
+                <br/>3) sygnał w kształcie kreski poziomej - zakaz wjazdu za sygnalizator.
+            </p>
+            <p class="hyphenate"><a name="104.2"></a>2. Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli:
+                <br/>1) ruch tramwaju utrudniłby opuszczenie jezdni pieszym lub rowerzystom,
+                <br/>2) ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem nadawania sygnału zezwalającego na wjazd za sygnalizator.
+            </p>
+            <p class="hyphenate"><a name="105"></a><strong>§ 105.</strong></p>
+            <p class="hyphenate"> Sygnały świetlne nadawane przez sygnalizator SB, o którym mowa w § 102 ust. 2 i 3, bez tabliczki 2 napisem BUS, dotyczą kierujących tramwajami.
+
+            </p>
+            <p class="hyphenate"><a name="106"></a><strong>§ 106.</strong></p>
+            <p class="hyphenate"><a name="106.1"></a>1. Sygnały nadawane przez sygnalizatory kierunkowe STK dotyczą tramwajów jadących w kierunkach wskazanych przez strzałki umieszczone na tabliczce nad sygnalizatorem; przepis § 104 ust. 1 pkt 1
+                i 3 stosuje się odpowiednio.</p>
+            <p class="hyphenate"><a name="106.2"></a>2. Sygnały kierunkowe dla kierujących tramwajami nadawane przez sygnalizator STT oznaczają:
+                <br/>1) STT-1 -zakaz wjazdu za sygnalizator,
+            </p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_stt-1.png"/>
+                <p style="margin-bottom:0px">Znak STT-1</p>
+            </div>
+            <p class="hyphenate"><br/>2) STT-2 - zezwolenie na jazdę we wskazanym kierunku (kierunkach); kierunki są oznaczone kropkami wyświetlanymi w górnej części sygnalizatora wraz z wyświetlaną kropką w górnej jego części; lewa górna kropka
+                oznacza kierunek w lewo, środkowa górna kropka kierunek na wprost, a prawa górna kropka - w prawo.</p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_stt-2.png"/>
+                <p style="margin-bottom:20px">Znak STT-2</p>
+            </div>
+            <p class="hyphenate"><a name="106.3"></a>3. Nadawany przez sygnalizatory kierunkowe STK i STT sygnał zezwalający na wjazd oznacza, że przejazd nie ma kolizji z innymi kierunkami ruchu.</p>
+            <div align="center" class="znak_first"><img src="/references/image/znak_stk.png"/>
+                <p style="margin-bottom:20px">Znak STK</p>
+            </div>
+            <p class="hyphenate"><a name="106.4"></a>4. Przepisy § 104 ust. 2 stosuje się do sygnałów nadawanych przez sygnalizatory kierunkowe STK i STT.</p>
+            <p class="hyphenate"><a name="107"></a><strong>§ 107.</strong></p>
+            <p class="hyphenate"> Przepis § 95 ust. 4 i § 99 stosuje się odpowiednio do sygnałów świetlnych dla kierujących tramwajami.
+
+            </p>
+        0:{"buildId":"SYaHkCXjnDtPpqb4OqRg1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L2",null,{"href":"/de/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Zurück zu Fragen"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Verkehrsregeln"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Sygnały świetlne"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

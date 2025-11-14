@@ -1,0 +1,1352 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","uk","references","kodeks11",""],"q":"","i":false,"f":[[["",{"children":[["locale","uk","d"],{"children":["references",{"children":[["page","kodeks11","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"uk"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/uk/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Умови використання"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/uk/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Політика конфіденційності"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Водійські права. Всі права захищені."}]]}]}]}]]}]
+11:T1bc82,
+            <div>
+                <a name="71"></a>
+                <p class="hyphenate"><strong>Art. 71.</strong><br/> 1. Dokumentem stwierdzającym dopuszczenie do ruchu pojazdu
+                    samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład
+                    kolejki turystycznej, motoroweru lub przyczepy jest dowód rejestracyjny albo
+                    pozwolenie czasowe. Przepis ten nie dotyczy pojazdów, o których mowa w ust. 3.
+                    [2. Pojazdy określone w ust. 1 są dopuszczone do ruchu, jeżeli odpowiadają
+                    warunkom określonym w art. 66 oraz są zarejestrowane i zaopatrzone
+                    w zalegalizowane tablice (tablicę) rejestracyjne, a w przypadku pojazdów
+                    samochodowych, z wyłączeniem motocykli, w nalepkę kontrolną.]
+                    &lt;2. Pojazdy określone w ust. 1 są dopuszczone do ruchu, jeżeli odpowiadają
+                    warunkom określonym w art. 66 oraz są zarejestrowane i zaopatrzone
+                    w zalegalizowane tablice (tablicę) rejestracyjne.&gt;
+                    <br/><br/>2a. Pojazd elektryczny i pojazd napędzany wodorem posiadają tablice
+                    rejestracyjne wskazujące na rodzaj paliwa wykorzystywanego do ich napędu.
+                    <br/><br/>3. Pojazd niewymieniony w ust. 1, przyczepa motocyklowa oraz przyczepa
+                    specjalna przeznaczona do ciągnięcia przez ciągnik rolniczy lub pojazd wolnobieżny
+                    jest dopuszczony do ruchu, jeżeli odpowiada warunkom określonym w art. 66.
+                    <br/><br/>4. Zespół pojazdów składający się z pojazdu samochodowego o dopuszczalnej
+                    masie całkowitej nieprzekraczającej 3,5 t i przyczepy albo autobusu i przyczepy może
+                    być dopuszczony do ruchu po uzyskaniu odpowiedniej adnotacji w dowodzie
+                    rejestracyjnym pojazdu silnikowego, dokonanej na podstawie przeprowadzonego
+                    badania technicznego. Przepis ten nie dotyczy motocykla.
+                    <br/><br/>4a. Przepis ust. 4 dotyczy także ciągnika rolniczego i pojazdu wolnobieżnego
+                    wchodzącego w skład kolejki turystycznej. W przypadku ciągnika rolniczego może
+                    być on dopuszczony do ruchu po uzyskaniu odpowiedniej adnotacji w dowodzie
+                    rejestracyjnym o ograniczeniu prędkości konstrukcyjnej do 25 km/h.
+                    <br/><br/>5. Pojazd zarejestrowany za granicą dopuszcza się do ruchu, jeżeli odpowiada
+                    wymaganym warunkom technicznym i jest zaopatrzony w tablice rejestracyjne
+                    z numerem rejestracyjnym składającym się z liter alfabetu łacińskiego i cyfr
+                    arabskich, z zastrzeżeniem art. 59 ust. 2 i 3, a kierujący pojazdem ma przy sobie
+                    dokument stwierdzający dokonanie rejestracji. 5a. W przypadku gdy z dokumentu stwierdzającego dokonanie rejestracji
+                    pojazdu, o którym mowa w ust. 5, nie wynika prawo do używania pojazdu przez
+                    kierującego, osoba ta obowiązana jest posiadać przy sobie i okazywać na żądanie
+                    organu kontroli ruchu drogowego dokument potwierdzający to prawo.
+                    <br/><br/>6. Pojazd sprowadzony z terytorium państwa niebędącego państwem
+                    członkowskim Unii Europejskiej, po dokonaniu zwolnienia pojazdu przez naczelnika
+                    urzędu celno-skarbowego do procedury dopuszczenia do obrotu, dopuszcza się do
+                    ruchu na okres 30 dni.
+                    <br/><br/>7. Właściciel pojazdu, niebędącego nowym pojazdem, sprowadzonego z
+                    terytorium państwa członkowskiego Unii Europejskiej jest obowiązany zarejestrować
+                    pojazd na terytorium Rzeczypospolitej Polskiej w terminie 30 dni od dnia jego
+                    sprowadzenia.
+                </p>
+            </div>
+            <div>
+                <a name="72"></a>
+                <p class="hyphenate"><strong>Art. 72.</strong><br/> 1. Rejestracji dokonuje się na podstawie:
+                    <br/>1) dowodu własności pojazdu lub dokumentu potwierdzającego powierzenie
+                    pojazdu, o którym mowa w art. 73 ust. 5;
+                    [2) karty pojazdu, jeżeli była wydana;]
+                    <br/>3) świadectwa zgodności WE albo świadectwa zgodności wraz z oświadczeniem
+                    zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji
+                    pojazdu, dopuszczenia jednostkowego pojazdu, decyzji o uznaniu dopuszczenia
+                    jednostkowego pojazdu albo świadectwa dopuszczenia indywidualnego WE
+                    pojazdu – jeżeli są wymagane;
+                    <br/>4) zaświadczenia o pozytywnym wyniku badania technicznego pojazdu, jeżeli jest
+                    wymagane albo dowodu rejestracyjnego pojazdu lub innego dokumentu
+                    wydanego przez właściwy organ państwa członkowskiego, potwierdzającego
+                    wykonanie oraz termin ważności badania technicznego;
+                    <br/>5) dowodu rejestracyjnego, jeżeli pojazd był zarejestrowany;
+                    <br/>6) dowodu odprawy celnej przywozowej, jeżeli pojazd został sprowadzony
+                    z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej
+                    i jest rejestrowany po raz pierwszy;
+                    6a) dokumentu potwierdzającego zapłatę akcyzy na terytorium kraju albo
+                    dokumentu potwierdzającego brak obowiązku zapłaty akcyzy na terytorium
+                    kraju albo zaświadczenia stwierdzającego zwolnienie od akcyzy, w rozumieniu
+                    przepisów o podatku akcyzowym, jeżeli samochód osobowy, pojazd rodzaju „samochodowy inny”, podrodzaj „czterokołowiec” (kategoria homologacyjna
+                    L7e) lub podrodzaj „czterokołowiec lekki” (kategoria homologacyjna L6e),
+                    samochód ciężarowy (kategoria homologacyjna N1), podrodzaj „furgon”,
+                    „furgon/podest”, „ciężarowo-osobowy”, „terenowy”, „wielozadaniowy” lub
+                    „van” lub samochód specjalny (kategoria homologacyjna M1 i N1), został
+                    sprowadzony z terytorium państwa członkowskiego Unii Europejskiej i jest
+                    rejestrowany po raz pierwszy;
+                    <br/>7) (uchylony)
+                    <br/>8) (uchylony)
+                    <br/>9) (uchylony)
+                    <br/><br/>1a. (uchylony)
+                    <br/><br/>1b. W przypadku nabycia od wyspecjalizowanego salonu sprzedaży,
+                    w rozumieniu przepisów o podatku akcyzowym, samochodu osobowego lub pojazdu,
+                    o którym mowa w ust. 1 pkt 6a, dokument potwierdzający zapłatę akcyzy na
+                    terytorium kraju, dokument potwierdzający brak obowiązku zapłaty akcyzy na
+                    terytorium kraju albo zaświadczenie stwierdzające zwolnienie od akcyzy samochodu
+                    osobowego może być zastąpione oświadczeniem wyspecjalizowanego salonu
+                    sprzedaży, że posiada odpowiednio oryginał lub kopię dokumentu potwierdzającego
+                    zapłatę akcyzy na terytorium kraju, oryginał lub kopię dokumentu potwierdzającego
+                    brak obowiązku zapłaty akcyzy na terytorium kraju od tego samochodu osobowego
+                    lub pojazdu albo oryginał lub kopię zaświadczenia stwierdzającego zwolnienie od
+                    akcyzy samochodu osobowego.
+                    <br/><br/>2. Wymagania ust. 1 nie dotyczą:
+                    <br/>1) pojazdu, który był już zarejestrowany na terytorium Rzeczypospolitej Polskiej –
+                    w zakresie ust. 1 pkt 3;
+                    1a) pojazdu, który był już zarejestrowany na terytorium Rzeczypospolitej Polskiej
+                    i od ostatniej rejestracji nie nastąpiła zmiana właściciela tego pojazdu,
+                    w przypadku gdy przerejestrowanie pojazdu jest dokonywane na wniosek
+                    właściciela tego pojazdu w związku ze zmianą jego miejsca zamieszkania
+                    (siedziby) – w zakresie dowodu własności pojazdu, o którym mowa
+                    w ust. 1 pkt 1;
+                    [2) pojazdu zakupionego po przepadku na rzecz Skarbu Państwa lub na rzecz
+                    jednostki samorządu terytorialnego – w zakresie ust. 1 pkt 2 i 5;] &lt;2) pojazdu zakupionego po przepadku na rzecz Skarbu Państwa lub na rzecz
+                    jednostki samorządu terytorialnego – w zakresie ust. 1 pkt 5;&gt;
+                    <br/>3) pojazdu zakupionego od Policji, Agencji Bezpieczeństwa Wewnętrznego,
+                    Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu
+                    Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej,
+                    Krajowej Administracji Skarbowej lub Sił Zbrojnych Rzeczypospolitej Polskiej
+                    – w zakresie ust. 1 pkt 5;
+                    <br/>4) (uchylony)
+                    <br/>5) pojazdu wycofanego czasowo z ruchu – w zakresie ust. 1 pkt 5; w tym
+                    przypadku zamiast dowodu rejestracyjnego wymaga się przedstawienia decyzji
+                    o czasowym wycofaniu pojazdu z ruchu;
+                    <br/>6) (uchylony)
+                    <br/>7) pojazdu wyrejestrowanego, o którym mowa w art. 79 ust. 4 pkt 3 – w przypadku
+                    powtórnej rejestracji – w zakresie ust. 1 pkt 5;
+                    <br/>8) pojazdu, o którym mowa w art. 81 ust. 4 pkt 1 – w zakresie ust. 1 pkt 4.
+                    <br/><br/>2a. W przypadku pojazdu sprowadzanego z terytorium państwa niebędącego
+                    państwem członkowskim zamiast dowodu rejestracyjnego, o którym mowa
+                    w ust. 1 pkt 5, dopuszcza się przedstawienie innego dokumentu stwierdzającego
+                    rejestrację pojazdu, wydanego przez organ właściwy do rejestracji pojazdów w tym
+                    państwie.
+                    <br/><br/>2b. W przypadku pojazdu zabytkowego, zamiast dowodu rejestracyjnego,
+                    dopuszcza się przedstawienie oświadczenia właściciela pojazdu, złożonego pod
+                    rygorem odpowiedzialności karnej za fałszywe zeznania, że nie posiada dowodu
+                    rejestracyjnego.
+                    <br/><br/>3. Dodatkowo wymaga się dokumentu potwierdzającego spełnienie wymagań,
+                    o których mowa w art. 2 pkt 39 – w stosunku do pojazdów zabytkowych.
+                    <br/><br/>3a. Świadectwo zgodności WE lub świadectwo zgodności traci ważność po
+                    upływie terminu określonego w przepisach wydanych na podstawie art. 70zm
+                    ust. 1 pkt 10 i nie może być uznane za dokument, o którym mowa w ust. 1 pkt 3.
+                    [4. W przypadku utraty dowodu rejestracyjnego lub karty pojazdu, zamiast tych
+                    dokumentów należy przedstawić zaświadczenie, wystawione przez organ rejestrujący
+                    właściwy ze względu na miejsce ostatniej rejestracji, potwierdzające dane zawarte
+                    w utraconym dokumencie, niezbędne do rejestracji.] &lt;4. W przypadku utraty dowodu rejestracyjnego albo pozwolenia
+                    czasowego pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej
+                    organ rejestrujący dokonuje weryfikacji danych zawartych w utraconym
+                    dokumencie w centralnej ewidencji pojazdów i pobiera z tej ewidencji dane
+                    niezbędne do rejestracji pojazdu.&gt;
+                    <br/><br/>5. W przypadku utraty dowodu rejestracyjnego pojazdu zarejestrowanego za
+                    granicą zamiast tego dokumentu należy przedstawić jego wtórnik albo dokument
+                    wystawiony przez organ rejestrujący właściwy ze względu na miejsce ostatniej
+                    rejestracji pojazdu, potwierdzający dane zawarte w utraconym dokumencie niezbędne
+                    do rejestracji pojazdu. Jeżeli organ rejestrujący właściwy ze względu na miejsce
+                    ostatniej rejestracji pojazdu za granicą odmówił wydania wtórnika dowodu
+                    rejestracyjnego albo dokumentu potwierdzającego dane zawarte w utraconym
+                    dokumencie, starosta może wystąpić do tego organu o potwierdzenie tych danych.
+                    Uzyskane potwierdzenie tych danych, w postaci papierowej albo elektronicznej,
+                    zastępuje dokument potwierdzający dane zawarte w utraconym dokumencie
+                    niezbędne do rejestracji pojazdu.
+                    <br/><br/>6. W przypadku utraty dowodu rejestracyjnego pojazdu wywiezionego z kraju,
+                    uprzednio zarejestrowanego na terytorium Rzeczypospolitej Polskiej, organ
+                    rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu na terytorium
+                    Rzeczypospolitej Polskiej, na wniosek właściciela pojazdu, wydaje zaświadczenie
+                    potwierdzające dane zawarte w utraconym dowodzie rejestracyjnym.
+                </p>
+            </div>
+            <div>
+                <a name="73"></a>
+                <p class="hyphenate"><strong>Art. 73.</strong><br/> [1. Rejestracji pojazdu dokonuje, na wniosek właściciela, starosta
+                    właściwy ze względu na miejsce jego zamieszkania (siedzibę), wydając dowód
+                    rejestracyjny i zalegalizowane tablice (tablicę) rejestracyjne oraz nalepkę kontrolną,
+                    jeżeli jest wymagana, z zastrzeżeniem ust. 2–5.]
+                    &lt;1. Rejestracji pojazdu dokonuje, na wniosek właściciela pojazdu, starosta
+                    właściwy ze względu na miejsce jego stałego zamieszkania (siedzibę) lub
+                    czasowego zamieszkania, wydając decyzję o rejestracji pojazdu, dowód
+                    rejestracyjny i zalegalizowane tablice (tablicę) rejestracyjne.&gt;
+                    <br/><br/>1a. Składający wniosek o rejestrację pojazdu może wnioskować
+                    o zachowanie dotychczasowego numeru rejestracyjnego, w tym tablic (tablicy) rejestracyjnych, jeżeli pojazd był już zarejestrowany na terytorium Rzeczy-
+                    pospolitej Polskiej i posiada tablice (tablicę) rejestracyjne zgodne z przepisami
+                    wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a oraz utrzymane w należytym
+                    stanie i czytelne. W takim przypadku starosta, dokonując rejestracji pojazdu,
+                    wydaje decyzję o rejestracji pojazdu i dowód rejestracyjny oraz dokonuje
+                    legalizacji dotychczasowych tablic (tablicy) rejestracyjnych. Jeżeli tablice
+                    (tablica) rejestracyjne nie są zgodne z przepisami wydanymi na podstawie
+                    art. 76 ust. 1 pkt 1 lit. a albo nie są utrzymane w należytym stanie, albo nie są
+                    czytelne, stosuje się przepis ust. 1.
+                    <br/><br/>1b. Właściciel albo podmiot, o którym mowa w ust. 2 i 5, będący posiadaczami
+                    pojazdu samochodowego zarejestrowanego na terytorium Rzeczypospolitej Polskiej,
+                    z wyłączeniem motocykla, mogą wnioskować do organu rejestrującego właściwego ze
+                    względu na miejsce ostatniej rejestracji pojazdu o wydanie dodatkowej
+                    zalegalizowanej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną
+                    tablicę rejestracyjną. Dodatkowa tablica rejestracyjna posiada ten sam numer
+                    rejestracyjny co numer rejestracyjny pojazdu samochodowego. W przypadku gdy
+                    pojazd samochodowy nie posiada tablic rejestracyjnych zgodnych z przepisami
+                    wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a, organ rejestrujący wydaje nową
+                    decyzję o rejestracji pojazdu wraz z kompletem zalegalizowanych tablic
+                    rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu samochodowego
+                    i nowym dowodem rejestracyjnym oraz dodatkową zalegalizowaną tablicę
+                    rejestracyjną.
+                    <br/><br/>1c. Dodatkową zalegalizowaną tablicę rejestracyjną, o której mowa w ust. 1b,
+                    organ rejestrujący wydaje po:
+                    <br/>1) dokonaniu czasowej rejestracji pojazdu z urzędu lub przy wydaniu dowodu
+                    rejestracyjnego, jeżeli pojazd samochodowy jest rejestrowany przez ten organ,
+                    albo
+                    <br/>2) zarejestrowaniu pojazdu samochodowego przez ten organ.
+                    <br/><br/>1d. Numer rejestracyjny na tablicach (tablicy) rejestracyjnych stanowią litery
+                    i cyfry (cyfra). Numer ten składa się odpowiednio z wyróżnika województwa lub powiatu i wyróżnika pojazdu albo wyróżnika indywidualnego pojazdu, określonych
+                    w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a i c.
+                    <br/><br/>1e. Organ rejestrujący wydaje decyzję o odmowie rejestracji pojazdu:
+                    <br/>1) w przypadku braku pozytywnej weryfikacji dokumentów, o których mowa
+                    w art. 72 ust. 1, z uwzględnieniem przy tej weryfikacji art. 72 ust. 1b–5;
+                    <br/>2) jeżeli na podstawie przepisów ustawy z dnia 24 sierpnia 2007 r. o udziale
+                    Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym
+                    Systemie Informacyjnym (Dz. U. z 2019 r. poz. 1844 oraz z 2021 r. poz. 159)
+                    uzyskał informację, że zgłoszony do rejestracji pojazd został skradziony,
+                    przywłaszczony lub utracony w inny sposób;
+                    <br/>3) jeżeli w odpowiedzi na jego pytanie skierowane do organu rejestrującego
+                    właściwego ze względu na miejsce ostatniej rejestracji pojazdu za granicą lub
+                    punktu kontaktowego wyznaczonego przez państwo członkowskie Unii
+                    Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) –
+                    strony umowy o Europejskim Obszarze Gospodarczym, uzyskał potwierdzenie,
+                    że status prawny pojazdu uprzednio zarejestrowanego w tym państwie powoduje
+                    przeszkodę do rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej.
+                    <br/><br/>2. Rejestracji pojazdu, którego właścicielem jest przedsiębiorstwo
+                    wielozakładowe lub inny podmiot, w skład którego wchodzą wydzielone jednostki
+                    organizacyjne, może dokonać starosta właściwy ze względu na siedzibę zakładu lub
+                    jednostki, na wniosek kierownika zakładu lub wydzielonej jednostki organizacyjnej
+                    upoważnionego przez właściciela.
+                    <br/><br/>2a. Rejestracji pojazdów należących do członków obcych sił zbrojnych,
+                    personelu cywilnego i członków rodzin, oraz pojazdów ich wykonawców
+                    kontraktowych, przebywających na terytorium Rzeczypospolitej Polskiej, na
+                    podstawie umów międzynarodowych, na wniosek władz wojskowych tych sił
+                    zbrojnych, dokonuje starosta właściwy ze względu na miejsce pobytu tych osób na
+                    terytorium Rzeczypospolitej Polskiej.
+                    <br/><br/>2b. Rejestracji pojazdów należących do obcych sił zbrojnych przebywających na
+                    terytorium Rzeczypospolitej Polskiej, na podstawie umów międzynarodowych,
+                    dokonuje właściwy organ Sił Zbrojnych Rzeczypospolitej Polskiej. [Organ ten
+                    wydaje dowód rejestracyjny i zalegalizowane tablice rejestracyjne oraz nalepkę
+                    kontrolną, chyba że dla danego pojazdu tablice (tablica) rejestracyjne lub nalepka kontrolna nie są wymagane, a numer rejestracyjny umieszcza się bezpośrednio na
+                    pojeździe.]
+                    <organ (tablica)="" (tablicę)="" a="" bezpośrednio="" chyba="" danego="" dla="" dowód="" i="" na="" nie="" numer="" pojazdu="" pojeździe.="" rejestracyjne="" rejestracyjne,="" rejestracyjny="" się="" są="" tablice="" ten="" umieszcza="" wydaje="" wymagane,="" zalegalizowane=""
+                           że="">
+                        <br/><br/>3. Rejestracji pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Służby
+                        Ochrony Państwa, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji
+                        Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego,
+                        Centralnego Biura Antykorupcyjnego, Straży Granicznej, Krajowej Administracji
+                        Skarbowej wykorzystywanych przez Służbę Celno-Skarbową dokonują właściwe
+                        organy tych jednostek. [Organy te wydają dowód rejestracyjny i zalegalizowane
+                        tablice (tablicę) rejestracyjne oraz nalepkę kontrolną, chyba że dla danego pojazdu
+                        tablice (tablica) rejestracyjne lub nalepka kontrolna nie są wymagane, a numer
+                        rejestracyjny umieszcza się bezpośrednio na pojeździe.] &lt; Organy te wydają dowód
+                        rejestracyjny i zalegalizowane tablice (tablicę) rejestracyjne, chyba że dla danego
+                        pojazdu tablice (tablica) rejestracyjne nie są wymagane, a numer rejestracyjny
+                        umieszcza się bezpośrednio na pojeździe.&gt;
+                        [3a. Wytwórca blankietów dowodów rejestracyjnych, pozwoleń czasowych,
+                        nalepek kontrolnych i innych dokumentów wymaganych do rejestracji pojazdów,
+                        a także starostowie przekazują odpłatnie wojewodzie mazowieckiemu odpowiednio:
+                        blankiety dowodów rejestracyjnych, pozwoleń czasowych, nalepek kontrolnych
+                        i innych dokumentów wymaganych do rejestracji pojazdów, a także zalegalizowane
+                        tablice rejestracyjne niezbędne do rejestracji, o której mowa w art. 76 ust. 4.
+                        Informacje dotyczące przekazanych blankietów dowodów rejestracyjnych, pozwoleń
+                        czasowych, nalepek kontrolnych i innych dokumentów wymaganych do rejestracji
+                        oraz tablic rejestracyjnych podlegają ochronie zgodnie z przepisami o ochronie
+                        informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne”.]
+                        &lt;3a. Wytwórca blankietów dowodów rejestracyjnych, pozwoleń czasowych
+                        i innych dokumentów wymaganych do rejestracji pojazdów, a także starostowie
+                        przekazują odpłatnie wojewodzie mazowieckiemu odpowiednio: blankiety
+                        dowodów rejestracyjnych, pozwoleń czasowych i innych dokumentów
+                        wymaganych do rejestracji pojazdów, a także zalegalizowane tablice
+                        rejestracyjne niezbędne do rejestracji, o której mowa w art. 76 ust. 4. Informacje dotyczące przekazanych blankietów dowodów rejestracyjnych, pozwoleń
+                        czasowych i innych dokumentów wymaganych do rejestracji oraz tablic
+                        rejestracyjnych podlegają ochronie zgodnie z przepisami o ochronie informacji
+                        niejawnych o klauzuli tajności „tajne” lub „ściśle tajne”.&gt;
+                        <br/><br/>4. Rejestracji pojazdu należącego do przedstawicielstwa dyplomatycznego,
+                        urzędu konsularnego i misji specjalnej państw obcych lub organizacji
+                        międzynarodowej, a także ich personelu korzystającego z przywilejów i immunitetów
+                        dyplomatycznych lub konsularnych na mocy ustaw, umów bądź powszechnie
+                        uznanych zwyczajów międzynarodowych lub na zasadzie wzajemności, dokonuje
+                        wojewoda mazowiecki na wniosek ministra właściwego do spraw zagranicznych.
+                        <br/><br/>5. W razie powierzenia pojazdu przez zagraniczną osobę fizyczną lub prawną
+                        podmiotowi polskiemu, pojazd ten jest rejestrowany przez określony w ust. 1 organ
+                        właściwy ze względu na miejsce zamieszkania (siedzibę) podmiotu polskiego.
+                    </organ>
+                </p>
+            </div>
+            <div>
+                <a name="73"></a>
+                <p class="hyphenate"><strong>Art. 73a.</strong><br/> 1. Właściwy miejscowo dla siedziby sejmiku województwa prezydent
+                    miasta na prawach powiatu:
+                    <br/>1) prowadzi ewidencję tablic rejestracyjnych indywidualnych wydanych na terenie
+                    województwa;
+                    <br/>2) wyznacza w ramach województwa dla każdego organu rejestrującego pojemność
+                    rejestracyjną dla tablic rejestracyjnych:
+                    a) tymczasowych oraz
+                    b) samochodowych jednorzędowych zmniejszonych i tymczasowych, dla
+                    pojazdu posiadającego zmniejszone wymiary miejsca konstrukcyjnie
+                    przeznaczonego do umieszczenia tablicy rejestracyjnej.
+                    <br/><br/>2. Ewidencję tablic rejestracyjnych indywidualnych prowadzi się w postaci
+                    elektronicznej lub papierowej.
+                    <br/><br/>3. Wyznaczone w ramach województwa dla każdego organu rejestrującego
+                    pojemności rejestracyjne dla tablic rejestracyjnych, o których mowa w ust. 1 pkt 2,
+                    a także numery rejestracyjne tablic rejestracyjnych indywidualnych wpisane do
+                    ewidencji tych tablic zawierają informację o wyróżniku województwa i wyróżnikach
+                    pojazdów albo wyróżnikach indywidualnych pojazdów.
+                    <br/><br/>4. Wpisanie wyróżnika indywidualnego pojazdu do ewidencji tablic
+                    rejestracyjnych indywidualnych następuje na wniosek organu rejestrującego, o ile identyczny wyróżnik indywidualny pojazdu nie został nadany na terenie województwa
+                    dla innego pojazdu.
+                    <br/><br/>5. Właściwy miejscowo dla siedziby sejmiku województwa prezydent miasta na
+                    prawach powiatu udostępnia organom rejestrującym informacje z ewidencji tablic
+                    rejestracyjnych indywidualnych oraz pojemności rejestracyjne, o których mowa
+                    w ust. 1 pkt 2.
+                    <br/><br/>6. Ewidencję tablic rejestracyjnych indywidualnych prowadzi się w sposób
+                    zabezpieczający przed zniszczeniem oraz dostępem osób nieuprawnionych.
+                    Wyznaczenia i udostępnienia pojemności rejestracyjnych, o których mowa w ust. 1
+                    pkt 2, dokonuje się w sposób zabezpieczający przed dostępem osób nieuprawnionych.
+                </p>
+            </div>
+            <div>
+                <a name="73"></a>
+                <p class="hyphenate"><strong>Art. 73b.</strong><br/> 1. Minister właściwy do spraw informatyzacji oraz minister właściwy
+                    do spraw transportu wyznaczają i prowadzą punkty kontaktowe umożliwiające
+                    wymianę informacji o pojazdach zarejestrowanych z państwami członkowskimi Unii
+                    Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronami
+                    umowy o Europejskim Obszarze Gospodarczym.
+                    <br/><br/>2. Urząd obsługujący ministra właściwego do spraw informatyzacji oraz urząd
+                    obsługujący ministra właściwego do spraw transportu informują o wyznaczonych
+                    punktach kontaktowych, o których mowa w ust. 1, administracje państw
+                    członkowskich, o których mowa w ust. 1, właściwe w sprawach rejestracji lub
+                    ewidencji pojazdów, podając:
+                    <br/>1) nazwę urzędu obsługującego ministra prowadzącego punkt kontaktowy i adres
+                    siedziby tego urzędu;
+                    <br/>2) zakres zadań wykonywanych przez punkt kontaktowy;
+                    <br/>3) dane osoby obsługującej punkt kontaktowy: imię, nazwisko i zajmowane przez
+                    nią stanowisko oraz adres poczty elektronicznej tej osoby;
+                    <br/>4) adres poczty elektronicznej punktu kontaktowego.
+                    <br/><br/>3. Punkt kontaktowy prowadzony przez ministra właściwego do spraw
+                    informatyzacji informuje właściwy organ w sprawach rejestracji lub ewidencji
+                    pojazdów państwa członkowskiego, o którym mowa w ust. 1, albo właściwy
+                    wyznaczony punkt kontaktowy tego państwa o rejestracji na terytorium
+                    Rzeczypospolitej Polskiej pojazdu sprowadzonego z państwa członkowskiego,
+                    o którym mowa w ust. 1, podając następujące dane pojazdu:
+                    <br/>1) cechę identyfikacyjną; 2) numer rejestracyjny nadany na terytorium Rzeczypospolitej Polskiej;
+                    <br/>3) uprzedni numer rejestracyjny z państwa członkowskiego, o którym mowa
+                    w ust. 1, z którego pochodzi pojazd;
+                    <br/>4) datę rejestracji na terytorium Rzeczypospolitej Polskiej;
+                    <br/>5) inne dane, jeżeli konieczność ich przekazania została uzgodniona z właściwymi
+                    organami w sprawach rejestracji lub ewidencji pojazdów państw członkowskich,
+                    o których mowa w ust. 1.
+                    <br/><br/>4. Dane, o których mowa w ust. 3, przekazuje się nie później niż do 20. dnia
+                    miesiąca następującego po miesiącu, którego dane dotyczą.
+                    <br/><br/>5. Punkt kontaktowy prowadzony przez ministra właściwego do spraw transportu
+                    jest wyznaczony do otrzymywania od właściwych organów w sprawach rejestracji lub
+                    ewidencji pojazdów państw członkowskich, o których mowa w ust. 1, albo
+                    wyznaczonych punktów kontaktowych tych państw informacji o zarejestrowaniu za
+                    granicą pojazdu pochodzącego z terytorium Rzeczypospolitej Polskiej. Punkt
+                    kontaktowy prowadzony przez ministra właściwego do spraw transportu przekazuje
+                    otrzymaną informację punktowi kontaktowemu prowadzonemu przez ministra
+                    właściwego do spraw informatyzacji, który na podstawie danych zgromadzonych
+                    w centralnej ewidencji pojazdów ustala krajowy organ rejestrujący, który uprzednio
+                    zarejestrował pojazd wskazany w tej informacji, i przekazuje ją temu organowi.
+                    <br/><br/>6. Czynności, o których mowa w ust. 3 i 5, mogą być wykonywane za pomocą
+                    środków komunikacji elektronicznej lub systemu teleinformatycznego obsługującego
+                    centralną ewidencję pojazdów.
+                    <br/><br/>7. Organ rejestrujący, wykonując czynności związane z rejestracją pojazdu,
+                    współpracuje z właściwymi organami w sprawach rejestracji państw członkowskich,
+                    o których mowa w ust. 1, lub z właściwymi wyznaczonymi punktami kontaktowymi
+                    tych państw, w celu sprawdzenia, w uzasadnionych przypadkach, statusu prawnego
+                    pojazdu przed jego rejestracją na terytorium Rzeczypospolitej Polskiej, jeżeli pojazd
+                    był uprzednio zarejestrowany na terytorium państwa członkowskiego Unii
+                    Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony
+                    umowy o Europejskim Obszarze Gospodarczym.
+                    <br/><br/>8. Jeżeli w związku z zarejestrowaniem pojazdu na terytorium Rzeczypospolitej
+                    Polskiej państwo członkowskie, o którym mowa w ust. 1, wymaga zwrotu wydanego
+                    przez siebie dowodu rejestracyjnego, zwrotu dokonuje organ rejestrujący. Dowód rejestracyjny zwraca się właściwemu organowi w sprawach rejestracji państwa
+                    członkowskiego, o którym mowa w ust. 1, lub właściwemu wyznaczonemu punktowi
+                    kontaktowemu tego państwa.
+                </p>
+            </div>
+            <div>
+                <a name="73"></a>
+                <p class="hyphenate"><strong>Art. 73c.</strong><br/> 1. Właściciel nowego pojazdu samochodowego, przyczepy lub
+                    motoroweru nabytego w salonie sprzedaży pojazdów samochodowych, przyczep lub
+                    motorowerów może upoważnić ten salon lub uprawnionego przedstawiciela tego
+                    salonu do:
+                    <br/>1) złożenia wniosku o rejestrację pojazdu lub
+                    <br/>2) odbioru decyzji o czasowej rejestracji pojazdu, pozwolenia czasowego
+                    i zalegalizowanych tablic (tablicy) rejestracyjnych.
+                    <br/><br/>2. Upoważnienie, o którym mowa w ust. 1, opatruje się odpowiednio podpisem
+                    własnoręcznym, kwalifikowanym podpisem elektronicznym, podpisem zaufanym
+                    albo podpisem osobistym.
+                    <br/><br/>3. Salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów lub
+                    uprawniony przedstawiciel tego salonu niezwłocznie składają wniosek o rejestrację
+                    pojazdu przy użyciu formularza elektronicznego udostępnionego w systemie
+                    teleinformatycznym wskazanym na stronie podmiotowej Biuletynu Informacji
+                    Publicznej ministra właściwego do spraw informatyzacji.
+                    <br/><br/>4. Wniosek o rejestrację pojazdu zawiera:
+                    <br/>1) imię i nazwisko lub nazwę właściciela pojazdu;
+                    <br/>2) adres miejsca zamieszkania lub siedziby właściciela pojazdu;
+                    <br/>3) adres do doręczeń;
+                    <br/>4) numer PESEL lub numer identyfikacyjny REGON właściciela pojazdu,
+                    a w przypadku cudzoziemca, który nie ma nadanego numeru PESEL – serię,
+                    numer i nazwę dokumentu potwierdzającego jego tożsamość oraz nazwę
+                    państwa, które wydało ten dokument;
+                    <br/>5) datę i miejsce urodzenia właściciela pojazdu;
+                    <br/>6) rodzaj pojazdu i jego przeznaczenie;
+                    <br/>7) markę, typ, model pojazdu;
+                    <br/>8) rok produkcji pojazdu;
+                    <br/>9) numer VIN albo numer nadwozia, podwozia lub ramy pojazdu;
+                    <br/>10) informację o sposobie odbioru przez właściciela pojazdu decyzji o rejestracji
+                    pojazdu i dowodu rejestracyjnego – w urzędzie obsługującym organ rejestrujący albo za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia
+                    23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320) na
+                    koszt odbiorcy oraz informację o sposobie odbioru decyzji o czasowej rejestracji
+                    pojazdu, pozwolenia czasowego i zalegalizowanych tablic (tablicy)
+                    rejestracyjnych – w urzędzie obsługującym organ rejestrujący przez salon
+                    sprzedaży pojazdów samochodowych, przyczep lub motorowerów lub jego
+                    uprawnionego przedstawiciela albo przez właściciela pojazdu, albo za
+                    pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada
+                    2012 r. – Prawo pocztowe na koszt odbiorcy, po przesłaniu ich przez organ
+                    rejestrujący na adres salonu sprzedaży pojazdów samochodowych, przyczep lub
+                    motorowerów lub jego uprawnionego przedstawiciela albo na adres do doręczeń,
+                    wskazane we wniosku o rejestrację pojazdu;
+                    <br/>11) adres poczty elektronicznej, numer telefonu oraz adres salonu sprzedaży
+                    pojazdów samochodowych, przyczep lub motorowerów lub uprawnionego
+                    przedstawiciela tego salonu.
+                    <br/><br/>5. Wniosek o rejestrację pojazdu może zawierać wskazanie, że właściciel
+                    pojazdu wnosi o wydanie:
+                    <br/>1) indywidualnych tablic rejestracyjnych;
+                    <br/>2) tablic samochodowych zmniejszonych;
+                    <br/>3) dodatkowej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną
+                    tablicę rejestracyjną.
+                    <br/><br/>6. Do wniosku o rejestrację pojazdu dołącza się w postaci elektronicznej oryginał
+                    lub kopię:
+                    <br/>1) upoważnienia, o którym mowa w ust. 1;
+                    <br/>2) dowodu nabycia pojazdu;
+                    <br/>3) dokumentów, o których mowa w art. 72 ust. 1 pkt 3, 6 lub 6a lub ust. 1b;
+                    <br/>4) potwierdzenia dokonania opłat za wydanie pozwolenia czasowego,
+                    zalegalizowanych tablic (tablicy) rejestracyjnych i dowodu rejestracyjnego;
+                    <br/>5) potwierdzenia dokonania opłaty ewidencyjnej;
+                    <br/>6) potwierdzenia dokonania opłaty skarbowej za udzielone pełnomocnictwo.
+                    <br/><br/>7. Złożenie formularza elektronicznego, o którym mowa w ust. 3, stanowi
+                    potwierdzenie zgodności kopii dokumentów dołączonych do wniosku o rejestrację
+                    pojazdu z ich oryginałami. 8. Opłaty, o których mowa w ust. 6 pkt 4–6, stanowią koszt właściciela pojazdu.
+                    <br/><br/>9. Decyzję o czasowej rejestracji pojazdu, pozwolenie czasowe i zalegalizowane
+                    tablice (tablicę) rejestracyjne organ rejestrujący:
+                    <br/>1) przekazuje salonowi sprzedaży pojazdów samochodowych, przyczep lub
+                    motorowerów lub jego uprawnionemu przedstawicielowi albo
+                    <br/>2) przesyła na adres salonu sprzedaży pojazdów samochodowych, przyczep lub
+                    motorowerów lub jego uprawnionego przedstawiciela, wskazane we wniosku
+                    o rejestrację pojazdu, za pośrednictwem operatora pocztowego w rozumieniu
+                    ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na koszt odbiorcy, albo
+                    <br/>3) przekazuje właścicielowi pojazdu, albo
+                    <br/>4) przesyła właścicielowi pojazdu na adres do doręczeń wskazany we wniosku
+                    o rejestrację pojazdu za pośrednictwem operatora pocztowego w rozumieniu
+                    ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na koszt odbiorcy.
+                    <br/><br/>10. Decyzję o rejestracji pojazdu i dowód rejestracyjny właściciel pojazdu
+                    odbiera w urzędzie obsługującym organ rejestrujący albo organ rejestrujący przesyła
+                    te dokumenty na adres do doręczeń wskazany we wniosku o rejestrację pojazdu za
+                    pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada
+                    2012 r. – Prawo pocztowe na koszt odbiorcy.
+                    <br/><br/>11. Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii ministra
+                    właściwego do spraw transportu, określi wzór wniosku o rejestrację pojazdu w formie
+                    dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r.
+                    o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U.
+                    z 2020 r. poz. 346, 568, 695, 1517 i 2320).
+                </p>
+            </div>
+            <div>
+                <a name="73"></a>
+                <p class="hyphenate"><strong>Art. 73d.</strong><br/> 1. Przedstawiciel producenta pojazdów na terytorium
+                    Rzeczypospolitej Polskiej przekazuje dane swojego punktu kontaktowego do
+                    Dyrektora Transportowego Dozoru Technicznego, podając: nazwę i adres
+                    przedstawiciela producenta pojazdów oraz adres jego poczty elektronicznej i jego
+                    numer telefonu, a także imię i nazwisko osoby reprezentującej przedstawiciela
+                    producenta. Dane te przekazuje się niezwłocznie po powołaniu przedstawiciela
+                    producenta, jednak nie później niż w terminie 30 dni od dnia tego powołania.
+                    <br/><br/>2. Dyrektor Transportowego Dozoru Technicznego prowadzi bazę punktów
+                    kontaktowych przedstawicieli producentów pojazdów na terytorium Rzeczypospolitej
+                    Polskiej. W bazie tej zamieszcza się dane punktu kontaktowego przedstawiciela producenta pojazdów, o których mowa w ust. 1, oraz datę wprowadzenia danych do
+                    tej bazy.
+                    <br/><br/>3. Przedstawiciel producenta pojazdów na terytorium Rzeczypospolitej Polskiej
+                    jest obowiązany zawiadomić Dyrektora Transportowego Dozoru Technicznego
+                    o zmianie danych swojego punktu kontaktowego, o których mowa w ust. 1, oraz
+                    o zaprzestaniu działalności przez przedstawiciela producenta pojazdów, niezwłocznie,
+                    jednak nie później niż w terminie 30 dni od dnia zaistnienia tych okoliczności. Na
+                    podstawie tego zawiadomienia Dyrektor Transportowego Dozoru Technicznego
+                    aktualizuje bazę punktów kontaktowych przedstawicieli producentów pojazdów na
+                    terytorium Rzeczypospolitej Polskiej.
+                    <br/><br/>4. W celu ułatwienia prowadzenia przez organy rejestrujące postępowań
+                    w sprawach rejestracji pojazdów Dyrektor Transportowego Dozoru Technicznego
+                    udostępnia organom rejestrującym:
+                    <br/>1) bazę punktów kontaktowych przedstawicieli producentów pojazdów na
+                    terytorium Rzeczypospolitej Polskiej,
+                    <br/>2) wzory wymaganych podpisów na wydawanych dokumentach, o których mowa
+                    w art. 72 ust. 1 pkt 3
+                    – za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 75e ust. 1.
+                </p>
+            </div>
+            <div>
+                <a name="74"></a>
+                <p class="hyphenate"><strong>Art. 74.</strong><br/> 1. Czasowej rejestracji pojazdu dokonuje, w przypadkach określonych
+                    w ust. 2, organ rejestrujący właściwy ze względu na miejsce stałego zamieszkania
+                    (siedzibę) lub czasowego zamieszkania właściciela pojazdu, wydając decyzję
+                    o czasowej rejestracji pojazdu, pozwolenie czasowe i zalegalizowane tablice (tablicę)
+                    rejestracyjne.
+                    <br/><br/>1a. W przypadku, o którym mowa w ust. 2 pkt 2 lit. b, czasowej rejestracji może
+                    dokonać również organ rejestrujący właściwy ze względu na miejsce zakupu pojazdu
+                    lub jego odbioru na terytorium Rzeczypospolitej Polskiej.
+                    <br/><br/>2. Czasowej rejestracji dokonuje się:
+                    <br/>1) z urzędu – po złożeniu wniosku o rejestrację pojazdu;
+                    <br/>2) na wniosek właściciela pojazdu – w celu umożliwienia:
+                    a) wywozu pojazdu za granicę,
+                    b) przejazdu pojazdu z miejsca jego zakupu lub odbioru na terytorium
+                    Rzeczypospolitej Polskiej, c) przejazdu pojazdu związanego z koniecznością dokonania jego badania
+                    technicznego lub naprawy.
+                    <br/>3) (uchylony)
+                    <br/><br/>2a. Czasowej rejestracji, o której mowa w ust. 2 pkt 1, można dokonać pomimo
+                    braku dołączonych do wniosku o rejestrację dokumentów, o których mowa
+                    w art. 72 ust. 1 pkt 6 i 6a. Dokumenty te powinny zostać złożone przed wydaniem
+                    dowodu rejestracyjnego.
+                    <br/><br/>2b. Czasowej rejestracji pojazdu dokonuje się warunkowo, jeżeli właściciel
+                    pojazdu złoży oświadczenie, że w okresie od tej rejestracji do wydania dowodu
+                    rejestracyjnego nie nastąpi zmiana w zakresie własności pojazdu.
+                    2c. Przepisów ust. 2a i 2b nie stosuje się w przypadku wniosku o rejestrację
+                    pojazdu złożonego przez salon sprzedaży pojazdów samochodowych, przyczep lub
+                    motorowerów lub uprawnionego przedstawiciela tego salonu, o którym mowa
+                    w art. 73c ust. 1 pkt 1.
+                    <br/><br/>2d. Organ rejestrujący nie dokonuje czasowej rejestracji, o której mowa
+                    w ust. 2 pkt 1, w przypadku gdy są spełnione jednocześnie następujące warunki:
+                    <br/>1) pojazd był ostatnio zarejestrowany na terytorium Rzeczypospolitej Polskiej,
+                    a właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5,
+                    składając wniosek o rejestrację pojazdu, wnioskują o zachowanie
+                    dotychczasowego numeru rejestracyjnego;
+                    <br/>2) organ rejestrujący pozytywnie zweryfikował w dniu złożenia wniosku
+                    o rejestrację pojazdu dane zawarte w dotychczasowym dowodzie
+                    rejestracyjnym w centralnej ewidencji pojazdów;
+                    <br/>3) w dotychczasowym dowodzie rejestracyjnym jest miejsce na dokonanie
+                    przez organ rejestrujący adnotacji o treści: „W dniu ... złożono wniosek
+                    o rejestrację pojazdu w ....” oraz wpisanie daty i nazwy urzędu
+                    obsługującego organ dokonujący adnotacji.
+                    <br/><br/>2e. W przypadku, o którym mowa w ust. 2d, organ rejestrujący:
+                    <br/>1) dokonuje legalizacji dotychczasowych tablic (tablicy) rejestracyjnych; 2) wydaje decyzję o rejestracji pojazdu i dowód rejestracyjny.
+                    <br/><br/>2f. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, są
+                    obowiązani odebrać decyzję o rejestracji pojazdu i dowód rejestracyjny w terminie
+                    30 dni od dnia złożenia wniosku o rejestrację pojazdu.
+                    <br/><br/>3. Czasowej rejestracji dokonuje się na okres nieprzekraczający 30 dni. Termin
+                    ten może być jednorazowo przedłużony o 14 dni w celu wyjaśnienia spraw
+                    związanych z rejestracją pojazdu.
+                    <br/><br/>4. (uchylony)
+                    <br/><br/>5. Po upływie terminu czasowej rejestracji tablice rejestracyjne zwraca się do
+                    organu, który je wydał, z wyjątkiem przypadku, o którym mowa w ust. 2 pkt 2 lit. a.
+                    <br/><br/>6. W przypadku gdy właściciel pojazdu zamierza skorzystać z wyrejestrowania
+                    pojazdu z urzędu, o którym mowa w art. 79 ust. 3b, składając wniosek o czasową
+                    rejestrację pojazdu, o którym mowa w ust. 2 pkt 2 lit. a, składa oświadczenie, że
+                    pojazd zostanie wywieziony za granicę. Oświadczenie to składa się pod rygorem
+                    odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający
+                    oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem
+                    świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula
+                    ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych
+                    oświadczeń.
+                </p>
+            </div>
+            <div>
+                <a name="74"></a>
+                <p class="hyphenate"><strong>Art. 74a.</strong><br/> 1. Organ rejestrujący na wniosek właściciela pojazdu albo podmiotu,
+                    o którym mowa w art. 73 ust. 2 i 5, wydaje wtórnik dowodu rejestracyjnego, nowy
+                    dowód rejestracyjny, wtórnik pozwolenia czasowego, wtórnik tablic (tablicy)
+                    rejestracyjnych lub nowe tablice (tablicę) rejestracyjne, po pozytywnej weryfikacji,
+                    w dniu złożenia wniosku, w centralnej ewidencji pojazdów danych zawartych
+                    odpowiednio w dotychczasowym dowodzie rejestracyjnym albo w dotychczasowym
+                    pozwoleniu czasowym.
+                    <br/><br/>2. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, są
+                    obowiązani niezwłocznie, jednak nie później niż w terminie 30 dni od dnia
+                    stwierdzenia utraty dowodu rejestracyjnego albo jego zniszczenia w stopniu
+                    powodującym jego nieczytelność, złożyć do organu rejestrującego wniosek o wydanie
+                    wtórnika dowodu rejestracyjnego oraz:
+                    <br/>1) złożyć oświadczenie o utracie dowodu rejestracyjnego – w przypadku jego
+                    utraty; 2) oddać dotychczasowy dowód rejestracyjny – w przypadku jego zniszczenia
+                    w stopniu powodującym jego nieczytelność.
+                    <br/><br/>3. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, mogą
+                    złożyć do organu rejestrującego wniosek o wydanie wtórnika pozwolenia czasowego
+                    w przypadku jego utraty albo zniszczenia w stopniu powodującym jego nieczytelność,
+                    przy czym składając ten wniosek właściciel pojazdu albo podmiot, o którym mowa
+                    w art. 73 ust. 2 i 5, są obowiązani:
+                    <br/>1) złożyć oświadczenie o utracie pozwolenia czasowego – w przypadku jego utraty;
+                    <br/>2) oddać dotychczasowe pozwolenie czasowe – w przypadku jego zniszczenia
+                    w stopniu powodującym jego nieczytelność.
+                    <br/><br/>4. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, są
+                    obowiązani złożyć do organu rejestrującego wniosek o wydanie nowego dowodu
+                    rejestracyjnego w przypadku:
+                    <br/>1) dokonania w pojeździe zmian konstrukcyjnych lub wymiany elementów
+                    powodujących zmianę stanu faktycznego w zakresie danych zawartych
+                    w dotychczasowym w dowodzie rejestracyjnym, albo
+                    <br/>2) zmiany stanu faktycznego w zakresie danych obecnego właściciela lub
+                    posiadacza pojazdu zawartych w dotychczasowym dowodzie rejestracyjnym
+                    – w terminie 30 dni od dnia, w którym nastąpiła zmiana tego stanu.
+                    <br/><br/>5. Organ rejestrujący wydaje nowy dowód rejestracyjny również w przypadku
+                    wniosku właściciela pojazdu albo podmiotu, o którym mowa w art. 73 ust. 2 i 5:
+                    <br/>1) o wydanie tablic (tablicy) rejestracyjnych albo ich wtórników z nowym numerem
+                    rejestracyjnym dla pojazdu;
+                    <br/>2) jeżeli w dotychczasowym dowodzie rejestracyjnym brakuje miejsca na
+                    dokonanie adnotacji, o której mowa w art. 75 ust. 1;
+                    <br/>3) gdy właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5,
+                    wyrazili wolę wymiany dowodu rejestracyjnego, jeżeli diagnosta wypełnił
+                    wszystkie rubryki w dowodzie rejestracyjnym przeznaczone do wpisania terminu
+                    następnego badania technicznego pojazdu.
+                    <br/><br/>6. W przypadku wniosku, o którym mowa w ust. 4 i 5, organ rejestrujący, w dniu
+                    złożenia wniosku, dokonuje w dotychczasowym dowodzie rejestracyjnym adnotacji,
+                    jeżeli jest miejsce na jej dokonanie, o treści: „W dniu ... złożono wniosek o nowy
+                    dowód rejestracyjny w ...” oraz wpisuje datę i nazwę urzędu obsługującego organ dokonujący adnotacji. Dotychczasowy dowód rejestracyjny jest ważny do czasu
+                    wydania nowego dowodu rejestracyjnego.
+                    <br/><br/>7. Organ rejestrujący, po wyprodukowaniu wtórnika dowodu rejestracyjnego
+                    albo nowego dowodu rejestracyjnego, wydaje, a właściciel pojazdu albo podmiot,
+                    o którym mowa w art. 73 ust. 2 i 5, są obowiązani odebrać wtórnik dowodu
+                    rejestracyjnego albo nowy dowód rejestracyjny w terminie 30 dni od dnia złożenia
+                    wniosku o ich wydanie. Na wniosek właściciela pojazdu albo podmiotu, o którym
+                    mowa w art. 73 ust. 2 i 5, organ rejestrujący przesyła wtórnik dowodu rejestracyjnego
+                    albo nowy dowód rejestracyjny za pośrednictwem operatora pocztowego w
+                    rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na koszt odbiorcy.
+                    <br/><br/>8. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, są
+                    obowiązani niezwłocznie, jednak nie później niż w terminie 30 dni od dnia
+                    stwierdzenia utraty albo zniszczenia tablic (tablicy) rejestracyjnych, złożyć do organu
+                    rejestrującego wniosek o wydanie wtórnika tablic (tablicy) rejestracyjnych oraz:
+                    <br/>1) złożyć oświadczenie o utracie tablic (tablicy) rejestracyjnych – w przypadku ich
+                    utraty;
+                    <br/>2) oddać zniszczone tablice (tablicę) rejestracyjne – w przypadku ich zniszczenia.
+                    <br/><br/>9. W przypadku wniosku, o którym mowa w ust. 2, 4, 5 i 8, organ rejestrujący,
+                    w dniu złożenia tego wniosku, wydaje, na wniosek właściciela pojazdu albo podmiotu,
+                    o którym mowa w art. 73 ust. 2 i 5, pozwolenie czasowe oraz zalegalizowane tablice
+                    (tablicę) rejestracyjne. Pozwolenie czasowe oraz zalegalizowane tablice (tablica)
+                    rejestracyjne są ważne do czasu wydania odpowiednio wtórnika dowodu
+                    rejestracyjnego, nowego dowodu rejestracyjnego, wtórnika tablic (tablicy)
+                    rejestracyjnych lub nowych tablic (tablicy) rejestracyjnych.
+                    <br/><br/>10. Oświadczenia, o których mowa w ust. 2 pkt 1, ust. 3 pkt 1 i ust. 8 pkt 1,
+                    składa się pod rygorem odpowiedzialności karnej za składanie fałszywych
+                    oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli
+                    następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie
+                    fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu
+                    o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+                    <br/><br/>11. W przypadkach, o których mowa w ust. 8, właściciel pojazdu albo podmiot,
+                    o którym mowa w art. 73 ust. 2 i 5, mogą złożyć do organu rejestrującego wniosek
+                    o wydanie zalegalizowanych tablic (tablicy) rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu. W takim przypadku organ rejestrujący wydaje nową
+                    decyzję o rejestracji pojazdu, zalegalizowane tablice (tablicę) rejestracyjne z nowym
+                    numerem rejestracyjnym dla pojazdu i nowy dowód rejestracyjny.
+                    <br/><br/>12. Do wniosku o wydanie wtórnika dodatkowej zalegalizowanej tablicy
+                    rejestracyjnej, o której mowa w art. 73 ust. 1b, stosuje się przepis ust. 8.
+                    <br/><br/>13. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, mogą
+                    zwrócić organowi rejestrującemu dodatkową zalegalizowaną tablicę rejestracyjną,
+                    o której mowa w art. 73 ust. 1b, albo jej wtórnik po przedstawieniu dowodu
+                    rejestracyjnego.
+                </p>
+            </div>
+            <div>
+                <a name="74"></a>
+                <p class="hyphenate"><strong>Art. 74b.</strong><br/> 1. Tablice rejestracyjne przekazane organowi rejestrującemu w wyniku
+                    ich wymiany albo zwrotu oraz wyrejestrowania albo przerejestrowania pojazdu,
+                    będące wycofanymi z użytku, organ rejestrujący przekazuje przedsiębiorcy, o którym
+                    mowa w art. 75a ust. 2, produkującemu tablice rejestracyjne na zamówienie tego
+                    organu rejestrującego.
+                    <br/><br/>2. Tablice rejestracyjne będące wycofanymi z użytku, o których mowa w ust. 1,
+                    przedsiębiorca, o którym mowa w art. 75a ust. 2, odbiera na własny koszt w siedzibie
+                    urzędu obsługującego organ rejestrujący, dokonuje ich zniszczenia i zagospodarowuje
+                    je zgodnie z przepisami o odpadach.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75.</strong><br/> 1. Jeżeli używanie pojazdu uzależnione jest od szczególnych warunków
+                    określonych przepisami, organ rejestrujący wpisuje w dowodzie rejestracyjnym lub
+                    pozwoleniu czasowym odpowiednie zastrzeżenie.
+                    [2. Dowód rejestracyjny, pozwolenie czasowe, zalegalizowane tablice (tablica)
+                    rejestracyjne i nalepka kontrolna oraz ich wtórniki są wydawane za opłatą oraz po
+                    uiszczeniu opłaty ewidencyjnej. Opłatę oraz opłatę ewidencyjną pobiera organ
+                    dokonujący rejestracji.]
+                    &lt;2. Dowód rejestracyjny, pozwolenie czasowe, zalegalizowane tablice
+                    (tablica) rejestracyjne oraz ich wtórniki są wydawane za opłatą oraz po
+                    uiszczeniu opłaty ewidencyjnej. Opłatę oraz opłatę ewidencyjną pobiera organ
+                    dokonujący rejestracji.&gt;
+                    <br/><br/>3. Zabrania się rejestracji pojazdu złożonego poza wytwórnią, z wyjątkiem
+                    pojazdu marki „SAM” oraz pojazdu zabytkowego. </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75a.</strong><br/> 1. Produkcja tablic rejestracyjnych, w tym profesjonalnych tablic
+                    rejestracyjnych, oraz wtórników tablic rejestracyjnych jest działalnością regulowaną
+                    w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców
+                    (Dz. U. z 2021 r. poz. 162) i wymaga wpisu do rejestru przedsiębiorców
+                    produkujących tablice rejestracyjne, zwanego dalej „rejestrem”. Ilekroć w przepisie
+                    niniejszym oraz w art. 75aa–75c jest mowa o tablicach rejestracyjnych, należy przez
+                    to rozumieć także ich wtórniki, z tym że nie dotyczy to profesjonalnych tablic
+                    rejestracyjnych.
+                    <br/><br/>2. Działalność, o której mowa w ust. 1, może wykonywać przedsiębiorca, który
+                    spełnia następujące warunki:
+                    <br/>1) posiada możliwości techniczne gwarantujące wykonywanie tablic
+                    rejestracyjnych lub materiałów służących do ich produkcji zgodnie z warunkami
+                    technicznymi; warunek ten nie dotyczy przedsiębiorców sprowadzających
+                    z zagranicy materiały służące do wyrobu tablic rejestracyjnych;
+                    <br/>2) posiada certyfikat na zgodność tablic rejestracyjnych lub materiałów służących
+                    do ich produkcji z warunkami technicznymi;
+                    <br/>3) nie jest podmiotem, w stosunku do którego wszczęto postępowanie
+                    upadłościowe lub likwidacyjne;
+                    <br/>4) nie zalega z uiszczeniem podatków, opłat lub składek na ubezpieczenie
+                    społeczne;
+                    <br/>5) nie został prawomocnie skazany za przestępstwo popełnione w celu osiągnięcia
+                    korzyści majątkowej lub przestępstwo przeciwko dokumentom – dotyczy osoby
+                    fizycznej lub członków organów osoby prawnej.
+                    <br/><br/>3. Za przedsiębiorcę produkującego tablice rejestracyjne, o którym mowa
+                    w ust. 2, uważa się jednostkę:
+                    <br/>1) produkującą tablice rejestracyjne z wytłoczonymi numerami rejestracyjnymi;
+                    <br/>2) produkującą tablice rejestracyjne bez wytłoczonych numerów rejestracyjnych;
+                    <br/>3) tłoczącą numery rejestracyjne;
+                    <br/>4) produkującą lub sprowadzającą z zagranicy materiały mające szczególne
+                    znaczenie do produkcji tablic rejestracyjnych;
+                    <br/>5) przetwarzającą materiały mające szczególne znaczenie do produkcji tablic
+                    rejestracyjnych.
+                    <br/><br/>4. Tablice rejestracyjne są produkowane wyłącznie na zamówienie:<br/> 1) organu właściwego w sprawach rejestracji pojazdów – z wytłoczonymi
+                    numerami rejestracyjnymi;
+                    <br/>2) przedsiębiorcy, o którym mowa w ust. 3 pkt 3 – bez wytłoczonych numerów
+                    rejestracyjnych.
+                    <br/><br/>5. Materiały, o których mowa w ust. 3 pkt 4 i 5, są przetwarzane, produkowane
+                    lub sprowadzane z zagranicy na zamówienie przedsiębiorcy, o którym mowa w ust. 2.
+                    <br/><br/>6. Przedsiębiorca, o którym mowa w ust. 2, prowadzi ewidencje:
+                    <br/>1) materiałów do produkcji tablic rejestracyjnych, o których mowa w ust. 3 pkt 4
+                    i 5;
+                    <br/>2) wyprodukowanych tablic rejestracyjnych;
+                    <br/>3) sprzedanych tablic rejestracyjnych.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75aa.</strong><br/> 1. Organem właściwym do prowadzenia rejestru jest marszałek
+                    województwa właściwy ze względu na siedzibę przedsiębiorcy.
+                    <br/><br/>2. Rejestr może być prowadzony w systemie teleinformatycznym.
+                    <br/><br/>3. Właściwy marszałek województwa prostuje z urzędu wpis do rejestru
+                    zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+                    <br/><br/>4. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest
+                    obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia,
+                    w którym nastąpiła zmiana tych danych.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75ab.</strong><br/> 1. Wpisu do rejestru dokonuje się na podstawie wniosku
+                    przedsiębiorcy, zawierającego następujące dane:
+                    <br/>1) firmę przedsiębiorcy oraz jego siedzibę i adres albo adres zamieszkania;
+                    <br/>2) numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile
+                    przedsiębiorca taki numer posiada;
+                    <br/>3) numer identyfikacji podatkowej (NIP);
+                    <br/>4) adres siedziby oraz adresy jednostek, w których będzie wykonywana działalność,
+                    o której mowa w art. 75a ust. 1;
+                    <br/>5) podpis przedsiębiorcy oraz oznaczenie daty i miejsca złożenia wniosku.
+                    <br/><br/>2. Wraz z wnioskiem przedsiębiorca składa:
+                    <br/>1) oświadczenie o posiadaniu certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2,
+                    wraz z danymi umożliwiającymi jego identyfikację; 2) zaświadczenie albo oświadczenie o niekaralności za przestępstwo popełnione
+                    w celu osiągnięcia korzyści majątkowej lub przestępstwo przeciwko
+                    dokumentom:
+                    a) przedsiębiorcy, jeżeli jest on osobą fizyczną,
+                    b) osób – członków władz organów osoby prawnej lub nieposiadającej
+                    osobowości prawnej jednostki organizacyjnej oraz
+                    <br/>3) oświadczenie następującej treści:
+                    „Oświadczam, że:
+                    <br/>1) dane zawarte we wniosku o wpis do rejestru są kompletne i zgodne
+                    z prawdą;
+                    <br/>2) znane mi są i spełniam szczególne warunki wykonywania działalności,
+                    o której mowa w art. 75a ust. 1 i 2 ustawy z dnia 20 czerwca 1997 r. –
+                    Prawo o ruchu drogowym;
+                    <br/>3) posiadam aktualny dokument określający status jednostki będącej osobą
+                    prawną lub nieposiadającą osobowości prawnej jednostką organizacyjną
+                    albo dokument stwierdzający tożsamość w przypadku osoby fizycznej.”.
+                    <br/><br/>3. Oświadczenie, o którym mowa w ust. 2 pkt 2, składa się pod rygorem
+                    odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie
+                    jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy
+                    odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta
+                    zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych
+                    zeznań.
+                    <br/><br/>4. Oświadczenie, o którym mowa w ust. 2 pkt 3, powinno również zawierać:
+                    <br/>1) firmę przedsiębiorcy oraz jego siedzibę i adres albo adres zamieszkania;
+                    <br/>2) oznaczenie miejsca i datę złożenia oświadczenia;
+                    <br/>3) podpis osoby uprawnionej do reprezentowania przedsiębiorcy, ze wskazaniem
+                    imienia i nazwiska oraz pełnionej funkcji.
+                    <br/><br/>5. Minister właściwy do spraw transportu określi wzór wniosku, o którym mowa
+                    w ust. 1, zawierającego oświadczenie o posiadaniu certyfikatu, o którym mowa
+                    w art. 75a ust. 2 pkt 2, wraz z danymi umożliwiającymi jego identyfikację, w formie
+                    dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o
+                    informatyzacji działalności podmiotów realizujących zadania publiczne. </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75ac.</strong><br/> 1. Wpisowi do rejestru podlegają dane określone w art. 75ab
+                    ust. 1 pkt 1–4 oraz informacje o certyfikacie, o którym mowa w art. 75a ust. 2 pkt 2.
+                    <br/><br/>2. Wpisem do rejestru jest również wykreślenie albo zmiana wpisu.
+                    <br/><br/>3. Wydając z urzędu zaświadczenie o dokonaniu wpisu do rejestru, właściwy
+                    marszałek województwa określa w nim zakres prowadzonej przez przedsiębiorcę
+                    działalności w zakresie produkcji tablic rejestracyjnych, zgodnie z art. 75a ust. 3.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75ad.</strong><br/> Rażącym naruszeniem warunków wykonywania działalności
+                    w zakresie produkcji tablic rejestracyjnych jest naruszenie warunków, o których
+                    mowa w art. 75a ust. 2 pkt 2, 3 i 5 oraz ust. 4 i 5, oraz określonych w przepisach
+                    dotyczących warunków oraz sposobu produkcji i dystrybucji tablic rejestracyjnych.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75ae.</strong><br/> 1. Właściwy marszałek województwa jest obowiązany dokonać wpisu
+                    przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu do niego wniosku o wpis
+                    wraz z dokumentami, o których mowa w art. 75ab ust. 2.
+                    <br/><br/>2. Jeżeli właściwy marszałek województwa nie dokona wpisu w terminie,
+                    o którym mowa w ust. 1, a od dnia wpływu wniosku do niego upłynęło 14 dni,
+                    przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy marszałek
+                    województwa wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż
+                    przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym
+                    mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia
+                    wniosku o wpis.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75af.</strong><br/> 1. Właściwy marszałek województwa wydaje decyzję o zakazie
+                    wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
+                    <br/>1) przedsiębiorca złożył oświadczenie, o którym mowa w art. 75ab ust. 2 pkt 3,
+                    niezgodne ze stanem faktycznym;
+                    <br/>2) przedsiębiorca nie usunął naruszeń warunków wymaganych prawem do
+                    wykonywania działalności regulowanej w wyznaczonym przez marszałka
+                    terminie;
+                    <br/>3) stwierdzi rażące naruszenie warunków wymaganych prawem do wykonywania
+                    działalności regulowanej przez przedsiębiorcę.
+                    <br/><br/>2. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.
+                    <br/><br/>3. Przed wydaniem decyzji na podstawie ust. 1 pkt 2 marszałek województwa
+                    wyznacza termin usunięcia stwierdzonych naruszeń. 4. W przypadku wydania decyzji, o której mowa w ust. 1, marszałek
+                    województwa z urzędu wykreśla przedsiębiorcę z rejestru.
+                    <br/><br/>5. W przypadku wydania decyzji, o której mowa w ust. 1, jeżeli przedsiębiorca
+                    wykonuje działalność gospodarczą objętą wpisem także na podstawie wpisów do
+                    innych rejestrów działalności regulowanej w tym samym zakresie działalności
+                    gospodarczej, z urzędu wykreśla się przedsiębiorcę także z tych rejestrów działalności
+                    regulowanej.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75ag.</strong><br/> 1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać
+                    ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie
+                    wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 75af
+                    ust. 1.
+                    <br/><br/>2. Przepis ust. 1 stosuje się do przedsiębiorcy, który wykonywał działalność
+                    gospodarczą bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 75ae
+                    ust. 2.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75ah.</strong><br/> Właściwy marszałek województwa wykreśla przedsiębiorcę z rejestru
+                    na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji
+                    o Działalności Gospodarczej lub Krajowego Rejestru Sądowego o wykreśleniu
+                    przedsiębiorcy.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75b.</strong><br/> Organ właściwy w sprawach rejestracji legalizuje tablice rejestracyjne,
+                    w tym profesjonalne tablice rejestracyjne, umieszczając na nich znak legalizacyjny.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75ba.</strong><br/> Warunki techniczne oraz wzór znaku legalizacyjnego służącego do
+                    legalizacji profesjonalnych tablic (tablicy) rejestracyjnych są zgodne z warunkami
+                    technicznymi i wzorem nalepki legalizacyjnej określonymi w przepisach wydanych na
+                    podstawie art. 75c pkt 2.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75c.</strong><br/> Minister właściwy do spraw transportu, uwzględniając konieczność
+                    prawidłowego zabezpieczenia obrotu tablicami rejestracyjnymi oraz materiałami
+                    mającymi szczególne znaczenie do produkcji tablic rejestracyjnych, określi, w drodze
+                    rozporządzenia:
+                    <br/>1) warunki produkcji i szczegółowy sposób dystrybucji tablic rejestracyjnych
+                    i znaków legalizacyjnych oraz prowadzenia ewidencji, o których mowa
+                    w art. 75a ust. 6; 2) tryb legalizacji tablic rejestracyjnych, warunki techniczne oraz wzór znaku
+                    legalizacyjnego, o którym mowa w art. 75b;
+                    <br/>3) materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75ca.</strong><br/> Minister właściwy do spraw transportu, uwzględniając konieczność
+                    prawidłowego zabezpieczenia obrotu profesjonalnymi tablicami rejestracyjnymi oraz
+                    materiałami mającymi szczególne znaczenie dla produkcji tych tablic, określi,
+                    w drodze rozporządzenia:
+                    <br/>1) warunki produkcji i szczegółowy sposób dystrybucji profesjonalnych tablic
+                    rejestracyjnych i znaków legalizacyjnych, materiały mające szczególne
+                    znaczenie dla produkcji tych tablic oraz warunki prowadzenia ewidencji,
+                    o których mowa w art. 75a ust. 6, w zakresie profesjonalnych tablic
+                    rejestracyjnych;
+                    <br/>2) tryb legalizacji profesjonalnych tablic rejestracyjnych.
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75d.</strong><br/> (uchylony)
+                </p>
+            </div>
+            <div>
+                <a name="75"></a>
+                <p class="hyphenate"><strong>Art. 75e.</strong><br/> 1. Wytwórca dowodów rejestracyjnych zapewnia system
+                    teleinformatyczny umożliwiający realizację zadań organów rejestrujących w zakresie
+                    rejestracji, czasowej rejestracji, czasowego wycofania z ruchu, wyrejestrowania
+                    i profesjonalnej rejestracji pojazdów, w tym w zakresie procesu wytwarzania,
+                    personalizacji i dystrybucji dokumentów związanych z realizacją tych zadań.
+                    <br/><br/>2. System teleinformatyczny, o którym mowa w ust. 1, zapewnia integralność
+                    powiązania procesu wytwarzania dokumentów związanych z realizacją zadań,
+                    o których mowa w ust. 1, z danymi gromadzonymi w centralnej ewidencji pojazdów,
+                    z uwzględnieniem referencyjności tych danych przy realizacji tych zadań.
+                    <br/><br/>3. System teleinformatyczny, o którym mowa w ust. 1, zapewnia co najmniej
+                    funkcjonalności spójne z systemem teleinformatycznym obsługującym centralną
+                    ewidencję pojazdów.
+                    <br/><br/>4. Minister właściwy do spraw informatyzacji nadzoruje interoperacyjność
+                    systemu teleinformatycznego, o którym mowa w ust. 1, z systemem
+                    teleinformatycznym obsługującym centralną ewidencję pojazdów.
+                    <br/><br/>5. Minister właściwy do spraw informatyzacji zawiera z wytwórcą dowodów
+                    rejestracyjnych umowę regulującą:
+                    <br/>1) zasady współpracy w zakresie: a) określenia charakteru i zakresu zmian dostosowujących system
+                    teleinformatyczny, o którym mowa w ust. 1, do zmian w systemie
+                    teleinformatycznym obsługującym centralną ewidencję pojazdów,
+                    b) udostępniania ministrowi właściwemu do spraw informatyzacji informacji
+                    i doświadczenia technicznego, w tym dokumentacji, dotyczących systemu
+                    teleinformatycznego, o którym mowa w ust. 1, niezbędnych ministrowi do
+                    sprawowania nadzoru, o którym mowa w ust. 4;
+                    <br/>2) odpłatności za realizację zmian oraz za udostępnianie informacji i doświadczenia
+                    technicznego, o których mowa w pkt 1.
+                    <br/><br/>6. Koszty związane z zawarciem i realizacją umowy, o której mowa w ust. 5, są
+                    finansowane ze środków Funduszu – Centralna Ewidencja Pojazdów i Kierowców.
+                    <br/><br/>7. Wytwórca dowodu rejestracyjnego umożliwia odczyt danych zakodowanych
+                    w dowodzie rejestracyjnym podmiotom, o których mowa w art. 80c ust. 1 i 2a, o ile są
+                    one niezbędne do realizacji ich ustawowych zadań, na wniosek danego podmiotu, albo
+                    innym podmiotom za pośrednictwem podmiotów, o których mowa w art. 80c ust. 1
+                    i 2a. Wniosek zawiera nazwę wnioskodawcy i jego adres oraz cel odczytu danych
+                    zakodowanych w dowodzie rejestracyjnym.
+                    <br/><br/>8. Wytwórca dowodu rejestracyjnego przedstawia wnioskodawcy warunki
+                    umożliwienia odczytu danych zakodowanych w dowodzie rejestracyjnym, w tym
+                    koszty z tym związane.
+                    <br/><br/>9. Po uzgodnieniu warunków, o których mowa w ust. 8, wytwórca dowodu
+                    rejestracyjnego udziela wnioskodawcy, na czas oznaczony i na określonych polach
+                    eksploatacji, licencji na wykorzystanie biblioteki umożliwiającej odczyt danych
+                    zakodowanych w dowodzie rejestracyjnym.
+                </p>
+            </div>
+            <div>
+                <a name="76"></a>
+                <p class="hyphenate"><strong>Art. 76.</strong><br/> 1. Minister właściwy do spraw transportu określi, w drodze
+                    rozporządzenia:
+                    <br/>1) w porozumieniu z ministrem właściwym do spraw informatyzacji, ministrem
+                    właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej:
+                    [a) warunki i tryb rejestracji pojazdów, czasowej rejestracji pojazdów,
+                    wyrejestrowania pojazdów, z zastrzeżeniem ust. 2–3, oraz wzory dowodu
+                    rejestracyjnego, pozwolenia czasowego, nalepki kontrolnej, tablic
+                    rejestracyjnych oraz innych tablic, cech identyfikacyjnych i oznaczeń,
+                    w które zaopatruje się pojazd, a także ich opis,] <a) 2–3,="" a="" cech="" czasowego="" czasowej="" dowodu="" i="" ich="" identyfikacyjnych="" innych="" które="" opis="" opis,="" oraz="" oznaczeń,="" pojazd,="" pojazdów,="" pozwolenia="" rejestracji="" rejestracji,=""
+                    rejestracyjnego="" rejestracyjnych="" się="" sposób="" tablic="" tablic,="" także="" tryb="" umieszczania,="" ust.="" w="" warunki="" wyrejestrowania="" wzory:="" z="" zaopatruje="" zastrzeżeniem="" –="">
+                    [b) warunki dystrybucji blankietów dowodów rejestracyjnych, pozwoleń
+                    czasowych i nalepek kontrolnych,]
+                    <b) blankietów="" czasowych,="" dowodów="" dystrybucji="" pozwoleń="" rejestracyjnych,="" warunki="">
+                    c) szczegółowe wymagania techniczne dla tablic rejestracyjnych oraz zakres
+                    i sposób ich badania,
+                    <d
+                    (tablicy)="" ) albo="" bagażnika="" czasowego,="" czasowej="" czasową="" dane="" decyzji="" dla="" do="" dodatkowej="" dokumentów="" dowodu="" dowodzie="" innych="" lub="" na="" nabyciu="" nowego="" nowym="" numerem="" o="" oznaczenia="" pojazdu="" pojazdu,="" pojazdów:=""
+                    polskiej;="" potwierdzającego="" pozwolenia="" rejestracji="" rejestracji,="" rejestracją="" rejestrację,="" rejestracyjnego="" rejestracyjnego,="" rejestracyjnej="" rejestracyjnych="" rejestracyjnych,="" rejestracyjnym="" rejestracyjnym,="" rejestracyjną="" rzeczypospolitej=""
+                    tablic="" tablicy="" tablicę="" terytorium="" tylną="" utraconym="" w="" wniosku="" wtórnika="" wydanie="" wyrejestrowanie="" wyrejestrowaniu="" wzory="" z="" zakrywającego="" zalegalizowanej="" zarejestrowanego="" zawarte="" zawiadomienia="" zaświadczenia="" zbyciu=""
+                    związanych="" –="">
+                    [2) wysokość opłat za wydanie dowodu rejestracyjnego, pozwolenia czasowego,
+                    tablic (tablicy) rejestracyjnych i nalepki kontrolnej oraz ich wtórników;]
+                    &lt;2) wysokość opłat za wydanie dowodu rejestracyjnego, pozwolenia czasowego
+                    i zalegalizowanych tablic (tablicy) rejestracyjnych oraz ich wtórników;&gt; 3) w porozumieniu z ministrem właściwym do spraw informatyzacji, szczegółowe
+                    czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu
+                    oraz wzory dokumentów w tych sprawach.
+                    <br/><br/>2. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do
+                    spraw informatyzacji, ministrem właściwym do spraw transportu oraz ministrem
+                    właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb
+                    rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Sił
+                    Zbrojnych Rzeczypospolitej Polskiej oraz pojazdów należących do obcych sił
+                    zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej, na podstawie
+                    umów międzynarodowych, o których mowa w art. 73 ust. 2b, a także jednostki
+                    organizacyjne właściwe w tych sprawach.
+                    <br/><br/>2a. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do
+                    spraw informatyzacji, ministrem właściwym do spraw transportu oraz ministrem
+                    właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb
+                    rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów
+                    Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego, a także
+                    jednostki organizacyjne właściwe w tych sprawach.
+                    <br/><br/>3. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem
+                    właściwym do spraw transportu, ministrem właściwym do spraw finansów
+                    publicznych, ministrem właściwym do spraw informatyzacji oraz Ministrem Obrony
+                    Narodowej oraz po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego,
+                    Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego określi,
+                    w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu
+                    rejestracyjnego i tablic rejestracyjnych pojazdów Służby Ochrony Państwa, Policji,
+                    Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura
+                    Antykorupcyjnego, Straży Granicznej, Krajowej Administracji Skarbowej wykorzys-
+                    tywanych przez Służbę Celno-Skarbową, a także jednostki organizacyjne właściwe
+                    w tych sprawach.
+                    <br/><br/>4. Prezes Rady Ministrów, uwzględniając wymagania wynikające z obowiązku
+                    ochrony informacji niejawnych określi, w drodze zarządzenia niepodlegającego
+                    ogłoszeniu:
+                    <br/>1) warunki i tryb rejestracji pojazdów resortu spraw wewnętrznych, obrony
+                    narodowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura
+                    Antykorupcyjnego i Krajowej Administracji Skarbowej wykorzystywanych
+                    przez Służbę Celno-Skarbową, wykorzystywanych do prowadzenia czynności
+                    operacyjno-rozpoznawczych;
+                    [2) szczególny tryb i warunki przekazywania blankietów dowodów rejestracyjnych,
+                    pozwoleń czasowych, nalepek kontrolnych i innych dokumentów wymaganych do
+                    rejestracji oraz tablic rejestracyjnych, o których mowa w art. 73 ust. 3a;]
+                    &lt;2) szczególny tryb i warunki przekazywania blankietów dowodów
+                    rejestracyjnych, pozwoleń czasowych i innych dokumentów wymaganych
+                    do rejestracji oraz tablic rejestracyjnych, o których mowa w art. 73
+                    ust. 3a;&gt;
+                    <br/>3) szczególne wymagania w zakresie personalizacji tych blankietów.
+                    <br/><br/>5. W rozporządzeniach, o których mowa w ust. 1–3, należy uwzględnić
+                    w szczególności:
+                    <br/>1) konieczność przeciwdziałania dopuszczeniu do ruchu pojazdów pochodzących
+                    z kradzieży;
+                    <br/>2) prawidłowe zabezpieczenie dokumentów związanych z rejestracją, tablicami
+                    rejestracyjnymi i innymi oznaczeniami;
+                    &lt;2a) potrzebę ujednolicenia dokumentów związanych z rejestracją pojazdów
+                    oraz sposobu oznaczania pojazdów;&gt;
+                    <br/>3) koszty działania administracji publicznej w sprawach rejestracji pojazdów;
+                    <br/>4) sposób wykorzystania pojazdów, o których mowa w ust. 2–3, przy
+                    wykonywaniu zadań określonych w przepisach dotyczących Służby Ochrony
+                    Państwa, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu,
+                    Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego,
+                    Centralnego Biura Antykorupcyjnego, Straży Granicznej i Krajowej
+                    Administracji Skarbowej.
+                    [</d)></b)></a)>
+                </p>
+            </div>
+            <div>
+                <a name="77"></a>
+                <p class="hyphenate"><strong>Art. 77.</strong><br/> 1. Producent lub importer nowych pojazdów jest obowiązany wydać
+                    kartę pojazdu dla każdego pojazdu samochodowego wprowadzonego do obrotu
+                    handlowego na terytorium Rzeczypospolitej Polskiej.
+                    <br/><br/>2. Karta pojazdu jest przekazywana właścicielowi pojazdu.
+                    <br/><br/>3. Kartę pojazdu dla pojazdu samochodowego, innego niż określony w ust. 1,
+                    wydaje, za opłatą i po uiszczeniu opłaty ewidencyjnej, właściwy w sprawach rejestracji starosta przy pierwszej rejestracji pojazdu na terytorium Rzeczypospolitej
+                    Polskiej, z wyłączeniem pojazdów zabytkowych i pojazdów, o których mowa
+                    w art. 73 ust. 2a, 2b i 4.
+                    <br/><br/>3a. Wtórnik karty pojazdu wydaje, za opłatą i po uiszczeniu opłaty ewidencyjnej,
+                    właściwy starosta.
+                    <br/><br/>4. Minister właściwy do spraw transportu:
+                    <br/>1) w porozumieniu z ministrami właściwym do spraw wewnętrznych oraz Obrony
+                    Narodowej określi, w drodze rozporządzenia, warunki i tryb wydawania kart
+                    pojazdów oraz wzór karty pojazdu, a także jej opis;
+                    <br/>2) określi, w drodze rozporządzenia, wysokość opłat za kartę pojazdu oraz jej
+                    wtórnik;
+                    <br/>3) określi, w drodze rozporządzenia, dokumenty stanowiące podstawę wpisu
+                    danych do karty pojazdu oraz czynności jednostek zajmujących się dystrybucją,
+                    przechowywaniem i wydawaniem kart pojazdów;
+                    <br/>4) określi, w drodze rozporządzenia, warunki dystrybucji kart pojazdów.
+                    <br/><br/>5. W rozporządzeniu, o którym mowa w ust. 4, należy uwzględnić znaczenie tych
+                    dokumentów dla rejestracji pojazdu oraz wysokość kosztów związanych z drukiem
+                    i dystrybucją kart pojazdów oraz ich wtórników.]
+                </p>
+            </div>
+            <div>
+                <a name="78"></a>
+                <p class="hyphenate"><strong>Art. 78.</strong><br/> [1. W razie przeniesienia na inną osobę własności pojazdu
+                    zarejestrowanego, dotychczasowy właściciel przekazuje nowemu właścicielowi dowód
+                    rejestracyjny oraz zaświadczenie o przeprowadzonym badaniu technicznym pojazdu,
+                    jeżeli w dowodzie rejestracyjnym nie jest określony aktualny termin ważności badania
+                    technicznego i kartę pojazdu, jeżeli była wydana.]
+                    &lt;1. W razie przeniesienia na inną osobę własności pojazdu
+                    zarejestrowanego, dotychczasowy właściciel przekazuje nowemu właścicielowi
+                    dowód rejestracyjny oraz zaświadczenie o przeprowadzonym badaniu
+                    technicznym pojazdu, jeżeli w dowodzie rejestracyjnym nie jest określony
+                    aktualny termin ważności badania technicznego.&gt;
+                    [1a. W razie przeniesienia na inną osobę własności pojazdu czasowo
+                    wycofanego z ruchu dotychczasowy właściciel przekazuje nowemu właścicielowi
+                    decyzję o czasowym wycofaniu pojazdu i kartę pojazdu, jeżeli była wydana.] &lt;1a. W razie przeniesienia na inną osobę własności pojazdu czasowo
+                    wycofanego z ruchu dotychczasowy właściciel przekazuje nowemu właścicielowi
+                    decyzję o czasowym wycofaniu pojazdu.&gt;
+                    <br/><br/>2. Właściciel pojazdu zarejestrowanego jest obowiązany zawiadomić w terminie
+                    nieprzekraczającym 30 dni starostę o:
+                    <br/>1) nabyciu lub zbyciu pojazdu;
+                    <br/>2) zmianie stanu faktycznego wymagającej zmiany danych zamieszczonych
+                    w dowodzie rejestracyjnym.
+                    [3. Zdarzenia, o których mowa w ust. 2, są dokumentowane w karcie pojazdu;
+                    odpowiednich wpisów dokonuje starosta.]
+                    <br/><br/>4. Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie
+                    uprawnionego organu, komu powierzył pojazd do kierowania lub używania
+                    w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez
+                    nieznaną osobę, czemu nie mógł zapobiec.
+                    <br/><br/>5. W przypadku, gdy właścicielem lub posiadaczem pojazdu jest:
+                    <br/>1) osoba prawna,
+                    <br/>2) jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy
+                    przyznają zdolność prawną,
+                    <br/>3) jednostka samorządu terytorialnego,
+                    <br/>4) spółka kapitałowa w organizacji,
+                    <br/>5) podmiot w stanie likwidacji,
+                    <br/>6) przedsiębiorca niebędący osobą fizyczną,
+                    <br/>7) zagraniczna jednostka organizacyjna
+                    – do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba
+                    wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz,
+                    a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu
+                    zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji
+                    podmiotu.
+                </p>
+            </div>
+            <div>
+                <a name="78"></a>
+                <p class="hyphenate"><strong>Art. 78a.</strong><br/> 1. Czasowego wycofania pojazdu z ruchu dokonuje, na wniosek
+                    właściciela pojazdu lub podmiotu, o którym mowa w art. 73 ust. 2 i 5, organ
+                    rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu, wydając
+                    decyzję o czasowym wycofaniu pojazdu z ruchu. 2. Wycofaniu czasowemu, na wniosek podmiotów, o których mowa w ust. 1,
+                    podlegają zarejestrowane:
+                    <br/>1) samochody ciężarowe i przyczepy o dopuszczalnej masie całkowitej od 3,5 t;
+                    <br/>2) ciągniki samochodowe;
+                    <br/>3) pojazdy specjalne;
+                    <br/>4) autobusy;
+                    <br/>5) samochody osobowe w związku z koniecznością wykonania naprawy
+                    pojazdu wynikającej z uszkodzenia zasadniczych elementów nośnych
+                    konstrukcji:
+                    a) w przypadkach, o których mowa w art. 81 ust. 11 pkt 1 lit. b oraz pkt 6,
+                    b) w przypadku wystąpienia szkody istotnej.
+                    <br/><br/>3. Decyzję o czasowym wycofaniu pojazdu z ruchu wydaje za opłatą organ,
+                    o którym mowa w ust. 1, po złożeniu przez właściciela pojazdu lub podmiot, któremu
+                    powierzono pojazd w trybie przepisu art. 73 ust. 5, do depozytu w tym organie
+                    dowodu rejestracyjnego i tablic rejestracyjnych.
+                    <br/><br/>3. Decyzję o czasowym wycofaniu pojazdu z ruchu wydaje za opłatą organ,
+                    o którym mowa w ust. 1, po złożeniu przez właściciela pojazdu lub podmiot, o
+                    którym mowa w art. 73 ust. 2 i 5, do depozytu w tym organie dowodu
+                    rejestracyjnego i tablic rejestracyjnych.
+                    <br/><br/>4. Pojazd może być czasowo wycofany z ruchu na okres od 2 do 24 miesięcy.
+                    Okres ten może być przedłużony, jednak łączny okres wycofania pojazdu z ruchu nie
+                    może przekraczać 48 miesięcy, licząc od dnia wydania decyzji o jego czasowym
+                    wycofaniu z ruchu. 4. Pojazd, o którym mowa w ust. 2 pkt 1–4, może być czasowo wycofany
+                    z ruchu na okres od 2 do 24 miesięcy. Okres ten może być przedłużony, jednak
+                    łączny okres wycofania pojazdu z ruchu nie może przekraczać 48 miesięcy, licząc
+                    od dnia wydania decyzji o jego czasowym wycofaniu z ruchu.
+                    <br/><br/>4a. Samochód osobowy może być czasowo wycofany z ruchu na okres od
+                    3 do 12 miesięcy bez możliwości przedłużenia tego okresu i nie wcześniej niż po
+                    upływie 3 lat od dnia, w którym upłynął okres czasowego wycofania określony
+                    w ostatniej decyzji o jego czasowym wycofaniu z ruchu.
+                    <br/><br/>4b. W przypadku samochodu osobowego właściciel pojazdu lub podmiot,
+                    o którym mowa w art. 73 ust. 2 i 5, składając wniosek o czasowe wycofanie
+                    pojazdu z ruchu, składają oświadczenie, że pojazd ten wymaga wykonania
+                    naprawy w związku z uszkodzeniem zasadniczych elementów nośnych
+                    konstrukcji w przypadkach, o których mowa w art. 81 ust. 11 pkt 1 lit. b oraz
+                    pkt 6, lub w przypadku wystąpienia szkody istotnej. Oświadczenie to składa się
+                    pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
+                    Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli
+                    następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie
+                    fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o
+                    odpowiedzialności karnej za składanie fałszywych oświadczeń.
+                    <br/><br/>4c. Warunkiem dopuszczenia samochodu osobowego do ruchu po jego
+                    czasowym wycofaniu jest wykonanie dodatkowego badania technicznego pojazdu
+                    potwierdzone w centralnej ewidencji pojazdów. W przypadku braku
+                    w centralnej ewidencji pojazdów informacji o dodatkowym badaniu
+                    technicznym dopuszczenie do ruchu następuje na podstawie przedłożonego
+                    zaświadczenia o przeprowadzonym dodatkowym badaniu technicznym pojazdu. 5. Właściciel pojazdu lub podmiot, o którym mowa w art. 73 ust. 2 i 5, jest
+                    obowiązany zapewnić wycofanemu z ruchu pojazdowi postój poza drogą publiczną,
+                    strefą zamieszkania i strefą ruchu. Przepis art. 46 ust. 5 stosuje się odpowiednio.
+                    <br/><br/>6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, tryb
+                    i warunki czasowego wycofania pojazdów z ruchu, wysokość opłat w zależności od
+                    okresu wycofania z ruchu, w wysokości nie wyższej niż 150 zł, oraz wzory
+                    dokumentów stosowanych w tym zakresie, mając na względzie konieczność
+                    przeciwdziałania używaniu pojazdów czasowo wycofanych z ruchu oraz koszty
+                    ponoszone przez organy administracji publicznej.
+                </p>
+            </div>
+            <div>
+                <a name="78"></a>
+                <p class="hyphenate"><strong>Art. 78b.</strong><br/> Opłata za wydanie:
+                    [1) dowodu rejestracyjnego, pozwolenia czasowego, zalegalizowanych tablic
+                    (tablicy) rejestracyjnych i nalepki kontrolnej oraz ich wtórników, o których
+                    mowa w art. 75 ust. 2,]
+                    &lt;1) dowodu rejestracyjnego, pozwolenia czasowego, zalegalizowanych tablic
+                    (tablicy) rejestracyjnych oraz ich wtórników, o których mowa
+                    w art. 75 ust. 2,&gt;
+                    [2) karty pojazdu oraz jej wtórnika, o których mowa w art. 77 ust. 3 i 3a,]
+                    <br/>3) decyzji o czasowym wycofaniu pojazdu z ruchu, o której mowa w art. 78a ust. 3,
+                    <br/>4) decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjonalnych
+                    dowodów rejestracyjnych oraz zalegalizowanych profesjonalnych tablic (tablicy)
+                    rejestracyjnych, o których mowa w art. 80t ust. 2
+                    – stanowi dochód powiatu.
+                </p>
+            </div>
+            <div>
+                <a name="79"></a>
+                <p class="hyphenate"><strong>Art. 79.</strong><br/> 1. Pojazd podlega wyrejestrowaniu przez organ właściwy ze względu na
+                    miejsce ostatniej rejestracji pojazdu, na wniosek jego właściciela, w przypadku:
+                    <br/>1) przekazania pojazdu do przedsiębiorcy prowadzącego stację demontażu lub
+                    przedsiębiorcy prowadzącego punkt zbierania pojazdów, na podstawie
+                    zaświadczenia o demontażu pojazdu, o którym mowa w ust. 2 bądź
+                    w art. 24 ust. 1 pkt 2 lub art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r.
+                    o recyklingu pojazdów wycofanych z eksploatacji, albo równoważnego
+                    dokumentu wydanego w innym państwie;
+                    <br/>2) kradzieży pojazdu, jeżeli jego właściciel złożył stosowne oświadczenie pod
+                    odpowiedzialnością karną za fałszywe zeznania; 3) wywozu pojazdu z kraju, jeżeli pojazd został zarejestrowany za granicą lub zbyty
+                    za granicę;
+                    <br/>4) zniszczenia (kasacji) pojazdu za granicą;
+                    <br/>5) udokumentowanej trwałej i zupełnej utraty posiadania pojazdu bez zmiany
+                    w zakresie prawa własności;
+                    <br/>6) przekazania niekompletnego pojazdu do przedsiębiorcy prowadzącego stację
+                    demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów, na
+                    podstawie zaświadczenia o przyjęciu niekompletnego pojazdu, o którym mowa
+                    w art. 25 ust. 1 lub art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu
+                    pojazdów wycofanych z eksploatacji, albo równoważnego dokumentu wydanego
+                    w innym państwie;
+                    <br/>7) wycofania pojazdu z obrotu, o którym mowa w art. 70g ust. 5.
+                    <br/><br/>1a. W przypadku, o którym mowa w ust. 1 pkt 3, pojazd podlega
+                    wyrejestrowaniu na wniosek właściciela pojazdu będącego zbywcą albo nabywcą
+                    pojazdu wywożonego za granicę.
+                    <br/><br/>2. W przypadku przekazania przedsiębiorcy prowadzącemu stację demontażu
+                    lub przedsiębiorcy prowadzącemu punkt zbierania pojazdów pojazdu innego niż
+                    określony w art. 3 pkt 4 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów
+                    wycofanych z eksploatacji, w celu jego wyrejestrowania, przedsiębiorca wydaje
+                    zaświadczenie o demontażu tego pojazdu, odpowiadające wymogom określonym dla
+                    zaświadczenia, o którym mowa w art. 24 ust. 1 pkt 2 lub art. 33 ust. 3 tej ustawy.
+                    <br/><br/>3. W przypadku nieprzedłożenia przez właściciela pojazdu zaświadczenia o
+                    demontażu pojazdu, o którym mowa w ust. 2 bądź w art. 24 ust. 1 pkt 2 lub art. 33 ust.
+                    3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
+                    lub zaświadczenia o przyjęciu niekompletnego pojazdu, o którym mowa w art. 25 ust.
+                    1 lub art. 33 ust. 3 tej ustawy, albo równoważnego dokumentu wydanego w innym państwie, organ rejestrujący, po upływie 30 dni od dnia otrzymania informacji od
+                    administratora danych i informacji zgromadzonych w ewidencji o przekazaniu przez
+                    stację demontażu lub punkt zbierania pojazdów danych, o których mowa w art. 80b
+                    ust. 1 pkt 16, dokonuje wyrejestrowania pojazdu z urzędu.
+                    <br/><br/>3. Organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu na
+                    podstawie informacji otrzymanej od administratora danych i informacji
+                    zgromadzonych w centralnej ewidencji pojazdów o przekazaniu przez stację
+                    demontażu lub punkt zbierania pojazdów danych, o których mowa w art. 80b
+                    ust. 1 pkt 16, niezwłocznie po dniu otrzymania tej informacji, jeżeli do tego dnia
+                    właściciel pojazdu nie złożył wniosku o wyrejestrowanie pojazdu na podstawie
+                    ust. 1 pkt 1 albo 6.
+                    <br/><br/>3a. W przypadku otrzymania informacji od organu właściwego do rejestracji
+                    pojazdów państwa członkowskiego, innego niż Rzeczpospolita Polska,
+                    o zarejestrowaniu pojazdu, organ rejestrujący dokonuje wyrejestrowania pojazdu
+                    z urzędu.
+                    <br/><br/>3b. Organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu w przypadku
+                    gdy wydane zostało pozwolenie czasowe na podstawie
+                    art. 74 ust. 2 pkt 2 lit. a i właściciel pojazdu złożył oświadczenie, o którym mowa
+                    w art. 74 ust. 6.
+                    <br/><br/>4. Pojazd wyrejestrowany nie podlega powtórnej rejestracji, z wyjątkiem
+                    pojazdu:
+                    <br/>1) odzyskanego po kradzieży;
+                    <br/>2) zabytkowego;
+                    <br/>3) mającego co najmniej 25 lat uznanego przez rzeczoznawcę samochodowego za
+                    unikatowy lub mający szczególne znaczenie dla udokumentowania historii
+                    motoryzacji;
+                    <br/>4) ciągnika i przyczepy rolniczej;
+                    <br/>5) wywiezionego z kraju lub zbytego za granicą, o którym mowa w ust. 1 pkt 3. 5. W przypadku, o którym mowa w ust. 1 pkt 5, warunkiem wyrejestrowania
+                    pojazdu jest wniesienie przez właściciela pojazdu opłaty na rzecz gminy na realizację
+                    zadań związanych z utrzymaniem czystości i porządku w gminach. Przepisu nie
+                    stosuje się do pojazdów Policji i jednostek ochrony przeciwpożarowej.
+                    <br/><br/>6. Minister właściwy do spraw administracji publicznej, uwzględniając
+                    w szczególności koszty ponoszone przez gminy związane z usuwaniem negatywnych
+                    skutków utraty pojazdu oraz kosztów związanych z usuwaniem wraków, określi,
+                    w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 5.
+                </p>
+            </div>
+            <div>
+                <a name="79"></a>
+                <p class="hyphenate"><strong>Art. 79a.</strong><br/> 1. Rzeczoznawcą samochodowym jest osoba, która:
+                    <br/>1) (uchylony)
+                    <br/>2) posiada co najmniej wykształcenie średnie lub średnie branżowe;
+                    <br/>3) posiada 2-letnią praktykę zawodową w dziedzinie związanej z motoryzacją;
+                    <br/>4) posiada prawo jazdy kategorii A, B oraz C1 lub C;
+                    <br/>5) nie była karana wyrokiem sądu za przestępstwo umyślne;
+                    <br/>6) posiada certyfikat w zakresie rzeczoznawstwa samochodowego wydany przez
+                    jednostkę akredytowaną w polskim systemie akredytacji;
+                    <br/>7) została wpisana na listę rzeczoznawców samochodowych.
+                    <br/><br/>1a. Wymogu, o którym mowa w ust. 1 pkt 3, nie stosuje się do osób, które
+                    posiadają dyplom ukończenia studiów wyższych na kierunku studiów w obszarze
+                    nauk technicznych o specjalności samochodowej.
+                    <br/><br/>2. Minister właściwy do spraw transportu wpisuje na listę rzeczoznawców
+                    samochodowych osobę, która spełnia wymagania określone w ust. 1 pkt 2–6,
+                    i potwierdza wpis, wydając zaświadczenie.
+                    <br/><br/>3. Wpis dokonywany jest za opłatą, na okres wynikający z terminu ważności
+                    certyfikatu, o którym mowa w ust. 1 pkt 6.
+                    <br/><br/>4. Na liście rzeczoznawców samochodowych umieszcza się imię i nazwisko
+                    rzeczoznawcy oraz jego numer identyfikacyjny.
+                    <br/><br/>5. Lista rzeczoznawców jest ogólnie dostępna.
+                    <br/><br/>6. Minister właściwy do spraw transportu prowadzi ewidencję i listę
+                    rzeczoznawców samochodowych.
+                    <br/><br/>7. Minister właściwy do spraw transportu skreśla rzeczoznawcę z listy
+                    rzeczoznawców samochodowych:
+                    <br/>1) po upływie terminu, o którym mowa w ust. 3; 2) niespełniającego wymagań, o których mowa w ust. 1 pkt 2–6;
+                    <br/>3) w razie śmierci rzeczoznawcy.
+                    <br/><br/>8. Minister właściwy do spraw transportu określi, w drodze rozporządzenia,
+                    wysokość opłaty za wpis na listę rzeczoznawców samochodowych oraz wzory
+                    dokumentów z tym związanych, w szczególności zaświadczenia potwierdzającego
+                    wpis.
+                </p>
+            </div>
+            <div>
+                <a name="79"></a>
+                <p class="hyphenate"><strong>Art. 79b.</strong><br/> W przypadku gdy zmiana stanu faktycznego w zakresie adresu
+                    właściciela lub posiadacza pojazdu, wymagająca wydania nowego dowodu
+                    rejestracyjnego pojazdu albo nowych blankietów profesjonalnych dowodów
+                    rejestracyjnych, spowodowana została zmianami administracyjnymi, rada powiatu
+                    może, w drodze uchwały, zmniejszyć opłatę lub zwolnić od jej uiszczenia osoby
+                    obowiązane do ubiegania się o wydanie tych dokumentów.
+                    [</p>
+            </div>
+            <div>
+                <a name="79"></a>
+                <p class="hyphenate"><strong>Art. 79c.</strong><br/> W przypadku utworzenia, połączenia, podzielenia lub zniesienia
+                    powiatów lub zmiany nazwy powiatu albo miejscowości, dowody rejestracyjne,
+                    blankiety profesjonalnych dowodów rejestracyjnych, pozwolenia czasowe, tablice
+                    rejestracyjne, profesjonalne tablice rejestracyjne, znaki legalizacyjne i nalepki
+                    kontrolne wydane przed dniem wejścia w życie przepisów tworzących, łączących,
+                    dzielących lub znoszących powiaty lub zmieniających nazwę powiatu albo
+                    miejscowości, zachowują ważność.]
+                    &lt;</p>
+            </div>
+            <div>
+                <a name="79"></a>
+                <p class="hyphenate"><strong>Art. 79c.</strong><br/> W przypadku utworzenia, połączenia, podzielenia lub zniesienia
+                    powiatów lub zmiany nazwy powiatu albo miejscowości, dowody rejestracyjne,
+                    blankiety profesjonalnych dowodów rejestracyjnych, pozwolenia czasowe,
+                    tablice rejestracyjne, profesjonalne tablice rejestracyjne i znaki legalizacyjne
+                    wydane przed dniem wejścia w życie przepisów tworzących, łączących,
+                    dzielących lub znoszących powiaty lub zmieniających nazwę powiatu albo
+                    miejscowości, zachowują ważność.&gt;
+                    [</p>
+            </div>
+            <div>
+                <a name="80"></a>
+                <p class="hyphenate"><strong>Art. 80.</strong><br/> Zadania i kompetencje określone w art. 73 ust. 1 i 2, art. 74 ust. 1, art.
+                    74a ust. 1, art. 75, art. 77 ust. 3, art. 78 ust. 3, art. 78a ust. 1, art. 79 ust. 1 i art. 80t
+                    ust. 2 nie mogą być powierzone w drodze porozumienia gminie. Przepis ten nie
+                    dotyczy miasta stołecznego Warszawy.]
+                    &lt;</p>
+            </div>
+            <div>
+                <a name="80"></a>
+                <p class="hyphenate"><strong>Art. 80.</strong><br/> Zadania i kompetencje określone w art. 73 ust. 1 i 2, art. 74 ust. 1,
+                    art. 74a ust. 1, art. 75, art. 78a ust. 1, art. 79 ust. 1 i art. 80t ust. 2 nie mogą być powierzone w drodze porozumienia gminie. Przepis ten nie dotyczy miasta
+                    stołecznego Warszawy.&gt;
+                </p>
+            </div>
+        </div>
+        <div class="popups">
+        6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/uk/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Повернутися до питань"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Правила дорожнього руху"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 11"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Kodeks drogowy - Część 11 | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Kodeks drogowy - Część 11"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

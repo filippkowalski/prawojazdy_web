@@ -1,0 +1,390 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","uk","references","kodeks1",""],"q":"","i":false,"f":[[["",{"children":[["locale","uk","d"],{"children":["references",{"children":[["page","kodeks1","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"uk"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/uk/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Умови використання"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/uk/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Політика конфіденційності"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Водійські права. Всі права захищені."}]]}]}]}]]}]
+11:T807e,
+            <div>
+                <a name="1"></a>
+                <p class="hyphenate"><strong>Art. 1.</strong><br/> 1. Ustawa określa:<br/> 1) zasady ruchu na drogach publicznych, w strefach zamieszkania oraz w strefach
+                    ruchu;
+                    <br/>2) zasady i warunki dopuszczenia pojazdów do tego ruchu, a także działalność
+                    właściwych organów i podmiotów w tym zakresie;
+                    <br/>3) wymagania w stosunku do innych uczestników ruchu niż kierujący pojazdami;
+                    <br/>4) zasady i warunki kontroli ruchu drogowego.
+                    <br/><br/>2. Przepisy ustawy stosuje się również do ruchu odbywającego się poza
+                    miejscami wymienionymi w ust. 1 pkt 1, w zakresie:
+                    <br/>1) koniecznym dla uniknięcia zagrożenia bezpieczeństwa osób;
+                    <br/>2) wynikającym ze znaków i sygnałów drogowych.
+                    <br/><br/>3. Zadania samorządu województwa, o których mowa w art. 75aa–75ac,
+                    art. 140g ust. 2, art. 140i i art. 140k, stanowią zadania z zakresu administracji
+                    rządowej.
+                </p>
+            </div>
+            <div>
+                <a name="2"></a>
+                <p class="hyphenate"><strong>Art. 2.</strong><br/> Użyte w ustawie określenia oznaczają:
+                    <br/>1) droga – wydzielony pas terenu składający się z jezdni, pobocza, chodnika, drogi
+                    dla pieszych lub drogi dla rowerów, łącznie z torowiskiem pojazdów szynowych
+                    znajdującym się w obrębie tego pasa, przeznaczony do ruchu lub postoju
+                    pojazdów, ruchu pieszych, ruchu osób poruszających się przy użyciu urządzenia
+                    wspomagającego ruch, jazdy wierzchem lub pędzenia zwierząt; 1a) droga publiczna – drogę w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r.
+                    o drogach publicznych (Dz. U. z 2020 r. poz. 470, 471, 1087 i 2338 oraz z 2021
+                    <br/><br/>r. poz. 54);
+                    1b) droga wewnętrzna – drogę w rozumieniu art. 8 ust. 1 ustawy z dnia 21 marca
+                    1985 r. o drogach publicznych;
+                    <br/>2) droga twarda – drogę z jezdnią o nawierzchni bitumicznej, betonowej,
+                    kostkowej, klinkierowej lub brukowcowej oraz z płyt betonowych lub kamienno-
+                    -betonowych, jeżeli długość nawierzchni przekracza 20 m; inne drogi są drogami
+                    gruntowymi;
+                    <br/>3) autostrada – drogę dwujezdniową, oznaczoną odpowiednimi znakami
+                    drogowymi, na której nie dopuszcza się ruchu poprzecznego, przeznaczoną tylko
+                    do ruchu pojazdów samochodowych, z wyłączeniem czterokołowca, które na
+                    równej, poziomej jezdni mogą rozwinąć prędkość co najmniej 40 km/h, w tym
+                    również w razie ciągnięcia przyczep;
+                    <br/>4) droga ekspresowa – drogę dwu- lub jednojezdniową, oznaczoną odpowiednimi
+                    znakami drogowymi, na której skrzyżowania występują wyjątkowo,
+                    przeznaczoną tylko do ruchu pojazdów samochodowych, z wyłączeniem cztero-
+                    kołowca;
+                    <br/>5) droga dla rowerów – drogę lub jej część przeznaczoną do ruchu rowerów,
+                    oznaczoną odpowiednimi znakami drogowymi; droga dla rowerów jest
+                    oddzielona od innych dróg lub jezdni tej samej drogi konstrukcyjnie lub za
+                    pomocą urządzeń bezpieczeństwa ruchu drogowego;
+                    5a) pas ruchu dla rowerów – część jezdni przeznaczoną do ruchu rowerów w jednym
+                    kierunku, oznaczoną odpowiednimi znakami drogowymi;
+                    5b) śluza dla rowerów – część jezdni na wlocie skrzyżowania na całej szerokości
+                    jezdni lub wybranego pasa ruchu przeznaczona do zatrzymania rowerów w celu
+                    zmiany kierunku jazdy lub ustąpienia pierwszeństwa, oznaczona odpowiednimi
+                    znakami drogowymi;
+                    <br/>6) jezdnia – część drogi przeznaczoną do ruchu pojazdów; określenie to nie dotyczy
+                    torowisk wydzielonych z jezdni;
+                    <br/>7) pas ruchu – każdy z podłużnych pasów jezdni wystarczający do ruchu jednego
+                    rzędu pojazdów wielośladowych, oznaczony lub nieoznaczony znakami
+                    drogowymi; 8) pobocze – część drogi przyległą do jezdni, która może być przeznaczona do
+                    ruchu pieszych lub niektórych pojazdów, postoju pojazdów, jazdy wierzchem lub
+                    pędzenia zwierząt;
+                    <br/>9) chodnik – część drogi przeznaczoną do ruchu pieszych;
+                    <br/>10) skrzyżowanie – przecięcie się w jednym poziomie dróg mających jezdnię, ich
+                    połączenie lub rozwidlenie, łącznie z powierzchniami utworzonymi przez takie
+                    przecięcia, połączenia lub rozwidlenia; określenie to nie dotyczy przecięcia,
+                    połączenia lub rozwidlenia drogi twardej z drogą gruntową, z drogą stanowiącą
+                    dojazd do obiektu znajdującego się przy drodze lub z drogą wewnętrzną;
+                    10a) szkoda istotna – szkodę w zakresie elementów układu nośnego, hamulcowego
+                    lub kierowniczego pojazdu mającą wpływ na bezpieczeństwo ruchu drogowego,
+                    kwalifikującą pojazd do dodatkowego badania technicznego i stwierdzoną przez
+                    Ubezpieczeniowy Fundusz Gwarancyjny lub przez zakład ubezpieczeń
+                    w związku z otrzymanym zgłoszeniem szkody z tytułu zawartej umowy
+                    ubezpieczenia, o którym mowa w dziale II w grupach 3 i 10 załącznika do
+                    ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej
+                    i reasekuracyjnej (Dz. U. z 2020 r. poz. 895, 1180 i 2320);
+                    <br/>11) przejście dla pieszych – powierzchnię jezdni, drogi dla rowerów lub torowiska
+                    przeznaczoną do przechodzenia przez pieszych, oznaczoną odpowiednimi
+                    znakami drogowymi;
+                    <br/>12) przejazd dla rowerzystów – powierzchnię jezdni lub torowiska przeznaczoną do
+                    przejeżdżania przez rowerzystów, oznaczoną odpowiednimi znakami
+                    drogowymi;
+                    <br/>13) przystanek – miejsce zatrzymywania się pojazdów transportu publicznego,
+                    oznaczone odpowiednimi znakami drogowymi;
+                    <br/>14) tunel – budowlę na drodze, oznaczoną odpowiednimi znakami drogowymi;
+                    <br/>15) obszar zabudowany – obszar oznaczony odpowiednimi znakami drogowymi;
+                    <br/>16) strefa zamieszkania – obszar obejmujący drogi publiczne lub inne drogi, na
+                    którym obowiązują szczególne zasady ruchu drogowego, a wjazdy i wyjazdy
+                    oznaczone są odpowiednimi znakami drogowymi;
+                    16a) strefa ruchu – obszar obejmujący co najmniej jedną drogę wewnętrzną, na który
+                    wjazdy i wyjazdy oznaczone są odpowiednimi znakami drogowymi; 17) uczestnik ruchu – pieszego, osobę poruszającą się przy użyciu urządzenia
+                    wspomagającego ruch, kierującego, a także inne osoby przebywające
+                    w pojeździe lub na pojeździe znajdującym się na drodze;
+                    <br/>18) pieszy – osobę znajdującą się poza pojazdem na drodze i niewykonującą na niej
+                    robót lub czynności przewidzianych odrębnymi przepisami; za pieszego uważa
+                    się również osobę prowadzącą, ciągnącą lub pchającą rower, motorower,
+                    motocykl, hulajnogę elektryczną, urządzenie transportu osobistego, urządzenie
+                    wspomagające ruch, wózek dziecięcy, podręczny lub inwalidzki, osobę
+                    poruszającą się w wózku inwalidzkim, a także dziecko w wieku do 10 lat
+                    kierujące rowerem pod opieką osoby dorosłej;
+                    18a) urządzenie wspomagające ruch – urządzenie lub sprzęt sportowo-rekreacyjny,
+                    przeznaczone do poruszania się osoby w pozycji stojącej, napędzane siłą mięśni;
+                    <br/>19) kolumna pieszych – zorganizowaną grupę pieszych prowadzoną przez
+                    kierownika lub dowódcę;
+                    <br/>20) kierujący – osobę, która kieruje pojazdem lub zespołem pojazdów, a także osobę,
+                    która prowadzi kolumnę pieszych, jedzie wierzchem albo pędzi zwierzęta
+                    pojedynczo lub w stadzie;
+                    <br/>21) kierowca – osobę uprawnioną do kierowania pojazdem silnikowym lub
+                    motorowerem;
+                    21a) profil kandydata na kierowcę – profil kandydata na kierowcę w rozumieniu
+                    art. 2 pkt 3 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U.
+                    z 2020 r. poz. 1268 i 1517);
+                    21b) profil kierowcy zawodowego – profil kierowcy zawodowego w rozumieniu
+                    art. 2 pkt 4 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
+                    <br/>22) szczególna ostrożność – ostrożność polegającą na zwiększeniu uwagi
+                    i dostosowaniu zachowania uczestnika ruchu do warunków i sytuacji
+                    zmieniających się na drodze, w stopniu umożliwiającym odpowiednio szybkie
+                    reagowanie;
+                    <br/>23) ustąpienie pierwszeństwa – powstrzymanie się od ruchu, jeżeli ruch mógłby
+                    zmusić kierującego do zmiany kierunku lub pasa ruchu albo istotnej zmiany
+                    prędkości, pieszego – do zatrzymania się, zwolnienia lub przyspieszenia kroku,
+                    a osobę poruszającą się przy użyciu urządzenia wspomagającego ruch – do
+                    zatrzymania się, zmiany kierunku albo istotnej zmiany prędkości; 24) ruch kierowany – ruch otwierany i zamykany za pomocą sygnalizacji świetlnej
+                    albo przez uprawnioną osobę;
+                    <br/>25) niedostateczna widoczność – widoczność występującą od zmierzchu do świtu,
+                    a także w warunkach zmniejszonej przejrzystości powietrza od świtu do
+                    zmierzchu;
+                    <br/>26) wymijanie – przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu
+                    poruszającego się w przeciwnym kierunku;
+                    <br/>27) omijanie – przejeżdżanie (przechodzenie) obok nieporuszającego się pojazdu,
+                    uczestnika ruchu lub przeszkody;
+                    <br/>28) wyprzedzanie – przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika
+                    ruchu poruszającego się w tym samym kierunku;
+                    <br/>29) zatrzymanie pojazdu – unieruchomienie pojazdu niewynikające z warunków lub
+                    przepisów ruchu drogowego, trwające nie dłużej niż 1 minutę, oraz każde
+                    unieruchomienie pojazdu wynikające z tych warunków lub przepisów;
+                    <br/>30) postój pojazdu – unieruchomienie pojazdu niewynikające z warunków lub
+                    przepisów ruchu drogowego, trwające dłużej niż 1 minutę;
+                    <br/>31) pojazd – środek transportu przeznaczony do poruszania się po drodze oraz
+                    maszynę lub urządzenie do tego przystosowane, z wyjątkiem urządzenia
+                    wspomagającego ruch;
+                    <br/>32) pojazd silnikowy – pojazd wyposażony w silnik, z wyjątkiem motoroweru,
+                    pojazdu szynowego, roweru, wózka rowerowego, hulajnogi elektrycznej,
+                    urządzenia transportu osobistego i wózka inwalidzkiego;
+                    <br/>33) pojazd samochodowy – pojazd silnikowy, którego konstrukcja umożliwia jazdę
+                    z prędkością przekraczającą 25 km/h; określenie to nie obejmuje ciągnika
+                    rolniczego;
+                    <br/>34) pojazd wolnobieżny – pojazd silnikowy, którego konstrukcja ogranicza prędkość
+                    jazdy do 25 km/h, z wyłączeniem ciągnika rolniczego;
+                    <br/>35) pojazd członowy – zespół pojazdów składający się z pojazdu silnikowego
+                    złączonego z naczepą;
+                    35a) pojazd nienormatywny – pojazd lub zespół pojazdów, którego naciski osi wraz z
+                    ładunkiem lub bez ładunku, wymiary lub rzeczywista masa całkowita wraz z
+                    ładunkiem lub bez niego są większe od dopuszczalnych przewidzianych w
+                    przepisach niniejszej ustawy; 35b) ładunek niepodzielny – ładunek, który bez niewspółmiernie wysokich kosztów
+                    lub ryzyka powstania szkody nie może być podzielony na dwa lub więcej
+                    mniejszych ładunków;
+                    35c) pilot – osobę odpowiedzialną za zapewnienie bezpieczeństwa ruchu drogowego
+                    oraz minimalizację utrudnień w ruchu drogowym w czasie przejazdu pojazdu;
+                    <br/>36) pojazd specjalny – pojazd samochodowy lub przyczepę przeznaczone do
+                    wykonywania specjalnej funkcji, która powoduje konieczność dostosowania
+                    nadwozia lub posiadania specjalnego wyposażenia; w pojeździe tym mogą być
+                    przewożone osoby i rzeczy związane z wykonywaniem tej funkcji;
+                    <br/>37) pojazd używany do celów specjalnych – pojazd samochodowy przystosowany
+                    w sposób szczególny do przewozu osób lub ładunków, używany przez Siły
+                    Zbrojne Rzeczypospolitej Polskiej, Policję, Agencję Bezpieczeństwa
+                    Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę
+                    Wywiadu Wojskowego, Centralne Biuro Antykorupcyjne, Służbę Ochrony
+                    Państwa, Straż Graniczną, Służbę Celno-Skarbową, jednostki ochrony
+                    przeciwpożarowej, Inspekcję Transportu Drogowego i Służbę Więzienną;
+                    <br/>38) pojazd uprzywilejowany – pojazd wysyłający sygnały świetlne w postaci
+                    niebieskich świateł błyskowych i jednocześnie sygnały dźwiękowe o zmiennym
+                    tonie, jadący z włączonymi światłami mijania lub drogowymi; określenie to
+                    obejmuje również pojazdy jadące w kolumnie, na której początku i na końcu
+                    znajdują się pojazdy uprzywilejowane wysyłające dodatkowo sygnały świetlne
+                    w postaci czerwonego światła błyskowego;
+                    <br/>39) pojazd zabytkowy – pojazd, który na podstawie odrębnych przepisów został
+                    wpisany do rejestru zabytków lub znajduje się w wojewódzkiej ewidencji
+                    zabytków, a także pojazd wpisany do inwentarza muzealiów, zgodnie
+                    z odrębnymi przepisami;
+                    <br/>40) samochód osobowy – pojazd samochodowy przeznaczony konstrukcyjnie do
+                    przewozu nie więcej niż 9 osób łącznie z kierowcą oraz ich bagażu;
+                    <br/>41) autobus – pojazd samochodowy przeznaczony konstrukcyjnie do przewozu
+                    więcej niż 9 osób łącznie z kierowcą;
+                    41a) autobus szkolny – autobus przeznaczony do przewozu dzieci do szkoły, barwy
+                    pomarańczowej, oznaczony z przodu i z tyłu prostokątnymi tablicami barwy
+                    białej, z napisem barwy czarnej „autobus szkolny”; 42) samochód ciężarowy – pojazd samochodowy przeznaczony konstrukcyjnie do
+                    przewozu ładunków; określenie to obejmuje również samochód ciężarowo-
+                    -osobowy przeznaczony konstrukcyjnie do przewozu ładunków i osób w liczbie
+                    od 4 do 9 łącznie z kierowcą;
+                    42a) ciągnik samochodowy – pojazd samochodowy przeznaczony konstrukcyjnie
+                    wyłącznie do ciągnięcia przyczepy; określenie to obejmuje ciągnik siodłowy
+                    i ciągnik balastowy;
+                    42b) czterokołowiec – pojazd samochodowy przeznaczony do przewozu osób lub
+                    ładunków, z wyłączeniem samochodu osobowego, ciężarowego i motocykla,
+                    którego masa własna nie przekracza:
+                    a) w przypadku przewozu rzeczy 550 kg,
+                    b) w przypadku przewozu osób 400 kg;
+                    42c) czterokołowiec lekki – czterokołowiec, którego masa własna nie przekracza
+                    350 kg i konstrukcja ogranicza prędkość jazdy do 45 km/h;
+                    <br/>43) taksówka – pojazd samochodowy, odpowiednio wyposażony i oznaczony,
+                    przeznaczony do przewozu osób w liczbie nie większej niż 9 łącznie z kierowcą
+                    oraz ich bagażu podręcznego za opłatą ustaloną na podstawie:
+                    a) taksometru albo
+                    b) aplikacji mobilnej, o której mowa w art. 13b ustawy z dnia 6 września 2001
+                    <br/><br/>r. o transporcie drogowym (Dz. U. z 2019 r. poz. 2140 oraz z 2020 r. poz.
+                    875 i 1087);
+                    <br/>44) ciągnik rolniczy – pojazd silnikowy, którego konstrukcja umożliwia rozwijanie
+                    prędkości nie mniejszej niż 6 km/h, skonstruowany do używania łącznie ze
+                    sprzętem do prac rolnych, leśnych lub ogrodniczych; ciągnik taki może być
+                    również przystosowany do ciągnięcia przyczep oraz do prac ziemnych;
+                    <br/>45) motocykl – pojazd samochodowy dwukołowy kategorii L3e albo dwukołowy
+                    z bocznym wózkiem kategorii L4e, albo trójkołowy kategorii L5e
+                    o symetrycznym rozmieszczeniu kół, spełniający kryteria klasyfikacji dla
+                    pojazdów odpowiednio dla kategorii L3e albo L4e, albo L5e, o których mowa
+                    w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia
+                    15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52,
+                    z późn. zm. );
+                    <br/>46) motorower – pojazd dwu- lub trójkołowy zaopatrzony w silnik spalinowy
+                    o pojemności skokowej nieprzekraczającej 50 cm lub w silnik elektryczny
+                    o mocy nie większej niż 4 kW, którego konstrukcja ogranicza prędkość jazdy do
+                    45 km/h;
+                    <br/>47) rower – pojazd o szerokości nieprzekraczającej 0,9 m poruszany siłą mięśni
+                    osoby jadącej tym pojazdem; rower może być wyposażony w uruchamiany
+                    naciskiem na pedały pomocniczy napęd elektryczny zasilany prądem o napięciu
+                    nie wyższym niż 48 V o znamionowej mocy ciągłej nie większej niż 250 W,
+                    którego moc wyjściowa zmniejsza się stopniowo i spada do zera po
+                    przekroczeniu prędkości 25 km/h;
+                    47a) wózek rowerowy – pojazd o szerokości powyżej 0,9 m przeznaczony do
+                    przewozu osób lub rzeczy poruszany siłą mięśni osoby jadącej tym pojazdem;
+                    wózek rowerowy może być wyposażony w uruchamiany naciskiem na pedały
+                    pomocniczy napęd elektryczny zasilany prądem o napięciu nie wyższym niż
+                    48 V o znamionowej mocy ciągłej nie większej niż 250 W, którego moc
+                    wyjściowa zmniejsza się stopniowo i spada do zera po przekroczeniu prędkości
+                    25 km/h;
+                    47b) hulajnoga elektryczna – pojazd napędzany elektrycznie, dwuosiowy,
+                    z kierownicą, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do
+                    poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe;
+                    47c) urządzenie transportu osobistego – pojazd napędzany elektrycznie,
+                    z wyłączeniem hulajnogi elektrycznej, bez siedzenia i pedałów, konstrukcyjnie
+                    przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na
+                    tym pojeździe;
+                    <br/>48) wózek inwalidzki – pojazd konstrukcyjnie przeznaczony do poruszania się osoby
+                    niepełnosprawnej, napędzany siłą mięśni lub za pomocą silnika, którego
+                    konstrukcja ogranicza prędkość jazdy do prędkości pieszego;
+                    <br/>49) zespół pojazdów – pojazdy złączone ze sobą w celu poruszania się po drodze
+                    jako całość; nie dotyczy to pojazdów złączonych w celu holowania; 49a) kolejka turystyczna – zespół pojazdów składający się z ciągnika rolniczego,
+                    którego konstrukcja ogranicza prędkość jazdy do 25 km/h, albo pojazdu
+                    wolnobieżnego oraz przyczepy (przyczep) dostosowanej do przewozu osób,
+                    wykorzystywanych w ramach prowadzonej działalności w zakresie świadczenia
+                    usług turystycznych;
+                    <br/>50) przyczepa – pojazd bez silnika, przystosowany do łączenia go z innym pojazdem;
+                    <br/>51) przyczepa lekka – przyczepę, której dopuszczalna masa całkowita nie przekracza
+                    750 kg;
+                    <br/>52) naczepa – przyczepę, której część spoczywa na pojeździe silnikowym i obciąża
+                    ten pojazd;
+                    <br/>53) masa własna – masę pojazdu z jego normalnym wyposażeniem, paliwem,
+                    olejami, smarami i cieczami w ilościach nominalnych, bez kierującego;
+                    <br/>54) dopuszczalna masa całkowita – największą określoną właściwymi warunkami
+                    technicznymi masę pojazdu obciążonego osobami i ładunkiem, dopuszczonego
+                    do poruszania się po drodze;
+                    <br/>55) rzeczywista masa całkowita – masę pojazdu łącznie z masą znajdujących się na
+                    nim rzeczy i osób;
+                    <br/>56) dopuszczalna ładowność – największą masę ładunku i osób, jaką może prze-
+                    wozić pojazd, która stanowi różnicę dopuszczalnej masy całkowitej i masy
+                    własnej pojazdu;
+                    <br/>57) nacisk osi – sumę nacisków, jaką na drogę wywierają koła znajdujące się na
+                    jednej osi;
+                    <br/>58) VIN – numer identyfikacyjny pojazdu nadany i umieszczony przez producenta;
+                    <br/>59) urządzenie rejestrujące – stacjonarne, przenośne albo zainstalowane w pojeździe
+                    albo na statku powietrznym urządzenie ujawniające i zapisujące za pomocą
+                    technik utrwalania obrazów naruszenia przepisów ruchu drogowego przez
+                    kierujących pojazdami;
+                    <br/>60) kategoria pojazdu – klasyfikację pojazdu według wymagań homologacyjnych;
+                    <br/>61) maksymalna masa całkowita – największą masę pojazdu obciążonego osobami
+                    i ładunkiem, określoną przez producenta pojazdu;
+                    <br/>62) nowy pojazd – pojazd fabrycznie nowy, który nie był zarejestrowany; 63) państwo członkowskie – państwo członkowskie Unii Europejskiej, Konfederację
+                    Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym
+                    Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+                    <br/>64) pojazd kompletny – pojazd, który w celu spełnienia wymagań technicznych oraz
+                    uzyskania założonych cech użytkowych nie wymaga kompletacji;
+                    <br/>65) pojazd marki „SAM” – pojazd zbudowany przy wykorzystaniu nadwozia,
+                    podwozia lub ramy, konstrukcji własnej;
+                    <br/>66) pojazd produkowany w małych seriach – pojazd produkowany w limitowanej
+                    liczbie, określonej w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 3;
+                    <br/>67) pojazd niekompletny – pojazd, który w celu spełnienia wymagań technicznych
+                    oraz uzyskania założonych cech użytkowych powinien przejść co najmniej jeden
+                    etap kompletacji;
+                    <br/>68) pojazd skompletowany – pojazd, który w celu spełnienia wymagań technicznych
+                    oraz uzyskania założonych cech użytkowych powstał w wyniku co najmniej
+                    jednego etapu kompletacji;
+                    <br/>69) pojazd z końcowej partii produkcji – pojazd będący częścią zapasów producenta,
+                    który nie spełnia wymagań technicznych z powodu zmiany warunków
+                    stanowiących podstawę do wydania świadectwa homologacji typu WE pojazdu
+                    albo świadectwa homologacji typu pojazdu, a świadectwo to utraciło ważność;
+                    <br/>70) przedmiot wyposażenia lub część – rozumie się przez to układ, oddzielny zespół
+                    techniczny lub część, podlegające wymaganiom technicznym określonym
+                    w dziale III, rozdziale 1a i 1b, przepisach Unii Europejskiej dotyczących badań
+                    homologacyjnych lub regulaminach EKG ONZ, przeznaczone do zastosowania
+                    w pojeździe;
+                    <br/>71) świadectwo homologacji typu – świadectwo homologacji typu EKG ONZ,
+                    świadectwo homologacji typu pojazdu, świadectwo homologacji typu WE;
+                    <br/>72) świadectwo homologacji typu EKG ONZ – dokument wydany przez właściwy
+                    organ państwa – strony Porozumienia dotyczącego przyjęcia jednolitych
+                    wymagań technicznych dla pojazdów kołowych, wyposażenia i części, które
+                    mogą być stosowane w tych pojazdach, oraz wzajemnego uznawania
+                    homologacji udzielonych na podstawie tych wymagań, sporządzonego
+                    w Genewie dnia 20 marca 1958 r. (Dz. U. z 2001 r. poz. 1135 i 1136), zwanego
+                    dalej „Porozumieniem”, stwierdzający, że typ przedmiotu wyposażenia lub części spełnia wymagania procedury homologacji typu EKG ONZ określone
+                    w regulaminach Europejskiej Komisji Gospodarczej Organizacji Narodów
+                    Zjednoczonych (EKG ONZ) stanowiących załączniki do tego Porozumienia;
+                    <br/>73) świadectwo homologacji typu pojazdu – dokument wydany przez właściwy
+                    organ Rzeczypospolitej Polskiej stwierdzający, że typ pojazdu spełnia
+                    wymagania procedury homologacji typu pojazdu;
+                    <br/>74) świadectwo homologacji typu WE – dokument wydany przez właściwy organ
+                    państwa członkowskiego Unii Europejskiej stwierdzający, że typ pojazdu, typ
+                    przedmiotu jego wyposażenia lub części, spełnia wymagania procedury homo-
+                    logacji typu WE;
+                    <br/>75) typ przedmiotu wyposażenia lub części – oznaczenie przedmiotów wyposażenia
+                    lub części, spełniających tę samą funkcję w pojeździe, które nie różnią się od
+                    siebie pod względem istotnych cech mających wpływ na bezpieczeństwo ruchu
+                    drogowego lub ochronę środowiska, jeżeli wymagania określone w przepisach
+                    UE dotyczących badań homologacyjnych lub regulaminy EKG ONZ nie
+                    stanowią inaczej;
+                    <br/>76) świadectwo dopuszczenia indywidualnego WE pojazdu – dokument wydany
+                    przez właściwy organ państwa członkowskiego Unii Europejskiej stwierdzający,
+                    że pojazd spełnia odpowiednie warunki lub wymagania techniczne procedury
+                    dopuszczenia indywidualnego WE pojazdu;
+                    <br/>77) świadectwo homologacji sposobu montażu instalacji przystosowującej dany typ
+                    pojazdu do zasilania gazem – dokument wydany przez właściwy organ
+                    Rzeczypospolitej Polskiej stwierdzający, że sposób montażu instalacji
+                    przystosowującej dany typ pojazdu do zasilania gazem oraz elementy tej
+                    instalacji spełniają wymagania procedury homologacji sposobu montażu
+                    instalacji przystosowującej dany typ pojazdu do zasilania gazem;
+                    <br/>78) typ pojazdu – oznaczenie pojazdów jednej kategorii pojazdu, które nie różnią się
+                    od siebie pod względem istotnych cech, określonych w przepisach wydanych na
+                    podstawie art. 70zm ust. 1 pkt 5;
+                    <br/>79) wprowadzenie do obrotu – odpłatne albo nieodpłatne przekazanie pojazdu,
+                    przedmiotu wyposażenia lub części po raz pierwszy na terytorium
+                    Rzeczypospolitej Polskiej użytkownikowi; 80) wariant pojazdu – oznaczenie pojazdów jednego typu, które nie różnią się od
+                    siebie co najmniej pod względem istotnych cech, określonych w przepisach
+                    wydanych na podstawie art. 70zm ust. 1 pkt 5;
+                    <br/>81) wersja pojazdu – oznaczenie pojazdów jednego wariantu, o kompletacji
+                    określonej w opisie technicznym typu pojazdu w świadectwie homologacji typu
+                    pojazdu albo świadectwie homologacji typu WE pojazdu;
+                    <br/>82) tramwaj – pojazd przeznaczony do przewozu osób lub rzeczy zasilany energią
+                    elektryczną, poruszający się po szynach na drogach publicznych;
+                    <br/>83) trolejbus – autobus przystosowany do zasilania energią elektryczną z sieci
+                    trakcyjnej;
+                    <br/>84) blokada alkoholowa – urządzenie techniczne uniemożliwiające uruchomienie
+                    silnika pojazdu silnikowego i pojazdu szynowego, w przypadku gdy zawartość
+                    alkoholu w wydychanym przez kierującego powietrzu wynosi co najmniej
+                    0,1 mg alkoholu w 1 dm ;
+                    <br/>85) kalibracja blokady alkoholowej – ogół czynności służących wzorcowaniu
+                    blokady alkoholowej oraz regulacji tego urządzenia w sposób umożliwiający
+                    spełnienie wymagania, o którym mowa w pkt 84;
+                    <br/>86) niezgodność – rozbieżność między danymi zgromadzonymi w centralnej
+                    ewidencji pojazdów, centralnej ewidencji kierowców albo centralnej ewidencji
+                    posiadaczy kart parkingowych a stanem prawnym ustalonym na podstawie
+                    dostępnych danych lub stanem faktycznym;
+                    <br/>87) salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów – osobę
+                    fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości
+                    prawnej, prowadzące sprzedaż pojazdów samochodowych, przyczep lub
+                    motorowerów w lokalu na terytorium Rzeczypospolitej Polskiej i autoryzowane
+                    przez producenta pojazdów samochodowych, przyczep lub motorowerów lub
+                    jego upoważnionego przedstawiciela. Dotyczy to także sprzedaży w lokalu na
+                    terytorium Rzeczypospolitej Polskiej bezpośrednio prowadzonej przez
+                    producenta pojazdów samochodowych, przyczep lub motorowerów. </p>
+            </div>
+        </div>
+        <div class="popups">
+        6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/uk/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Повернутися до питань"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Правила дорожнього руху"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 1"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Kodeks drogowy - Część 1 | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Kodeks drogowy - Część 1"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

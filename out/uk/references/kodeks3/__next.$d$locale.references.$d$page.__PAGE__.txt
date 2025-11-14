@@ -1,0 +1,163 @@
+1:"$Sreact.fragment"
+2:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T3119,
+            <div>
+                <a name="11"></a>
+                <p class="hyphenate"><strong>Art. 11.</strong><br/> 1. Pieszy jest obowiązany korzystać z chodnika lub drogi dla pieszych,
+                    a w razie ich braku – z pobocza. Jeżeli nie ma pobocza lub czasowo nie można z niego
+                    korzystać, pieszy może korzystać z jezdni, pod warunkiem zajmowania miejsca jak
+                    najbliżej jej krawędzi i ustępowania miejsca nadjeżdżającemu pojazdowi.
+                    <br/><br/>2. Pieszy idący po poboczu lub jezdni jest obowiązany iść lewą stroną drogi. 3. Piesi idący jezdnią są obowiązani iść jeden za drugim. Na drodze o małym
+                    ruchu, w warunkach dobrej widoczności, dwóch pieszych może iść obok siebie.
+                    <br/><br/>4. Korzystanie przez pieszego z drogi dla rowerów jest dozwolone tylko w razie
+                    braku chodnika lub pobocza albo niemożności korzystania z nich. Pieszy, z wyjątkiem
+                    osoby niepełnosprawnej, korzystając z tej drogi, jest obowiązany ustąpić miejsca
+                    osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, kierującemu
+                    rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego.
+                    <br/><br/>4a. Pieszy poruszający się po drodze po zmierzchu poza obszarem zabudowanym
+                    jest obowiązany używać elementów odblaskowych w sposób widoczny dla innych
+                    uczestników ruchu, chyba że porusza się po drodze przeznaczonej wyłącznie dla
+                    pieszych lub po chodniku.
+                    <br/><br/>5. Przepisów ust. 1–4a nie stosuje się w strefie zamieszkania. W strefie tej pieszy
+                    korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem oraz osobą
+                    poruszającą się przy użyciu urządzenia wspomagającego ruch.
+                </p>
+            </div>
+            <div>
+                <a name="12"></a>
+                <p class="hyphenate"><strong>Art. 12.</strong><br/> 1. Kolumna pieszych, z wyjątkiem pieszych w wieku do 10 lat, może się
+                    poruszać tylko prawą stroną jezdni.
+                    <br/><br/>2. Do kolumny pieszych w wieku do 10 lat stosuje się odpowiednio przepisy
+                    art. 11 ust. 1 i 2.
+                    <br/><br/>3. Liczba pieszych idących jezdnią w kolumnie obok siebie nie może
+                    przekraczać 4, a w kolumnie wojskowej – 6, pod warunkiem że kolumna nie zajmuje
+                    więcej niż połowy szerokości jezdni.
+                    <br/><br/>4. Piesi w wieku do 10 lat mogą iść w kolumnie tylko dwójkami pod nadzorem
+                    co najmniej jednej osoby pełnoletniej.
+                    <br/><br/>5. Długość kolumny pieszych nie może przekraczać 50 m. Odległość między
+                    kolumnami nie może być mniejsza niż 100 m.
+                    <br/><br/>6. Jeżeli przemarsz kolumny pieszych odbywa się w warunkach niedostatecznej
+                    widoczności:
+                    <br/>1) pierwszy i ostatni z idących z lewej strony są obowiązani nieść latarki:
+                    a) pierwszy – ze światłem białym, skierowanym do przodu,
+                    b) ostatni – ze światłem czerwonym, skierowanym do tyłu;
+                    <br/>2) w kolumnie o długości przekraczającej 20 m idący po lewej stronie z przodu
+                    i z tyłu są obowiązani używać elementów odblaskowych odpowiadających
+                    właściwym warunkom technicznym, a ponadto idący po lewej stronie są obowiązani nieść dodatkowe latarki ze światłem białym, rozmieszczone w taki
+                    sposób, aby odległość między nimi nie przekraczała 10 m;
+                    <br/>3) światło latarek powinno być widoczne z odległości co najmniej 150 m.
+                    <br/><br/>7. Zabrania się:
+                    <br/>1) ruchu po jezdni kolumny pieszych w czasie mgły; zakaz ten nie dotyczy kolumny
+                    wojskowej lub policyjnej;
+                    <br/>2) ruchu po jezdni kolumny pieszych w wieku do 10 lat w warunkach
+                    niedostatecznej widoczności;
+                    <br/>3) prowadzenia po jezdni kolumny pieszych przez osobę w wieku poniżej 18 lat.
+                </p>
+            </div>
+            <div>
+                <a name="13"></a>
+                <p class="hyphenate"><strong>Art. 13.</strong><br/> 1. Pieszy wchodzący na jezdnię lub torowisko albo przechodzący przez
+                    jezdnię lub torowisko jest obowiązany zachować szczególną ostrożność oraz,
+                    z zastrzeżeniem ust. 2 i 3, korzystać z przejścia dla pieszych.
+                    <br/><br/>1a. Pieszy znajdujący się na przejściu dla pieszych ma pierwszeństwo przed
+                    pojazdem. Pieszy wchodzący na przejście dla pieszych ma pierwszeństwo przed
+                    pojazdem, z wyłączeniem tramwaju.
+                    <br/><br/>2. Przechodzenie przez jezdnię poza przejściem dla pieszych jest dozwolone, gdy
+                    odległość od przejścia przekracza 100 m. Jeżeli jednak skrzyżowanie znajduje się
+                    w odległości mniejszej niż 100 m od wyznaczonego przejścia, przechodzenie jest
+                    dozwolone również na tym skrzyżowaniu.
+                    <br/><br/>3. Przechodzenie przez jezdnię poza przejściem dla pieszych, o którym mowa
+                    w ust. 2, jest dozwolone tylko pod warunkiem, że nie spowoduje zagrożenia
+                    bezpieczeństwa ruchu lub utrudnienia ruchu pojazdów. Pieszy jest obowiązany ustąpić
+                    pierwszeństwa pojazdom i do przeciwległej krawędzi jezdni iść drogą najkrótszą,
+                    prostopadle do osi jezdni.
+                    <br/><br/>4. Jeżeli na drodze znajduje się przejście nadziemne lub podziemne dla pieszych,
+                    pieszy jest obowiązany korzystać z niego, z zastrzeżeniem ust. 2 i 3.
+                    <br/><br/>5. Na obszarze zabudowanym, na drodze dwujezdniowej lub po której kursują
+                    tramwaje po torowisku wyodrębnionym z jezdni, pieszy przechodząc przez jezdnię lub
+                    torowisko jest obowiązany korzystać tylko z przejścia dla pieszych.
+                    <br/><br/>6. Przechodzenie przez torowisko wyodrębnione z jezdni jest dozwolone tylko
+                    w miejscu do tego przeznaczonym. 7. Jeżeli wysepka dla pasażerów na przystanku komunikacji publicznej łączy się
+                    z przejściem dla pieszych, przechodzenie do i z przystanku jest dozwolone tylko po
+                    tym przejściu.
+                    <br/><br/>8. Jeżeli przejście dla pieszych wyznaczone jest na drodze dwujezdniowej,
+                    przejście na każdej jezdni uważa się za przejście odrębne. Przepis ten stosuje się
+                    odpowiednio do przejścia dla pieszych w miejscu, w którym ruch pojazdów jest
+                    rozdzielony wysepką lub za pomocą innych urządzeń na jezdni.
+                </p>
+            </div>
+            <div>
+                <a name="14"></a>
+                <p class="hyphenate"><strong>Art. 14.</strong><br/> Zabrania się:
+                    <br/>1) wchodzenia na jezdnię:
+                    a) bezpośrednio przed jadący pojazd, w tym również na przejściu dla pieszych,
+                    b) spoza pojazdu lub innej przeszkody ograniczającej widoczność drogi;
+                    <br/>2) przechodzenia przez jezdnię w miejscu o ograniczonej widoczności drogi;
+                    <br/>3) zwalniania kroku lub zatrzymywania się bez uzasadnionej potrzeby podczas
+                    przechodzenia przez jezdnię lub torowisko;
+                    <br/>4) przebiegania przez jezdnię;
+                    <br/>5) chodzenia po torowisku;
+                    <br/>6) wchodzenia na torowisko, gdy zapory lub półzapory są opuszczone lub
+                    opuszczanie ich rozpoczęto;
+                    <br/>7) przechodzenia przez jezdnię w miejscu, w którym urządzenie zabezpieczające
+                    lub przeszkoda oddzielają drogę dla pieszych albo chodnik od jezdni, bez
+                    względu na to, po której stronie jezdni one się znajdują;
+                    <br/>8) korzystania z telefonu lub innego urządzenia elektronicznego podczas
+                    wchodzenia lub przechodzenia przez jezdnię lub torowisko, w tym również
+                    podczas wchodzenia lub przechodzenia przez przejście dla pieszych – w sposób,
+                    który prowadzi do ograniczenia możliwości obserwacji sytuacji na jezdni,
+                    torowisku lub przejściu dla pieszych.
+                </p>
+            </div>
+            <div>
+                <a name="15"></a>
+                <p class="hyphenate"><strong>Art. 15.</strong><br/> Przepisów art. 11–14 nie stosuje się w razie zamknięcia ruchu pojazdów
+                    na drodze.
+                </p>
+            </div>
+            <div>
+                <a name="15"></a>
+                <p class="hyphenate"><strong>Art. 15a.</strong><br/> 1. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch
+                    jest obowiązana korzystać z chodnika, drogi dla pieszych lub drogi dla rowerów.
+                    Osobę poruszającą się przy użyciu urządzenia wspomagającego ruch na drodze dla
+                    rowerów obowiązuje ruch prawostronny. 2. Przepisów ust. 1 nie stosuje się w strefie zamieszkania. W strefie tej osoba
+                    poruszająca się przy użyciu urządzenia wspomagającego ruch korzysta z całej
+                    szerokości drogi i ma pierwszeństwo przed pojazdem.
+                    <br/><br/>3. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch,
+                    korzystając z chodnika albo drogi dla pieszych, jest obowiązana poruszać się
+                    z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność,
+                    ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu.
+                    <br/><br/>4. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch,
+                    przekraczając jezdnię, jest obowiązana zachować szczególną ostrożność oraz
+                    korzystać odpowiednio z przejazdu dla rowerzystów albo przejścia dla pieszych.
+                    <br/><br/>5. Przekraczanie torowiska wyodrębnionego z jezdni przez osobę poruszającą się
+                    przy użyciu urządzenia wspomagającego ruch jest dozwolone tylko w miejscu do tego
+                    przeznaczonym.
+                    <br/><br/>6. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch jest
+                    obowiązana:
+                    <br/>1) poruszać się z prędkością zapewniającą panowanie nad tym urządzeniem,
+                    z uwzględnieniem warunków, w jakich ruch się odbywa;
+                    <br/>2) przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu lub
+                    uczestnika ruchu;
+                    <br/>3) przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu, uczestnika
+                    ruchu lub przeszkody;
+                    <br/>4) przed wyprzedzaniem upewnić się, czy ma dostateczne miejsce do wyprzedzania
+                    bez utrudnienia komukolwiek ruchu;
+                    <br/>5) zbliżając się do przejścia dla pieszych, zachować szczególną ostrożność i ustąpić
+                    pierwszeństwa pieszemu znajdującemu się na przejściu.
+                    <br/><br/>7. Osobie poruszającej się przy użyciu urządzenia wspomagającego ruch
+                    zabrania się:
+                    <br/>1) poruszania się w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka
+                    działającego podobnie do alkoholu;
+                    <br/>2) przewożenia innej osoby, zwierzęcia lub ładunku;
+                    <br/>3) ciągnięcia pojazdu lub ładunku;
+                    <br/>4) czepiania się pojazdów;
+                    <br/>5) poruszania się tyłem. </p>
+            </div>
+        </div>
+        <div class="popups">
+        0:{"buildId":"SYaHkCXjnDtPpqb4OqRg1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L2",null,{"href":"/uk/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Повернутися до питань"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Правила дорожнього руху"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 3"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

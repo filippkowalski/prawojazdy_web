@@ -1,0 +1,394 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","de","references","znaki_zakazu",""],"q":"","i":false,"f":[[["",{"children":[["locale","de","d"],{"children":["references",{"children":[["page","znaki_zakazu","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"de"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/de/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Nutzungsbedingungen"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/de/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Datenschutzrichtlinie"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Führerschein. Alle Rechte vorbehalten."}]]}]}]}]]}]
+11:T87cc,
+<div class="page">
+    <div class="shadow"></div>
+    <div class="page__body">
+        <div class="text">
+            <h2 style="margin:0"><span class="small-caps">Znaki zakazu</span></h2>
+            <p class="hyphenate"><a name="15"></a><strong>§ 15.</strong></p>
+            <p class="hyphenate"><a name="15.1"></a>1. Znaki zakazu obowiązują na drodze, na której są umieszczone, chyba że przepisy szczególne stanowią inaczej.</p>
+            <p class="hyphenate"><a name="15.2"></a>2. Zakaz wyrażony znakiem zakazu obowiązuje od miejsca jego ustawienia, chyba że przepisy szczególne stanowią inaczej.</p>
+            <p class="hyphenate"><a name="15.3"></a>3. Znak zakazu umieszczony pod znakiem E-17a oznacza, że zakaz obowiązuje na obszarze całej miejscowości, z wyjątkiem odcinka drogi, na którym został on zmieniony lub odwołany innym znakiem.</p>
+            <p class="hyphenate"><a name="15.4"></a>4. Znak zakazu umieszczony pod znakiem D-42 oznacza, że zakaz obowiązuje do znaku D-43 lub E-18a, z wyjątkiem odcinka drogi, na którym został on zmieniony lub odwołany innym znakiem.</p>
+            <p class="hyphenate"><a name="15.5"></a>5. Umieszczona pod znakiem zakazu tabliczka wskazuje:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-20.png"/>
+                <p style="margin-bottom:30px">1) T-20 - długość odcinka jezdni, na którym zakaz obowiązuje,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-21.png"/>
+                <p style="margin-bottom:30px">2) T-21 - odległość znaku od miejsca, od którego lub w którym zakaz obowiązuje.</p>
+            </div>
+            <p class="hyphenate"><a name="15.6"></a>6. Umieszczony na znaku zakazu albo tabliczce napis określający dni lub okres doby oznacza, że zakaz obowiązuje w tym czasie.</p>
+            <p class="hyphenate"><a name="15.7"></a>7. Umieszczone na jednej tarczy dwa lub trzy symbole znaków określonych w § 14 i § 15 mają takie samo znaczenie jak znaki pojedyncze.</p>
+            <p class="hyphenate"><a name="16"></a><strong>§ 16.</strong></p>
+            <p class="hyphenate"><a name="16.1"></a>1. Znak B-1 „zakaz ruchu w obu kierunkach” oznacza zakaz ruchu na drodze pojazdów, kolumn pieszych oraz jeźdźców i poganiaczy; znak może być ustawiony na jezdni.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-1.png"/>
+                <div>B-1</div>
+            </div>
+            <p class="hyphenate"><a name="16.2"></a>2. Umieszczona pod znakiem B-1 tabliczka T-22 wskazuje, że zakaz nie dotyczy rowerów jednośladowych.</p>
+            <p class="hyphenate"><a name="17"></a><strong>§ 17.</strong></p>
+            <p class="hyphenate"><a name="17.1"></a>1. Znak B-2 „zakaz wjazdu” oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia; zakaz dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-2.png"/>
+                <div>B-2</div>
+            </div>
+            <p class="hyphenate"><a name="17.2"></a>2. Umieszczona pod znakiem B-2 tabliczka T-22 wskazuje, że znak nie dotyczy rowerów jednośladowych wjeżdżających na wyznaczony na jezdni pas ruchu dla rowerów.</p>
+            <p class="hyphenate"><a name="18"></a><strong>§ 18.</strong></p>
+            <p class="hyphenate"><a name="18.1"></a>1. Znak B-3 „zakaz wjazdu pojazdów silnikowych, z wyjątkiem motocykli jednośladowych”, oznacza zakaz ruchu pojazdów silnikowych; zakaz nie dotyczy motocykli jednośladowych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-3.png"/>
+                <div>B-3</div>
+            </div>
+            <p class="hyphenate"><a name="18.2"></a>2. Znak B-3a „zakaz wjazdu autobusów” oznacza zakaz ruchu autobusów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-3a.png"/>
+                <div>B-3a</div>
+            </div>
+            <p class="hyphenate"><a name="18.3"></a>3. Znak B-4 „zakaz wjazdu motocykli” oznacza zakaz ruchu motocykli.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-4.png"/>
+                <div>B-4</div>
+            </div>
+            <p class="hyphenate"><a name="18.4"></a>4. Znak B-5 „zakaz wjazdu samochodów ciężarowych” oznacza zakaz ruchu:
+
+                <br/>1) samochodów ciężarowych o dopuszczalnej masie całkowitej przekraczającej 3,5 t,
+
+                <br/>2) ciągników samochodowych,
+
+                <br/>3) pojazdów specjalnych i używanych do celów specjalnych o dopuszczalnej masie całkowitej przekraczającej 3,51,
+
+                <br/>4) ciągników rolniczych,
+
+                <br/>5) pojazdów wolnobieżnych.
+            </p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-5.png"/>
+                <div>B-5</div>
+            </div>
+            <p class="hyphenate"><a name="18.5"></a>5. Określona na znaku B-5 albo na tabliczce umieszczonej pod nim masa oznacza, że zakaz dotyczy pojazdu (zespołu pojazdów), którego dopuszczalna masa całkowita przekracza masę podaną na znaku
+                albo na tabliczce.</p>
+            <p class="hyphenate"><a name="18.6"></a>6. Znak B-6 „zakaz wjazdu ciągników rolniczych” oznacza zakaz ruchu ciągników rolniczych i pojazdów wolnobieżnych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-6.png"/>
+                <div>B-6</div>
+            </div>
+            <p class="hyphenate"><a name="18.7"></a>7. Znak B-7 „zakaz wjazdu pojazdów silnikowych z przyczepą” oznacza zakaz ruchu pojazdów silnikowych z przyczepą (przyczepami); zakaz nie dotyczy pojazdów z przyczepą jednoosiową lub naczepą.
+            </p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-7.png"/>
+                <div>B-7</div>
+            </div>
+            <p class="hyphenate"><a name="18.8"></a>8. Określona na znaku B-7 lub na tabliczce umieszczonej pod nim masa dotyczy dopuszczalnej masy całkowitej przyczepy, a w razie ciągnięcia dwóch przyczep - sumy ich mas.</p>
+            <p class="hyphenate"><a name="18.9"></a>9. Znak B-8 „zakaz wjazdu pojazdów zaprzęgowych” oznacza zakaz ruchu pojazdów zaprzęgowych oraz jeźdźców i poganiaczy.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-8.png"/>
+                <div>B-8</div>
+            </div>
+            <p class="hyphenate"><a name="18.10"></a>10. Znak B-9 „zakaz wjazdu rowerów” oznacza zakaz ruchu na jezdni i poboczu rowerów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-9.png"/>
+                <div>B-9</div>
+            </div>
+            <p class="hyphenate"><a name="18.11"></a>11. Znak B-10 „zakaz wjazdu motorowerów” oznacza zakaz ruchu motorowerów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-10.png"/>
+                <div>B-10</div>
+            </div>
+            <p class="hyphenate"><a name="18.12"></a>12. Znak B-11 „zakaz wjazdu wózków rowerowych” oznacza zakaz ruchu rowerów wielośladowych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-11.png"/>
+                <div>B-11</div>
+            </div>
+            <p class="hyphenate"><a name="18.13"></a>13. Znak B-12 „zakaz wjazdu wózków ręcznych” oznacza zakaz ruchu na jezdni i poboczu wózków ręcznych przeznaczonych do używania na jezdni, prowadzonych, ciągniętych lub pchanych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-12.png"/>
+                <div>B-12</div>
+            </div>
+            <p class="hyphenate"><a name="19"></a><strong>§ 19.</strong></p>
+            <p class="hyphenate"><a name="19.1"></a>1. Znak B-13 ,,zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi" oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych,
+                towary niebezpieczne klas: 1, 3, 4.1, 4.2, 4.3, 5.1, 5.2 lub gazy palne klasy 2 w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-13.png"/>
+                <div>B-13</div>
+            </div>
+            <p class="hyphenate"><a name="19.2"></a>2. Znak B-13a ,,zakaz wjazdu pojazdów z towarami niebezpiecznymi" oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych, towary
+                niebezpieczne w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej. Umieszczona pod znakiem tabliczka T-31 z literą B, C, D lub E oznaczającą kategorię tunelu lub tabliczka z
+                odpowiednim napisem wskazuje, że zakaz dotyczy tylko określonych klas lub grup towarów niebezpiecznych lub określonego sposobu przewozu tych towarów.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-13a.png"/>
+                <div>B-13a</div>
+            </div>
+            <p class="hyphenate"><a name="19.3"></a>3. Znak B-14 ,,zakaz wjazdu pojazdów z towarami, które mogą skazić wodę" oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych, towary
+                niebezpieczne klas: 3, 4.3, 6.1, 6.2, 8, gazy trujące lub gazy żrące klasy 2, lub towary niebezpieczne zagrażające środowisku klasy 9 w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy
+                pomarańczowej.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-14.png"/>
+                <div>B-14</div>
+            </div>
+            <p class="hyphenate"><a name="20"></a><strong>§ 20.</strong></p>
+            <p class="hyphenate"><a name="20.1"></a>1. Znak B-15 „zakaz wjazdu pojazdów o szerokości ponad .....m” oznacza zakaz ruchu pojazdów, których szerokość (również z ładunkiem) jest większa od wartości podanej na znaku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-15.png"/>
+                <div>B-15</div>
+            </div>
+            <p class="hyphenate"><a name="20.2"></a>2. Znak B-16 „zakaz wjazdu pojazdów o wysokości ponad .....m” oznacza zakaz ruchu pojazdów, których
+
+                wysokość (również z ładunkiem) jest większa od wartości podanej na znaku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-16.png"/>
+                <div>B-16</div>
+            </div>
+            <p class="hyphenate"><a name="20.3"></a>3. Znak B-17 „zakaz wjazdu pojazdów o długości ponad .....m” oznacza zakaz ruchu pojazdów lub zespołów pojazdów, których długość (również z ładunkiem) jest większa od wartości podanej na znaku.
+            </p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-17.png"/>
+                <div>B-17</div>
+            </div>
+            <p class="hyphenate"><a name="20.4"></a>4. Znak B-18 „zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad ....t” oznacza zakaz ruchu pojazdów, których rzeczywista masa całkowita jest większa od wartości podanej na znaku; w
+                przypadku zespołu pojazdów zakaz dotyczy ich łącznej masy.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-18.png"/>
+                <div>B-18</div>
+            </div>
+            <p class="hyphenate"><a name="20.5"></a>5. Znak B-19 „zakaz wjazdu pojazdów o nacisku osi większym niż ....t” oznacza zakaz ruchu pojazdów, których nacisk osi jest większy od nacisku odpowiadającego masie podanej na znaku; w przypadku
+                osi wielokrotnej nacisk żadnej z osi składowych nie może odpowiadać masie większej niż 80% masy podanej na znaku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-19.png"/>
+                <div>B-19</div>
+            </div>
+            <p class="hyphenate"><a name="20.6"></a>6. Jeżeli na znaku B-19 podano wartość 81 lub 10 t, oznacza to dopuszczalny nacisk osi pojedynczej odpowiadający masie do 8 t lub 10 t, a osi wielokrotnej - odpowiednio większej masie, zgodnie z
+                przepisami określającymi warunki techniczne pojazdów poruszających się po drogach.</p>
+            <p class="hyphenate"><a name="21"></a><strong>§ 21.</strong></p>
+            <p class="hyphenate"><a name="21.1"></a>1. Znak B-20 „stop” oznacza:
+                <br/>1) zakaz wjazdu na skrzyżowanie bez zatrzymania się przed drogą z pierwszeństwem,
+                <br/>2) obowiązek ustąpienia pierwszeństwa kierującym poruszającym się tą drogą.
+            </p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-20.png"/>
+                <div>B-20</div>
+            </div>
+            <p class="hyphenate"><a name="21.2"></a>2. Zatrzymanie powinno nastąpić w wyznaczonym w tym celu miejscu, a w razie jego braku - w takim miejscu, w którym kierujący może upewnić się, że nie utrudni ruchu na drodze z pierwszeństwem.
+            </p>
+            <p class="hyphenate"><a name="21.3"></a>3. Znak B-20 umieszczony w obrębie skrzyżowania dotyczy tylko najbliższej jezdni, przed którą został ustawiony.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-20.png"/>
+                <div>B-20</div>
+            </div>
+            <p class="hyphenate"><a name="21.4"></a>4. Przepisy ust. 1-3 stosuje się odpowiednio do znaku B-20 umieszczonego przed torowiskiem pojazdów szynowych lub w innych miejscach przecinania się kierunków ruchu.</p>
+            <p class="hyphenate"><a name="21.5"></a>5. Umieszczona pod znakiem B-20 tabliczka T-6c lub T-6d wskazuje rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie.</p>
+            <p class="hyphenate"><a name="22"></a><strong>§ 22.</strong></p>
+            <p class="hyphenate"><a name="22.1"></a>1. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_b-21.png"/>
+                <p style="margin-bottom:30px">1) B-21 „zakaz skręcania w lewo”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_b-22.png"/>
+                <p style="margin-bottom:30px">2) B-22 „zakaz skręcania w prawo”</p>
+            </div>
+            <p>Zabraniają skręcania w kierunku wskazanym na znaku; ponadto znak B-21 zabrania zawracania.</p>
+            <p class="hyphenate"><a name="22.2"></a>2. Zakazy wyrażone znakami B-21 i B-22 obowiązują na najbliższym skrzyżowaniu, z zastrzeżeniem ust. 3.</p>
+            <p class="hyphenate"><a name="22.3"></a>3. Znaki B-21 i B-22 znajdujące się w obrębie skrzyżowania dotyczą tylko najbliższej jezdni, przed którą zostały umieszczone.</p>
+            <p class="hyphenate"><a name="22.4"></a>4. Umieszczona pod znakiem B-21 lub B-22 tabliczka T-22 wskazuje, że znak nie dotyczy rowerów jednośladowych skręcających na drogę dla rowerów lub wyznaczony na jezdni pas ruchu przeznaczony dla
+                tych pojazdów.</p>
+            <p class="hyphenate"><a name="22.5"></a>5. Znak B-23 „zakaz zawracania” zabrania kierującym zawracania do najbliższego skrzyżowania włącznie.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-23.png"/>
+                <div>B-23</div>
+            </div>
+            <p class="hyphenate"><a name="22.6"></a>6. Znak B-24 „koniec zakazu zawracania” oznacza odwołanie zakazu zawracania przed skrzyżowaniem.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-24.png"/>
+                <div>B-24</div>
+            </div>
+            <p class="hyphenate"><a name="23"></a><strong>§ 23.</strong></p>
+            <p class="hyphenate"><a name="23.1"></a>1. Znak B-25 „zakaz wyprzedzania” zabrania kierującym pojazdami silnikowymi wyprzedzania pojazdów silnikowych wielośladowych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-25.png"/>
+                <div>B-25</div>
+            </div>
+            <p class="hyphenate"><a name="23.2"></a>2. Umieszczona pod znakiem B-25 tabliczka:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-23a.png"/>
+                <p style="margin-bottom:30px">1) T-23a - motocykl,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-23b.png"/>
+                <p style="margin-bottom:30px">2) T-23b - samochód ciężarowy, pojazd specjalny, pojazd używany do celów specjalnych, o dopuszczalnej masie całkowitej przekraczającej 3,5 t oraz ciągnik samochodowy,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-23c.png"/>
+                <p style="margin-bottom:30px">3) T-23c -ciągnik rolniczy i pojazd wolnobieżny,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-23d.png"/>
+                <p style="margin-bottom:30px">4) T-23d - pojazd silnikowy z przyczepą, z wyjątkiem pojazdów z przyczepą jednoosiową lub naczepą,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-23e.png"/>
+                <p style="margin-bottom:30px">5) T-23e - pojazd z przyczepą kempingową,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-23f.png"/>
+                <p style="margin-bottom:30px">6) T-23f - autobus,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-23g.png"/>
+                <p style="margin-bottom:30px">7) T-23g - trolejbus,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-23h.png"/>
+                <p style="margin-bottom:30px">8) T-23h -- pojazd przewożący towary niebezpieczne określone w § 19 ust. 2,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-23i.png"/>
+                <p style="margin-bottom:30px">9) T-23i -- pojazd przewożący towary wybuchowe lub łatwo zapalne określone w § 19 ust. 1,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-23j.png"/>
+                <p style="margin-bottom:30px">10) T-23j -- pojazd przewożący towary, które mogą skazić wodę, określone w § 19 ust. 3,</p>
+            </div>
+
+            3. Znak B-26 „zakaz wyprzedzania przez samochody ciężarowe” zabrania wyprzedzania pojazdów silnikowych wielośladowych kierującemu:
+            <br/>1) samochodem ciężarowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t,
+            <br/>2) ciągnikiem samochodowym,
+            <br/>3) pojazdem specjalnym lub używanym do celów specjalnych - o dopuszczalnej masie całkowitej przekraczającej 3,5 t.
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_em.png"/>
+                <div>em</div>
+            </div>
+            <p class="hyphenate"><a name="23.4"></a>4. Znak B-27 „koniec zakazu wyprzedzania” oznacza koniec obowiązywania zakazu określonego znakiem B-25.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-27.png"/>
+                <div>B-27</div>
+            </div>
+            <p class="hyphenate"><a name="23.5"></a>5. Znak B-28 „koniec zakazu wyprzedzania przez samochody ciężarowe” oznacza koniec obowiązywania zakazu określonego znakiem B-26.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-28.png"/>
+                <div>B-28</div>
+            </div>
+            <p class="hyphenate"><a name="24"></a><strong>§ 24.</strong></p>
+            <p class="hyphenate"><a name="24.1"></a>1. Znak B-29 „zakaz używania sygnałów dźwiękowych” zabrania używania tych sygnałów, chyba że jest to konieczne w celu ostrzeżenia o bezpośrednim zagrożeniu bezpieczeństwa ruchu.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-29.png"/>
+                <div>B-29</div>
+            </div>
+            <p class="hyphenate"><a name="24.2"></a>2. Znak B-30 „koniec zakazu używania sygnałów dźwiękowych” oznacza koniec obowiązywania zakazu określonego znakiem B-29.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-30.png"/>
+                <div>B-30</div>
+            </div>
+            <p class="hyphenate"><a name="25"></a><strong>§ 25.</strong></p>
+            <p class="hyphenate"> Znak B-31 „pierwszeństwo dla nadjeżdżających z przeciwka” zabrania kierującym wjazdu lub wejścia na zwężony odcinek jezdni, jeżeli zmusiłoby to kierujących znajdujących się na tym odcinku lub zbliżających się do
+                niego z przeciwnej strony do zatrzymania się.
+
+            </p>
+            <p class="hyphenate"><a name="26"></a><strong>§ 26.</strong></p>
+            <p class="hyphenate"><a name="26.1"></a>1. Znak B-32 „stój - kontrola celna” oznacza obowiązek zatrzymania się. Zamiast napisu „Cło-Zoll” na znaku mogą być umieszczone napisy „Kontrola graniczna”, „Rogatka uszkodzona”, „Sygnalizacja
+                uszkodzona”, „Wjazd na prom”, „Kontrola drogowa” lub „Pobór opłat” - odpowiednio do przyczyny zatrzymania.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-32.png"/>
+                <div>B-32</div>
+            </div>
+            <p class="hyphenate"><a name="26.2"></a>2. Zatrzymanie powinno nastąpić w miejscu wyznaczonym w tym celu, a jeżeli nie jest ono wyznaczone - przed znakiem. Dalszy ruch może nastąpić za zgodą uprawnionej osoby lub po nadaniu sygnału
+                zezwalającego na ruch.</p>
+            <p class="hyphenate"><a name="27"></a><strong>§ 27.</strong></p>
+            <p class="hyphenate"><a name="27.1"></a>1. Znak B-33 „ograniczenie prędkości” oznacza zakaz przekraczania prędkości określonej na znaku liczbą kilometrów na godzinę. Dopuszczalna prędkość określona na znaku obowiązuje, z zastrzeżeniem
+                ust. 4 i § 32, do miejsca:
+                <br/>1) wprowadzenia innej dopuszczalnej prędkości znakiem B-33 lub B-43,
+                <br/>2) umieszczenia znaku D-40 oznaczającego początek strefy zamieszkania,
+            </p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-33.png"/>
+                <div>B-33</div>
+            </div>
+            <p class="hyphenate"><a name="27.2"></a>2. Umieszczona pod znakiem B-33 tabliczka, o której mowa w § 23 ust. 2, wskazuje, że ograniczenie prędkości dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce.</p>
+            <p class="hyphenate"><a name="27.3"></a>3. Znak B-33 , określający dopuszczalną prędkość większą niż 60 km/h, umieszczony na obszarze zabudowanym, dotyczy samochodu osobowego, motocykla i samochodu ciężarowego o dopuszczalnej masie
+                całkowitej nieprzekraczającej 3,5 t, z wyjątkiem:
+                <br/>1) pojazdu przewożącego towary niebezpieczne,
+                <br/>2) pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia kierującego, o którym mowa w art. 20 ust. 6 pkt 2 ustawy,
+                <br/>3) pojazdu holującego pojazd silnikowy, o którym mowa w art. 31 ust. 1 pkt 1 ustawy,
+                <br/>4) motocykla, którym przewozi się dziecko w wieku do lat 7, o którym mowa w art. 20 ust. 6 pkt 3 ustawy,
+                <br/>5) samochodu ciężarowego przewożącego osoby poza kabiną kierowcy, o którym mowa w art. 63 ust. 2 pkt 4 ustawy.
+            </p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-33.png"/>
+                <div>B-33</div>
+            </div>
+            <p class="hyphenate"><a name="27.4"></a>4. Znak B-34 „koniec ograniczenia prędkości” oznacza odwołanie ograniczenia prędkości wprowadzonego znakiem B-33.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-34.png"/>
+                <div>B-34</div>
+            </div>
+            <p class="hyphenate"><a name="28"></a><strong>§ 28.</strong></p>
+            <p class="hyphenate"><a name="28.1"></a>1. Znak B-35 „zakaz postoju” oznacza zakaz postoju pojazdu; dopuszczalny czas unieruchomienia pojazdu dłuższy niż jedna minuta jest wskazany napisem na znaku albo na umieszczonej pod nim
+                tabliczce.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-35.png"/>
+                <div>B-35</div>
+            </div>
+            <p class="hyphenate"><a name="28.2"></a>2. Znak B-36 „zakaz zatrzymywania się” oznacza zakaz zatrzymania pojazdu.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-36.png"/>
+                <div>B-36</div>
+            </div>
+            <p class="hyphenate"><a name="28.3"></a>3. Zakaz wyrażony znakiem B-35 lub B-36:
+                <br/>1) dotyczy tej strony drogi, po której znak się znajduje, z wyjątkiem miejsc, gdzie za pomocą znaku dopuszcza się postój lub zatrzymanie,
+                <br/>2) dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy,
+                <br/>3) nie dotyczy pojazdów unieruchomionych ze względu na warunki lub przepisy ruchu drogowego.
+            </p>
+            <p class="hyphenate"><a name="28.4"></a>4. Zakaz wyrażony znakiem B-36 obowiązuje, z zastrzeżeniem § 32 ust. 2, do odwołania lub do miejsca umieszczenia znaku B-35.</p>
+            <p class="hyphenate"><a name="28.5"></a>5. Umieszczona pod znakiem B-35 lub B-36 tabliczka T-24 wskazuje, że pojazd pozostawiony w miejscu, w którym obowiązuje zakaz wyrażony tym znakiem, zostanie usunięty z drogi na koszt
+                właściciela.</p>
+            <p class="hyphenate"><a name="28.6"></a>6. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_b-37.png"/>
+                <p style="margin-bottom:30px">1) B-37 „zakaz postoju w dni nieparzyste”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_b-38.png"/>
+                <p style="margin-bottom:30px">2) B-38 „zakaz postoju w dni parzyste”</p>
+            </div>
+            <p>Oznaczają zakaz postoju pojazdów odpowiednio w nieparzyste lub parzyste dni miesiąca; zakaz nie obowiązuje od godziny 21 do 24; przepisy ust. 1 i 3-5 stosuje się odpowiednio do tych znaków.</p>
+            <p class="hyphenate"><a name="28.7"></a>7. Umieszczone pod znakiem B-35, B-36, B-37 lub B-38 tabliczki wskazują:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-25a.png"/>
+                <p style="margin-bottom:30px">1) T-25a - początek zakazu wyrażonego znakiem,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-25b.png"/>
+                <p style="margin-bottom:30px">2) T-25b - kontynuację zakazu wyrażonego znakiem,</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_t-25c.png"/>
+                <p style="margin-bottom:30px">3) T-25c - odwołanie zakazu wyrażonego znakiem.</p>
+            </div>
+            </p>
+            </p></p></p></p></div>
+        <p class="hyphenate"><a name="28.8"></a>8. Znak B-35, B-36, B-37 lub B-38 wraz z tabliczką T-26, umieszczony na placu równolegle do krawędzi jezdni, oznacza, że zakaz wyrażony tym znakiem dotyczy strony placu, przy której został
+            ustawiony.</p>
+        <p class="hyphenate"><a name="29"></a><strong>§ 29.</strong></p>
+        <p class="hyphenate"><a name="29.1"></a>1. Znak B-39 „strefa ograniczonego postoju” oznacza wjazd do strefy, w której obowiązuje zakaz postoju pojazdów na wszystkich drogach; dopuszczalny czas unieruchomienia pojazdu dłuższy niż jedna
+            minuta jest wskazany napisem na znaku.</p>
+        <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-39.png"/>
+            <div>B-39</div>
+        </div>
+        <p class="hyphenate"><a name="29.2"></a>2. Znak B-39 nie dotyczy:
+            <br/>1) pojazdu komunikacji publicznej zatrzymującego się na wyznaczonym dla niego miejscu,
+            <br/>2) pojazdu zatrzymującego się w miejscu oznaczonym znakiem D-18, D-18a, D-18b lub D-44,
+            <br/>3) pojazdu unieruchomionego ze względu na warunki lub przepisy ruchu drogowego,
+            <br/>4) autobusu szkolnego.
+        </p>
+        <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-39.png"/>
+            <div>B-39</div>
+        </div>
+        <p class="hyphenate"><a name="29.3"></a>3. Znak B-40 „koniec strefy ograniczonego postoju” oznacza wyjazd ze strefy ograniczonego postoju.</p>
+        <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-40.png"/>
+            <div>B-40</div>
+        </div>
+        <p class="hyphenate"><a name="30"></a><strong>§ 30.</strong></p>
+        <p class="hyphenate"> Znak B-41 „zakaz ruchu pieszych” oznacza zakaz ruchu pieszych po tej stronie drogi, po której znak jest umieszczony.
+
+        </p>
+        <p class="hyphenate"><a name="31"></a><strong>§ 31.</strong></p>
+        <p class="hyphenate"><a name="31.1"></a>1. Znak B-43 „strefa ograniczonej prędkości” oznacza wjazd do strefy, w której obowiązuje zakaz przekraczania prędkości określonej na znaku liczbą kilometrów na godzinę.</p>
+        <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-43.png"/>
+            <div>B-43</div>
+        </div>
+        <p class="hyphenate"><a name="31.2"></a>2. Znak B-43, określający dopuszczalną prędkość mniejszą lub równą 30 km/h, oznacza ponadto, że umieszczone w strefie urządzenia i rozwiązania wymuszające powolną jazdę mogą nie być oznakowane
+            znakami ostrzegawczymi.</p>
+        <p class="hyphenate"><a name="31.3"></a>3. Znak B-44 „koniec strefy ograniczonej prędkości” oznacza wyjazd ze strefy ograniczonej prędkości.</p>
+        <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-44.png"/>
+            <div>B-44</div>
+        </div>
+        <p class="hyphenate"><a name="32"></a><strong>§ 32.</strong></p>
+        <p class="hyphenate"><a name="32.1"></a>1. Znak B-42 „koniec zakazów” oznacza odwołanie zakazów wyrażonych znakami: B-23, B-25, B-26, B-29 i B-33.</p>
+        <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_b-42.png"/>
+            <div>B-42</div>
+        </div>
+        <p class="hyphenate"><a name="32.2"></a>2. Jeżeli zakaz wyrażony przez znaki B-25, B-26, B-29, B-33, B-35, B-36, B-37 i B-38 nie jest uprzednio odwołany znakiem oznaczającym koniec zakazu, to obowiązuje on do najbliższego
+            skrzyżowania; nie dotyczy to skrzyżowania na drodze dwujezdniowej, na którym wlot drogi poprzecznej znajduje się tylko z lewej strony i nie ma połączenia z prawą jezdnią.</p>
+        <p class="hyphenate"><a name="33"></a><strong>§ 33.</strong></p>
+        <p class="hyphenate"><a name="33.1"></a>1. Kierujący pojazdem wykonującym na drodze prace porządkowe, remontowe lub modernizacyjne może nie stosować się do zakazów wyrażonych znakami B-1, B-3, B-5, B-6 i B-7 podczas wykonywania prac
+            na drodze lub dojazdu do miejsca ich wykonywania znajdującego się na obszarze lub na drodze objętej za-
+
+
+            kazem, pod warunkiem używania żółtych sygnałów błyskowych i zachowania szczególnej ostrożności.</p>
+        <p class="hyphenate"><a name="33.2"></a>2. Uprawniona osoba niepełnosprawna o obniżonej sprawności ruchowej, kierująca pojazdem samochodowym, oraz kierujący pojazdem przewożący taką osobę mogą, pod warunkiem zachowania szczególnej
+            ostrożności, nie stosować się do zakazów wyrażonych znakami: B-1, B-3, B-3a, B-4, B-10, B-35, B-37, B-38 i B-39.</p>
+        <p class="hyphenate"><a name="34"></a><strong>§ 34.</strong></p>
+        <p class="hyphenate"> Przepis § 28 stosuje się odpowiednio do znaków zakazu. </p>
+    </div>
+</div>
+
+6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/de/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Zurück zu Fragen"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Verkehrsregeln"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Znaki zakazu"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Znaki zakazu | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Znaki zakazu"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","de","references","znaki_kolejowe",""],"q":"","i":false,"f":[[["",{"children":[["locale","de","d"],{"children":["references",{"children":[["page","znaki_kolejowe","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"de"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/de/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Nutzungsbedingungen"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/de/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Datenschutzrichtlinie"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Führerschein. Alle Rechte vorbehalten."}]]}]}]}]]}]
+11:T2118,
+            <h2 style="margin:0"><span class="small-caps">Dodatkowe znaki przed przejazdami kolejowymi</span></h2>
+            <p class="hyphenate"><a name="78"></a><strong>§ 78.</strong></p>
+            <p class="hyphenate"><a name="78.1"></a>1. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_g-1a.png"/>
+                <p style="margin-bottom:30px">1) G-1a „słupek wskaźnikowy z trzema kreskami umieszczany po prawej stronie jezdni”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_g-1b.png"/>
+                <p style="margin-bottom:30px">2) G-1b „słupek wskaźnikowy z dwiema kreskami umieszczany po prawej stronie jezdni”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_g-1c.png"/>
+                <p style="margin-bottom:30px">3) G-1c „słupek wskaźnikowy z jedną kreską umieszczany po prawej stronie jezdni”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_g-1d.png"/>
+                <p style="margin-bottom:30px">4) G-1d „słupek wskaźnikowy z trzema kreskami umieszczany po lewej stronie jezdni”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_g-1e.png"/>
+                <p style="margin-bottom:30px">5) G-1e „słupek wskaźnikowy z dwiema kreskami umieszczany po lewej stronie jezdni”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_g-1f.png"/>
+                <p style="margin-bottom:30px">6) G-1f „słupek wskaźnikowy z jedną kreską umieszczany po lewej stronie jezdni”</p>
+            </div>
+            <p>Informują o zbliżaniu się do przejazdu kolejowego.</p>
+            <p class="hyphenate"><a name="78.2"></a>2. Słupek z trzema kreskami jest umieszczany pod znakiem A-9 lub A-10, słupek z dwiema kreskami - na 2/3 odległości znaku ostrzegawczego od przejazdu, a słupek z jedną kreską - na 1/3 tej
+                odległości.</p>
+            <p class="hyphenate"><a name="78.3"></a>3. Jeżeli ze względu na warunki lokalne znaki ostrzegawcze umieszczono bliżej niż w odległości, o której mowa w dziale 'Znaki ostrzegawcze' w § 78 ust. 2, to pod znakiem ostrzegawczym umieszcza się słupek z dwiema kreskami, a
+                słupek z jedną kreską na 1/2 odległości znaku ostrzegawczego. Jeżeli znak ostrzegawczy umieszczono w bezpośredniej bliskości przejazdu, to stosuje się tylko słupek z jedną kreską umieszczony pod znakiem ostrzegawczym.</p>
+            <p class="hyphenate"><a name="78.4"></a>4. Znak G-2 „sieć pod napięciem” oznacza, że nad przejazdem kolejowym jest zawieszona sieć trakcyjna pod napięciem.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_g-2.png"/>
+                <div>G-2</div>
+            </div>
+            <p class="hyphenate"><a name="78.5"></a>5. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_g-3.png"/>
+                <p style="margin-bottom:30px">1) G-3 „krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_g-4.png"/>
+                <p style="margin-bottom:30px">2) G-4 „krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym”</p>
+            </div>
+            <p>Wyznaczają miejsce zatrzymania się w związku z ruchem pociągu lub innego pojazdu szynowego na przejeździe kolejowym bez zapór lub półzapór; znaki te informują, że na przejeździe występują odpowiednio jeden lub więcej torów.</p>
+            <p class="hyphenate"><a name="79"></a><strong>§ 79.</strong></p>
+            <p class="hyphenate"><a name="79.1"></a>1. Znak AT-1 „sygnalizacja świetlna” ostrzega o zbliżaniu się do miejsca, w którym ruch tramwajów jest kierowany za pomocą trójbarwnej sygnalizacji świetlnej.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_at-1.png"/>
+                <div>AT-1</div>
+            </div>
+            <p class="hyphenate"><a name="79.2"></a>2. Znak AT-2 „sygnalizacja świetlna wzbudzana” ostrzega o zbliżaniu się do skrzyżowania, na którym tramwaj wzbudza wydzieloną dla siebie fazę.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_at-2.png"/>
+                <div>AT-2</div>
+            </div>
+            <p class="hyphenate"><a name="79.3"></a>3. Znak AT-3 „niebezpieczny zjazd” ostrzega o znacznym spadku podłużnym toru tramwajowego, o wartości podanej na znaku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_at-3.png"/>
+                <div>AT-3</div>
+            </div>
+            <p class="hyphenate"><a name="79.4"></a>4. Znak AT-4 „stromy podjazd” ostrzega o znacznym wzniesieniu toru tramwajowego, o wartości podanej na znaku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_at-4.png"/>
+                <div>AT-4</div>
+            </div>
+            <p class="hyphenate"><a name="79.5"></a>5. Znak AT-5 „ruch kolizyjny” ostrzega o zbliżaniu się do skrzyżowania z sygnalizacją świetlną, na którym skręcający motorniczy, opuszczając skrzyżowanie, jest obowiązany ustąpić pierwszeństwa
+                uczestnikom ruchu poruszającym się w kierunku na wprost.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_at-5.png"/>
+                <div>AT-5</div>
+            </div>
+            <p class="hyphenate"><a name="80"></a><strong>§ 80.</strong></p>
+            <p class="hyphenate"> Znaki, o których mowa w § 79:
+                <br/>1) są umieszczane po prawej stronie toru, nad torem przeznaczonym dla danego kierunku ruchu albo między torami na słupach sieci trakcyjnej - w odległości od 50 m do 200 m od miejsca niebezpiecznego,
+                <br/>2) zobowiązują kierujących tramwajami jadących torem, przy którym są umieszczone, do zachowania szczególnej ostrożności.
+
+            </p>
+            <p class="hyphenate"><a name="81"></a><strong>§ 81.</strong></p>
+            <p class="hyphenate"><a name="81.1"></a>1. Znak BT-1 „ograniczenie prędkości” oznacza zakaz przekraczania prędkości określonej na znaku liczbą kilometrów na godzinę przez kierującego tramwajem jadącego torem, przy którym jest on
+                umieszczony.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_bt-1.png"/>
+                <div>BT-1</div>
+            </div>
+            <p class="hyphenate"><a name="81.2"></a>2. Zakaz wyrażony znakiem BT-1 obowiązuje od miejsca umieszczenia znaku do najbliższego skrzyżowania (rozwidlenia) torów lub miejsca ustawienia znaku BT-2 „koniec ograniczenia prędkości”.</p>
+            <p class="hyphenate"><a name="81.3"></a>3. Znak BT-3 „blokada zwrotnicy” oznacza zakaz wjazdu kierującego tramwajem pod urządzenie sterujące zwrotnicą, aż poprzedni tramwaj nie opuści zwrotnicy.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_bt-3.png"/>
+                <div>BT-3</div>
+            </div>
+            <p class="hyphenate"><a name="81.4"></a>4. Znak BT-4 „stop - zwrotnica eksploatowana jednostronnie” oznacza zakaz wjazdu kierującego tramwajem na zwrotnicę bez zatrzymania się przed zwrotnicą i obowiązek sprawdzenia, czy położenie
+                iglicy jest prawidłowe.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_bt-4.png"/>
+                <div>BT-4</div>
+            </div>
+            <p class="hyphenate"><a name="82"></a><strong>§ 82.</strong></p>
+            <p class="hyphenate"> Znaki, o których mowa w § 81, są umieszczane nad torem lub po prawej stronie toru przeznaczonego dla danego kierunku ruchu.
+
+            </p></p></p>6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/de/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Zurück zu Fragen"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Verkehrsregeln"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Znaki kolejowe"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Znaki kolejowe | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Znaki kolejowe"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

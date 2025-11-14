@@ -15,7 +15,7 @@
 
 # next.js
 /.next/
-/out/
+# /out/ - Uncommented to commit pre-built static output for Vercel
 
 # production
 /build

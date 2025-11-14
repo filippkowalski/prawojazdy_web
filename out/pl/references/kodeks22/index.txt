@@ -1,0 +1,240 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","pl","references","kodeks22",""],"q":"","i":false,"f":[[["",{"children":[["locale","pl","d"],{"children":["references",{"children":[["page","kodeks22","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"pl"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/pl/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Regulamin"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/pl/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Polityka prywatności"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Prawo Jazdy. Wszelkie prawa zastrzeżone."}]]}]}]}]]}]
+11:T46cd,
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140aa.</strong><br/> 1. Za przejazd po drogach publicznych pojazdów nienormatywnych
+                    bez zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, lub niezgodnie z warunkami
+                    określonymi dla tego zezwolenia nakłada się karę pieniężną, w drodze decyzji
+                    administracyjnej.
+                    <br/><br/>1a. W przypadku braku:
+                    <br/>1) wymaganej liczby pojazdów wykonujących pilotowanie,
+                    <br/>2) wymaganego wyposażenia lub oznakowania pojazdu wykonującego
+                    pilotowanie,
+                    <br/>3) wymaganego szkolenia, o którym mowa w art. 6 ust. 3a, przez pilota
+                    – nakłada się karę pieniężną, w drodze decyzji administracyjnej.
+                    <br/><br/>2. Decyzję administracyjną o nałożeniu kary pieniężnej, o której mowa w ust. 1
+                    i 1a, wydaje właściwy ze względu na miejsce przeprowadzanej kontroli organ Policji,
+                    Inspekcji Transportu Drogowego, Straży Granicznej, naczelnik urzędu celno-
+                    skarbowego lub zarządca drogi.
+                    <br/><br/>3. Karę pieniężną, o której mowa w ust. 1, nakłada się na:
+                    <br/>1) podmiot wykonujący przejazd;
+                    <br/>2) podmiot wykonujący czynności ładunkowe, jeżeli wykonał te czynności w
+                    sposób powodujący przekroczenie któregokolwiek z wymiarów, nacisków osi
+                    lub masy całkowitej pojazdu lub zespołu pojazdów, w stosunku do wartości
+                    dopuszczalnych lub wartości określonych w zezwoleniu, o którym mowa w art.
+                    64 ust. 1 pkt 1, jeżeli okoliczności lub dowody wskazują, że podmiot ten miał
+                    wpływ lub godził się na powstanie naruszenia określonego w ust. 1;
+                    <br/>3) podmiot wykonujący inne niż wymienione w pkt 2 czynności związane z
+                    przejazdem pojazdu nienormatywnego, w szczególności na organizatora
+                    transportu, nadawcę, odbiorcę lub spedytora, jeżeli okoliczności lub dowody
+                    wskazują, że podmiot ten miał wpływ lub godził się na powstanie naruszenia
+                    określonego w ust. 1.
+                    <br/><br/>3a. Karę pieniężną, o której mowa w ust. 1a, nakłada się na:
+                    <br/>1) podmiot wykonujący przejazd – w przypadku, o którym mowa w ust. 1a pkt 1; 2) podmiot wykonujący pilotowanie – w przypadku, o którym mowa w ust. 1a pkt
+                    2 i 3.
+                    <br/><br/>3b. Kary, o której mowa w ust. 1, za przejazd pojazdu nienormatywnego bez
+                    zezwolenia kategorii V albo z przekroczonymi parametrami technicznymi pojazdu
+                    wskazanymi w tym zezwoleniu, w zakresie dopuszczalnego nacisku pojedynczej osi
+                    napędowej nie nakłada się, w przypadku gdy kontrolujący stwierdził jednoczesne
+                    naruszenie zakazu, o którym mowa w art. 41 ust. 2 albo art. 41a ust. 1 ustawy z dnia
+                    21 marca 1985 r. o drogach publicznych, albo przekroczenie dopuszczalnego nacisku
+                    pojedynczej osi napędowej, o którym mowa w art. 41b ust. 1 albo 3 tej ustawy.
+                    <br/><br/>4. Nie wszczyna się postępowania w sprawie nałożenia kary pieniężnej, o której
+                    mowa w ust. 1 i ust. 1a pkt 1, wobec podmiotu wykonującego przejazd, a postępowanie
+                    wszczęte w tej sprawie umarza się, jeżeli:
+                    <br/>1) okoliczności sprawy i dowody wskazują, że ten podmiot:
+                    a) dochował należytej staranności w realizacji czynności związanych z
+                    przejazdem,
+                    b) nie miał wpływu na powstanie naruszenia, lub
+                    <br/>2) rzeczywista masa całkowita pojazdu nienormatywnego nie przekracza
+                    dopuszczalnej wielkości lub wielkości określonej w zezwoleniu, o którym mowa
+                    w art. 64 ust. 1 pkt 1, a przekroczenie dotyczy wyłącznie nacisku osi pojazdu
+                    w przypadku przewozu ładunków sypkich oraz drewna.
+                    <br/><br/>5. Nie wszczyna się postępowania w sprawie nałożenia kary pieniężnej, o której
+                    mowa w ust. 1, wobec podmiotu wykonującego przejazd oraz inne czynności
+                    związane z przejazdem drogowym pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
+                    <br/><br/>6. W przypadku stwierdzenia przejazdu po drogach publicznych pojazdów
+                    nienormatywnych należących do Sił Zbrojnych Rzeczypospolitej Polskiej bez
+                    zezwolenia lub niezgodnie z warunkami określonymi dla tego zezwolenia organ
+                    kontroli, o którym mowa w ust. 2, powiadamia właściwy terytorialnie ze względu na
+                    miejsce przeprowadzenia kontroli organ Żandarmerii Wojskowej.
+                    <br/><br/>7. Organ Żandarmerii Wojskowej, o którym mowa w ust. 6, występuje do
+                    dowódcy jednostki wojskowej organizującej przejazd drogowy lub do jego
+                    przełożonego z wnioskiem o wszczęcie postępowania dyscyplinarnego, na zasadach
+                    określonych w ustawie z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U.
+                    z 2019 r. poz. 1508 i 2020). </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140ab.</strong><br/> 1. Karę pieniężną, o której mowa w art. 140aa ust. 1, ustala się
+                    w wysokości:
+                    <br/>1) 1500 zł – za brak zezwolenia kategorii I;
+                    <br/>2) 5000 zł – za brak zezwolenia kategorii II–IV;
+                    <br/>3) za brak zezwolenia kategorii V:
+                    a) 6000 zł – gdy nacisk jednej lub wielu osi, rzeczywista masa całkowita lub
+                    wymiary pojazdu przekraczają dopuszczalne wartości nie więcej niż o 10%,
+                    b) 10 000 zł – gdy nacisk jednej lub wielu osi, rzeczywista masa całkowita lub
+                    wymiary pojazdu przekraczają dopuszczalne wartości o więcej niż 10% i
+                    nie więcej niż 20%,
+                    c) 15 000 zł – w pozostałych przypadkach;
+                    <br/>4) 5000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt bez
+                    potwierdzonego zawiadomienia zarządcy drogi, o którym mowa w art. 64c
+                    ust. 9;
+                    <br/>5) 3000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt
+                    niezgodnie z warunkami określonymi przez zarządcę drogi, o którym mowa
+                    w art. 64c ust. 9;
+                    <br/>6) 6000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt przy
+                    zgłoszonym przez zarządcę drogi sprzeciwie, o którym mowa w art. 64c ust. 10;
+                    <br/>7) 2000 zł – za niedotrzymanie warunków przejazdu określonych dla zezwolenia
+                    kategorii V lub podanych w tym dokumencie, innych niż parametry techniczne
+                    pojazdu lub zespołu pojazdów.
+                    <br/><br/>2. W przypadku naruszeń zakazu, o którym mowa w art. 64 ust. 2, za przejazd
+                    pojazdem nienormatywnym nakłada się karę jak za przejazd bez zezwolenia.
+                    <br/><br/>3. Karę pieniężną, o której mowa w art. 140aa ust. 1a, ustala się w wysokości:
+                    <br/>1) 3000 zł – za brak wymaganej liczby pojazdów wykonujących pilotowanie;
+                    <br/>2) 2000 zł – za brak wymaganego wyposażenia lub oznakowania pojazdu
+                    wykonującego pilotowanie;
+                    <br/>3) 2000 zł – za brak wymaganego szkolenia, o którym mowa w art. 6 ust. 3a.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140ac.</strong><br/> 1. Od decyzji o wymierzeniu kary pieniężnej, o której mowa w art.
+                    140aa ust. 1 i 1a, przysługuje odwołanie do organu nadrzędnego w stosunku do organu,
+                    który tę karę wymierzył, w terminie 14 dni od dnia doręczenia decyzji. 2. Decyzja ostateczna podlega wykonaniu po upływie 30 dni od jej doręczenia,
+                    chyba że wstrzymano jej wykonanie. Organ kontroli, który wydał decyzję ostateczną,
+                    z urzędu wstrzymuje jej wykonanie, w drodze postanowienia, na które nie przysługuje
+                    zażalenie, w razie wniesienia skargi do sądu administracyjnego.
+                    <br/><br/>3. Karę pieniężną uiszcza się w formie przekazu na wskazany w decyzji
+                    rachunek bankowy. Koszty związane z jej przekazaniem pokrywa obowiązany
+                    podmiot.
+                    <br/><br/>4. Kara pieniężna, o której mowa w ust. 2, podlega przymusowemu ściągnięciu
+                    w trybie określonym w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu
+                    egzekucyjnym w administracji.
+                    <br/><br/>5. Obowiązek uiszczenia kary pieniężnej, o której mowa w ust. 2, przedawnia się
+                    z upływem 5 lat, licząc od końca roku kalendarzowego, w którym kara powinna zostać
+                    uiszczona.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140ad.</strong><br/> 1. W przypadku gdy podczas kontroli zostanie stwierdzone
+                    naruszenie, o którym mowa w art. 140aa ust. 1, przez zagraniczny podmiot mający
+                    siedzibę w państwie, z którym Rzeczpospolita Polska nie jest związana umową
+                    o wzajemnej egzekucji kar pieniężnych, osoba przeprowadzająca kontrolę pobiera
+                    kaucję w wysokości odpowiadającej przewidywanej karze pieniężnej.
+                    <br/><br/>2. Kaucję pobiera się:
+                    <br/>1) podczas kontroli na drodze – w formie gotówkowej, za pokwitowaniem na druku
+                    ścisłego zarachowania, lub za pomocą karty płatniczej;
+                    <br/>2) w terminie późniejszym – w formie przelewu na wyodrębniony rachunek
+                    bankowy organu prowadzącego postępowanie administracyjne w sprawie
+                    o nałożenie kary, a w przypadku poboru kaucji przez naczelnika urzędu celno-
+                    -skarbowego – na wyodrębniony rachunek bankowy urzędu skarbowego
+                    określony w przepisach odrębnych, przy czym koszty przelewów ponosi
+                    obowiązany podmiot.
+                    <br/><br/>3. Kaucja przechowywana jest na nieoprocentowanym rachunku bankowym,
+                    o którym mowa w ust. 2 pkt 2. Koszty związane z uiszczeniem kaucji w formie
+                    przelewu na rachunek bankowy lub za pomocą karty płatniczej – związane
+                    z autoryzacją transakcji i przekazem środków na właściwy rachunek bankowy –
+                    pokrywa obowiązany podmiot.
+                    <br/><br/>4. Kaucję przekazuje się:<br/> 1) na rachunek bankowy określony w decyzji o nałożeniu kary, w terminie,
+                    o którym mowa w art. 140 ac ust. 2, albo
+                    <br/>2) na rachunek bankowy podmiotu, który ją wpłacił, w terminie 7 dni od dnia
+                    uprawomocnienia się decyzji lub orzeczenia uchylającego decyzję o nałożeniu
+                    kary pieniężnej.
+                    <br/><br/>5. W przypadku gdy wysokość nałożonej kary jest mniejsza od wysokości
+                    pobranej kaucji, do powstałej różnicy stosuje się odpowiednio przepis ust. 4 pkt 2.
+                    <br/><br/>6. Odpowiedzialność za szkody spowodowane ruchem pojazdów
+                    nienormatywnych ponosi wykonujący przejazd pojazdem nienormatywnym.
+                    <br/><br/>7. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie, o którym
+                    mowa w art. 140aa ust. 1 lub 1a, przez podmiot, o którym mowa w ust. 1, osoba
+                    przeprowadzająca kontrolę na drodze zatrzymuje, za pokwitowaniem, dokumenty
+                    dotyczące przejazdu pojazdu nienormatywnego oraz dowód rejestracyjny (pozwolenie
+                    czasowe) pojazdu i usuwa pojazd, na koszt podmiotu wykonującego przejazd
+                    pojazdem nienormatywnym, na parking strzeżony, o którym mowa w art. 130a ust. 5c,
+                    a jeżeli ze względu na wymiary lub masę pojazdu umieszczenie pojazdu na tym
+                    parkingu jest niemożliwe – na inny, w miarę możliwości najbliższy parking strzeżony,
+                    jeżeli:
+                    <br/>1) nie pobrano kaucji lub
+                    <br/>2) nie usunięto stwierdzonego naruszenia.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140ae.</strong><br/> 1. Kary pieniężne, o których mowa w art. 140aa ust. 1 i 1a, są
+                    przekazywane odpowiednio do budżetów jednostek samorządu terytorialnego lub na
+                    wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad.
+                    <br/><br/>2. Środki z tytułu kar gromadzone na wyodrębnionym rachunku bankowym
+                    Generalnej Dyrekcji Dróg Krajowych i Autostrad są przekazywane w terminie
+                    pierwszych 2 dni roboczych po upływie tygodnia, w którym wpłynęły, na rachunek
+                    Krajowego Funduszu Drogowego, z przeznaczeniem na budowę lub przebudowę dróg
+                    krajowych, drogowych obiektów inżynierskich i przepraw promowych oraz na zakup
+                    urządzeń do ważenia pojazdów.
+                    <br/><br/>3. Urzędy celno-skarbowe otrzymują prowizję od pobranych kar pieniężnych w
+                    wysokości 12% nałożonej kary.
+                    <br/><br/>4. Prowizja, o której mowa w ust. 3, stanowi dochód budżetu państwa. 4a. Wojewódzkie inspektoraty transportu drogowego otrzymują prowizję od
+                    pobranych kar pieniężnych w wysokości 12% nałożonej kary. Prowizja stanowi
+                    wpływ Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z
+                    dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze
+                    użyteczności publicznej (Dz. U. poz. 1123, z 2020 r. poz. 875, 1565, 1747 i 2338 oraz
+                    z 2021 r. poz. 223).
+                    <br/><br/>5. Od kar pieniężnych urzędy celno-skarbowe i wojewódzkie inspektoraty
+                    transportu drogowego odliczają prowizję, a pozostałą część kary, w terminie 4 dni po
+                    upływie każdych kolejnych 10 dni miesiąca, przekazują odpowiednio do podmiotów
+                    wymienionych w ust. 1.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140af.</strong><br/> 1. Grzywny, o których mowa w art. 96 § 3 ustawy z dnia 20 maja
+                    1971 r. – Kodeks wykroczeń, pobierane przez organy Inspekcji Transportu
+                    Drogowego, nakładane na właściciela lub posiadacza pojazdu, o których mowa w art.
+                    78 ust. 4 i 5 ustawy, stanowią wpływy Funduszu rozwoju przewozów autobusowych
+                    o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019
+                    <br/><br/>r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności
+                    publicznej.
+                    <br/><br/>2. Kary porządkowe, o których mowa w art. 49 § 1 i 2 ustawy z dnia 24 sierpnia
+                    2001 r. – Kodeks postępowania w sprawach o wykroczenia, pobierane przez organy
+                    Inspekcji Transportu Drogowego, nakładane na osoby, o których mowa w art. 78 ust.
+                    4 i 5 ustawy, stanowią wpływy Funduszu rozwoju przewozów autobusowych o
+                    charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019
+                    <br/><br/>r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności
+                    publicznej.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140ag.</strong><br/> 1. Grzywny, o których mowa w art. 86, art. 86b, art. 87, art. 90,
+                    art. 92, art. 92a § 2, art. 92b, art. 94 § 1–2, art. 96 § 1 pkt 2 i 3 oraz art. 97a ustawy
+                    z dnia 20 maja 1971 r. – Kodeks wykroczeń, stanowią wpływy Krajowego Funduszu
+                    Drogowego.
+                    <br/><br/>2. Właściwy naczelnik urzędu skarbowego oraz Główny Inspektor Transportu
+                    Drogowego przekazują kwoty z grzywien, o których mowa w ust. 1, w terminie
+                    pierwszych dwóch dni roboczych po zakończeniu tygodnia, w którym wpłynęły, na
+                    rachunek Krajowego Funduszu Drogowego z przeznaczeniem na finansowanie:<br/> 1) zadań inwestycyjnych związanych z poprawą bezpieczeństwa ruchu drogowego
+                    na drogach krajowych;
+                    <br/>2) budowy lub przebudowy dróg krajowych.
+                </p>
+            </div>
+        </div>
+        <div class="popups">
+        6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/pl/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Powrót do pytań"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Przepisy ruchu drogowego"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 22"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Kodeks drogowy - Część 22 | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Kodeks drogowy - Część 22"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

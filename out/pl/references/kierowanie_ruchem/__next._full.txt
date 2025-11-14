@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","pl","references","kierowanie_ruchem",""],"q":"","i":false,"f":[[["",{"children":[["locale","pl","d"],{"children":["references",{"children":[["page","kierowanie_ruchem","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"pl"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/pl/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Regulamin"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/pl/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Polityka prywatności"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Prawo Jazdy. Wszelkie prawa zastrzeżone."}]]}]}]}]]}]
+11:T19c4,
+<div class="page">
+    <div class="shadow"></div>
+    <div class="page__body">
+        <h2><span class="small-caps">Kierowanie ruchem przez policjanta – proste omówienie ze zdjęciami i filmem</span></h2>
+        <div class="text">
+            <div id="m_1">
+                <a name="1"></a>
+                <p class="hyphenate">W dobie niezawodnej sygnalizacji świetlnej widok policjanta kierującego ruchem
+                    należy do rzadkości - kojarzy nam się przede wszystkim z listopadowymi wyjazdami na cmentarze.
+                    Praktyka pokazuje, że mnóstwo kierowców nie ma najmniejszego pojęcia jak zachować się w momencie
+                    przejęcia kontroli nad ruchem przez policjanta! </p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>Pamiętaj!!!</strong> <br/>Polecenia i sygnały dawane przez osoby
+                    kierujące ruchem są zawsze ważniejsze niż sygnały świetlne i znaki drogowe! Mają one bezwzględny
+                    priorytet.</p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>Konsekwencje</strong> <br/>Znajomość sygnałów dawanych przez kierującego
+                    ruchem ma znaczenie nie tylko dla naszego bezpieczeństwa na drodze. Za zignorowanie lub
+                    nieprawidłowe zinterpretowanie znaków dawanych przez policjanta grozi wysoki mandat!</p>
+            </div>
+            <h3><span class="small-caps">ZASADY</span></h3>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>1. Nie wjeżdżać (czerwone światło)</strong> <br/>Odpowiednik czerwonego
+                    sygnału. Kierowcy oraz piesi, wobec których funkcjonariusz zwrócony jest tyłem lub przodem, mają
+                    zakaz wjazdu lub wejścia na skrzyżowanie.</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator1.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>2. Zmiana kierunku ruchu (żółte światło)</strong> <br/>Odpowiednik
+                    żółtego sygnału. Policjant z jedną podniesioną ręką to dla kierowców znak, że powinni zachować
+                    szczególną ostrożność – za chwilę nastąpi zmiana kierunku ruchu. Obowiązuje zakaz wjazdu na
+                    skrzyżowanie.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator2.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>3. Ruch otwarty</strong> <br/>Policjant stojący do kierującego prawym
+                    lub lewym bokiem to odpowiednik sygnału zielonego. Ruch odbywa się z prawej i lewej strony.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator3.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>4. Polecenie opuszczenia skrzyżowania</strong> <br/>Ruch otwarty dla
+                    skręcających w lewo i jadących na wprost od lewej strony funkcjonariusza. Jadący z drugiej
+                    strony policjanta mają obowiązek zatrzymać się.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator4.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>5. Polecenie opuszczenia skrzyżowania</strong> <br/>Policjant na
+                    skrzyżowaniu umożliwia kierowcom wykonanie bezpiecznego manewru skrętu – dotyczy to jednak
+                    kierowców jadących z jego prawej strony, którzy chcą skręcić w lewo.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator5.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>6. Przywołanie</strong> <br/>To rzadziej spotykany sygnał. Policjant
+                    wskazuje kierowcy miejsce na skrzyżowaniu do zatrzymania się.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator6.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>7. Zatrzymanie ruchu</strong> <br/>Ta pozycja policjanta - z wewnętrzną
+                    stroną dłoni zwróconą w stronę kierowcy - wzywa kierowcę do zatrzymania się.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator7.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <div id="m_">
+                <a name=""></a>
+                <p class="hyphenate"><strong>8. Otwarcie ruchu</strong> <br/>Znaki wykonywane przez policjanta, jak
+                    na zamieszczonej niżej fotografii, oznaczają otwarcie ruchu. Kierowcy oraz piesi, do których
+                    policjant jest ustawiony przodem lub tyłem, nie mogą się przemieszczać.
+                </p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/regulator8.png"/>
+                <p style="margin-bottom:40px"><br/></p>
+            </div>
+            <p class="hyphenate"><a href="rctpdd://open?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCkhwGpc6yNw%26ab_channel%3DPolicja%25C5%259Bwi%25C4%2599tokrzyska">Wiesz
+                jak się zachować, gdy policjant kieruje ruchem? – zobacz film przygotowany przez policję </a>
+            </p>
+            <p class="hyphenate">
+                <button class="share_btn" onclick="location.href='rctpdd://share'" type="button">Podziel się ze znajomymi</button>
+            </p>
+        </div>
+    </div>
+    <div class="popups">
+    </div>
+</div>
+
+6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/pl/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Powrót do pytań"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Przepisy ruchu drogowego"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kierowanie ruchem"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Kierowanie ruchem | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Kierowanie ruchem"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

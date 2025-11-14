@@ -1,0 +1,178 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","pl","references","kodeks20",""],"q":"","i":false,"f":[[["",{"children":[["locale","pl","d"],{"children":["references",{"children":[["page","kodeks20","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"pl"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/pl/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Regulamin"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/pl/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Polityka prywatności"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Prawo Jazdy. Wszelkie prawa zastrzeżone."}]]}]}]}]]}]
+11:T31a8,
+            <div>
+                <a name="132"></a>
+                <p class="hyphenate"><strong>Art. 132.</strong><br/> 1. Policjant, funkcjonariusz Straży Granicznej albo funkcjonariusz
+                    Służby Celno-Skarbowej zatrzyma dowód rejestracyjny (pozwolenie czasowe)
+                    w razie:
+                    <br/>1) stwierdzenia lub uzasadnionego przypuszczenia, że pojazd:
+                    a) zagraża bezpieczeństwu w szczególności po wypadku drogowym,
+                    w którym zostały uszkodzone zasadnicze elementy nośne konstrukcji
+                    nadwozia, podwozia lub ramy,
+                    b) zagraża porządkowi ruchu,
+                    c) narusza wymagania ochrony środowiska;
+                    <br/>2) stwierdzenia, że pojazd nie został poddany badaniu technicznemu
+                    w wyznaczonym terminie lub termin badania nie został wyznaczony
+                    prawidłowo;
+                    <br/>3) stwierdzenia, że badanie techniczne zostało dokonane przez jednostkę do tego
+                    nieupoważnioną; 4) uzasadnionego przypuszczenia, że dane dotyczące dowodu rejestracyjnego
+                    (pozwolenia czasowego) zawarte w centralnej ewidencji pojazdów nie
+                    odpowiadają stanowi faktycznemu.
+                    <br/><br/>1a. W stosunku do kierującego pojazdem zarejestrowanym za granicą
+                    uczestniczącym w ruchu na terytorium Rzeczypospolitej Polskiej policjant,
+                    funkcjonariusz Straży Granicznej albo funkcjonariusz Służby Celno-Skarbowej
+                    zatrzyma dowód rejestracyjny (pozwolenie czasowe) w razie:
+                    <br/>1) stwierdzenia lub uzasadnionego przypuszczenia, że pojazd:
+                    a) zagraża bezpieczeństwu w szczególności po wypadku drogowym,
+                    w którym zostały uszkodzone zasadnicze elementy nośne konstrukcji
+                    nadwozia, podwozia lub ramy,
+                    b) zagraża porządkowi ruchu,
+                    c) narusza wymagania ochrony środowiska;
+                    <br/>2) stwierdzenia, że pojazd nie został poddany badaniu technicznemu
+                    w wyznaczonym terminie lub termin badania nie został wyznaczony
+                    prawidłowo;
+                    <br/>3) stwierdzenia zniszczenia dowodu rejestracyjnego (pozwolenia czasowego)
+                    w stopniu powodującym jego nieczytelność;
+                    <br/>4) uzasadnionego podejrzenia podrobienia lub przerobienia dowodu rejestracyjnego
+                    (pozwolenia czasowego);
+                    <br/>5) stwierdzenia, że badanie techniczne zostało dokonane przez jednostkę do tego
+                    nieupoważnioną;
+                    <br/>6) nieokazania przez kierującego dokumentu potwierdzającego zawarcie umowy
+                    obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu
+                    lub dowodu opłacenia składki za to ubezpieczenie, jeżeli pojazd ten jest
+                    zarejestrowany w kraju, o którym mowa w art. 129 ust. 2 pkt 8 lit. c;
+                    <br/>7) uzasadnionego przypuszczenia, że dane w nim zawarte nie odpowiadają stanowi
+                    faktycznemu.
+                    <br/><br/>1aa. W stosunku do kierującego pojazdem, o którym mowa w art. 73 ust. 3,
+                    policjant, funkcjonariusz Straży Granicznej albo funkcjonariusz Służby
+                    Celno-Skarbowej zatrzyma dowód rejestracyjny (pozwolenie czasowe) w
+                    przypadkach, o których mowa w ust. 1a pkt 1–5 i 7. 1b. Zatrzymanie, o którym mowa w ust. 1, następuje przez wprowadzenie
+                    informacji o zatrzymaniu dowodu rejestracyjnego (pozwolenia czasowego) do
+                    centralnej ewidencji pojazdów.
+                    <br/><br/>1c. Zatrzymanie, o którym mowa w ust. 1a i 1aa, następuje przez zatrzymanie
+                    okazanego dokumentu.
+                    <br/><br/>2. W razie zatrzymania dowodu rejestracyjnego (pozwolenia czasowego)
+                    policjant, funkcjonariusz Straży Granicznej albo funkcjonariusz Służby Celno-
+                    Skarbowej wydaje kierowcy pokwitowanie. Może on zezwolić na używanie pojazdu
+                    przez czas nieprzekraczający 7 dni, określając warunki tego używania w
+                    pokwitowaniu. Zezwolenie nie może być wydane w przypadkach, o których mowa
+                    w ust. 1 pkt 1 lit. a i c, a także w ust. 1a pkt 1 lit. a i c oraz pkt 6.
+                    <br/><br/>3. (uchylony)
+                    <br/><br/>3a. Odpowiednie organy Policji, Straży Granicznej albo Krajowej Administracji
+                    Skarbowej zawiadomią właściwego dyrektora izby administracji skarbowej o fakcie
+                    zatrzymania dowodu rejestracyjnego w przypadku powzięcia uzasadnionego
+                    przypuszczenia, o którym mowa w ust. 1 pkt 4, w sytuacji gdy dotyczy to spełnienia
+                    przez pojazd wymagań technicznych określonych w przepisach ustawy z dnia
+                    11 marca 2004 r. o podatku od towarów i usług.
+                    <br/><br/>4. W przypadku określonym w ust. 1 pkt 1 oraz w przypadku stwierdzenia
+                    zniszczenia dowodu rejestracyjnego (pozwolenia czasowego) w stopniu
+                    powodującym jego nieczytelność lub uzasadnionego podejrzenia podrobienia lub
+                    przerobienia dowodu rejestracyjnego (pozwolenia czasowego), dowód rejestracyjny
+                    (pozwolenie czasowe) zatrzyma również jednostka upoważniona do przeprowadzania
+                    badań technicznych. Zatrzymany dokument przesyłany jest niezwłocznie organowi,
+                    który go wydał. Przepis ust. 2 stosuje się odpowiednio.
+                    <br/><br/>5. Zatrzymany dokument pojazdu zarejestrowanego za granicą, z wyjątkiem
+                    przypadków określonych w ust. 1a pkt 4 i 6, pozostawia się w jednostce Policji, Straży
+                    Granicznej albo Krajowej Administracji Skarbowej przez okres 7 dni. Po upływie tego
+                    terminu dokument przekazywany jest przedstawicielstwu państwa, w którym pojazd
+                    jest zarejestrowany.
+                    <br/><br/>5a. Zatrzymany dokument pojazdu, o którym mowa w art. 73 ust. 3, jest
+                    przesyłany niezwłocznie organowi, który go wydał. Zwrot zatrzymanego dokumentu
+                    następuje niezwłocznie po ustaniu przyczyny uzasadniającej jego zatrzymanie. 6. Po ustaniu przyczyny uzasadniającej zatrzymanie dowodu rejestracyjnego
+                    (pozwolenia czasowego) i przekazaniu informacji o ustaniu tej przyczyny oraz
+                    okazaniu pokwitowania, o którym mowa w art. 38 ust. 1 pkt 4b lit. b, przez posiadacza
+                    zatrzymanego dowodu rejestracyjnego (pozwolenia czasowego) organowi, który
+                    zatrzymał dowód rejestracyjny (pozwolenie czasowe), lub organowi, który go wydał,
+                    organ ten przekazuje do centralnej ewidencji pojazdów informację o zwrocie
+                    zatrzymanego dowodu rejestracyjnego (pozwolenia czasowego).
+                    <br/><br/>6a. Zwrotu zatrzymanego dowodu rejestracyjnego (pozwolenia czasowego)
+                    w przypadkach, o których mowa w ust. 1 pkt 1 i 2, może dokonać również jednostka
+                    upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania
+                    technicznego odpowiadającego przyczynie zatrzymania, a w przypadku
+                    nieprawidłowo wyznaczonego terminu badania technicznego – po jego ponownym
+                    ustaleniu, przez przekazanie do centralnej ewidencji pojazdów informacji o zwrocie.
+                    <br/><br/>7. W przypadku pojazdu zarejestrowanego za granicą uczestniczącego w ruchu
+                    na terytorium Rzeczypospolitej Polskiej, zwrot zatrzymanego dokumentu następuje
+                    niezwłocznie po ustaniu przyczyny uzasadniającej jego zatrzymanie, z zastrzeżeniem
+                    art. 133.
+                    <br/><br/>8. W przypadku, o którym mowa w ust. 4, zwrot zatrzymanego dokumentu
+                    następuje niezwłocznie po ustaniu przyczyny uzasadniającej jego zatrzymanie.
+                </p>
+            </div>
+            <div>
+                <a name="132"></a>
+                <p class="hyphenate"><strong>Art. 132a.</strong><br/> 1. Przepisy art. 132 ust. 1a pkt 1, 3, 4 i 7 stosuje się odpowiednio do
+                    profesjonalnego dowodu rejestracyjnego, o którym mowa w art. 80s ust. 1.
+                    <br/><br/>2. Policjant, funkcjonariusz Straży Granicznej albo funkcjonariusz Służby
+                    Celno-Skarbowej zatrzymuje również:
+                    <br/>1) profesjonalny dowód rejestracyjny – w przypadku korzystania z profesjonalnego
+                    dowodu rejestracyjnego przez osobę do tego nieuprawnioną;
+                    <br/>2) blankiet profesjonalnego dowodu rejestracyjnego – w przypadku wykonywania
+                    jazdy testowej z niewypełnionym blankietem profesjonalnego dowodu
+                    rejestracyjnego.
+                    <br/><br/>3. W przypadku zatrzymania profesjonalnego dowodu rejestracyjnego policjant,
+                    funkcjonariusz Straży Granicznej albo funkcjonariusz Służby Celno-Skarbowej
+                    wydaje pokwitowanie. Może on zezwolić na dalsze używanie pojazdu przez okres
+                    24 godzin, określając warunki tego używania w pokwitowaniu. Zezwolenie nie może być wydane w przypadkach, o których mowa w ust. 2, a także
+                    w art. 132 ust. 1 pkt 1 lit. a i c.
+                    <br/><br/>4. Odpowiedni organ Policji, Straży Granicznej albo Krajowej Administracji
+                    Skarbowej przesyła niezwłocznie zatrzymany profesjonalny dowód rejestracyjny lub
+                    zatrzymany blankiet profesjonalnego dowodu rejestracyjnego staroście, który je
+                    wydał.
+                </p>
+            </div>
+            <div>
+                <a name="133"></a>
+                <p class="hyphenate"><strong>Art. 133.</strong><br/> 1. W przypadku określonym w art. 132 ust. 1a pkt 6 odpowiedni organ
+                    Policji, Straży Granicznej albo Krajowej Administracji Skarbowej zwraca zatrzymany
+                    dokument po przedstawieniu dokumentu potwierdzającego zawarcie umowy
+                    obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub
+                    dowodu opłacenia składki za to ubezpieczenie.
+                    <br/><br/>2. Jeżeli z przedstawionego dokumentu potwierdzającego zawarcie umowy
+                    obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu
+                    wynika, że przed zatrzymaniem dowodu rejestracyjnego umowa ta nie była zawarta,
+                    warunkiem zwrotu zatrzymanego dokumentu jest dodatkowo wniesienie opłaty za
+                    niespełnienie obowiązku zawarcia umowy ubezpieczenia określonej w odrębnych
+                    przepisach.
+                </p>
+            </div>
+            <div>
+                <a name="134"></a>
+                <p class="hyphenate"><strong>Art. 134.</strong><br/> W stosunku do pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej oraz
+                    innych pojazdów kierowanych przez żołnierzy pełniących czynną służbę wojskową
+                    uprawnienia i obowiązki policjantów określone w art. 132 ust. 1–2 i 5–7, art. 132a
+                    oraz w art. 133 wykonują również żołnierze Żandarmerii Wojskowej.
+                </p>
+            </div>
+            <div>
+                <a name="134"></a>
+                <p class="hyphenate"><strong>Art. 134a.</strong><br/> W stosunku do pojazdów wykonujących przewóz drogowy
+                    w rozumieniu ustawy z dnia 6 września 2001 r. o transporcie drogowym, a także
+                    w przypadku kontroli, o której mowa w art. 129a ust. 1 pkt 2–4, uprawnienia
+                    i obowiązki policjantów oraz organów Policji określone w art. 132 ust. 1–2 i 5–7, art.
+                    132a oraz w art. 133 wykonują również odpowiednio inspektorzy Inspekcji
+                    Transportu Drogowego oraz organy tej inspekcji.
+                </p>
+            </div>
+        </div>
+        <div class="popups">
+        6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/pl/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Powrót do pytań"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Przepisy ruchu drogowego"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 20"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Kodeks drogowy - Część 20 | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Kodeks drogowy - Część 20"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

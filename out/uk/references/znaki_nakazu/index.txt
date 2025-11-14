@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:I[13342,["/_next/static/chunks/b726ee2e8723a660.js"],"AppDownloadBannerWrapper"]
+3:I[20403,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+4:I[55103,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"default"]
+7:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"ViewportBoundary"]
+c:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"MetadataBoundary"]
+e:I[74190,[],"default"]
+:HL["/_next/static/chunks/11994fa874c2f9f2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SYaHkCXjnDtPpqb4OqRg1","c":["","uk","references","znaki_nakazu",""],"q":"","i":false,"f":[[["",{"children":[["locale","uk","d"],{"children":["references",{"children":[["page","znaki_nakazu","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11994fa874c2f9f2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b726ee2e8723a660.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6469685187"}],["$","meta",null,{"name":"google-play-app","content":"app-id=com.ski.prawojazdy.prawojazdy"}]]}],["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/5a13e0faa815e1d8.js","async":true,"nonce":"$undefined"}]],"$L5"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[37194,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],"GlobalHeader"]
+10:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$Lf",null,{"locale":"uk"}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-950 mt-auto","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row items-center justify-between gap-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/uk/terms","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Умови використання"}],["$","span",null,{"className":"text-zinc-300 dark:text-zinc-700","children":"•"}],["$","$L10",null,{"href":"/uk/privacy","className":"text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors","children":"Політика конфіденційності"}]]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":"© 2025 Водійські права. Всі права захищені."}]]}]}]}]]}]
+11:T2308,
+            <h2 style="margin:0"><span class="small-caps">Znaki nakazu</span></h2>
+            <p class="hyphenate"><a name="35"></a><strong>§ 35.</strong></p>
+            <p class="hyphenate"><a name="35.1"></a>1. Znaki:
+
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-1.png"/>
+                <p style="margin-bottom:30px">1) C-1 „nakaz jazdy w prawo przed znakiem”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-2.png"/>
+                <p style="margin-bottom:30px">2) C-2 „nakaz jazdy w prawo za znakiem”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-3.png"/>
+                <p style="margin-bottom:30px">3) C-3 „nakaz jazdy w lewo przed znakiem”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-4.png"/>
+                <p style="margin-bottom:30px">4) C-4 „nakaz jazdy w lewo za znakiem”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-5.png"/>
+                <p style="margin-bottom:30px">5) C-5 „nakaz jazdy prosto”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-6.png"/>
+                <p style="margin-bottom:30px">6) C-6 „nakaz jazdy prosto lub w prawo”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-7.png"/>
+                <p style="margin-bottom:30px">7) C-7 „nakaz jazdy prosto lub w lewo”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-8.png"/>
+                <p style="margin-bottom:30px">8) C-8 „nakaz jazdy w prawo lub w lewo”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-9.png"/>
+                <p style="margin-bottom:30px">9) C-9 „nakaz jazdy z prawej strony znaku”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-10.png"/>
+                <p style="margin-bottom:30px">10) C-10 „nakaz jazdy z lewej strony znaku”</p>
+            </div>
+            <div align="center" class="znak_first"><img src="/references/image/znak_c-11.png"/>
+                <p style="margin-bottom:30px">11) C-11 „nakaz jazdy z prawej lub lewej strony znaku”</p>
+            </div>
+            <p>Zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi drogi (jezdni) lub na samej jezdni.</p>
+            <p class="hyphenate"><a name="35.2"></a>2. Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy.</p>
+            <p class="hyphenate"><a name="36"></a><strong>§ 36.</strong></p>
+            <p class="hyphenate"><a name="36.1"></a>1. Znak C-12 „ruch okrężny” oznacza, że na skrzyżowaniu ruch odbywa się dookoła wyspy lub placu w kierunku wskazanym na znaku.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_c-12.png"/>
+                <div>C-12</div>
+            </div>
+            <p class="hyphenate"><a name="36.2"></a>2. Znak C-12 występujący łącznie ze znakiem A-7 oznacza pierwszeństwo kierującego znajdującego się na skrzyżowaniu przed kierującym wjeżdżającym (wchodzącym) na to skrzyżowanie.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_c-12.png"/>
+                <div>C-12</div>
+            </div>
+            <p class="hyphenate"><a name="37"></a><strong>§ 37.</strong></p>
+            <p class="hyphenate"><a name="37.1"></a>1. Znak C-13 „droga dla rowerów” oznacza drogę przeznaczoną dla kierujących rowerami jednośladowymi, którzy są obowiązani do korzystania z tej drogi.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_c-13.png"/>
+                <div>C-13</div>
+            </div>
+            <p class="hyphenate"><a name="37.2"></a>2. Znak C-13a „koniec drogi dla rowerów” oznacza koniec drogi przeznaczonej dla kierujących rowerami jednośladowymi.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_c-13a.png"/>
+                <div>C-13a</div>
+            </div>
+            <p class="hyphenate"><a name="38"></a><strong>§ 38.</strong></p>
+            <p class="hyphenate"><a name="38.1"></a>1. Znak C-14 „prędkość minimalna” oznacza, że kierujący, przy zachowaniu ograniczeń prędkości wynikających z przepisów szczegółowych, jest obowiązany jechać z prędkością nie mniejszą niż
+                określona na znaku liczbą kilometrów na godzinę, chyba że warunki ruchu lub jego bezpieczeństwo wymagają zmniejszenia prędkości.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_c-14.png"/>
+                <div>C-14</div>
+            </div>
+            <p class="hyphenate"><a name="38.2"></a>2. Znak C-15 „koniec minimalnej prędkości” oznacza miejsce, w którym prędkość minimalna określona znakiem C-14 przestaje obowiązywać.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_c-15.png"/>
+                <div>C-15</div>
+            </div>
+            <p class="hyphenate"><a name="39"></a><strong>§ 39.</strong></p>
+            <p class="hyphenate"><a name="39.1"></a>1. Znak C-16 „droga dla pieszych” oznacza drogę lub jej część przeznaczoną dla pieszych, którzy są obowiązani z niej korzystać.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_c-16.png"/>
+                <div>C-16</div>
+            </div>
+            <p class="hyphenate"><a name="39.2"></a>2. Znak C-16a „koniec drogi dla pieszych” oznacza koniec drogi przeznaczonej dla pieszych.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_c-16a.png"/>
+                <div>C-16a</div>
+            </div>
+            <p class="hyphenate"><a name="40"></a><strong>§ 40.</strong></p>
+            <p class="hyphenate"><a name="40.1"></a>1. Umieszczone na jednej tarczy symbole znaków C-13 i C-16 oznaczają, że droga jest przeznaczona dla pieszych i kierujących rowerami jednośladowymi; ruch pieszych i rowerzystów odbywa się:
+                <br/>1) na całej powierzchni, jeżeli symbole oddzielone są kreską poziomą,
+                <br/>2) odpowiednio po stronach drogi wskazanych na znaku, jeżeli symbole oddzielone są kreską pionową.
+            </p>
+            <p class="hyphenate"><a name="40.2"></a>2. Przepisy ust. 1 oraz § 37 ust. 2 i § 39 ust. 2 stosuje się odpowiednio dla oznaczania końca drogi przeznaczonej dla pieszych i kierujących rowerami jednośladowymi.</p>
+            <p class="hyphenate"><a name="41"></a><strong>§ 41.</strong></p>
+            <p class="hyphenate"> Znak C-17 ,,nakazany kierunek jazdy dla pojazdów z towarami niebezpiecznymi" oznacza obowiązujący, wskazany znakami C-2, C-4, C-5, C-6, C-7 lub C-8, kierunek jazdy na skrzyżowaniu pojazdów przewożących towary
+                niebezpieczne. Umieszczona pod znakiem tabliczka T-31 lub tabliczka z odpowiednim napisem wskazuje, że nakazany kierunek jazdy dotyczy pojazdów przewożących tylko określone klasy lub grupy towarów
+                niebezpiecznych lub określonego sposobu przewozu tych towarów.
+
+            </p>
+            <p class="hyphenate"><a name="42"></a><strong>§ 42.</strong></p>
+            <p class="hyphenate"><a name="42.1"></a>1. Znak C-18 „nakaz używania łańcuchów przeciwpoślizgowych” oznacza, że na drodze, na której znak został umieszczony, kierujący pojazdem silnikowym jest obowiązany stosować łańcuchy
+                przeciwpoślizgowe na co najmniej dwóch kołach napędowych;</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_c-18.png"/>
+                <div>C-18</div>
+            </div>
+            <p class="hyphenate"><a name="42.2"></a>2. Znak C-19 „koniec nakazu używania łańcuchów przeciwpoślizgowych” oznacza miejsce, w którym nakaz określony znakiem C-18 przestaje obowiązywać.</p>
+            <div align="center" class="znak" style="margin-top:15px;margin-bottom:25px;"><img src="/references/image/znak_c-19.png"/>
+                <div>C-19</div>
+            </div>
+            </p>6:["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L10",null,{"href":"/uk/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Повернутися до питань"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Правила дорожнього руху"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Znaki nakazu"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$11"}}]}]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[18024,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"IconMark"]
+d:[["$","title","0",{"children":"Znaki nakazu | Polish Driving License Test"}],["$","meta","1",{"name":"description","content":"Traffic regulations reference: Znaki nakazu"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.3fcdc502.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L12","3",{}]]
+9:null

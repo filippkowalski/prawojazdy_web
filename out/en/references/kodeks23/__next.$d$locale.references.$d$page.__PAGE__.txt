@@ -1,0 +1,189 @@
+1:"$Sreact.fragment"
+2:I[81034,["/_next/static/chunks/b726ee2e8723a660.js","/_next/static/chunks/5a13e0faa815e1d8.js"],""]
+5:I[78277,["/_next/static/chunks/218607fc0ad400c4.js","/_next/static/chunks/e2b9a735f451379f.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T3052,
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140b.</strong><br/> 1. Tworzy się Krajową Radę Bezpieczeństwa Ruchu Drogowego,
+                    zwaną dalej „Krajową Radą”.
+                    <br/><br/>2. Krajowa Rada działa przy ministrze właściwym do spraw transportu jako
+                    międzyresortowy organ pomocniczy Rady Ministrów w sprawach bezpieczeństwa
+                    ruchu drogowego.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140c.</strong><br/> 1. Krajowa Rada określa kierunki i koordynuje działania administracji
+                    rządowej w sprawach bezpieczeństwa ruchu drogowego.
+                    <br/><br/>2. Do zadań Krajowej Rady w zakresie poprawy bezpieczeństwa ruchu
+                    drogowego należy w szczególności:
+                    <br/>1) proponowanie kierunków polityki państwa;
+                    <br/>2) opracowywanie programów poprawy bezpieczeństwa ruchu drogowego
+                    w oparciu o propozycje przedstawiane przez właściwych ministrów i ocena ich
+                    realizacji;
+                    <br/>3) inicjowanie badań naukowych;
+                    <br/>4) inicjowanie i opiniowanie projektów aktów prawnych oraz umów
+                    międzynarodowych;
+                    <br/>5) inicjowanie kształcenia kadr administracji publicznej;
+                    <br/>6) inicjowanie współpracy zagranicznej;
+                    <br/>7) współpraca z właściwymi organizacjami społecznymi i instytucjami
+                    pozarządowymi;
+                    <br/>8) inicjowanie działalności edukacyjno-informacyjnej;
+                    <br/>9) analizowanie i ocena podejmowanych działań;
+                    <br/>10) ustalanie, co najmniej raz na trzy lata, średniego kosztu społeczno-
+                    -ekonomicznego wypadku drogowego, w którym jest zabity, oraz średniego
+                    kosztu społeczno-ekonomicznego wypadku drogowego, w którym osoba doznała
+                    obrażeń ciała w rozumieniu art. 156 § 1 albo art. 157 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517),
+                    powstałego w transeuropejskiej sieci drogowej.
+                    <br/><br/>3. Przy ustalaniu średniego kosztu społeczno-ekonomicznego wypadków
+                    drogowych, o których mowa w ust. 2 pkt 10, uwzględnia się:
+                    <br/>1) utratę produktywności zabitych i rannych w wypadkach drogowych;
+                    <br/>2) koszty leczenia i rehabilitacji poszkodowanych w wypadkach drogowych;
+                    <br/>3) koszty administracyjne wypadków drogowych;
+                    <br/>4) straty materialne powstałe w wyniku wypadków drogowych.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140d.</strong><br/> W skład Krajowej Rady wchodzą:
+                    <br/>1) Przewodniczący – minister właściwy do spraw transportu;
+                    <br/>2) zastępcy Przewodniczącego:
+                    a) sekretarz lub podsekretarz stanu w ministerstwie właściwym do spraw
+                    wewnętrznych,
+                    b) sekretarz lub podsekretarz stanu w ministerstwie właściwym do spraw
+                    transportu;
+                    <br/>3) sekretarz Krajowej Rady wskazany przez ministra właściwego do spraw
+                    transportu;
+                    <br/>4) członkowie Krajowej Rady wskazani przez: Prezesa Rady Ministrów spośród
+                    wojewodów, Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz
+                    ministrów właściwych do spraw: administracji publicznej, budżetu, finansów
+                    publicznych, gospodarki, budownictwa, planowania i zagospodarowania
+                    przestrzennego oraz mieszkalnictwa, klimatu, oświaty i wychowania,
+                    środowiska, transportu, wewnętrznych, pracy oraz Komendanta Głównego
+                    Policji, Komendanta Głównego Straży Pożarnej, Generalnego Dyrektora Dróg
+                    Krajowych i Autostrad.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140e.</strong><br/> 1. Przewodniczący Krajowej Rady kieruje jej pracami i reprezentuje
+                    ją na zewnątrz.
+                    <br/><br/>2. Przewodniczący Krajowej Rady otrzymuje od ministrów i innych organów,
+                    których przedstawiciele są członkami Krajowej Rady:
+                    <br/>1) sprawozdania i informacje dotyczące realizacji zadań określonych w programach
+                    bezpieczeństwa ruchu drogowego; 2) informacje dotyczące stanu bezpieczeństwa ruchu drogowego, w szczególności
+                    informacje umożliwiające ustalanie średniego kosztu społeczno-ekonomicznego
+                    wypadków, o których mowa w art. 140c ust. 2 pkt 10.
+                    <br/><br/>3. Przewodniczący Krajowej Rady składa Radzie Ministrów corocznie, do końca
+                    marca, sprawozdanie dotyczące stanu bezpieczeństwa ruchu drogowego oraz działań
+                    realizowanych w tym zakresie.
+                    <br/><br/>4. Prezes Rady Ministrów składa Sejmowi, Senatowi i Prezydentowi corocznie,
+                    do końca kwietnia, sprawozdanie dotyczące stanu bezpieczeństwa ruchu drogowego
+                    oraz działań realizowanych w tym zakresie.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140f.</strong><br/> 1. Krajowa Rada wykonuje swoje zadania przy pomocy Sekretariatu
+                    Krajowej Rady.
+                    <br/><br/>2. Sekretariat Krajowej Rady działa jako wewnętrzna jednostka organizacyjna
+                    ministra właściwego do spraw transportu.
+                    <br/><br/>3. Szczegółową organizację i tryb prac Krajowej Rady określa regulamin
+                    przyjęty w drodze uchwały na pierwszym posiedzeniu Krajowej Rady.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140g.</strong><br/> 1. Tworzy się Wojewódzką Radę Bezpieczeństwa Ruchu
+                    Drogowego, zwaną dalej „Wojewódzką Radą”.
+                    <br/><br/>2. Wojewódzka Rada działa przy marszałku województwa jako wojewódzki
+                    zespół koordynacyjny w sprawach bezpieczeństwa ruchu drogowego.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140h.</strong><br/> 1. Wojewódzka Rada koordynuje i określa kierunki działań
+                    administracji publicznej w sprawach bezpieczeństwa ruchu drogowego.
+                    <br/><br/>2. Do zadań Wojewódzkiej Rady w zakresie, o którym mowa w ust. 1, należy
+                    w szczególności:
+                    <br/>1) opracowywanie regionalnych programów poprawy bezpieczeństwa ruchu
+                    drogowego;
+                    <br/>2) opiniowanie projektów aktów prawa miejscowego w zakresie bezpieczeństwa
+                    ruchu drogowego;
+                    <br/>3) zatwierdzanie planu wydatków wojewódzkich ośrodków ruchu drogowego
+                    w części przeznaczonej na poprawę bezpieczeństwa ruchu drogowego;
+                    <br/>4) inicjowanie kształcenia kadr administracji publicznej i szkolenie w zakresie
+                    bezpieczeństwa ruchu drogowego;
+                    <br/>5) inicjowanie współpracy międzywojewódzkiej; 6) współpraca z właściwymi organizacjami społecznymi i instytucjami
+                    pozarządowymi;
+                    <br/>7) inicjowanie działalności edukacyjno-informacyjnej;
+                    <br/>8) analizowanie i ocena podejmowanych działań.
+                    <br/><br/>3. Szczegółową organizację i tryb pracy Wojewódzkiej Rady określa regulamin
+                    przyjęty przez radę w drodze uchwały.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140i.</strong><br/> W skład Wojewódzkiej Rady wchodzą:
+                    <br/>1) przewodniczący – marszałek województwa;
+                    <br/>2) zastępcy przewodniczącego:
+                    a) wojewoda,
+                    b) wojewódzki komendant Policji;
+                    <br/>3) sekretarz – wskazany przez marszałka województwa;
+                    <br/>4) członkowie Wojewódzkiej Rady:
+                    a) wojewódzki inspektor transportu drogowego,
+                    b) dyrektor właściwego terenowo oddziału Generalnej Dyrekcji Dróg
+                    Krajowych i Autostrad,
+                    c) przedstawiciel wojewody,
+                    d) przedstawiciel wojewódzkiego sztabu wojskowego,
+                    e) przedstawiciel kuratora oświaty,
+                    f) przedstawiciel zarządu województwa,
+                    g) przedstawiciel zarządów powiatu,
+                    h) przedstawiciel wójtów, burmistrzów lub prezydentów miast,
+                    i) przedstawiciel komendanta wojewódzkiego Policji,
+                    j) przedstawiciel komendanta wojewódzkiego Państwowej Straży Pożarnej,
+                    k) przedstawiciel zarządu dróg wojewódzkich,
+                    l) przedstawiciel wojewódzkich ośrodków ruchu drogowego,
+                    m) przedstawiciel zarządów dróg powiatowych,
+                    n) osoby wskazane przez marszałka województwa w szczególności
+                    reprezentujące działające na terenie województwa organizacje
+                    pozarządowe, których celem statutowym jest problematyka bezpieczeństwa
+                    ruchu drogowego, przy czym marszałek województwa może wskazać nie
+                    więcej niż 12 osób. </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140j.</strong><br/> 1. Przewodniczący Wojewódzkiej Rady kieruje jej pracami
+                    i reprezentuje ją na zewnątrz.
+                    <br/><br/>2. Przewodniczący Wojewódzkiej Rady otrzymuje od organów, których
+                    przedstawiciele są członkami Wojewódzkiej Rady:
+                    <br/>1) sprawozdania i informacje dotyczące realizacji zadań określonych w programach
+                    bezpieczeństwa ruchu drogowego;
+                    <br/>2) informacje dotyczące stanu bezpieczeństwa ruchu drogowego.
+                    <br/><br/>3. Przewodniczący Wojewódzkiej Rady składa Przewodniczącemu Krajowej
+                    Rady corocznie, do końca stycznia, sprawozdanie dotyczące stanu bezpieczeństwa
+                    ruchu drogowego na terenie województwa oraz działań realizowanych w tym zakresie.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140k.</strong><br/> Obsługę Wojewódzkiej Rady zapewnia wyznaczony przez marszałka
+                    województwa wojewódzki ośrodek ruchu drogowego.
+                </p>
+            </div>
+            <div>
+                <a name="140"></a>
+                <p class="hyphenate"><strong>Art. 140l.</strong><br/> W pracach Krajowej Rady i Wojewódzkiej Rady mogą brać udział
+                    z głosem doradczym:
+                    <br/>1) przedstawiciele organizacji pozarządowych, których statutowy zakres
+                    działalności obejmuje zagadnienia bezpieczeństwa ruchu drogowego;
+                    <br/>2) pracownicy naukowi wyższych uczelni lub jednostek badawczo-rozwojowych;
+                    <br/>3) niezależni eksperci.
+                </p>
+            </div>
+        </div>
+        <div class="popups">
+        0:{"buildId":"SYaHkCXjnDtPpqb4OqRg1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-50 dark:bg-zinc-950","children":[["$","div",null,{"className":"border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-black","children":["$","div",null,{"className":"container mx-auto px-4 py-6","children":[["$","$L2",null,{"href":"/en/questions","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 mb-2 inline-block","children":["← ","Back to questions"]}],["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500 mb-1","children":"Traffic Regulations"}],["$","h1",null,{"className":"text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-zinc-50","children":"Kodeks drogowy - Część 23"}]]}]}],["$","div",null,{"className":"container mx-auto px-4 py-8 max-w-4xl","children":["$","div",null,{"className":"bg-white dark:bg-zinc-900 rounded-xl p-8 border border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:mb-4 [&_h2]:mt-6 [&_p]:mb-3 [&_p]:leading-relaxed [&_strong]:font-semibold [&_strong]:text-zinc-900 dark:[&_strong]:text-zinc-50 [&_a]:text-blue-600 [&_a]:underline dark:[&_a]:text-blue-400 [&_img]:mx-auto [&_img]:my-4 [&_.znak]:text-center [&_.znak]:my-6 [&_.znak_first]:text-center [&_.znak_first]:my-6","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null
