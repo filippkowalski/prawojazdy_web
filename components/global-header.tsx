@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { Locale } from '@/lib/types';
 import { LicenseCategorySelector } from './license-category-selector';
@@ -65,7 +66,13 @@ export function GlobalHeader({ locale }: GlobalHeaderProps) {
             href={`/${locale}`}
             className="flex items-center gap-2 text-lg font-bold text-zinc-900 dark:text-zinc-50 hover:text-zinc-700 dark:hover:text-zinc-300 transition-colors"
           >
-            <span className="text-2xl">🚗</span>
+            <Image
+              src="/app-icon-192.png"
+              alt="Logo"
+              width={32}
+              height={32}
+              className="rounded-lg"
+            />
             <span className="hidden sm:inline">
               {locale === 'pl' ? 'Prawo Jazdy' : locale === 'de' ? 'Führerschein' : locale === 'uk' ? 'Водійські права' : 'Driving License'}
             </span>
